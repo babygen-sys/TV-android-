@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>K-168 V1.0 M3U</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;max-width:880px;margin:40px auto;padding:0 16px;line-height:1.6}
+    code,pre{background:#f6f8fa;padding:2px 6px;border-radius:6px}
+    a{word-break:break-all}
+  </style>
+</head>
+<body>
+  <h1>K-168 V1.0 M3U</h1>
+  <p>Direct link to the playlist file (within this site):</p>
+  <p><a href="./playlist/K-168_V1.0.m3u">./playlist/K-168_V1.0.m3u</a></p>
+
+  <h2>How to use</h2>
+  <ol>
+    <li>Copy the link above and paste into your IPTV player (e.g., VLC, TiviMate, IPTV Pro).</li>
+    <li>If you are viewing this via GitHub Pages, the link is already HTTPS and compatible with most players.</li>
+  </ol>
+
+  <h2>Google Drive Direct Link helper</h2>
+  <p>Paste a Drive File ID below to generate a direct link.</p>
+  <input id="fid" placeholder="Enter Google Drive FILE_ID" style="width:100%;padding:8px;font-size:16px">
+  <button onclick="make()">Make Link</button>
+  <pre id="out"></pre>
+  <script>
+    function make(){
+      const id=document.getElementById('fid').value.trim();
+      const a=`https://drive.google.com/uc?export=download&id=${id}`;
+      const b=`https://drive.usercontent.google.com/download?id=${id}`;
+      document.getElementById('out').textContent = `uc: ${a}\nusercontent: ${b}`;
+    }
+  </script>
+</body>
+</html>
