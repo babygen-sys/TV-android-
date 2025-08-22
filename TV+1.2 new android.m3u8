@@ -1,0 +1,1468 @@
+#EXTM3U
+#EXTINF:-1 group-title="Sports(กีฬา)",Liverpool TV (LFC TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://ddy6new.newkso.ru/ddy6/premium826/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",LFCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/LFCTV_HD/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",MUTV 
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium377/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Real Madrid TV 
+#EXTVLCOPT:network-caching=1000
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", MVTV ท้องถิ่นไทย (75)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", NBT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", TPBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/fffd/muruugvl/muruugvl.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", ALTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/fffc/gvcvmuu/gvcvmuu.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", 5HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", Boomerang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", T SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", MVMall Trend
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/fdfe/mvmalltrend/mvmalltrend.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", MVMall Plus (51)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/fded/mvmallplus/mvmallplus.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", TPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffec/murumuu/murumuu.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", MVMall Healthy (58)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/fdff/mvmallhelth/mvmallhelth.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", MVMall DD (59)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", MVMall Home (69)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffdf/mvmallhome/mvmallhome.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", MVMall Living (26)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/fddc/mvmallliving/mvmallliving.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", TNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", MVMall Family (40)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffdb/mvmallfamily/mvmallfamily.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", JKN18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", ไทบ้านทีวี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", Nation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", Workpoint
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", True24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", GMM25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", MVTV ท้องถิ่นไทย (75)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", ช่อง 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", Boom Cartoon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", MONO 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", MCOT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", Thairath
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", 3HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", Amarin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", 7HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", PPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", MVLAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", MVM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", France 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", NHK WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", CCTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", DLTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", DLTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", DLTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", DLTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", DLTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", DLTV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", DLTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", DLTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", DLTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", DLTV10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", DLTV11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", DLTV12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", DLTV13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", DLTV14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", DLTV15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+#EXTINF:-1 group-title="Thai TV(ทีวีไทย)", IPTV-THAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
+#EXTINF:-1 group-title="Cartoon(การ์ตูน)", AMAZING
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://49.0.64.96:8007/AMAZING
+#EXTINF:-1 group-title="Cartoon(การ์ตูน)",Boomerang
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+#EXTINF:-1 group-title="Cartoon(การ์ตูน)",Boom Ainme
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
+#EXTINF:-1 group-title="Cartoon(การ์ตูน)",Cartoonetwork
+http://45.144.165.187:8080/playid168/12345/55
+#EXTINF:-1 group-title="Cartoon(การ์ตูน)",Nick Jr
+http://45.144.165.187:8080/playid168/12345/56
+#EXTINF:-1 group-title="Cartoon(การ์ตูน)",Nickelodeon
+http://45.144.165.187:8080/playid168/12345/57
+#EXTINF:-1 group-title="Cartoon(การ์ตูน)",cartoonito
+http://45.144.165.187:8080/playid168/12345/60
+#EXTINF:-1 group-title="Cartoon(การ์ตูน)",KIDS TV
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment(บันเทิง)",PLAYID HITS 2K
+http://45.144.165.187:8080/playid168/12345/15675
+#EXTINF:-1 group-title="Entertainment(บันเทิง)",Premium Blockbuster
+http://45.144.165.187:8080/playid168/12345/22882
+#EXTINF:-1 group-title="Entertainment(บันเทิง)",Channel8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:-1 group-title="Entertainment(บันเทิง)",Cool Channel
+https://live-iptv.cool-channel.com/cool/live-transmux.m3u8
+#EXTINF:-1 group-title="Entertainment(บันเทิง)",HBO TH
+http://45.144.165.187:8080/playid168/12345/77
+#EXTINF:-1 group-title="Entertainment(บันเทิง)",HBOHITS 
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/3018
+#EXTINF:-1 group-title="Entertainment(บันเทิง)",HBOSIG
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/3660
+#EXTINF:-1 group-title="Entertainment(บันเทิง)",HBO Fiamy
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/5649
+#EXTINF:-1 group-title="Entertainment(บันเทิง)",CINEMAX
+http://45.144.165.187:8080/playid168/12345/78
+#EXTINF:-1 group-title="Entertainment(บันเทิง)",True Film HD2
+http://45.144.165.187:8080/playid168/12345/79
+#EXTINF:-1 group-title="Entertainment(บันเทิง)",True Asian More
+http://45.144.165.187:8080/playid168/12345/80
+#EXTINF:-1 group-title="Entertainment(บันเทิง)",TRUE FILM ASIAN
+http://45.144.165.187:8080/playid168/12345/70
+#EXTINF:-1 group-title="Entertainment(บันเทิง)",TRUE THAI FILM 
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/64
+#EXTINF:-1 group-title="Entertainment(บันเทิง)",Film HD
+http://45.144.165.187:8080/playid168/12345/67
+#EXTINF:-1 group-title="Entertainment(บันเทิง)",Movie Hits
+http://45.144.165.187:8080/playid168/12345/66
+#EXTINF:-1 group-title="Documentary(สารคดี)",AFN
+http://45.144.165.187:8080/playid168/12345/41
+#EXTINF:-1 group-title="Documentary(สารคดี)",Animal
+http://49.0.64.96:8007/Animal
+#EXTINF:-1 group-title="Documentary(สารคดี)",WSCI
+http://49.0.64.96:8007/WSCI
+#EXTINF:-1 group-title="Documentary(สารคดี)",Discovery
+http://45.144.165.187:8080/playid168/12345/47
+#EXTINF:-1 group-title="Documentary(สารคดี)",Discovery Asia
+http://45.144.165.187:8080/playid168/12345/44
+#EXTINF:-1 group-title="Documentary(สารคดี)",History TH
+http://45.144.165.187:8080/playid168/12345/48
+#EXTINF:-1 group-title="Documentary(สารคดี)",HGTV
+https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+#EXTINF:-1 group-title="Documentary(สารคดี)",Lifetime
+http://45.144.165.187:8080/playid168/12345/126
+#EXTINF:-1 group-title="Documentary(สารคดี)",Animal Planet
+http://45.144.165.187:8080/playid168/12345/83
+#EXTINF:-1 group-title="Documentary(สารคดี)",TRUE_EXPLORE_Life
+http://45.144.165.187:8080/playid168/12345/52
+#EXTINF:-1 group-title="Documentary(สารคดี)",TRUE_EXPLORE_SCI
+http://45.144.165.187:8080/playid168/12345/51
+#EXTINF:-1 group-title="Documentary(สารคดี)",True Explore Wild
+http://45.144.165.187:8080/playid168/12345/49
+#EXTINF:-1 group-title="Documentary(สารคดี)",BBC Lifestyles
+http://45.144.165.187:8080/playid168/12345/10554
+#EXTINF:-1 group-title="Documentary(สารคดี)",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w951390649_b384000_sleng.m3u8
+#EXTINF:-1 group-title="Documentary(สารคดี)",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 group-title="Documentary(สารคดี)",Fox Weather
+https://247wlive.foxweather.com/stream/index_1280x720.m3u8
+#EXTINF:-1 group-title="News(ข่าวต่างประเทศ)",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 group-title="News(ข่าวต่างประเทศ)",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="News(ข่าวต่างประเทศ)",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",ES: DAZN FORMULA 1 SD
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165257.ts
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sport 1 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118585.ts
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sport 2 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118586.ts
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sport 3 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://hls.sheepland.xyz/play/0/15?proxy=0
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sport 4 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://hls.sheepland.xyz/play/0/36?proxy=0
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sport 5 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/118589.ts
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sport 6 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://hls.sheepland.xyz/play/0/70?proxy=0
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sport 7 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://hls.sheepland.xyz/play/0/66?proxy=0
+#EXTINF:-1 group-title="Sports(กีฬา)",PGA Tour
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac630-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2b7359-0375-4f34-996b-4fb9429ead78
+#EXTINF:-1 group-title="Sports(กีฬา)",Golf Channel
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",ES: LIGA DE CAMPEONES SD
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165359.ts
+#EXTINF:-1 group-title="Sports(กีฬา)",ES: LIGA DE CAMPEONES 2 SD
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/282458.ts
+#EXTINF:-1 group-title="Sports(กีฬา)",Canal+ Sport 2 (1080i)
+#EXTVLCOPT:network-caching=1000
+http://78.130.250.2:8023/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",HorseTV 
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Polsat Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=14838&extension=ts&play_token=rZ559zOlnw
+#EXTINF:-1 group-title="Sports(กีฬา)",Polsat Sport 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=54165&extension=ts&play_token=DgdOW3zpRD
+#EXTINF:-1 group-title="Sports(กีฬา)",Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",PRIMA Sport 2
+#EXTVLCOPT:https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
+https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8%20
+#EXTINF:-1 group-title="Sports(กีฬา)",SPORT TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",  -  bein sports 1
+http://ktv.im:8080/0507102290a/0507102290a/49598
+#EXTINF:-1 group-title="Sports(กีฬา)",  -  bein sports 2
+http://ktv.im:8080/0507102290a/0507102290a/49599
+#EXTINF:-1 group-title="Sports(กีฬา)",  - Bein Sport Xtra
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sony Ten Sports 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sony Ten Sports 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sony Ten Sports 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sony Ten Sports 5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sony Ten Sports 4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Billiard TV 🇺🇸 🟤
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Billiard TV ² 🇺🇸 🟤
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Fishing TV
+https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",WIRED 2 FISH
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)", FISHING TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)", JUST FISHING
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
+#EXTINF:-1 group-title="Sports(กีฬา)", Rai Sport HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 group-title="Sports(กีฬา)",Strongman Champions League
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",WWE 1
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://tvmate.icu:8080/69NpyV/884735/11645
+#EXTINF:-1 group-title="Sports(กีฬา)",MMA
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",MMA Junkie
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Swerve Combat
+https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
+#EXTINF:-1 group-title="Sports(กีฬา)",MMA PFL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Sports(กีฬา)",UFC
+https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+#EXTINF:-1 group-title="Sports(กีฬา)",United Fight Alliance
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",FIFA+ (720p)
+#EXTVLCOPT:network-caching=1000
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Fox Sports 2 (720p)
+#EXTVLCOPT:network-caching=1000
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sport En France (1080p)
+#EXTVLCOPT:network-caching=1000
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",TSN2
+#EXTVLCOPT:network-caching=1000
+https://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",TSN3
+#EXTVLCOPT:network-caching=1000
+https://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",TSN5
+#EXTVLCOPT:network-caching=1000
+https://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",ON Football
+#EXTVLCOPT:network-caching=1000
+http://dvrfl05.bozztv.com/vch_vchannel11/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",NFL Channel
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
+#EXTINF:-1 group-title="Sports(กีฬา)",Red Bull TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",4Sport
+#EXTVLCOPT:network-caching=1000
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",ACCDN (1080p)
+#EXTVLCOPT:network-caching=1000
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",ACCN (720p)
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",DAZN Combat (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",ERT Sports 1 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
+#EXTINF:-1 group-title="Sports(กีฬา)",ERT Sports 2 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+#EXTINF:-1 group-title="Sports(กีฬา)",ESPN U (720p)
+#EXTVLCOPT:network-caching=1000
+https://fl3.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Horse TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Kozoom TV
+#EXTVLCOPT:network-caching=1000
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",KTV Sport Plus (1080p)
+#EXTVLCOPT:network-caching=1000
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sport TV 1
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/31/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",Sport TV 2
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/30/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",beIN Sports 1 - beIN Sports 1 - Th
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/8/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",beIN Sports 2 - beIN Sports 2 - Th
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/9/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",beIN Sports 3 - beIN Sports 3 - Th
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/10/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",SSC1
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/38/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",SSC 1 EXTRA
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/39/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",True Sport HD 2
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/17/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",True Sport HD 3
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/18/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",True Sports 5
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/20/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",True Sport 7
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/21/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",trueball thai 4
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/25/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",trueball thai 6
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/27/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",trueball thai 7
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/28/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",trueball thai 7
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/28/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",trueball thai 8
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/29/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",digi sport 1 /RO
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/32/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",ESPN 1 (NL)
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/33/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",ESPN 2 /NL
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/34/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",ESPN 3 /NL
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/35/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",SPOTV HD 1
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/36/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",SPOTV HD 2
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/37/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",SSC1
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/38/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",SSC 1 EXTRA
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/39/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",Resteam 1
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/61/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",Resteam3
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/63/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",Resteam9
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/69/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",Bein Sport 1 /fr
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/75/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",CBS Sports Networ
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/76/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",BG: Diema Sport 1
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/77/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",NBA TV
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/78/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",Prima sport 1
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/79/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",Sport TV 4
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/82/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",FOX Sports 2/US
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/85/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",Sport TV 3
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/86/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",Sport TV 6
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/87/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",ssc 2 extra
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/89/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",Sport TV 5
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/90/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",Fox Sports 1 HD USA
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/92/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",Digi Sport 2 /RO
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/93/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",tudn/usa
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/95/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",Astro Arena Bola
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/97/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",Astro Arena Bola 2
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/98/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",dazn
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/99/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",TNT Sports 1
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/100/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",TNT Sports 4
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/101/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",CH 1
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/40/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",CH 2
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/41/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",CH 3
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/42/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",CH 4
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/43/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",CH 5
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/44/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",CH 6
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/45/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",CH 7
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/46/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",CH 8
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/47/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",CH 9
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/48/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",CH 10
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/49/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",CH 11
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/50/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",CH 12
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/51/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",CH 13
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/52/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",CH 15
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/54/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",CH 16
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/55/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",CH 18
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/57/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",CH 19
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/58/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",CH 20
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://keela2.com/stream/59/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="Sports(กีฬา)",CH102
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://live.vpnhosted.com/Sky_Sports_F1_4K/index.m3u8?token=c9574df2497992dd116790fd6f449de0
+#EXTINF:-1 group-title="Sports(กีฬา)",CH103
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://live.vpnhosted.com/Astro_SuperSport_1_HD/index.m3u8?token=91e82ceb7073948acb9c275cbcabd08e
+#EXTINF:-1 group-title="Sports(กีฬา)",CH105
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://live.vpnhosted.com/Astro_SuperSport_2_HD/index.m3u8?token=2d68d031203f51b9c73072ae0e55a74d
+#EXTINF:-1 group-title="Sports(กีฬา)",CH106
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://live.vpnhosted.com/TSN_4K_UHD/tracks-a1/index.fmp4.m3u8?token=0b91a109a9615724e7e67b882eb3545d
+#EXTINF:-1 group-title="Sports(กีฬา)",CH110
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://live.vpnhosted.com/Astro_SuperSport_4_HD/index.m3u8?token=ae7bff25e8be6b3bdeeb2170005bfa1c
+#EXTINF:-1 group-title="Sports(กีฬา)",CH111
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://live.vpnhosted.com/Astro_Grandstand_HD/index.m3u8?token=031047661726d97f81a750d1285ec602
+#EXTINF:-1 group-title="Sports(กีฬา)",CH112
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://live.vpnhosted.com/Sky_sports_news_HD/index.m3u8?token=ccc50c8efeab4f9bc0eb3925d2b75efe
+#EXTINF:-1 group-title="Sports(กีฬา)",CH114
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://live.vpnhosted.com/Astro_Grandstand_HD/index.m3u8?token=031047661726d97f81a750d1285ec602
+#EXTINF:-1 group-title="Sports(กีฬา)",CH116
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://live.vpnhosted.com/Astro_SuperSport_4_HD/index.m3u8?token=ae7bff25e8be6b3bdeeb2170005bfa1c
+#EXTINF:-1 group-title="Sports(กีฬา)",Canal+ Sport Poland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://nfsnew.newkso.ru/nfs/premium48/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Canal+ Sport 2 Poland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://ddy6new.newkso.ru/ddy6/premium73/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",TNT Sports 1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",TNT Sports 2 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",TNT Sports 3 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",TNT Sports 4 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://ddy6new.newkso.ru/ddy6/premium455/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium456/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",DAZN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium457/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",DAZN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium458/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",DAZN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium459/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",PRIMA SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",PRIMA SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",PRIMA SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",PRIMA SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium124/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",ASTRO PREMIRE LEAGUE1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Astro_SuperSport_1_HD/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",ASTRO PREMIRE LEAGUE2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Astro_SuperSport_2_HD/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",ASTRO FOOTBALL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Astro_SuperSport_4_HD/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",ASTRO GRANSTAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Astro_Grandstand_HD/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",ASTRO BADMINTON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",ASTRO ARENA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",ASTRO ARENA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",ASTRO ARENA BOLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sports News HQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_news_HD/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SKY SPORT PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_premier_league_HD/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SKY SPORT ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_action_HD/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SKY SPORT MIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_Sports_Mix_HD/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SKY SPORT GOLF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_golf_HD/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SKY SPORT F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_F1_HD/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SKY SPORT FOOTBALL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_Football_HD/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SKY SPORT TENNIS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_tennis_HD/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SKY SPORT RACING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_Sports_Racing_HD/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SKY SPORT CRICKET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://live.vpnhosted.com/Sky_sports_cricket_HD/index.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sports Action UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium36/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sports Arena UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium36/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sports Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium65/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sports F1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium60/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sports Football UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium35/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sports Golf UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium70/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium38/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sports MIX UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://ddy6new.newkso.ru/ddy6/premium449/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sports News UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium366/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sports Racing UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium759/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sports Tennis UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium46/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sport 1 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium588/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sport 2 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium589/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sport 3 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium590/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sport 4 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium591/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sport 5 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium592/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sport 6 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium593/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sport 7 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium594/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sport 8 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium595/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sky Sport 9 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium596/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Cosmote Sport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium622/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Cosmote Sport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium623/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Cosmote Sport 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium624/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Cosmote Sport 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Cosmote Sport 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Cosmote Sport 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium627/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Cosmote Sport 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium628/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Cosmote Sport 8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium629/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Cosmote Sport 9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium630/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SuperSport Grandstand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium412/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SuperSport PSL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium413/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SuperSport Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://ddy6new.newkso.ru/ddy6/premium414/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SuperSport LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://ddy6new.newkso.ru/ddy6/premium415/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SuperSport Variety 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium416/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SuperSport Variety 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium417/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SuperSport Variety 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium417/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SuperSport Variety 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium419/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SuperSport Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium419/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SuperSport Rugby
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium421/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SuperSport Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium422/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SuperSport Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium423/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SuperSport Motorsport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium424/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SuperSport Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium56/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SuperSport Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium368/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",SuperSport MaXimo 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium572/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",beIN SPORTS Australia 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://ddy6new.newkso.ru/ddy6/premium491/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",beIN SPORTS Australia 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://ddy6new.newkso.ru/ddy6/premium492/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",beIN SPORTS Australia 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://ddy6new.newkso.ru/ddy6/premium493/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)", FIFA+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)", FIFA+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)", Top Fight
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/TOPFIGHT
+#EXTINF:-1 group-title="Sports(กีฬา)",GOLF Channel USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium318/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)", Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/TENNIS
+#EXTINF:-1 group-title="Sports(กีฬา)",Star Sports 1 IN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium267/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Star Sports Hindi IN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://ddy6new.newkso.ru/ddy6/premium268/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Nova Sport Bulgaria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium468/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Nova Sport Serbia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://ddy6new.newkso.ru/ddy6/premium582/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Nova Sports 1 Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium631/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Nova Sports 2 Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium632/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Nova Sports 3 Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium633/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Nova Sports 4 Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium634/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Nova Sports 5 Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium635/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Nova Sports 6 Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium636/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Nova Sports Premier League Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium599/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Nova Sports Start Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium637/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Nova Sports Prime Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium638/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Nova Sports News Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dokko1new.newkso.ru/dokko1/premium639/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Eleven Sports 1 Poland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium71/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Eleven Sports 2 Poland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium72/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Eleven Sports 3 Poland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://ddy6new.newkso.ru/ddy6/premium428/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Willow Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium346/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Willow XTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium598/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",WWE Network (Peacock)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium376/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sportsnet Ontario
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium406/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sportsnet World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium410/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sportsnet East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium408/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Sportsnet One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium411/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)", DAZN 1 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd
+#EXTINF:-1 group-title="Sports(กีฬา)", DAZN COMBAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
+#EXTINF:-1 group-title="Sports(กีฬา)", DAZN COMBAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)", DAZN FAST+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
+#EXTINF:-1 group-title="Sports(กีฬา)", DAZN FAST+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
+#EXTINF:-1 group-title="Sports(กีฬา)", DAZN PGA TOUR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-505/stream.mpd
+#EXTINF:-1 group-title="Sports(กีฬา)",ONE Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+#EXTINF:-1 group-title="Sports(กีฬา)",ONE Sports+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+#EXTINF:-1 group-title="Sports(กีฬา)",SPOTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+#EXTINF:-1 group-title="Sports(กีฬา)",SPOTV2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+#EXTINF:-1 group-title="Sports(กีฬา)",UNIFI Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 group-title="Sports(กีฬา)",NBA PHILIPPINES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd%20
+#EXTINF:-1 group-title="Sports(กีฬา)", MONOMAX 1
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/monomax1/playlist.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)", MONOMAX 1 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+http://103.114.203.129:8080/viptv/12345/18880
+#EXTINF:-1 group-title="Sports(กีฬา)", MONOMAX  1 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siam-1/chunks.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)", MONOMAX  1 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siam-1/chunks.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)", MONOMAX  2
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siam-2/chunks.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)", MONOMAX  3
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siam-3/chunks.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)", MONOMAX  4
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siam-4/chunks.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)", MONOMAX  5
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siam-5/chunks.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)", MONOMAX 6
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siam-6/chunks.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)", MONOMAX  7
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siam-7/chunks.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)", MONOMAX  8
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://dolive.thaim3u.com/doodii-live/siam-8/chunks.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Monomax1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://sport.livedoomovies.com:4432/Monomax_Live_1HD/chunklist.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Monomax2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://sport.livedoomovies.com:4432/Monomax_Live_2HD/chunklist.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Monomax3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://sport.livedoomovies.com:4432/Monomax_Live_3HD/chunklist.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Monomax4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://sport.livedoomovies.com:4432/Monomax_Live_4HD/chunklist.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Monomax5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://sport.livedoomovies.com:4432/Monomax_Live_5HD/chunklist.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Monomax6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://sport.livedoomovies.com:4432/Monomax_Live_6HD/chunklist.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)", DubaiSports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b3000000.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)", DubaiSports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)", DubaiSports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Fox Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",FOX Soccer Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",Fox Sports 1 USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium39/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",FOX Sports 502 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium820/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",FOX Sports 503 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium821/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",FOX Sports 504 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://zekonew.newkso.ru/zeko/premium822/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",FOX Sports 505 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium823/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",FOX Sports 506 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium824/mono.m3u8
+#EXTINF:-1 group-title="Sports(กีฬา)",FOX Sports 507 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://windnew.newkso.ru/wind/premium825/mono.m3u8
