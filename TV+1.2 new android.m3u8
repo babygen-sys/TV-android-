@@ -49,22 +49,22 @@ http://panel.sulu1.cc:2052/travis1/travis1/3336
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.399
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/3343
-#EXTINF:-1 group-title="Sports กีฬา",Prima Sport 1 
+#EXTINF:-1 group-title="Sports กีฬา",Prima Sport 1
 #EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Prima Sport 2 
+#EXTINF:-1 group-title="Sports กีฬา",Prima Sport 2
 #EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Prima Sport 3 
+#EXTINF:-1 group-title="Sports กีฬา",Prima Sport 3
 #EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Prima Sport 4 
+#EXTINF:-1 group-title="Sports กีฬา",Prima Sport 4
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -92,16 +92,16 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142759
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 6
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142760
-#EXTINF:-1 group-title="Sports กีฬา",BEIN 7 
+#EXTINF:-1 group-title="Sports กีฬา",BEIN 7
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142761
-#EXTINF:-1 group-title="Sports กีฬา",BEIN 8 
+#EXTINF:-1 group-title="Sports กีฬา",BEIN 8
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
-#EXTINF:-1 group-title="Sports กีฬา",BEIN 9 
+#EXTINF:-1 group-title="Sports กีฬา",BEIN 9
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
-#EXTINF:-1 group-title="Sports กีฬา",SPORT TV 1 
+#EXTINF:-1 group-title="Sports กีฬา",SPORT TV 1
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84597
 #EXTINF:-1 group-title="Sports กีฬา",SPORT TV 2
@@ -116,16 +116,16 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151194
 #EXTINF:-1 group-title="Sports กีฬา",SPORT TV 5
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84671
-#EXTINF:-1 group-title="Sports กีฬา", MLB Network 
+#EXTINF:-1 group-title="Sports กีฬา",MLB Network
 #EXTVLCOPT:network-caching=1000
 http://143.244.60.30/MLB_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา", MSG
+#EXTINF:-1 group-title="Sports กีฬา",MSG
 #EXTVLCOPT:network-caching=1000
 https://fl3.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา", NFL Network 
+#EXTINF:-1 group-title="Sports กีฬา",NFL Network
 #EXTVLCOPT:network-caching=1000
 http://143.244.60.30/NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา", Tennis Channel 
+#EXTINF:-1 group-title="Sports กีฬา",Tennis Channel
 #EXTVLCOPT:network-caching=1000
 http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",VOLI
@@ -136,13 +136,13 @@ http://103.179.182.117:6768/hls/2/2.m3u8
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #EXTVLCOPT:network-caching=1000
 http://103.179.182.117:6768/hls/50/50.m3u8
-#EXTINF:-1 group-title="Sports กีฬา", VOLI TURKI 1
+#EXTINF:-1 group-title="Sports กีฬา",VOLI TURKI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 http://iptvde.de:8080/OsmanTokmak/fgxgthus/111498
-#EXTINF:-1 group-title="Sports กีฬา", VOLI ITALIA 2
+#EXTINF:-1 group-title="Sports กีฬา",VOLI ITALIA 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
 #EXTVLCOPT:network-caching=1000
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
@@ -380,34 +380,34 @@ https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:network-caching=1000
 http://49.0.64.96:8007/AMAZING
-#EXTINF:-1 group-title="Cartoon การ์ตูน", Gags 
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Gags
 https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Boomerang
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-#EXTINF:-1 group-title="Cartoon การ์ตูน", BC Boomerang Cartoon 
+#EXTINF:-1 group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
-#EXTINF:-1 group-title="Cartoon การ์ตูน", Cartoon Network 
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon Network
 http://150.129.9.194:8089/83/index.m3u8?token=test
-#EXTINF:-1 group-title="Cartoon การ์ตูน", Nick Jr.
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.
 http://150.129.9.194:8089/86/index.m3u8?token=test
-#EXTINF:-1 group-title="Cartoon การ์ตูน", Cartoon 
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon
 http://49.0.64.96:8007/Cartoonumi
-#EXTINF:-1 group-title="Cartoon การ์ตูน", Mr.bean Cartoon 
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Mr.bean Cartoon
 https://amg00627-amg00627c23-samsung-th-5282.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Cartoon การ์ตูน", Disney Channel
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Disney Channel
 http://212.102.60.231/DISNEY/index.m3u8
-#EXTINF:-1 group-title="Cartoon การ์ตูน", Dreamworks
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Dreamworks
 http://xott.live:8080/03459612396/9512563/350936
-#EXTINF:-1 group-title="Cartoon การ์ตูน", Zoomoo
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Cartoon การ์ตูน", Baby Shark TV
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Baby Shark TV
 https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Cartoon การ์ตูน", Cinebox: Animation 
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Cinebox: Animation
 http://1tv41.icu:8080/ahx4CN/815233/119420
-#EXTINF:-1 group-title="Cartoon การ์ตูน", Shaun the Sheep & Friends
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Shaun the Sheep & Friends
 https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
-#EXTINF:-1 group-title="Cartoon การ์ตูน", Moonbug
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS TV
 #EXTVLCOPT:network-caching=1000
@@ -463,12 +463,27 @@ http://45.144.165.187:8080/playid168/12345/70
 #EXTINF:-1 group-title="Entertainment บันเทิง",trueSeries
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186586&extension=ts
-#EXTINF:-1 group-title="Entertainment บันเทิง",PlayID หนังพากย์ไทย
-#EXTVLCOPT:network-caching=1000
-http://49.0.64.96:8007/IZAA
-#EXTINF:-1 group-title="Entertainment บันเทิง",CCM
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="Entertainment บันเทิง",CCM
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186435&extension=ts
+#EXTINF:-1 group-title="Entertainment บันเทิง",Premium Blockbuster
+#EXTVLCOPT:network-caching=1000
+http://45.144.165.187:8080/playid168/12345/22882
+#EXTINF:-1 group-title="Entertainment บันเทิง",PlayID หนังพากย์ไทย
+http://49.0.64.96:8007/IZAA
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO TH
+http://45.144.165.187:8080/playid168/12345/77
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBOHITS
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/3018
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBOSIG
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/3660
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Fiamy
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/5649
+#EXTINF:-1 group-title="Entertainment บันเทิง",CINEMAX
+http://45.144.165.187:8080/playid168/12345/78
 #EXTINF:-1 group-title="Entertainment บันเทิง",movies1
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 #EXTVLCOPT:network-caching=1000
@@ -500,7 +515,7 @@ http://45.144.165.223:9090/memfs/bac4e40a-9545-4c92-b778-c2a836aeab0b.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",movies8
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186493&extension=ts
-#EXTINF:-1 group-title="Entertainment บันเทิง", Zee Nung
+#EXTINF:-1 group-title="Entertainment บันเทิง",Zee Nung
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",Warnertv
 #EXTVLCOPT:network-caching=1000
@@ -511,15 +526,15 @@ https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",Crime-Investigation
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186434&extension=ts
-#EXTINF:-1 group-title="Entertainment บันเทิง", VIPA
+#EXTINF:-1 group-title="Entertainment บันเทิง",VIPA
 https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง", สยาม
+#EXTINF:-1 group-title="Entertainment บันเทิง",สยาม
 https://lb1-live-mv.v2h-cdn.com/live_vod/siam.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง", ลิโด้
+#EXTINF:-1 group-title="Entertainment บันเทิง",ลิโด้
 https://lb1-live-mv.v2h-cdn.com/live_vod/lido.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง", สกาล่า
+#EXTINF:-1 group-title="Entertainment บันเทิง",สกาล่า
 https://lb1-live-mv.v2h-cdn.com/live_vod/scala.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง", มวลชนทีวี
+#EXTINF:-1 group-title="Entertainment บันเทิง",มวลชนทีวี
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",Cool Channel
 #EXTVLCOPT:network-caching=1000
@@ -527,9 +542,6 @@ https://live-iptv.cool-channel.com/cool/live-transmux.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",Channel8
 #EXTVLCOPT:network-caching=1000
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง",Premium Blockbuster
-#EXTVLCOPT:network-caching=1000
-http://45.144.165.187:8080/playid168/12345/22882
 #EXTINF:-1 group-title="Entertainment บันเทิง",KbS World
 #EXTVLCOPT:network-caching=1000
 http://mytv.dothome.co.kr/ch/catv/7.php
@@ -554,13 +566,13 @@ http://49.0.64.96:8007/WSCI
 #EXTINF:-1 group-title="Documentary สารคดี",Discovery
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186438&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",History
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="Documentary สารคดี",History
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186511&extension=ts
 #EXTINF:-1 group-title="Documentary สารคดี",trueEXPLOREWILD
 #EXTVLCOPT:network-caching=1000
 https://e113.hellotherepadawan.org/v5/KyJV5mh52TnwVajOnEQ5Yw/1756852476/92e6f341c728a6e9b2f28b85333fae8d/hcIFpuoUjBSAc_0IbnBnUQ/1756863156/live/vx-origin/sd-expwild_720/chunks.m3u8
-#EXTINF:-1 group-title="Documentary สารคดี", trueX-ZYTE
+#EXTINF:-1 group-title="Documentary สารคดี",trueX-ZYTE
 #EXTVLCOPT:network-caching=1000
 https://e103.hellotherepadawan.org/v5/FNQQslinifE9-SEeGuQiSA/1756836536/92e6f341c728a6e9b2f28b85333fae8d/QSeHrnOfppSCnR00C6BfuA/1756847216/live/vx-origin/hd-xzyte_720/chunks.m3u8
 #EXTINF:-1 group-title="Documentary สารคดี",trueEXPLOREWILD
@@ -572,7 +584,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186456&extension=
 #EXTINF:-1 group-title="Documentary สารคดี",trueEXPLORESCI
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186457&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",BBCLifestyle
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="Documentary สารคดี",BBCLifestyle
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186399&extension=ts
 #EXTINF:-1 group-title="Documentary สารคดี",Natgeographic
@@ -581,16 +593,16 @@ http://185.189.225.150:85/NationalGeographic/index.m3u8
 #EXTINF:-1 group-title="Documentary สารคดี",OutDoor
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186552&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",LifeTime
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="Documentary สารคดี",LifeTime
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341578&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี", trueX-ZYTE
+#EXTINF:-1 group-title="Documentary สารคดี",trueX-ZYTE
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186648&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี", afn
+#EXTINF:-1 group-title="Documentary สารคดี",afn
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186384&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี", TLC
+#EXTINF:-1 group-title="Documentary สารคดี",TLC
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186485&extension=ts
 #EXTINF:-1 group-title="News ข่าว",CNN INDONESIA
@@ -710,31 +722,31 @@ https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/football-play-3/chunks.m3u8
 https://qou1nn39uc1q4n9.danielthomas.org/doodii-live/football-play-4/chunks.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",AIS MUTV
 https://ww.dooballfree.vip/live/mutv/playlist.m3u8
-#EXTINF:-1 group-title="Sports กีฬา", AISPLAY SPORTS 1
+#EXTINF:-1 group-title="Sports กีฬา",AISPLAY SPORTS 1
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
-#EXTINF:-1 group-title="Sports กีฬา", AISPLAY SPORTS 2
+#EXTINF:-1 group-title="Sports กีฬา",AISPLAY SPORTS 2
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
-#EXTINF:-1 group-title="Sports กีฬา", BALLTHAI 1
+#EXTINF:-1 group-title="Sports กีฬา",BALLTHAI 1
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
-#EXTINF:-1 group-title="Sports กีฬา", BALLTHAI 2
+#EXTINF:-1 group-title="Sports กีฬา",BALLTHAI 2
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
-#EXTINF:-1 group-title="Sports กีฬา", BALLTHAI 3
+#EXTINF:-1 group-title="Sports กีฬา",BALLTHAI 3
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005.m3u8
-#EXTINF:-1 group-title="Sports กีฬา", BALLTHAI 9
+#EXTINF:-1 group-title="Sports กีฬา",BALLTHAI 9
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8
-#EXTINF:-1 group-title="Sports กีฬา", BALLTHAI 9
+#EXTINF:-1 group-title="Sports กีฬา",BALLTHAI 9
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8
-#EXTINF:-1 group-title="Sports กีฬา", BALLTHAI 10
+#EXTINF:-1 group-title="Sports กีฬา",BALLTHAI 10
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8
-#EXTINF:-1 group-title="Sports กีฬา", BALLTHAI 11
+#EXTINF:-1 group-title="Sports กีฬา",BALLTHAI 11
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
 #EXTINF:-1 group-title="Sports กีฬา",MONOMAX 1
@@ -905,28 +917,28 @@ http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/668107
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.391
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/3332
-#EXTINF:-1 group-title="Sports กีฬา", TNTSports1-FHD
+#EXTINF:-1 group-title="Sports กีฬา",TNTSports1-FHD
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 group-title="Sports กีฬา",TNT Sport 2
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.394
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/3336
-#EXTINF:-1 group-title="Sports กีฬา", TNTSports2-FHD
+#EXTINF:-1 group-title="Sports กีฬา",TNTSports2-FHD
 https://7pal.short.gy/tntspts2
 #EXTINF:-1 group-title="Sports กีฬา",TNT Sport 3
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.397
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/3338
-#EXTINF:-1 group-title="Sports กีฬา", TNTSports3-FHD
+#EXTINF:-1 group-title="Sports กีฬา",TNTSports3-FHD
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 group-title="Sports กีฬา",TNT Sport 4
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.399
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/3343
-#EXTINF:-1 group-title="Sports กีฬา", TNTSports4-FHD
+#EXTINF:-1 group-title="Sports กีฬา",TNTSports4-FHD
 https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="Sports กีฬา",TNT Sport 5
 #EXTVLCOPT:http-referrer= 
@@ -1041,7 +1053,7 @@ http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/648639
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.147
 #EXTVLCOPT:network-caching=1000
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/648640
-#EXTINF:-1 group-title="Sports กีฬา", HubPremier1-FHD
+#EXTINF:-1 group-title="Sports กีฬา",HubPremier1-FHD
 https://7pal.short.gy/HPremier1
 #EXTINF:-1 group-title="Sports กีฬา",HUB Premier 1
 #EXTVLCOPT:http-referrer= 
@@ -1053,14 +1065,14 @@ http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/382359
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.259
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/14153
-#EXTINF:-1 group-title="Sports กีฬา", HubPremier2-FHD
+#EXTINF:-1 group-title="Sports กีฬา",HubPremier2-FHD
 https://7pal.short.gy/HPremier2
 #EXTINF:-1 group-title="Sports กีฬา",HUB Premier 2 Backup
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.260
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/14152
-#EXTINF:-1 group-title="Sports กีฬา", HubPremier3-FHD
+#EXTINF:-1 group-title="Sports กีฬา",HubPremier3-FHD
 https://7pal.short.gy/HPremier3
 #EXTINF:-1 group-title="Sports กีฬา",HUB Premier 3
 #EXTVLCOPT:http-referrer= 
@@ -1170,73 +1182,73 @@ https://raw.githubusercontent.com/quuen2024/llgnews/queen/======================
 #EXTINF:-1 group-title="Sports กีฬา",uefa info
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/uefa%20info
-#EXTINF:-1 group-title="Sports กีฬา",  UEFA Champion Info
+#EXTINF:-1 group-title="Sports กีฬา",UEFA Champion Info
 #EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extension=ts&play_token=n1KBSwudMQ
 #EXTINF:-1 group-title="Sports กีฬา",HL
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/HL
-#EXTINF:-1 group-title="Sports กีฬา",  UEFA HIGHLIGHT
+#EXTINF:-1 group-title="Sports กีฬา",UEFA HIGHLIGHT
 #EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830216&extension=ts&play_token=MYt8jW9dDS
 #EXTINF:-1 group-title="Sports กีฬา",1
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/1
-#EXTINF:-1 group-title="Sports กีฬา",  UEFA REPLAY 1
+#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 1
 #EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830215&extension=ts&play_token=W3HraHXS5I
 #EXTINF:-1 group-title="Sports กีฬา",2
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/2
-#EXTINF:-1 group-title="Sports กีฬา",  UEFA REPLAY 2
+#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 2
 #EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830214&extension=ts&play_token=ogSdqOYzDY
 #EXTINF:-1 group-title="Sports กีฬา",3
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/3
-#EXTINF:-1 group-title="Sports กีฬา",  UEFA REPLAY 3
+#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 3
 #EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830213&extension=ts&play_token=NGeII0SCF9
 #EXTINF:-1 group-title="Sports กีฬา",4
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/4
-#EXTINF:-1 group-title="Sports กีฬา",  UEFA REPLAY 4
+#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 4
 #EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830212&extension=ts&play_token=gZiBUM4qyj
 #EXTINF:-1 group-title="Sports กีฬา",4
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/4
-#EXTINF:-1 group-title="Sports กีฬา",  UEFA REPLAY 5
+#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 5
 #EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830211&extension=ts&play_token=I72Boisniw
 #EXTINF:-1 group-title="Sports กีฬา",6
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/6
-#EXTINF:-1 group-title="Sports กีฬา",  UEFA REPLAY 6
+#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 6
 #EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830210&extension=ts&play_token=w82LnRxZjh
 #EXTINF:-1 group-title="Sports กีฬา",7
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/7
-#EXTINF:-1 group-title="Sports กีฬา",  UEFA REPLAY 7
+#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 7
 #EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830209&extension=ts&play_token=BaoYp9sbHf
 #EXTINF:-1 group-title="Sports กีฬา",8
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/8
-#EXTINF:-1 group-title="Sports กีฬา",  UEFA REPLAY 8
+#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 8
 #EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830208&extension=ts&play_token=hALJDnCXCv
 #EXTINF:-1 group-title="Sports กีฬา",9
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/9
-#EXTINF:-1 group-title="Sports กีฬา",  UEFA REPLAY 9
+#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 9
 #EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830207&extension=ts&play_token=NaS4oga7oq
 #EXTINF:-1 group-title="Sports กีฬา",10
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/10
-#EXTINF:-1 group-title="Sports กีฬา",  UEFA REPLAY 10
+#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 10
 #EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830206&extension=ts&play_token=RzldCpIPiE
 https://raw.githubusercontent.com/babygen-sys/TV-android-/refs/heads/main/M3U/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%20android/Home/http-user-agent=Mozilla/5.0%20(Linux;%20Android%2010;%20K)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/124.0.0.0%20Mobile%20Safari/537.36
@@ -1782,7 +1794,7 @@ https://e107.hellotherepadawan.org/v5/_-Q0ElSRL9mLMUNZbr91nA/1756851491/5e9177e0
 #EXTVLCOPT:http-referrer=https://github.com/
 #EXTVLCOPT:network-caching=1000
 https://e107.hellotherepadawan.org/v5/onH_3yfZudgbFLlugElqWQ/1756852056/92e6f341c728a6e9b2f28b85333fae8d/zUxstPh-1roA0OjwQTdHIw/1756862736/live/dx-origin/hd-tsport2_720/chunks.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",TRUE SPORT 03	
+#EXTINF:-1 group-title="Sports กีฬา",TRUE SPORT 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
 #EXTVLCOPT:network-caching=1000
@@ -1909,43 +1921,43 @@ https://xciptvplus.github.io/Music%20Channels
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://nfsnew.newkso.ru/nfs/premium371/mono.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง", Vevo '70s
+#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo '70s
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง", Vevo '80s
+#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo '80s
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง", Vevo '90s
+#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo '90s
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง", Vevo 2K
+#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo 2K
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง", Vevo Retro Rock
+#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo Retro Rock
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง", Vevo Pop
+#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo Pop
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง", Vevo R&B
+#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo R&B
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง", Vevo True School Hip-Hop
+#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo True School Hip-Hop
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง", Vevo Country
+#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo Country
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง", MTV BIGGEST POP
+#EXTINF:-1 group-title="Entertainment บันเทิง",MTV BIGGEST POP
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง", MTV SPANKIN NEW
+#EXTINF:-1 group-title="Entertainment บันเทิง",MTV SPANKIN NEW
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง", MTV ROCKS
+#EXTINF:-1 group-title="Entertainment บันเทิง",MTV ROCKS
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624303598e45140007d765c1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง", MTV FLOW LATINO
+#EXTINF:-1 group-title="Entertainment บันเทิง",MTV FLOW LATINO
 #EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Entertainment บันเทิง",MTV 90's
@@ -1956,31 +1968,31 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:network-caching=1000
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
-#EXTINF:-1 group-title="Entertainment บันเทิง", Now Rock 
+#EXTINF:-1 group-title="Entertainment บันเทิง",Now Rock
 #EXTVLCOPT:network-caching=1000
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง", Now 70s
+#EXTINF:-1 group-title="Entertainment บันเทิง",Now 70s
 #EXTVLCOPT:network-caching=1000
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง", Now 80's
+#EXTINF:-1 group-title="Entertainment บันเทิง",Now 80's
 #EXTVLCOPT:network-caching=1000
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง", Trace UK
+#EXTINF:-1 group-title="Entertainment บันเทิง",Trace UK
 #EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง", Trace Urban
+#EXTINF:-1 group-title="Entertainment บันเทิง",Trace Urban
 #EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง", YG TV
+#EXTINF:-1 group-title="Entertainment บันเทิง",YG TV
 #EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=424
-#EXTINF:-1 group-title="Entertainment บันเทิง", new K-POP
+#EXTINF:-1 group-title="Entertainment บันเทิง",new K-POP
 #EXTVLCOPT:network-caching=1000
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง", Show Champion 
+#EXTINF:-1 group-title="Entertainment บันเทิง",Show Champion
 #EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
-#EXTINF:-1, Spirit TV
+#EXTINF:-1 group-title="Entertainment บันเทิง",Spirit TV
 #EXTVLCOPT:network-caching=1000
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 group-title="Movie หนัง",<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href="/lander"}</script></head></html>
@@ -2002,47 +2014,47 @@ https://main.24playerhd.com/newplaylist/24ce41ae6089ab73197bfe77/24ce41ae6089ab7
 https://main.24playerhd.com/newplaylist/1a5d919a999ffcfb3a7bdb72/1a5d919a999ffcfb3a7bdb72.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Brick (2025) กำแพง
 https://main.24playerhd.com/newplaylist/cd28c324efab4b80320b8c0f/cd28c324efab4b80320b8c0f.m3u8
-#EXTINF:-1 group-title="Movie หนัง", เดอะ สโตน พระแท้ คนเก๊(2025)
+#EXTINF:-1 group-title="Movie หนัง",เดอะ สโตน พระแท้ คนเก๊(2025)
 https://main.24playerhd.com/newplaylist/09e2bd0055172e2236835dae/09e2bd0055172e2236835dae.m3u8
-#EXTINF:-1 group-title="Movie หนัง", ปากกัดตีนถีบ(2025)
+#EXTINF:-1 group-title="Movie หนัง",ปากกัดตีนถีบ(2025)
 https://main.24playerhd.com/newplaylist/152ab368d70abf432fdd0459/152ab368d70abf432fdd0459.m3u8
-#EXTINF:-1 group-title="Movie หนัง", อภินิหารไวกิ้งพิชิตมังกร(2025)
+#EXTINF:-1 group-title="Movie หนัง",อภินิหารไวกิ้งพิชิตมังกร(2025)
 https://main.24playerhd.com/newplaylist/96945991af6d8c8f3e613381/96945991af6d8c8f3e613381.m3u8
-#EXTINF:-1 group-title="Movie หนัง", สัประยุทธ์ทะลุฟ้า 4(2025)
+#EXTINF:-1 group-title="Movie หนัง",สัประยุทธ์ทะลุฟ้า 4(2025)
 https://main.24playerhd.com/newplaylist/ea96737d9cf9f1f27d9bdaa8/ea96737d9cf9f1f27d9bdaa8.m3u8
-#EXTINF:-1 group-title="Movie หนัง", ซองแดงแต่งผี(2025)
+#EXTINF:-1 group-title="Movie หนัง",ซองแดงแต่งผี(2025)
 https://main.24playerhd.com/newplaylist/1712e730229435c6afd8dcc8/1712e730229435c6afd8dcc8.m3u8
-#EXTINF:-1 group-title="Movie หนัง", คู่เดือดนรกต้องกราบ(2025)
+#EXTINF:-1 group-title="Movie หนัง",คู่เดือดนรกต้องกราบ(2025)
 https://main.24playerhd.com/newplaylist/6baf924c2c7ef2e2b5c241bf/6baf924c2c7ef2e2b5c241bf.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Alarum(2025)
+#EXTINF:-1 group-title="Movie หนัง",Alarum(2025)
 https://main.24playerhd.com/newplaylist/dded6ffba7b93b61d66e401f/dded6ffba7b93b61d66e401f.m3u8
-#EXTINF:-1 group-title="Movie หนัง", 4ป่าช้า(2025)
+#EXTINF:-1 group-title="Movie หนัง",4ป่าช้า(2025)
 https://main.24playerhd.com/newplaylist/bd84811aa8d1c35a3d56ef13/bd84811aa8d1c35a3d56ef13.m3u8
-#EXTINF:-1 group-title="Movie หนัง", ผู้นำสายบู๊กู้วิกฤต(2025)
+#EXTINF:-1 group-title="Movie หนัง",ผู้นำสายบู๊กู้วิกฤต(2025)
 https://main.24playerhd.com/newplaylist/2177ab94cdc9b443f853857c/2177ab94cdc9b443f853857c.m3u8
-#EXTINF:-1 group-title="Movie หนัง", ไฟนอล เดสติเนชั่น ทายาทโกงตาย(2025)
+#EXTINF:-1 group-title="Movie หนัง",ไฟนอล เดสติเนชั่น ทายาทโกงตาย(2025)
 https://main.24playerhd.com/newplaylist/42d2b455eb741be0e3815235/42d2b455eb741be0e3815235.m3u8
-#EXTINF:-1 group-title="Movie หนัง", น็อกเอาท์(2025)
+#EXTINF:-1 group-title="Movie หนัง",น็อกเอาท์(2025)
 https://main.24playerhd.com/newplaylist/550763acbd3c0aa0b4e6340c/550763acbd3c0aa0b4e6340c.m3u8
-#EXTINF:-1 group-title="Movie หนัง", อัจฉริยะคนบัญชีเพชฌฆาต 2(2025)
+#EXTINF:-1 group-title="Movie หนัง",อัจฉริยะคนบัญชีเพชฌฆาต 2(2025)
 https://main.24playerhd.com/newplaylist/8ddd3db9f33a0287db214610/8ddd3db9f33a0287db214610.m3u8
-#EXTINF:-1 group-title="Movie หนัง", เลือนหายในแสงดาว(2025)
+#EXTINF:-1 group-title="Movie หนัง",เลือนหายในแสงดาว(2025)
 https://main.24playerhd.com/newplaylist/eadac911baf7637108bffc5b/eadac911baf7637108bffc5b.m3u8
-#EXTINF:-1 group-title="Movie หนัง", กลเกมแม่ม่าย(2025)
+#EXTINF:-1 group-title="Movie หนัง",กลเกมแม่ม่าย(2025)
 https://main.24playerhd.com/newplaylist/5678c64034191519109cb431/5678c64034191519109cb431.m3u8
-#EXTINF:-1 group-title="Movie หนัง", กัปตัน อเมริกา ศึกฮีโร่จักรวาลใหม่(2025)
+#EXTINF:-1 group-title="Movie หนัง",กัปตัน อเมริกา ศึกฮีโร่จักรวาลใหม่(2025)
 https://main.24playerhd.com/newplaylist/21be93ff1a33fb9d2ed68df8/21be93ff1a33fb9d2ed68df8.m3u8
-#EXTINF:-1 group-title="Movie หนัง", สวัสดีวันจันทร์(ส)(2025)
+#EXTINF:-1 group-title="Movie หนัง",สวัสดีวันจันทร์(ส)(2025)
 https://main.24playerhd.com/newplaylist/125b48a5ea9312466423678a/125b48a5ea9312466423678a.m3u8
-#EXTINF:-1 group-title="Movie หนัง", ถนนอาถรรพ์ ราชินีงานพรอม(2025)
+#EXTINF:-1 group-title="Movie หนัง",ถนนอาถรรพ์ ราชินีงานพรอม(2025)
 https://main.24playerhd.com/newplaylist/b40189b21d5e2e2d600a96d7/b40189b21d5e2e2d600a96d7.m3u8
-#EXTINF:-1 group-title="Movie หนัง", นรกหยุดนรก(2025)
+#EXTINF:-1 group-title="Movie หนัง",นรกหยุดนรก(2025)
 https://main.24playerhd.com/newplaylist/36b174cc0a0065c3a29ea60b/36b174cc0a0065c3a29ea60b.m3u8
-#EXTINF:-1 group-title="Movie หนัง", เพื่อนหาย อย่าหา 2(2025)
+#EXTINF:-1 group-title="Movie หนัง",เพื่อนหาย อย่าหา 2(2025)
 https://main.24playerhd.com/newplaylist/39367f844594cf54f004da01/39367f844594cf54f004da01.m3u8
-#EXTINF:-1 group-title="Movie หนัง", มังกรหยก จอมยุทธ์ผู้ยิ่งใหญ่(2025)
+#EXTINF:-1 group-title="Movie หนัง",มังกรหยก จอมยุทธ์ผู้ยิ่งใหญ่(2025)
 https://main.24playerhd.com/newplaylist/8ac7c16c07c06bab46fb77a6/8ac7c16c07c06bab46fb77a6.m3u8
-#EXTINF:-1 group-title="Movie หนัง", พลิกแผนลับลวงระทึก(2025)
+#EXTINF:-1 group-title="Movie หนัง",พลิกแผนลับลวงระทึก(2025)
 https://main.24playerhd.com/newplaylist/02cca90a7e2414b61c643703/02cca90a7e2414b61c643703.m3u8
 #EXTINF:-1 group-title="Movie หนัง",มิสเตอร์โคตรคนทรหด(2025)
 https://main.24playerhd.com/newplaylist/c957074102de6739a0f7c00a/c957074102de6739a0f7c00a.m3u8
@@ -2132,9 +2144,9 @@ https://main.24playerhd.com/newplaylist/56a1953a97d099a7431036f2/56a1953a97d099a
 https://main.24playerhd.com/newplaylist/b033dd41b3e53faa460dc71e/b033dd41b3e53faa460dc71e.m3u8
 #EXTINF:-1 group-title="Movie หนัง",The Witcher Sirens of the Deep (2025) เดอะ วิทเชอร์ นักล่าจอมอสูร ไซเรนแห่งทะเลลึก
 https://main.24playerhd.com/newplaylist/31ef51bf3ab318451c10c1a8/31ef51bf3ab318451c10c1a8.m3u8
-#EXTINF:-1 group-title="Movie หนัง", เกิร์ลกรุ๊ปนักล่าปีศาจ(2025)
+#EXTINF:-1 group-title="Movie หนัง",เกิร์ลกรุ๊ปนักล่าปีศาจ(2025)
 https://main.24playerhd.com/newplaylist/5050d185b8461a3cdf937e1d/5050d185b8461a3cdf937e1d.m3u8
-#EXTINF:-1 group-title="Movie หนัง",Love Forever (2025) รักนิรันดร 
+#EXTINF:-1 group-title="Movie หนัง",Love Forever (2025) รักนิรันดร
 https://main.24playerhd.com/newplaylist/4efab05bf8d24622f06de3ed/4efab05bf8d24622f06de3ed.m3u8
 #EXTINF:-1 group-title="Movie หนัง",My Fault London (2025) คำขอโทษ ลอนดอน
 https://main.24playerhd.com/newplaylist/ede71f7f2b5355b656c09e35/ede71f7f2b5355b656c09e35.m3u8
@@ -2152,9 +2164,9 @@ https://main.24playerhd.com/newplaylist/ec03b0ca7e1153ae887f095f/ec03b0ca7e1153a
 https://xciptvplus.github.io/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%202024
 #EXTINF:-1 group-title="Movie หนัง",Don’t Sleep (2024) มึงนอน มึงตาย
 https://main.24playerhd.com/newplaylist/973f4dd1726d13ae633f182e/973f4dd1726d13ae633f182e.m3u8
-#EXTINF:-1 group-title="Movie หนัง", คุณชายน์ The Cliche (2024)
+#EXTINF:-1 group-title="Movie หนัง",คุณชายน์ The Cliche (2024)
 https://main.24playerhd.com/newplaylist/669be532b62158522bb8ca9a/669be532b62158522bb8ca9a.m3u8
-#EXTINF:-1 group-title="Movie หนัง", อคิลลิส เคิร์ส กับสมบัติ(2024)
+#EXTINF:-1 group-title="Movie หนัง",อคิลลิส เคิร์ส กับสมบัติ(2024)
 https://main.24playerhd.com/newplaylist/70ddd17f648d300390e8e88c/70ddd17f648d300390e8e88c.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Isan Nikah (2024) ผู้บ่าวนิกะห์
 https://main.24playerhd.com/newplaylist/ddc042844e0ce0f2f7f20335/ddc042844e0ce0f2f7f20335.m3u8
@@ -2202,9 +2214,9 @@ https://main.24playerhd.com/newplaylist/d733ec4c18a6c9dc24ac86bb/d733ec4c18a6c9d
 https://main.24playerhd.com/newplaylist/cc23574924a5c1a0bc97fd83/cc23574924a5c1a0bc97fd83.m3u8
 #EXTINF:-1 group-title="Movie หนัง",สงครามหมาป่า Fangs & Fury (2024)
 https://main.24playerhd.com/newplaylist/f3f888d286ef4720cd67b75b/f3f888d286ef4720cd67b75b.m3u8
-#EXTINF:-1 group-title="Movie หนัง",ซุนหงอคง ราชาวานร Monkey King Fight Lion Camel (2024) 
+#EXTINF:-1 group-title="Movie หนัง",ซุนหงอคง ราชาวานร Monkey King Fight Lion Camel (2024)
 https://main.24playerhd.com/newplaylist/a402968ae8d16a072685f23f/a402968ae8d16a072685f23f.m3u8
-#EXTINF:-1 group-title="Movie หนัง",วิคเค็ด Wicked Part I (2024) 
+#EXTINF:-1 group-title="Movie หนัง",วิคเค็ด Wicked Part I (2024)
 https://main.24playerhd.com/newplaylist/820c4f1e1b93c3f32b1dd453/820c4f1e1b93c3f32b1dd453.m3u8
 #EXTINF:-1 group-title="Movie หนัง",มึงนอน มึงตาย (2024)
 https://main.24playerhd.com/newplaylist/973f4dd1726d13ae633f182e/973f4dd1726d13ae633f182e.m3u8
@@ -2325,15 +2337,15 @@ https://main.24playerhd.com/newplaylist/8330ee7de36d5a18455db9c6/8330ee7de36d5a1
 https://main.24playerhd.com/newplaylist/fa689eda0ca1c83768b30cf3/fa689eda0ca1c83768b30cf3.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Terrifier 3 เทอร์ริไฟเออร์ 3 (2024)
 https://main.24playerhd.com/newplaylist/26c9497de0ad0a238786dffe/26c9497de0ad0a238786dffe.m3u8
-#EXTINF:-1 group-title="Movie หนัง", My Hero Academia You're Next มาย ฮีโร่ อคาเดเมีย (2024)
+#EXTINF:-1 group-title="Movie หนัง",My Hero Academia You're Next มาย ฮีโร่ อคาเดเมีย (2024)
 https://main.24playerhd.com/newplaylist/77149630680ee07ecaa4ebdc/77149630680ee07ecaa4ebdc.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Meet Me Next Christmas เจอกันคริสต์มาสหน้า (2024)
 https://main.24playerhd.com/newplaylist/84c6c9ca0b5e77b08133d77a/84c6c9ca0b5e77b08133d77a.m3u8
 #EXTINF:-1 group-title="Movie หนัง",We Live in Time (2024) เวลานั้นฉันและเธอ
 https://main.24playerhd.com/newplaylist/c39c15f38c33254301effa05/c39c15f38c33254301effa05.m3u8
-#EXTINF:-1 group-title="Movie หนัง", A Legend พลิกตำนานฟัดทะลุเวลา (2024)
+#EXTINF:-1 group-title="Movie หนัง",A Legend พลิกตำนานฟัดทะลุเวลา (2024)
 https://main.24playerhd.com/newplaylist/8788c89d98270ae5c63e42c9/8788c89d98270ae5c63e42c9.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Absolution คนสันดานเดือด (2024)
+#EXTINF:-1 group-title="Movie หนัง",Absolution คนสันดานเดือด (2024)
 https://main.24playerhd.com/newplaylist/d9ce4612e57f2aa1e2be48e9/d9ce4612e57f2aa1e2be48e9.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Yolo (2024) หมวยย้วย...มวยไม่ยอมม้วย
 https://main.24playerhd.com/newplaylist/ea59307855dd98bfeb7c4f7c/ea59307855dd98bfeb7c4f7c.m3u8
@@ -2361,25 +2373,25 @@ https://main.24playerhd.com/newplaylist/b68739aeb386aff5d472fa23/b68739aeb386aff
 https://main.24playerhd.com/newplaylist/8a74b687b03678763fda29ef/8a74b687b03678763fda29ef.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Detective Conan The Million-Dollar Pentagram ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 27 ปริศนาปราการ 5 แฉก (2024)
 https://main.24playerhd.com/newplaylist/6bd630adff8c2239f7b8e27d/6bd630adff8c2239f7b8e27d.m3u8
-#EXTINF:-1 group-title="Movie หนัง",  Family Pack เกมมนุษย์หมาป่า (2024)" - 
+#EXTINF:-1 group-title="Movie หนัง",Family Pack เกมมนุษย์หมาป่า (2024)" -
 https://main.24playerhd.com/newplaylist/081da4c502c6e865ccfe4a52/081da4c502c6e865ccfe4a52.m3u8
-#EXTINF:-1 group-title="Movie หนัง", The Man Who Loved UFOs ชายผู้คลั่งไคล้ยูเอฟโอ (2024)
+#EXTINF:-1 group-title="Movie หนัง",The Man Who Loved UFOs ชายผู้คลั่งไคล้ยูเอฟโอ (2024)
 https://main.24playerhd.com/newplaylist/8403925c360d380300e958ff/8403925c360d380300e958ff.m3u8
-#EXTINF:-1 group-title="Movie หนัง", LEGO Marvel Avengers Mission Demolition (2024)" - 
+#EXTINF:-1 group-title="Movie หนัง",LEGO Marvel Avengers Mission Demolition (2024)" -
 https://main.24playerhd.com/newplaylist/3f7c890b75c3c8e8c679d92f/3f7c890b75c3c8e8c679d92f.m3u8
 #EXTINF:-1 group-title="Movie หนัง",The Painter จิตรกร (2024)
 https://main.24playerhd.com/newplaylist/1e8b26dde77ff5e33e1a475c/1e8b26dde77ff5e33e1a475c.m3u8
-#EXTINF:-1 group-title="Movie หนัง", ธี่หยด 2 Death Whisperer 2 (2024)
+#EXTINF:-1 group-title="Movie หนัง",ธี่หยด 2 Death Whisperer 2 (2024)
 https://main.24playerhd.com/newplaylist/696a9dbd85cfd64288303657/696a9dbd85cfd64288303657.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Happiness Is (2024)
+#EXTINF:-1 group-title="Movie หนัง",Happiness Is (2024)
 https://main.24playerhd.com/newplaylist/7e23a09346defbb3a5207248/7e23a09346defbb3a5207248.m3u8
-#EXTINF:-1 group-title="Movie หนัง", The Wild Robot หุ่นยนต์ผจญภัยในป่ากว้าง (2024)
+#EXTINF:-1 group-title="Movie หนัง",The Wild Robot หุ่นยนต์ผจญภัยในป่ากว้าง (2024)
 https://main.24playerhd.com/newplaylist/821a2bcb34d0c8616e7772fb/821a2bcb34d0c8616e7772fb.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Brothers บราเธอร์ส ปล้นครั้งนี้เพื่อพี่ที่รัก (2024)
+#EXTINF:-1 group-title="Movie หนัง",Brothers บราเธอร์ส ปล้นครั้งนี้เพื่อพี่ที่รัก (2024)
 https://main.24playerhd.com/newplaylist/959a8c91b5810ab4e67a0157/959a8c91b5810ab4e67a0157.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Outside เอาท์ไซด์ (2024)
 https://main.24playerhd.com/newplaylist/9bd916ef887b514260f0445c/9bd916ef887b514260f0445c.m3u8
-#EXTINF:-1 group-title="Movie หนัง", The Shadow Strays นักฆ่าเงาล่าทรชน (2024)
+#EXTINF:-1 group-title="Movie หนัง",The Shadow Strays นักฆ่าเงาล่าทรชน (2024)
 https://main.24playerhd.com/newplaylist/0bc8dbe76358714434f0f61a/0bc8dbe76358714434f0f61a.m3u8
 #EXTINF:-1 group-title="Movie หนัง",รักวนลูป Love Stuck (2024)
 https://main.24playerhd.com/newplaylist/059c30ec5c7e5eef3ff44f98/059c30ec5c7e5eef3ff44f98.m3u8
@@ -2387,11 +2399,11 @@ https://main.24playerhd.com/newplaylist/059c30ec5c7e5eef3ff44f98/059c30ec5c7e5ee
 https://main.24playerhd.com/newplaylist/8bb361bb8176617b1d08f4aa/8bb361bb8176617b1d08f4aa.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Uprising กบฏผงาดแผ่นดิน (2024)
 https://main.24playerhd.com/newplaylist/2137e4e5211589005da63c3f/2137e4e5211589005da63c3f.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Blue Lock Episode Nagi บลูล็อก เดอะมูฟวี่ ตอนนากิ (2024)
+#EXTINF:-1 group-title="Movie หนัง",Blue Lock Episode Nagi บลูล็อก เดอะมูฟวี่ ตอนนากิ (2024)
 https://main.24playerhd.com/newplaylist/d6ba9f6a5f23058bb410fbdb/d6ba9f6a5f23058bb410fbdb.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Operation Blood Hunt (2024)
 https://main.24playerhd.com/newplaylist/108c173da761f9ea63707c46/108c173da761f9ea63707c46.m3u8
-#EXTINF:-1 group-title="Movie หนัง", หอแต๋วแตก แหกสัปะหยด Oh My Ghost The Finale (2024)
+#EXTINF:-1 group-title="Movie หนัง",หอแต๋วแตก แหกสัปะหยด Oh My Ghost The Finale (2024)
 https://main.24playerhd.com/newplaylist/2049b2b7c05193358600d233/2049b2b7c05193358600d233.m3u8
 #EXTINF:-1 group-title="Movie หนัง",The Menendez Brothers พี่น้องเมเนนเดซ (2024)
 https://main.24playerhd.com/newplaylist/bb389d7e4825d396ba6dcdd1/bb389d7e4825d396ba6dcdd1.m3u8
@@ -2405,11 +2417,11 @@ https://main.24playerhd.com/newplaylist/83187990cba70d3db4740b6f/83187990cba70d3
 https://main.24playerhd.com/newplaylist/602eb9b50b6da1d101ecd31b/602eb9b50b6da1d101ecd31b.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Salems Lot ท้าสู้ผีนรก (2024)
 https://main.24playerhd.com/newplaylist/bc048ee5e5dad8a62ed17f57/bc048ee5e5dad8a62ed17f57.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Trouble ผิดที่ ผิดทาง (2024)"
+#EXTINF:-1 group-title="Movie หนัง",Trouble ผิดที่ ผิดทาง (2024)"
 https://main.24playerhd.com/newplaylist/29d1f0c9855ba267efabade2/29d1f0c9855ba267efabade2.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Salems Lot ท้าสู้ผีนรก (2024)
 https://main.24playerhd.com/newplaylist/bc048ee5e5dad8a62ed17f57/bc048ee5e5dad8a62ed17f57.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Trouble ผิดที่ ผิดทาง (2024)
+#EXTINF:-1 group-title="Movie หนัง",Trouble ผิดที่ ผิดทาง (2024)
 https://main.24playerhd.com/newplaylist/29d1f0c9855ba267efabade2/29d1f0c9855ba267efabade2.m3u8
 #EXTINF:-1 group-title="Movie หนัง",House of Spoils เชฟ บ้าน วิญญาณหลอน (2024)
 https://main.24playerhd.com/newplaylist/3b63471981b4c7804e6a21b0/3b63471981b4c7804e6a21b0.m3u8
@@ -2421,13 +2433,13 @@ https://main.24playerhd.com/newplaylist/664d6ed1f912b4095876f03a/664d6ed1f912b40
 https://main.24playerhd.com/newplaylist/dcea28007d8a15142c8b1646/dcea28007d8a15142c8b1646.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Transformers One (2024) ทรานส์ฟอร์เมอร์ส 1
 https://main.24playerhd.com/newplaylist/21add325dd8a37f5d1838dd1/21add325dd8a37f5d1838dd1.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Killer Heat เด็ดปีกฆ่า (2024)
+#EXTINF:-1 group-title="Movie หนัง",Killer Heat เด็ดปีกฆ่า (2024)
 https://main.24playerhd.com/newplaylist/675b8ce020b27516cd370181/675b8ce020b27516cd370181.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Never Let Go ผูกเป็น หลุดตาย (2024)
 https://main.24playerhd.com/newplaylist/1a1c42e7d4ce99281a7dfae7/1a1c42e7d4ce99281a7dfae7.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Pilot ต้าวนักบิน จิ้นกันไหมจ๊ะ (2024)
 https://main.24playerhd.com/newplaylist/d13301507423efda1a90c8d6/d13301507423efda1a90c8d6.m3u8
-#EXTINF:-1 group-title="Movie หนัง", สัปเหน่อ Under Accent Taker (2024)
+#EXTINF:-1 group-title="Movie หนัง",สัปเหน่อ Under Accent Taker (2024)
 https://main.24playerhd.com/newplaylist/aa724d04d90c7bfc54ba2ec5/aa724d04d90c7bfc54ba2ec5.m3u8
 #EXTINF:-1 group-title="Movie หนัง",โคตรทีมรหัสลับ จอห์นนี่ Code Name Johnny (2024)
 https://main.24playerhd.com/newplaylist/be77a76beb38d22033836323/be77a76beb38d22033836323.m3u8
@@ -2449,7 +2461,7 @@ https://main.24playerhd.com/newplaylist/2e038381ef4c34c3b8f3e43a/2e038381ef4c34c
 https://main.24playerhd.com/newplaylist/9c5425e9d7cdab4c27e767e3/9c5425e9d7cdab4c27e767e3.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Civil War (2024) วิบัติสมรภูมิเมืองเดือด
 https://main.24playerhd.com/newplaylist/07791e6395aefa90f7581d7c/07791e6395aefa90f7581d7c.m3u8
-#EXTINF:-1 group-title="Movie หนัง", The Ministry of Ungentlemanly Warfare (2024) แสบจารชนคนพลิกโลก
+#EXTINF:-1 group-title="Movie หนัง",The Ministry of Ungentlemanly Warfare (2024) แสบจารชนคนพลิกโลก
 https://main.24playerhd.com/newplaylist/109779e7d2e8fa11825ccd5e/109779e7d2e8fa11825ccd5e.m3u8
 #EXTINF:-1 group-title="Movie หนัง",หลานม่า How to Make Millions Before Grandma Dies (2024)
 https://main.24playerhd.com/newplaylist/222da444705fd1cf1175d3f0/222da444705fd1cf1175d3f0.m3u8
@@ -2463,19 +2475,19 @@ https://main.24playerhd.com/newplaylist/edc968c991bee195b8115189/edc968c991bee19
 https://main.24playerhd.com/newplaylist/3fed3e927923a9773f34084b/3fed3e927923a9773f34084b.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Nice Girls (2024)
 https://main.24playerhd.com/newplaylist/b1bd5b511e46ae1509d71b08/b1bd5b511e46ae1509d71b08.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Incoming มือใหม่ไฮสกูล (2024)
+#EXTINF:-1 group-title="Movie หนัง",Incoming มือใหม่ไฮสกูล (2024)
 https://main.24playerhd.com/newplaylist/113fbe62869a458769b605db/113fbe62869a458769b605db.m3u8
 #EXTINF:-1 group-title="Movie หนัง",The Crow อีกาพญายม (2024)
 https://main.24playerhd.com/newplaylist/7695a768f4af4442a14b012f/7695a768f4af4442a14b012f.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Rebel Ridge เรเบลริดจ์ ผ่าเมืองอยุติธรรม (2024)
+#EXTINF:-1 group-title="Movie หนัง",Rebel Ridge เรเบลริดจ์ ผ่าเมืองอยุติธรรม (2024)
 https://main.24playerhd.com/newplaylist/fa42b12851ac746b34e96279/fa42b12851ac746b34e96279.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Trap (2024) แทร็ป
 https://main.24playerhd.com/newplaylist/11e270054dd49ee8e6f42d17/11e270054dd49ee8e6f42d17.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Strange Darling รัก ลวง ฆ่า (2024)
+#EXTINF:-1 group-title="Movie หนัง",Strange Darling รัก ลวง ฆ่า (2024)
 https://main.24playerhd.com/newplaylist/df26755b80fbd903ec228ad1/df26755b80fbd903ec228ad1.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Beetlejuice Beetlejuice บีเทิลจู๊ดส์ บีเทิลจู๊ดส์ ผีขี้จุ้ย 2
 https://main.24playerhd.com/newplaylist/ec4b8c5ab23fea543200a597/ec4b8c5ab23fea543200a597.m3u8
-#EXTINF:-1 group-title="Movie หนัง", เธอฟอร์แคช Love You to Debt (2024)
+#EXTINF:-1 group-title="Movie หนัง",เธอฟอร์แคช Love You to Debt (2024)
 https://main.24playerhd.com/newplaylist/24476b90f41c9f34ffb82ef0/24476b90f41c9f34ffb82ef0.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Sheriff: Narko Integriti มือปราบเจ้าพ่อเถื่อน (2024)
 https://main.24playerhd.com/newplaylist/06c628bff1b3251cbe02c566/06c628bff1b3251cbe02c566.m3u8
@@ -2483,7 +2495,7 @@ https://main.24playerhd.com/newplaylist/06c628bff1b3251cbe02c566/06c628bff1b3251
 https://main.24playerhd.com/newplaylist/d54efa3e822a088a2961d83c/d54efa3e822a088a2961d83c.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Arthur the King (2024) อาเธอร์ จอมราชา
 https://main.24playerhd.com/newplaylist/e2c0f5748ab78e61ceb47a7a/e2c0f5748ab78e61ceb47a7a.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Fly Me to the Moon (2024) ทะยานฟ้าสู่พื้นจันทร์
+#EXTINF:-1 group-title="Movie หนัง",Fly Me to the Moon (2024) ทะยานฟ้าสู่พื้นจันทร์
 https://main.24playerhd.com/newplaylist/3796f16f3b1bd78cbd847a09/3796f16f3b1bd78cbd847a09.m3u8
 #EXTINF:-1 group-title="Movie หนัง",The Union (2024) เดอะ ยูเนี่ยน
 https://main.24playerhd.com/newplaylist/3b6046c367563f6a1e8d9ed9/3b6046c367563f6a1e8d9ed9.m3u8
@@ -2491,9 +2503,9 @@ https://main.24playerhd.com/newplaylist/3b6046c367563f6a1e8d9ed9/3b6046c367563f6
 https://main.24playerhd.com/newplaylist/1a27b4ef4e19dd74400ec7b3/1a27b4ef4e19dd74400ec7b3.m3u8
 #EXTINF:-1 group-title="Movie หนัง",A Quiet Place Day One (2024) ดินแดนไร้เสียง วันที่หนึ่ง
 https://main.24playerhd.com/newplaylist/474a70c6477ebd436a3a5c6f/474a70c6477ebd436a3a5c6f.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Borderlands (2024) บอร์เดอร์แลนดส์ แดนล้น คนปล้นจักรวาล
+#EXTINF:-1 group-title="Movie หนัง",Borderlands (2024) บอร์เดอร์แลนดส์ แดนล้น คนปล้นจักรวาล
 https://main.24playerhd.com/newplaylist/c43df236a46f7ab94f31577d/c43df236a46f7ab94f31577d.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Inside the Mind of a Dog (2024) อ่านใจสุนัข
+#EXTINF:-1 group-title="Movie หนัง",Inside the Mind of a Dog (2024) อ่านใจสุนัข
 https://main.24playerhd.com/newplaylist/757e551de0ffd8374239eb37/757e551de0ffd8374239eb37.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Mission Cross (2024) ภารกิจลับพ่อบ้าน
 https://main.24playerhd.com/newplaylist/1632b9083748a0e71eb4d6a7/1632b9083748a0e71eb4d6a7.m3u8
@@ -2507,7 +2519,7 @@ https://main.24playerhd.com/newplaylist/c826bc7000f674c32455d809/c826bc7000f674c
 https://main.24playerhd.com/newplaylist/5c9d0501259d4723b245734b/5c9d0501259d4723b245734b.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Saving Bikini Bottom The Sandy Cheeks Movie (2024)
 https://main.24playerhd.com/newplaylist/708af05f09dd62b42394ef3a/708af05f09dd62b42394ef3a.m3u8
-#EXTINF:-1 group-title="Movie หนัง", The Cursed (2024) เหมรฺย
+#EXTINF:-1 group-title="Movie หนัง",The Cursed (2024) เหมรฺย
 https://main.24playerhd.com/newplaylist/dcc8921a64a9e1af57fbf3da/dcc8921a64a9e1af57fbf3da.m3u8
 #EXTINF:-1 group-title="Movie หนัง",My Spy The Eternal City (2024) พยัคฆ์ร้าย สปายแสบ คู่ป่วนตะลุยเมืองศักดิ์สิทธิ์
 https://main.24playerhd.com/newplaylist/110bdcce7e8cdf9d9475e64a/110bdcce7e8cdf9d9475e64a.m3u8
@@ -2515,7 +2527,7 @@ https://main.24playerhd.com/newplaylist/110bdcce7e8cdf9d9475e64a/110bdcce7e8cdf9
 https://main.24playerhd.com/newplaylist/bed4a42f112b0d99d2b7069e/bed4a42f112b0d99d2b7069e.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Pee Nak 4 (2024) พี่นาค 4
 https://main.24playerhd.com/newplaylist/f3bda2c0377e30ff0e199fe6/f3bda2c0377e30ff0e199fe6.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Space Cadet (2024) สาวแสบซ่า ท้าอวกาศ
+#EXTINF:-1 group-title="Movie หนัง",Space Cadet (2024) สาวแสบซ่า ท้าอวกาศ
 https://main.24playerhd.com/newplaylist/f69f4dec77aa717799863194/f69f4dec77aa717799863194.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Find Me Falling (2024) ล้มลุกแล้วเจอรัก
 https://main.24playerhd.com/newplaylist/9c2b77d1d568f34e7596519e/9c2b77d1d568f34e7596519e.m3u8
@@ -2523,7 +2535,7 @@ https://main.24playerhd.com/newplaylist/9c2b77d1d568f34e7596519e/9c2b77d1d568f34
 https://main.24playerhd.com/newplaylist/cb6147328bcced1577790380/cb6147328bcced1577790380.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Tyler Perrys Divorce in the Black (2024) รัก ร้าง ร้าว เรืองราวของไทเลอร์ เพอร์รี
 https://main.24playerhd.com/newplaylist/17f46375d34813af44d8cf17/17f46375d34813af44d8cf17.m3u8
-#EXTINF:-1 group-title="Movie หนัง", The Garfield Movie (2024) เดอะ การ์ฟิลด์ มูฟวี่
+#EXTINF:-1 group-title="Movie หนัง",The Garfield Movie (2024) เดอะ การ์ฟิลด์ มูฟวี่
 https://main.24playerhd.com/newplaylist/aafee061134d6bce1fa38f01/aafee061134d6bce1fa38f01.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Wild Wild Punjab (2024) ปัญจาบป่วน มันส์ ฮา
 https://main.24playerhd.com/newplaylist/a1b5240540920a006b4de60e/a1b5240540920a006b4de60e.m3u8
@@ -2553,7 +2565,7 @@ https://main.24playerhd.com/newplaylist/28daa41f36d12f4ff213e4ef/28daa41f36d12f4
 https://main.24playerhd.com/newplaylist/7fc607077bfede5fa60a0b64/7fc607077bfede5fa60a0b64.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Inside Out 2 (2024) มหัศจรรย์อารมณ์อลเวง 2
 https://main.24playerhd.com/newplaylist/6904556cefce727be869705e/6904556cefce727be869705e.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Formed Police Unit FPU (2024) หน่วยพยัคฆ์พิทักษ์ข้ามโลก
+#EXTINF:-1 group-title="Movie หนัง",Formed Police Unit FPU (2024) หน่วยพยัคฆ์พิทักษ์ข้ามโลก
 https://main.24playerhd.com/newplaylist/6bd8e85f0a6c58f75bb0137b/6bd8e85f0a6c58f75bb0137b.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Kleks Academy (2024) โรงเรียนมายา คุณเคล็กซ์
 https://main.24playerhd.com/newplaylist/dda36d635955666e9db92afa/dda36d635955666e9db92afa.m3u8
@@ -2561,7 +2573,7 @@ https://main.24playerhd.com/newplaylist/dda36d635955666e9db92afa/dda36d635955666
 https://main.24playerhd.com/newplaylist/9ac5301a3c6974578b5b0b05/9ac5301a3c6974578b5b0b05.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Detective Conan vs Kid the Phantom Thief (2024) ยอดนักสืบจิ๋วโคนัน vs จอมโจรคิด
 https://main.24playerhd.com/newplaylist/c0f415e124182dff9e23b7bc/c0f415e124182dff9e23b7bc.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Mobile Suit Gundam SEED FREEDOM (2024)
+#EXTINF:-1 group-title="Movie หนัง",Mobile Suit Gundam SEED FREEDOM (2024)
 https://main.24playerhd.com/newplaylist/22ad4686a94239d5538e48cb/22ad4686a94239d5538e48cb.m3u8
 #EXTINF:-1 group-title="Movie หนัง",The Strangers Chapter 1 (2024) เดอะ สเตรนเจอร์ส อำมหิตฆ่าไม่สน
 https://main.24playerhd.com/newplaylist/bde6004012933fee021a65c7/bde6004012933fee021a65c7.m3u8
@@ -2569,9 +2581,9 @@ https://main.24playerhd.com/newplaylist/bde6004012933fee021a65c7/bde6004012933fe
 https://main.24playerhd.com/newplaylist/921d6b66bd70543cc5cd018f/921d6b66bd70543cc5cd018f.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Nelma Kodama (2024) ราชินีเงินสกปรก
 https://main.24playerhd.com/newplaylist/88251e3c14c13048acf8f791/88251e3c14c13048acf8f791.m3u8
-#EXTINF:-1 group-title="Movie หนัง", The Price Of Nonny's Inheritance (2024) มรดกคุณยาย
+#EXTINF:-1 group-title="Movie หนัง",The Price Of Nonny's Inheritance (2024) มรดกคุณยาย
 https://main.24playerhd.com/newplaylist/1c839b19756f2a67b5886d20/1c839b19756f2a67b5886d20.m3u8
-#EXTINF:-1 group-title="Movie หนัง", A Part of You (2024) ส่วนหนึ่งของเธอ
+#EXTINF:-1 group-title="Movie หนัง",A Part of You (2024) ส่วนหนึ่งของเธอ
 https://main.24playerhd.com/newplaylist/317b795765c2db71366e53d5/317b795765c2db71366e53d5.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Die Hart 2 Die Harter (2024) ฮาร์ต อึดเต็มคาราเบล
 https://main.24playerhd.com/newplaylist/caf94d51a9c4b3b139d8f71d/caf94d51a9c4b3b139d8f71d.m3u8
@@ -2579,7 +2591,7 @@ https://main.24playerhd.com/newplaylist/caf94d51a9c4b3b139d8f71d/caf94d51a9c4b3b
 https://main.24playerhd.com/newplaylist/317b795765c2db71366e53d5/317b795765c2db71366e53d5.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Die Hart 2 Die Harter (2024) ฮาร์ต อึดเต็มคาราเบล
 https://main.24playerhd.com/newplaylist/caf94d51a9c4b3b139d8f71d/caf94d51a9c4b3b139d8f71d.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Bionic (2024) เหนือมนุษย์
+#EXTINF:-1 group-title="Movie หนัง",Bionic (2024) เหนือมนุษย์
 https://main.24playerhd.com/newplaylist/56d5f138168a8178f782e4e7/56d5f138168a8178f782e4e7.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Atlas (2024) ล่าข้ามจักรวาล
 https://main.24playerhd.com/newplaylist/3fd66a144abb431c40eaec95/3fd66a144abb431c40eaec95.m3u8
@@ -2591,7 +2603,7 @@ https://main.24playerhd.com/newplaylist/16c7aea31ac96ecfd2fd7fba/16c7aea31ac96ec
 https://main.24playerhd.com/newplaylist/23490e0f98edc321af7e5e37/23490e0f98edc321af7e5e37.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Ghostbusters 5 Frozen Empire (2024) โกสต์บัสเตอร์ส มหันตภัยเมืองเยือกแข็ง
 https://main.24playerhd.com/newplaylist/c50a8b619306a421c75580ae/c50a8b619306a421c75580ae.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Mother of the Bride (2024) แม่เจ้าสาว
+#EXTINF:-1 group-title="Movie หนัง",Mother of the Bride (2024) แม่เจ้าสาว
 https://main.24playerhd.com/newplaylist/c46299a01e83d0ab11e5f69c/c46299a01e83d0ab11e5f69c.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Unfrosted (2024) ศึกป๊อปทาร์ต
 https://main.24playerhd.com/newplaylist/0ed3cf2a8e795bf648eda9d9/0ed3cf2a8e795bf648eda9d9.m3u8
@@ -2619,13 +2631,13 @@ https://main.24playerhd.com/newplaylist/96c247899fc77c6ed58a5bdc/96c247899fc77c6
 https://main.24playerhd.com/newplaylist/c45d34574638c45fbcd116fc/c45d34574638c45fbcd116fc.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Parasyte The Grey (2024) ปรสิต เดอะ เกรย์
 https://main.24playerhd.com/newplaylist/86ffde3ab84fa36a9b5d4d23/86ffde3ab84fa36a9b5d4d23.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Scoop (2024) สกู๊ปสะเทือนโลก
+#EXTINF:-1 group-title="Movie หนัง",Scoop (2024) สกู๊ปสะเทือนโลก
 https://main.24playerhd.com/newplaylist/73b349646de2e63196b247d5/73b349646de2e63196b247d5.m3u8
 #EXTINF:-1 group-title="Movie หนัง",The Tearsmith (2024) เจ้าแห่งน้ำตา
 https://main.24playerhd.com/newplaylist/22f972671df2e8de5abc3b3d/22f972671df2e8de5abc3b3d.m3u8
 #EXTINF:-1 group-title="Movie หนัง",The Wages of Fear (2024)
 https://main.24playerhd.com/newplaylist/5855008c70a2b60224d6e211/5855008c70a2b60224d6e211.m3u8
-#EXTINF:-1 group-title="Movie หนัง", The Beautiful Game (2024) เดอะบิ้วตี้ฟูล เกม
+#EXTINF:-1 group-title="Movie หนัง",The Beautiful Game (2024) เดอะบิ้วตี้ฟูล เกม
 https://main.24playerhd.com/newplaylist/1d259c847823fe0bc2a9ec7f/1d259c847823fe0bc2a9ec7f.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Heart of the Hunter (2024) หัวใจนักล่า
 https://main.24playerhd.com/newplaylist/f4054a95d6eed8a0768c19d2/f4054a95d6eed8a0768c19d2.m3u8
@@ -2635,7 +2647,7 @@ https://main.24playerhd.com/newplaylist/b9c3ae9b01e1b7038fd10158/b9c3ae9b01e1b70
 https://main.24playerhd.com/newplaylist/b34898190bac6fc9400c8a48/b34898190bac6fc9400c8a48.m3u8
 #EXTINF:-1 group-title="Movie หนัง",No Pressure (2024) รักไม่กดดัน
 https://main.24playerhd.com/newplaylist/c8eaa7efa06473988401fe80/c8eaa7efa06473988401fe80.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Rob N Roll (2024) มหากาพย์ปล้นจารชน
+#EXTINF:-1 group-title="Movie หนัง",Rob N Roll (2024) มหากาพย์ปล้นจารชน
 https://main.24playerhd.com/newplaylist/e1758ea5bfbf71e84efd5c3c/e1758ea5bfbf71e84efd5c3c.m3u8
 #EXTINF:-1 group-title="Movie หนัง",The Casagrandes Movie (2024) เดอะ คาซากรานเดส์ มูฟวี่
 https://main.24playerhd.com/newplaylist/923fad2900aa105fc77a4247/923fad2900aa105fc77a4247.m3u8
@@ -2657,7 +2669,7 @@ https://main.24playerhd.com/newplaylist/f3e2f8db268cdb12f5d1bf0b/f3e2f8db268cdb1
 https://main.24playerhd.com/newplaylist/1e621ad6868639ce23e49630/1e621ad6868639ce23e49630.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Spaceman (2024) สเปซแมน
 https://main.24playerhd.com/newplaylist/32d0c82ec4bfa421c63dd109/32d0c82ec4bfa421c63dd109.m3u8
-#EXTINF:-1 group-title="Movie หนัง", My Name Is Loh Kiwan (2024) ผมชื่อโรกีวาน
+#EXTINF:-1 group-title="Movie หนัง",My Name Is Loh Kiwan (2024) ผมชื่อโรกีวาน
 https://main.24playerhd.com/newplaylist/b09cb775781425d6017221aa/b09cb775781425d6017221aa.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Mea Culpa (2024) ทนายคดีฆ่า
 https://main.24playerhd.com/newplaylist/6380ce45ca48f82e6365fcd8/6380ce45ca48f82e6365fcd8.m3u8
@@ -2691,27 +2703,27 @@ https://main.24playerhd.com/newplaylist/9c4aa56535c1f286a3b9d352/9c4aa56535c1f28
 https://main.24playerhd.com/newplaylist/703549a03defe783ac4fe370/703549a03defe783ac4fe370.m3u8
 #EXTINF:-1 group-title="Movie หนัง",Society of the Snow (2024) หิมะโหดคนทรหด
 https://main.24playerhd.com/newplaylist/c8ed81282223f5aec4cf2e9e/c8ed81282223f5aec4cf2e9e.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Society of the Snow (2024) หิมะโหดคนทรหด
+#EXTINF:-1 group-title="Movie หนัง",Society of the Snow (2024) หิมะโหดคนทรหด
 https://main.24playerhd.com/newplaylist/c8ed81282223f5aec4cf2e9e/c8ed81282223f5aec4cf2e9e.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Strange Darling รัก ลวง ฆ่า (2024)
+#EXTINF:-1 group-title="Movie หนัง",Strange Darling รัก ลวง ฆ่า (2024)
 https://main.24playerhd.com/newplaylist/df26755b80fbd903ec228ad1/df26755b80fbd903ec228ad1.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Mantra Warrior The Legend of the Eight Moons (2024) นักรบมนตรา ตำนานแปดดวงจันทร์
+#EXTINF:-1 group-title="Movie หนัง",Mantra Warrior The Legend of the Eight Moons (2024) นักรบมนตรา ตำนานแปดดวงจันทร์
 https://main.24playerhd.com/newplaylist/b5ddea6f131bc716037fdf35/b5ddea6f131bc716037fdf35.m3u8
-#EXTINF:-1 group-title="Movie หนัง", The Kitchen (2024) เดอะ คิทเช่น
+#EXTINF:-1 group-title="Movie หนัง",The Kitchen (2024) เดอะ คิทเช่น
 https://main.24playerhd.com/newplaylist/2175a99188ca20f5e07a2320/2175a99188ca20f5e07a2320.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Maboroshi (2024) มาโบโรชิ
+#EXTINF:-1 group-title="Movie หนัง",Maboroshi (2024) มาโบโรชิ
 https://main.24playerhd.com/newplaylist/9c4aa56535c1f286a3b9d352/9c4aa56535c1f286a3b9d352.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Boy Kills World (2024) แค้นนี้ที่รอคิวล์
+#EXTINF:-1 group-title="Movie หนัง",Boy Kills World (2024) แค้นนี้ที่รอคิวล์
 https://main.24playerhd.com/newplaylist/43f3968ffba0d69bc900931f/43f3968ffba0d69bc900931f.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Rebel Moon Part One A Director’s Cut (2024)
+#EXTINF:-1 group-title="Movie หนัง",Rebel Moon Part One A Director’s Cut (2024)
 https://main.24playerhd.com/newplaylist/d1ccc983190d22ef8ffa96c3/d1ccc983190d22ef8ffa96c3.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Baby Shark's Big Movie (2024)
+#EXTINF:-1 group-title="Movie หนัง",Baby Shark's Big Movie (2024)
 https://main.24playerhd.com/newplaylist/7798cab0968732d9f5070bbd/7798cab0968732d9f5070bbd.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Kleks Academy (2024) โรงเรียนมายา คุณเคล็กซ์
+#EXTINF:-1 group-title="Movie หนัง",Kleks Academy (2024) โรงเรียนมายา คุณเคล็กซ์
 https://main.24playerhd.com/newplaylist/dda36d635955666e9db92afa/dda36d635955666e9db92afa.m3u8
-#EXTINF:-1 group-title="Movie หนัง", His Three Daughters สามสาว ลูกสาวพ่อ (2024)
+#EXTINF:-1 group-title="Movie หนัง",His Three Daughters สามสาว ลูกสาวพ่อ (2024)
 https://main.24playerhd.com/newplaylist/4c6518013d25210d6fb87675/4c6518013d25210d6fb87675.m3u8
-#EXTINF:-1 group-title="Movie หนัง", Mallari (2024) มัลลารี ตำนานเชือด โลกสะท้าน
+#EXTINF:-1 group-title="Movie หนัง",Mallari (2024) มัลลารี ตำนานเชือด โลกสะท้าน
 https://main.24playerhd.com/newplaylist/28daa41f36d12f4ff213e4ef/28daa41f36d12f4ff213e4ef.m3u8
 #EXTINF:-1 group-title="Movie หนัง",นาคามรกต (2021)
 #EXTVLCOPT:network-caching=1000
@@ -12856,12 +12868,12 @@ https://streamhls.com/view/54a21fbc-bde0-536a-a8d4-e5d8cabeac1c.m3u8
 #EXTINF:-1 group-title="Movie หนัง",(2013) เกมล่าเกม 2
 #EXTVLCOPT:network-caching=1000
 https://streamhls.com/view/458528e2-e8e9-556e-9644-749769c02f11.m3u8
-#EXTINF:-1,(2014) เกมล่าเกม 3
+#EXTINF:-1 ,(2014) เกมล่าเกม 3
 #EXTVLCOPT:network-caching=1000
 https://streamhls.com/view/bde6d26d-77bd-557f-aa02-2911ce073ded.m3u8
-#EXTINF:-1,(2015) เกมล่าเกม 4
+#EXTINF:-1 ,(2015) เกมล่าเกม 4
 #EXTVLCOPT:network-caching=1000
 https://streamhls.com/view/8b48f3e5-ea2a-5b44-9432-e93058febba9.m3u8
-#EXTINF:-1,(2015) เกมล่าเกม 5
+#EXTINF:-1 ,(2015) เกมล่าเกม 5
 #EXTVLCOPT:network-caching=1000
 https://streamhls.com/view/cda88696-8be1-5cde-bf86-89d528f76675.m3u8
