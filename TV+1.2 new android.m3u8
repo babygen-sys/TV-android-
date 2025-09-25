@@ -4,7 +4,7 @@ https://ww.dooballfree.vip/live/lfctv/playlist.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",MUTV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://ww.dooballfree.vip/live/mutv/playlist.m3u8
+http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B4:AF:2D&stream=45324&extension=ts&play_token=aRiYcVl3hY
 #EXTINF:-1 group-title="Sports กีฬา",Top Barça
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Real Madrid TV
@@ -32,7 +32,7 @@ http://43.229.79.245:8080/live/MPLFREE/000000/218079.m3u8
 http://43.229.79.245:8080/live/MPLFREE/000000/218081.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",🏀 NBA TV
 #EXTVLCOPT:network-caching=1000
-https://ww.dooballfree.vip/live/nba/playlist.m3u8
+http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B4:AF:2D&stream=1000006&extension=ts&play_token=SBUpKymbXE
 #EXTINF:-1 group-title="Sports กีฬา",NFL
 #EXTVLCOPT:network-caching=1000
 http://43.229.79.245:8080/live/MPLFREE/000000/159011.m3u8
