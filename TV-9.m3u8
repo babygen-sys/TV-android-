@@ -1,0 +1,1372 @@
+#EXTM3U
+#EXTINF:25,NBTHD
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8
+#EXTINF:0,ThaiPBSHD
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186620&extension=ts
+#EXTINF:0,VIPA
+#EXTVLCOPT:network-caching=1000
+http://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/profile_1/chunklist.m3u8
+#EXTINF:0,CH5 HD
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186423&extension=ts
+#EXTINF:0,T-SPorts7
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
+#EXTINF:0,TPTV
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186410&extension=ts
+#EXTINF:0,TNN16
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186626&extension=ts
+#EXTINF:0,JKN18
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
+#EXTINF:0,NationTV
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
+#EXTINF:0,WorkpointTV
+#EXTVLCOPT:network-caching=1000
+https://global-media.sooplive.com/live/workpoint/master.m3u8
+#EXTINF:0,True4U
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186411&extension=ts
+#EXTINF:0,GMM25
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186494&extension=ts
+#EXTINF:0,CH8
+#EXTVLCOPT:network-caching=1000
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+#EXTINF:0,MONO29
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186531&extension=ts
+#EXTINF:0, MonoPlusHD
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186380&extension=ts
+#EXTINF:0,MCOTHD
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186530&extension=ts
+#EXTINF:0,ONE31
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186495&extension=ts
+#EXTINF:0,ThairathTVHD
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186622&extension=ts
+#EXTINF:0,CH3HD
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186421&extension=ts
+#EXTINF:0,AmarinTVHD
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186379&extension=ts
+#EXTINF:0,CH7HD
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
+#EXTINF:0,PPTVHD
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186560&extension=ts
+#EXTINF:0,TopNewsHD
+#EXTVLCOPT:network-caching=1000
+http://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8
+#EXTINF:0,News1
+#EXTVLCOPT:network-caching=1000
+http://server1.streamssl.com/stream/news1_mid.m3u8
+#EXTINF:0,PoliceTV
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186557&extension=ts
+#EXTINF:0,13สยามไท
+#EXTVLCOPT:network-caching=1000
+https://live.x2.co.th/live/13livetv-th_720p/index.m3u8
+#EXTINF:0, สุวรรณภูมิทีวี
+#EXTVLCOPT:network-caching=1000
+http://live.bangkokstream.com:19370/suwannabhumi/suwannabhumi.m3u8
+#EXTINF:0,NBT ภาคกลาง
+#EXTVLCOPT:network-caching=1000
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
+#EXTINF:0,NBT ภาคอีสาน
+#EXTVLCOPT:network-caching=1000
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
+#EXTINF:0,NBT ภาคเหนือ
+#EXTVLCOPT:network-caching=1000
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
+#EXTINF:0,NBT ภาคใต้
+#EXTVLCOPT:network-caching=1000
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
+#EXTINF:0, HBOHD
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186515&extension=ts
+#EXTINF:0, HBOHits
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186429&extension=ts
+#EXTINF:0, HBOSignature
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186513&extension=ts
+#EXTINF:0, HBOFamily
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186427&extension=ts
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186470&extension=ts
+#EXTINF:0,Rock-Entertainment
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186402&extension=ts
+#EXTINF:0,ROCKAction
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186403&extension=ts
+#EXTINF:0,Hits
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
+#EXTINF:0,HitsMovie
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
+#EXTINF:0,Action Hollywood Movies
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186608&extension=ts
+#EXTINF:0,Axn
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186394&extension=ts
+#EXTINF:0,Warnertv
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186637&extension=ts
+#EXTINF:0,trueTHAIFILM
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186616&extension=ts
+#EXTINF:0,trueFILM1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186617&extension=ts
+#EXTINF:0,trueFILM2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186464&extension=ts
+#EXTINF:0,trueMOVIEHITS
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186473&extension=ts
+#EXTINF:0,trueFILMASIA
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186466&extension=ts
+#EXTINF:0,trueSeries
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186586&extension=ts
+#EXTINF:0,trueASIANMORE
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186385&extension=ts
+#EXTINF:0,CCM
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186418&extension=ts
+#EXTINF:0,AsianHits
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186517&extension=ts
+#EXTINF:0,Dragon
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdn.live/ballsod24hrs/mangorn/playlist.m3u8
+#EXTINF:0,Cool Channel
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186556&extension=ts
+#EXTINF:0,ลิโด้ Channel
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/live_vod/lido.m3u8
+#EXTINF:0,สยาม Channel
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/live_vod/siam.m3u8
+#EXTINF:0,สกาล่า Channel
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/live_vod/scala.m3u8
+#EXTINF:0,FWMOV
+#EXTVLCOPT:network-caching=1000
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjUgNDowMzoxMCBBTSZoYXNoX3ZhbHVlPVg0M21uTWhXc0pmVExRZ1NKWW96bVE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:0,FWSOV
+#EXTVLCOPT:network-caching=1000
+https://live12.inwstream.com/transcoder_F1/fwsov_fw-iptv.stream/chunks.m3u8?nimblesessionid=28861983&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI1IDQ6MjA6MTEgQU0maGFzaF92YWx1ZT16M3hsS2VsSGpxcFNVL1NNOFc3YzNRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:0,Thainews
+#EXTVLCOPT:network-caching=1000
+https://live.thaitvstream.com/play/thainews/index.m3u8
+#EXTINF:0,Siamnewstv
+#EXTVLCOPT:network-caching=1000
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:0,Gochannel
+#EXTVLCOPT:network-caching=1000
+https://live2.thaitvstream.com/play/gochannel/index.m3u8
+#EXTINF:0,Chiangrai
+#EXTVLCOPT:network-caching=1000
+https://live.thaitvstream.com/play/chiangrai/index.m3u8
+#EXTINF:0,MOUNCHON TV
+#EXTVLCOPT:network-caching=1000
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+#EXTINF:0,Channel8thailand
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186591&extension=ts
+#EXTINF:0,Zee Nung
+#EXTVLCOPT:network-caching=1000
+https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
+#EXTINF:0,Universal
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/H-Channel
+#EXTINF:0,การ์ตูน
+#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/Cartoonumi
+#EXTINF:0,movies1
+#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/SERIES
+#EXTINF:0,movies2
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/IZAA
+#EXTINF:0,movies3
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/PING
+#EXTINF:0,Discovery
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186437&extension=ts
+#EXTINF:0,DiscoveryAsia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
+#EXTINF:0,History
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186516&extension=ts
+#EXTINF:0,History 2
+#EXTVLCOPT:network-caching=1000
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+#EXTINF:0,trueEXPLOREWILD
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186458&extension=ts
+#EXTINF:0,trueEXPLORELIFE
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186456&extension=ts
+#EXTINF:0,trueEXPLORESCI
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186457&extension=ts
+#EXTINF:0,BBCearth
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341517&extension=ts
+#EXTINF:0,BBCLifestyle
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=444208&extension=ts
+#EXTINF:0,Natgeographic
+#EXTVLCOPT:network-caching=1000
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=45964&extension=ts
+#EXTINF:0,Natgeowild
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=45962&extension=ts
+#EXTINF:0,Crime-Investigation
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=115649&extension=ts
+#EXTINF:0,OutDoor
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186552&extension=ts
+#EXTINF:0,LifeTime
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341578&extension=ts
+#EXTINF:0,Lovenature
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=250752&extension=ts
+#EXTINF:0,DMAX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+#EXTINF:0, trueX-ZYTE
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186648&extension=ts
+#EXTINF:0,Food Network
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186468&extension=ts
+#EXTINF:0, asian food channel
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186384&extension=ts
+#EXTINF:0, TLC
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186624&extension=ts
+#EXTINF:0, Samrujlok
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#EXTVLCOPT:network-caching=1000
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH/V0151.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=2327b5e3fbce1a2303307146426d70ca&chunkHttps=true&tmid=B0003&tpbk=AzBHx9dW43jbJn3K&rrt=1758854410&tmod=rfk&rsid=93dd6209-6a48-482a-b643-c9d3612a07dd&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1758940810
+#EXTINF:0, MySci
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186535&extension=ts
+#EXTINF:0, Animal Show
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186381&extension=ts
+#EXTINF:0, Khong Dee Thailand
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186634&extension=ts
+#EXTINF:0, Thainess
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186405&extension=ts
+#EXTINF:0, AMAZING
+#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/AMAZING
+#EXTINF:0, Animal
+#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/Animal
+#EXTINF:0, Science
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTVLCOPT:network-caching=1000
+http://49.0.64.96:8007/WSCI
+#EXTINF:0,Xtreme Outdoor Presented by HISTORY
+#EXTVLCOPT:network-caching=1000
+https://d3t5fccwnhi5z7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uy8wco0v6aga/v1/aenetworks_skills_thrills_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:0,Wired2Fish
+#EXTVLCOPT:network-caching=1000
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
+#EXTINF:0,WildEarth
+#EXTVLCOPT:network-caching=1000
+https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
+#EXTINF:0,XPLORE
+#EXTVLCOPT:network-caching=1000
+https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:0,PetCollective1
+#EXTVLCOPT:network-caching=1000
+https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
+#EXTINF:0,PetClubTV2
+#EXTVLCOPT:network-caching=1000
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:0, Alure Channel
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186583&extension=ts
+#EXTINF:0, RUSH Stories
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186397&extension=ts
+#EXTINF:0,MONOMAX1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://footballsod.live
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdn.live/4k/monomax1/chunks.m3u8
+#EXTINF:0,MONOMAX1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186561&extension=ts
+#EXTINF:0,MONOMAX1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8
+#EXTINF:0,MONOMAX2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8
+#EXTINF:0,MONOMAX2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
+#EXTINF:0,MONOMAX3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/monomax-3/chunks.m3u8
+#EXTINF:0,MONOMAX3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186570&extension=ts
+#EXTINF:0,MONOMAX4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/monomax-4/chunks.m3u8
+#EXTINF:0,MONOMAX4
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186580&extension=ts
+#EXTINF:0,MONOMAX5
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186582&extension=ts
+#EXTINF:0,MONOMAX5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/monomax-5/chunks.m3u8
+#EXTINF:0,MONOMAX6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/monomax-6/chunks.m3u8
+#EXTINF:0,MONOMAX7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/monomax-7/chunks.m3u8
+#EXTINF:0,MONOMAX8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/monomax-8/chunks.m3u8
+#EXTINF:0,TruePremierFootball3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186480&extension=ts
+#EXTINF:0,TruePremierFootball4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+#EXTVLCOPT:network-caching=1000
+https://cdnsv1.bunnycdncloud.com/andaman888th/tpf4/th-sport/tpf4/chunks.m3u8
+#EXTINF:0,TruePremierFootball5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hrs.com/
+#EXTVLCOPT:network-caching=1000
+https://dkl-c33es.cdn.akamaiz.com/dooballfree24hr/tpf5/playlist.m3u8
+#EXTINF:0,TrueSportHD
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186600&extension=ts
+#EXTINF:0,TrueSportHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdn.live/ballsod24hrs/tsp1/playlist.m3u8
+#EXTINF:0,TrueSportHD2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186593&extension=ts
+#EXTINF:0,TrueSportHD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdn.live/ballsod24hrs/tsp2/playlist.m3u8
+#EXTINF:0,TrueSportHD3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186602&extension=ts
+#EXTINF:0,TrueSportHD3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdn.live/ballsod24hrs/tsp3/playlist.m3u8
+#EXTINF:0,TrueSport5
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186596&extension=ts
+#EXTINF:0,TrueSport5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdn.live/ballsod24hrs/tsp5/playlist.m3u8
+#EXTINF:0,TrueSport7
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186597&extension=ts
+#EXTINF:0,TrueSport7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdn.live/ballsod24hrs/tsp7/playlist.m3u8
+#EXTINF:0,BeinSport1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186614&extension=ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186537&extension=ts
+#EXTINF:0,BeinSport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdn.live/ballsod24hrs/bein1/playlist.m3u8
+#EXTINF:0,BeinSport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8
+#EXTINF:0,BeinSport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+#EXTINF:0,BeinSport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186615&extension=ts
+#EXTINF:0,BeinSport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/bein2/chunks.m3u8
+#EXTINF:0,BeinSport2
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdn.live/ballsod24hrs/bein2/playlist.m3u8
+#EXTINF:0,BeinSport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+#EXTINF:0,BeinSport3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186533&extension=ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/bein3/chunks.m3u8
+#EXTINF:0,BeinSport3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdn.live/ballsod24hrs/bein3/playlist.m3u8
+#EXTINF:0,BeinSport3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovies.com:4432/02_epl3_720p/chunklist.m3u8
+#EXTINF:0,BeinSport4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/bein4/chunks.m3u8
+#EXTINF:0,BeinSport4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdn.live/ballsod24hrs/bein4/playlist.m3u8
+#EXTINF:0,BeinSport4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovies.com:4432/02_epl4_720p/chunklist.m3u8
+#EXTINF:0,BeinSport5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/bein5/chunks.m3u8
+#EXTINF:0,BeinSport5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdn.live/ballsod24hrs/bein5/playlist.m3u8
+#EXTINF:0,BeinSport5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovies.com:4432/02_epl5_720p/chunklist.m3u8
+#EXTINF:0,BeinSport6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/bein6/chunks.m3u8
+#EXTINF:0,BeinSport6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdn.live/ballsod24hrs/bein6/playlist.m3u8
+#EXTINF:0,BeinSport6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovies.com:4432/02_epl6_720p/chunklist.m3u8
+#EXTINF:0,BeinSport7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/bein7/chunks.m3u8
+#EXTINF:0,BeinSport7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdn.live/ballsod24hrs/bein7/playlist.m3u8
+#EXTINF:0,BeinSport7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovies.com:4432/02_epl7_720p/chunklist.m3u8
+#EXTINF:0,BeinSport8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdn.live/ballsod24hrs/bein8/playlist.m3u8
+#EXTINF:0,BeinSport9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdn.live/ballsod24hrs/bein9/playlist.m3u8
+#EXTINF:0,SPOTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/spotv/chunks.m3u8
+#EXTINF:0,SPOTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/spotv2/chunks.m3u8
+#EXTINF:0,Golf Channel
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186500&extension=ts
+#EXTINF:0,TrueTennis
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186612&extension=ts
+#EXTINF:0,NBATV
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186533&extension=ts
+#EXTINF:0,PlaysportsFootball1
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:network-caching=1000
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8%20
+#EXTINF:0,PlaysportsFootball2
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:network-caching=1000
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8%20
+#EXTINF:0,PlaysportsFootball3
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:network-caching=1000
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8%20
+#EXTINF:0,PlaysportsFootball4
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:network-caching=1000
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8%20
+#EXTINF:0,PlaysportsFootball5
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:network-caching=1000
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8%20
+#EXTINF:0,PlaysportsFootball6
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:network-caching=1000
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8%20
+#EXTINF:0,PlaysportsFootball7
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:network-caching=1000
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8%20
+#EXTINF:0,PlaysportsFootball8
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:network-caching=1000
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/pla/anevia/live/eds/TL008/HLS/TL008.m3u8%20
+#EXTINF:0,Astro Grandstand
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186389&extension=ts
+#EXTINF:0,Astro Football 
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186390&extension=ts
+#EXTINF:0,Astro Premier League
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186387&extension=ts
+#EXTINF:0,Astro Premier League2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186388&extension=ts
+#EXTINF:0,ARENASPORT1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537002&extension=ts
+#EXTINF:0,ARENASPORT2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537006&extension=ts
+#EXTINF:0,ARENASPORT3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537009&extension=ts
+#EXTINF:0,ARENASPORT4
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537012&extension=ts
+#EXTINF:0,ArenaSportPremium1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537029&extension=ts
+#EXTINF:0,ArenaSportPremium2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537031&extension=ts
+#EXTINF:0,ArenaSportPremium3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537033&extension=ts
+#EXTINF:0,BEIN1HD-FR
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=9383&extension=ts
+#EXTINF:0,BEIN2HD-FR
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=9382&extension=ts
+#EXTINF:0,BEIN3HD-FR
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=9381&extension=ts
+#EXTINF:0,beIN Sports 4 Max
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=11505&extension=ts
+#EXTINF:0,beIN Sports 5 Max
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=11504&extension=ts
+#EXTINF:0,beIN Sports 6 Max
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=11503&extension=ts
+#EXTINF:0,beIN Sports 7 Max
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=11502&extension=ts
+#EXTINF:0,beIN Sports 8 Max
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=11501&extension=ts
+#EXTINF:0,beIN Sports 9 Max
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=11500&extension=ts
+#EXTINF:0,beIN Sports 10 Max
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=11499&extension=ts
+#EXTINF:0,beIN Sports 1 Turkey
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=330762&extension=ts
+#EXTINF:0,beIN Sports 2 Turkey
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=330768&extension=ts
+#EXTINF:0,beIN Sports 3 Turkey
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=330772&extension=ts
+#EXTINF:0,beIN Sports 4 Turkey
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=330776&extension=ts
+#EXTINF:0,beIN SPORTS Max 1 Turkey
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=330782&extension=ts
+#EXTINF:0,beIN SPORTS Max 2 Turkey
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=330784&extension=ts
+#EXTINF:0,bein1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13534&extension=ts
+#EXTINF:0,bein2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13532&extension=ts
+#EXTINF:0,bein3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13530&extension=ts
+#EXTINF:0,bein4
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13548&extension=ts
+#EXTINF:0,bein5
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13546&extension=ts
+#EXTINF:0,bein6
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13544&extension=ts
+#EXTINF:0,bein7
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13536&extension=ts
+#EXTINF:0,bein8
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13540&extension=ts
+#EXTINF:0,bein9
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13538&extension=ts
+#EXTINF:0,bein10
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186389&extension=ts
+#EXTINF:0,bein11
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186389&extension=ts
+#EXTINF:0,bein12
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186389&extension=ts
+#EXTINF:0,CBS Sports Network
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=134033&extension=ts
+#EXTINF:0,Canalsport1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=248340&extension=ts
+#EXTINF:0,Canalsport2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=248341&extension=ts
+#EXTINF:0,Canalsport3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=248342&extension=ts
+#EXTINF:0,Canalsport4
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=248343&extension=ts
+#EXTINF:0,DIGISPORT1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77487&extension=ts
+#EXTINF:0,DIGISPORT2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77486&extension=ts
+#EXTINF:0,DIGISPORT3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77485&extension=ts
+#EXTINF:0,DIGISPORT4
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77484&extension=ts
+#EXTINF:0,DAZN 1 Germany
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=374410&extension=ts
+#EXTINF:0,DAZN 2 Germany
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=374411&extension=ts
+#EXTINF:0,DAZN 1 | Spain
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=214672&extension=ts
+#EXTINF:0,DAZN 2 | Spain
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=214673&extension=ts
+#EXTINF:0,DAZN 3 | Spain
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=214718&extension=ts
+#EXTINF:0,DAZN 4 | Spain
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=374411&extension=ts
+#EXTINF:0,DAZN F1 (Spain)
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=214592&extension=ts
+#EXTINF:0,Eurosport 1 | Spain
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=214691&extension=ts
+#EXTINF:0,Eurosport 2 | Spain
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=214690&extension=ts
+#EXTINF:0,ESPN1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=173529&extension=ts
+#EXTINF:0,ESPN2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=173530&extension=ts
+#EXTINF:0,ESPN3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=173531&extension=ts
+#EXTINF:0,ESPN4
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=173532&extension=ts
+#EXTINF:0,elevenSports
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=214690&extension=ts
+#EXTINF:0,Foxsport501
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=76213&extension=ts
+#EXTINF:0,Foxsport502
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=76206&extension=ts
+#EXTINF:0,Foxsport503
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=76212&extension=ts
+#EXTINF:0,Foxsport504
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=76211&extension=ts
+#EXTINF:0,Foxsport505
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=76210&extension=ts
+#EXTINF:0,Novasport1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=85261&extension=ts
+#EXTINF:0,Novasport2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=85260&extension=ts
+#EXTINF:0,Novasport3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=85259&extension=ts
+#EXTINF:0,Novasport4
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=85258&extension=ts
+#EXTINF:0,Prima Sport 1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=238886&extension=ts
+#EXTINF:0,Prima Sport 2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=238887&extension=ts
+#EXTINF:0,Prima Sport 3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77481&extension=ts
+#EXTINF:0,Prima Sport 4
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77490&extension=ts
+#EXTINF:0,Rmcsport1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=58249&extension=ts
+#EXTINF:0,Rmcsport2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=58250&extension=ts
+#EXTINF:0,Rmcsport3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=58251&extension=ts
+#EXTINF:0,Rmcsport4
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=58252&extension=ts
+#EXTINF:0,Sportklub1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=536821&extension=ts
+#EXTINF:0,Sportklub2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=536823&extension=ts
+#EXTINF:0,Sportklub3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=536824&extension=ts
+#EXTINF:0,Sportklub4
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=536826&extension=ts
+#EXTINF:0,SPORTTV1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78797&extension=ts
+#EXTINF:0,SPORTTV2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78796&extension=ts
+#EXTINF:0,SPORTTV3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78795&extension=ts
+#EXTINF:0,SPORTTV4
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=70481&extension=ts
+#EXTINF:0,SPORTTV5
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=70480&extension=ts
+#EXTINF:0,SSC 1 HD
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=171130&extension=ts
+#EXTINF:0,SSC 2 HD
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=171131&extension=ts
+#EXTINF:0,SSC 3 HD
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=359018&extension=ts
+#EXTINF:0,SSC 4 HD
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=359019&extension=ts
+#EXTINF:0,SSC 5 HD
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=359020&extension=ts
+#EXTINF:0,SSC EXTRA 1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=171135&extension=ts
+#EXTINF:0,SSC EXTRA 2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=359021&extension=ts
+#EXTINF:0,SSC EXTRA 3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=359022&extension=ts
+#EXTINF:0,SkySportsNews
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175160&extension=ts
+#EXTINF:0,SkySportsAction
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175162&extension=ts
+#EXTINF:0,SkySportsCricket
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175166&extension=ts
+#EXTINF:0,SkySportsF1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175168&extension=ts
+#EXTINF:0,SkySportsFootball
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175170&extension=ts
+#EXTINF:0,SkySportsGolf
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175172&extension=ts
+#EXTINF:0,SkySportsMix 
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175176&extension=ts
+#EXTINF:0,SkySportsMainEvent
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175174&extension=ts
+#EXTINF:0,SkySportsPremierLeague
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175179&extension=ts
+#EXTINF:0,SkySportsRacing 
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175181&extension=ts
+#EXTINF:0, SkySport1_NZ
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=546937&extension=ts
+#EXTINF:0, SkySport2_NZ
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=546938&extension=ts
+#EXTINF:0, SkySport3_NZ
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=546939&extension=ts
+#EXTINF:0, SkySport4_NZ
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=546940&extension=ts
+#EXTINF:0, SkySport5_NZ
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=546941&extension=ts
+#EXTINF:0, SkySport6_NZ
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=546942&extension=ts
+#EXTINF:0, SkySport7_NZ
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=546943&extension=ts
+#EXTINF:0, SkySport8_NZ
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=546944&extension=ts
+#EXTINF:0, SUPERSPORT ACTION
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=444043&extension=ts
+#EXTINF:0, SUPERSPORT CRICKET
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=598137&extension=ts
+#EXTINF:0, SUPERSPORT FOOTBALL
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=598143&extension=ts
+#EXTINF:0, SUPERSPORT GOLF
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=444053&extension=ts
+#EXTINF:0, SUPERSPORT GRANDSTAND
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=598135&extension=ts
+#EXTINF:0, SUPERSPORT LALIGA
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=598140&extension=ts
+#EXTINF:0, SUPERSPORT MAXIMO 1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=444057&extension=ts
+#EXTINF:0, SUPERSPORT MOTORSPORT
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=598134&extension=ts
+#EXTINF:0, SUPERSPORT PREMIER LEAGUE
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=598127&extension=ts
+#EXTINF:0, SUPERSPORT PSL
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=444069&extension=ts
+#EXTINF:0, SUPERSPORT RUGBY
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=598126&extension=ts
+#EXTINF:0, SUPERSPORT SCHOOLS
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=598138&extension=ts
+#EXTINF:0, SUPERSPORT TENNIS
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=598136&extension=ts
+#EXTINF:0, SUPERSPORT VARIETY 1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=598133&extension=ts
+#EXTINF:0, SUPERSPORT VARIETY 2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=598132&extension=ts
+#EXTINF:0, SUPERSPORT VARIETY 3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=598141&extension=ts
+#EXTINF:0, SUPERSPORT VARIETY 4
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=598142&extension=ts
+#EXTINF:0,TNTSPORT1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175183&extension=ts
+#EXTINF:0,TNTSPORT2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175185&extension=ts
+#EXTINF:0,TNTSPORT3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175187&extension=ts
+#EXTINF:0,TNTSPORT4
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=530935&extension=ts
+#EXTINF:0,Ziggosport1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78632&extension=ts
+#EXTINF:0,Ziggosport2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78633&extension=ts
+#EXTINF:0,Ziggosport3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78634&extension=ts
+#EXTINF:0,Ziggosport4
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78636&extension=ts
+#EXTINF:0,Ziggosport5
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78637&extension=ts
+#EXTINF:0,Ziggosport6
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78638&extension=ts
+#EXTINF:0,CARTOON NETWORK 
+#EXTVLCOPT:network-caching=1000
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
+#EXTINF:0,CARTOONITO 
+#EXTVLCOPT:network-caching=1000
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
+#EXTINF:0,NICKELODEON
+#EXTVLCOPT:network-caching=1000
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
+#EXTINF:0,NICK JR 
+#EXTVLCOPT:network-caching=1000
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
+#EXTINF:0,Boomerang
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186649&extension=ts
+#EXTINF:0,Boomerang CARTOON
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
+#EXTINF:0,ANIMAX
+#EXTVLCOPT:network-caching=1000
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+#EXTINF:0,Zoo Moo (1080p)
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186489&extension=ts
+#EXTINF:0,CNN International
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186374&extension=ts
+#EXTINF:0,ABC News
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0,Global News
+#EXTVLCOPT:network-caching=1000
+http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:0,DW English
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186588&extension=ts
+#EXTINF:0,CNA
+#EXTVLCOPT:network-caching=1000
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0,Al Jazeera English
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186378&extension=ts
+#EXTINF:0,TRT World
+#EXTVLCOPT:network-caching=1000
+http://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:0,Arirang
+#EXTVLCOPT:network-caching=1000
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis.m3u8
+#EXTINF:0,CNBC
+#EXTVLCOPT:network-caching=1000
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:0,Boomberg News
+#EXTVLCOPT:network-caching=1000
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:0,NHK WORLD-JAPAN
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186490&extension=ts
+#EXTINF:0,SkyNews
+#EXTVLCOPT:network-caching=1000
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:0,Rusia Today
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186585&extension=ts
+#EXTINF:1,บ้านบ้านทีวี
+#EXTVLCOPT:network-caching=1000
+https://vdo.plathong.net/live8794/live8794/chunklist_.m3u8
+#EXTINF:1,MV CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
+#EXTINF:1,ไทไชโย
+#EXTVLCOPT:network-caching=1000
+https://live.thaichaiyo.tv/tcy/live-manifest.m3u8
+#EXTINF:1,MV LAO TV
+#EXTVLCOPT:network-caching=1000
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunklist.m3u8
+#EXTINF:1,MVC
+#EXTVLCOPT:network-caching=1000
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8%09
+#EXTINF:1,ไทยบ้าน ทีวี
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
+#EXTINF:1,Happy Channel 
+#EXTVLCOPT:network-caching=1000
+https://live-us1.thaimomo.com/live-as/chlantung-2/chunklist_w1965870389.m3u8
+#EXTINF:1,อีสานทีวี
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
+#EXTINF:1, MVSeries 
+#EXTVLCOPT:network-caching=1000
+http://dopachannel.truegse.com/live/dopatv03.m3u8
+#EXTINF:1, MV NEWS
+#EXTVLCOPT:network-caching=1000
+https://n-edge-1-th.v2h-cdn.com/mvnews/mvnews/playlist.m3u8
+#EXTINF:1,MV-TVSERIES
+#EXTVLCOPT:network-caching=1000
+https://n-edge-1-th.v2h-cdn.com/mvtvseries/mvtvseries/playlist.m3u8
+#EXTINF:1,MV-GO-SPORT
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
+#EXTINF:1, มูเตลู
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/ttd25-playlist/index.m3u8
+#EXTINF:1,TTD1
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/ttd01-playlist/tracks-v1a1/playlist.m3u8
+#EXTINF:1,TTD2
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/ttd02-playlist/index.m3u8
+#EXTINF:1,TTD3
+#EXTVLCOPT:network-caching=1000
+https://edge6a.v2h-cdn.com/tvb_26/tvb_26.stream/index.m3u8
+#EXTINF:1,TTD4
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/ttd04-Playlist/tracks-v1a1/mono.m3u8
+#EXTINF:1,TTD5
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/ttd05-playlist/tracks-v1a1/mono.m3u8
+#EXTINF:1,TTD6
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/ttd06-playlist/tracks-v1a1/mono.m3u8
+#EXTINF:1,TTD7
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/ttd07-playlist/tracks-v1a1/mono.m3u8
+#EXTINF:1,TTD8
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/ttd07-playlist/tracks-v1a1/mono.m3u8
+#EXTINF:1,V2H2
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/v2h2-playlist/tracks-v1a1/mono.m3u8
+#EXTINF:1,V2H3
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/v2h3-playlist/tracks-v1a1/mono.m3u8
+#EXTINF:1,V2H4
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/v2h4-playlist/tracks-v1a1/mono.m3u8
+#EXTINF:1,V2H5
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/v2h5-playlist/tracks-v1a1/mono.m3u8
+#EXTINF:1,V2H6
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/v2h6-playlist/tracks-v1a1/mono.m3u8
+#EXTINF:1,V2H7
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/v2h7-playlist/tracks-v1a1/mono.m3u8
+#EXTINF:1, V2H8
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/v2h8-playlist/tracks-v1a1/mono.m3u8
+#EXTINF:1, V2H9
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/v2h9-playlist/tracks-v1a1/mono.m3u8
+#EXTINF:1, V2H10
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/v2h10-playlist/tracks-v1a1/mono.m3u8
+#EXTINF:1, V2H11
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/v2h11-playlist/tracks-v1a1/mono.m3u8
+#EXTINF:1, V2H12
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/v2h12-playlist/tracks-v1a1/mono.m3u8
+#EXTINF:1, V2H13
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/v2h13-playlist/tracks-v1a1/mono.m3u8
+#EXTINF:1, V2H14
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/v2h14-playlist/tracks-v1a1/mono.m3u8
+#EXTINF:1, V2H15
+#EXTVLCOPT:network-caching=1000
+https://psiiptv-b.sky-cdn.com/v2h15-playlist/tracks-v1a1/mono.m3u8
+#EXTINF:0,ช่อง COOL Fahrenheit
+#EXTVLCOPT:network-caching=1000
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2y294
+#EXTINF:0,ช่อง Cat Radio
+#EXTVLCOPT:network-caching=1000
+http://111.223.37.194/CatRadio/CatRadio-High/chunklist_w1543475410.m3u8
+#EXTINF:0,ช่อง YES Radio
+#EXTVLCOPT:network-caching=1000
+http://27.254.65.244:8000/;
+#EXTINF:0,ช่อง Yesterday 106.5 FM
+#EXTVLCOPT:network-caching=1000
+http://radio4.thzhost.com:4122/;
+#EXTINF:0,ช่อง Pongpan Radio
+#EXTVLCOPT:network-caching=1000
+http://radio.portradiothai.com:6010/;
+#EXTINF:0,ช่อง เพื่อนเพลงสเตชั่น
+#EXTVLCOPT:network-caching=1000
+https://radio14.plathong.net/7060/;stream.mp3
+#EXTINF:0,ช่อง Capitol FM
+#EXTVLCOPT:network-caching=1000
+http://atlanticthai.primcast.com:5898/;
+#EXTINF:0,ช่อง 97 Mazz Radio
+#EXTVLCOPT:network-caching=1000
+http://radio1.comgig.com:4096/;stream.m4a
+#EXTINF:0,ช่อง Friends Bangkok
+#EXTVLCOPT:network-caching=1000
+http://210.1.60.244:8000/FriendsBangkok
+#EXTINF:0,ช่อง Request Radio สตริง
+#EXTVLCOPT:network-caching=1000
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2z234
+#EXTINF:0,ช่อง Request Radio เพื่อชีวิต
+#EXTVLCOPT:network-caching=1000
+http://27.254.142.208:8300/stream/1/
+#EXTINF:0,ช่อง Request Radio ลูกทุ่ง
+#EXTVLCOPT:network-caching=1000
+http://27.254.142.208:8200/stream/1/
+#EXTINF:0,ช่อง Request Radio International
+#EXTVLCOPT:network-caching=1000
+http://27.254.142.208:8400/stream/1/
+#EXTINF:0,ช่อง Request Radio Dance Mix
+#EXTVLCOPT:network-caching=1000
+http://27.254.142.208:8500/stream/1/
+#EXTINF:0,ช่อง ล้านนาเรดิโอ
+#EXTVLCOPT:network-caching=1000
+http://43.229.135.187:8000/;
+#EXTINF:0,ช่อง Sukson radio
+#EXTVLCOPT:network-caching=1000
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2z284
+#EXTINF:0,ช่อง BP Radio HD
+#EXTVLCOPT:network-caching=1000
+http://fmonair.com:7890/;
+#EXTINF:0,ช่อง 90.5 Smart News
+#EXTVLCOPT:network-caching=1000
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v2z2b4
+#EXTINF:0,ช่อง สวพ fm 91
+#EXTVLCOPT:network-caching=1000
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v20334
+#EXTINF:0,ช่อง 92.5 กรมประชาสัมพันธ์
+#EXTVLCOPT:network-caching=1000
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v20344
+#EXTINF:0,ช่อง HITZ 95.5
+#EXTVLCOPT:network-caching=1000
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v20354
+#EXTINF:0,ช่อง 101 RROne FM Radio
+#EXTVLCOPT:network-caching=1000
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v20374
+#EXTINF:0,ช่อง 105 FM วิทยุไทย เพื่อเด็กและครอบครัว
+#EXTVLCOPT:network-caching=1000
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v20394
+#EXTINF:0,ช่อง 106 วิทยุครอบครัวข่าว
+#EXTVLCOPT:network-caching=1000
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v203a4
+#EXTINF:0,ช่อง SBT Radio หลวงตาบัว
+#EXTVLCOPT:network-caching=1000
+http://202.142.203.28:8000/siangdham.mp3
+#EXTINF:0,ช่อง วัดป่าไทรงาม
+#EXTVLCOPT:network-caching=1000
+http://103.22.182.105:7110/;
+#EXTINF:0,ช่อง THAI MUSIC
+#EXTVLCOPT:network-caching=1000
+http://listen.thai-radio.net/medium
+#EXTINF:0,ช่อง MCOT Modern Radio
+#EXTVLCOPT:network-caching=1000
+http://rstream.mcot.net:9066/;
+#EXTINF:0,ช่อง จั๊กกะจี้เรดิโอ
+#EXTVLCOPT:network-caching=1000
+http://43.229.135.187:8020/;
+#EXTINF:0,ช่อง Phuket LIVE 89.5
+#EXTVLCOPT:network-caching=1000
+http://radio4.thzhost.com:4118/;stream/1
+#EXTINF:0,ช่อง XFM 94.5
+#EXTVLCOPT:network-caching=1000
+https://radio12.plathong.net/7360/;stream.mp3
+#EXTINF:0,ช่อง รักษ์ปักษ์ใต้ เรดิโอ
+#EXTVLCOPT:network-caching=1000
+https://radio10.plathong.net/7100/;stream.mp3
+#EXTINF:0,ช่อง Radio Chiangmai 93.2 FM
+#EXTVLCOPT:network-caching=1000
+http://prdonline.prd.go.th:8118/;
+#EXTINF:0,ช่อง จส.5 AM 567 KHz ชัยภูมิ
+#EXTVLCOPT:network-caching=1000
+http://media.login.in.th:8235/;stream.mp3
+#EXTINF:0,ช่อง Love OK Click Station 96.75
+#EXTVLCOPT:network-caching=1000
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v21334
+#EXTINF:0,ช่อง 104.5 อสมท นครศรีธรรมราช
+#EXTVLCOPT:network-caching=1000
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v21344
+#EXTINF:0,ช่อง 98.75 เชียงใหม่
+#EXTVLCOPT:network-caching=1000
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v21354
+#EXTINF:0,ช่อง แก้วสาริกา radio
+#EXTVLCOPT:network-caching=1000
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v21364
+#EXTINF:0,ช่อง FM 101.25 อสมท. เชียงราย
+#EXTVLCOPT:network-caching=1000
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v21374
+#EXTINF:0,ช่อง 102 คลื่นคนทำงาน
+#EXTVLCOPT:network-caching=1000
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v23354
+#EXTINF:0,ช่อง FLEX 102.5 FM
+#EXTVLCOPT:network-caching=1000
+https://streaming.flexconnect.net/voiceflex/voiceflex/chunklist_w350994315.m3u8
+#EXTINF:0,ช่อง Eingdoi Radio
+#EXTVLCOPT:network-caching=1000
+http://ohmi-design.com:8170/;
+#EXTINF:0,ช่อง Eingdoi Radio เพลงลูกทุ่ง
+#EXTVLCOPT:network-caching=1000
+https://radio14.plathong.net/7126/;stream.mp3
+#EXTINF:0,ช่อง 90 ลูกทุ่ง รักไทย
+#EXTVLCOPT:network-caching=1000
+http://radio11.plathong.net:8896/;stream.mp3
+#EXTINF:0,ช่อง ลูกทุ่งเน็ตเวิร์ก
+#EXTVLCOPT:network-caching=1000
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22344
+#EXTINF:0,ช่อง Big FM
+#EXTVLCOPT:network-caching=1000
+https://playlist.xtemus.com/play.php?ch=t256y454t415642386v4v22354
