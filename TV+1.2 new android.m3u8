@@ -3,7 +3,6 @@
 https://ww.dooballfree.vip/live/lfctv/playlist.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",MUTV
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/1057
 #EXTINF:-1 group-title="Sports กีฬา",Top Barça
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
@@ -36,7 +35,7 @@ http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B4:AF:2D&stream=1000006&exte
 #EXTINF:-1 group-title="Sports กีฬา",NFL
 #EXTVLCOPT:network-caching=1000
 http://43.229.79.245:8080/live/MPLFREE/000000/159011.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",<====== Sport special =======>
+#EXTINF:-1 group-title="Sports กีฬา",<====== PremierLeague  =======>
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
 #EXTINF:-1 group-title="Sports กีฬา",Hub Premier 1
@@ -49,8 +48,8 @@ http://145.239.5.177/564/index.m3u8
 http://145.239.5.177/562/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Setanta Sports
 http://94.130.221.219/setantaua/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Setanta 1 HD h265
-http://94.130.221.219/setanta1/index.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",PremierLeague 1
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=598127&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",Setanta Sports 1 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 group-title="Sports กีฬา",Setanta Sports 2
@@ -1688,21 +1687,21 @@ http://43.229.79.245:8080/live/MPLFREE/000000/216588.m3u8
 #EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 5
 #EXTVLCOPT:network-caching=1000
 http://43.229.79.245:8080/live/MPLFREE/000000/216589.m3u8
-#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 6
+#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 1
 #EXTVLCOPT:network-caching=1000
-http://43.229.79.245:8080/live/MPLFREE/000000/216590.m3u8
-#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 7
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186561&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 2
 #EXTVLCOPT:network-caching=1000
-http://43.229.79.245:8080/live/MPLFREE/000000/216591.m3u8
-#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 3
 #EXTVLCOPT:network-caching=1000
-http://43.229.79.245:8080/live/MPLFREE/000000/216592.m3u8
-#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 9
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186570&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 4
 #EXTVLCOPT:network-caching=1000
-http://43.229.79.245:8080/live/MPLFREE/000000/216593.m3u8
-#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 10
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186580&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 5
 #EXTVLCOPT:network-caching=1000
-http://43.229.79.245:8080/live/MPLFREE/000000/216594.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186582&extension=ts
 #EXTINF:-1 group-title="ผีบังตา", MONOMAX LIVE 1
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
