@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Sports กีฬา",LFCTV
+#EXTVLCOPT:network-caching=50000
 https://ww.dooballfree.vip/live/lfctv/playlist.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",MUTV
 #EXTVLCOPT:network-caching=1000
@@ -8,8 +9,10 @@ http://panel.sulu1.cc:2052/travis1/travis1/1057
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Real Madrid TV
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",CHELSEA
+#EXTVLCOPT:network-caching=1000
+http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B4:AF:2D&stream=45327&extension=ts&play_token=Oj9mGW92he
 #EXTINF:-1 group-title="Sports กีฬา",<======SPOTV=======>
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
@@ -1666,27 +1669,30 @@ http://43.229.79.245:8080/live/MPLFREE/000000/216601.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",MONO A'LURE
 #EXTVLCOPT:network-caching=1000
 http://43.229.79.245:8080/live/MPLFREE/000000/216602.m3u8
-#EXTINF:-1 group-title="ผีบังตา",MONOMAX1
+#EXTINF:-1 group-title="ผีบังตา",MAX1
 #EXTVLCOPT:network-caching=1000
 http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186563&extension=ts
-#EXTINF:-1 group-title="ผีบังตา",MONOMAX2
+#EXTINF:-1 group-title="ผีบังตา",MAX2
 #EXTVLCOPT:network-caching=1000
 http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 1
-#EXTVLCOPT:network-caching=1000
-http://43.229.79.245:8080/live/MPLFREE/000000/216585.m3u8
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max01.m3u8
 #EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 2
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playid.vercel.app/m3u8/sports/max03.m3u8
+#EXTINF:-1 group-title="ผีบังตา",Foot+
 #EXTVLCOPT:network-caching=1000
-http://43.229.79.245:8080/live/MPLFREE/000000/216586.m3u8
-#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 3
+http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=845393&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",League Live-1
 #EXTVLCOPT:network-caching=1000
-http://43.229.79.245:8080/live/MPLFREE/000000/216587.m3u8
-#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 4
+http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150880&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",League Live-2
 #EXTVLCOPT:network-caching=1000
-http://43.229.79.245:8080/live/MPLFREE/000000/216588.m3u8
-#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 5
+http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150879&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",League Live-3
 #EXTVLCOPT:network-caching=1000
-http://43.229.79.245:8080/live/MPLFREE/000000/216589.m3u8
+http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150878&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 1
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186561&extension=ts
