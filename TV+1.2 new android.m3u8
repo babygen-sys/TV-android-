@@ -1794,6 +1794,24 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/T
 #EXTINF:-1 group-title="ผีบังตา",AISPLAY SPORTS 2
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
+#EXTINF:-1 group-title="ผีบังตา",1
+https://verb169.com/stream/22/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:43 group-title="ผีบังตา",trueball thai 2
+https://verb169.com/stream/23/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:46 group-title="ผีบังตา",trueball thai 3
+https://verb169.com/stream/24/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="ผีบังตา",4
+https://verb169.com/stream/25/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="ผีบังตา",5
+https://verb169.com/stream/26/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:36 group-title="ผีบังตา",trueball thai 6
+https://verb169.com/stream/27/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:29 group-title="ผีบังตา",trueball thai 7
+https://verb169.com/stream/28/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:29 group-title="ผีบังตา",trueball thai 7
+https://verb169.com/stream/28/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:34 group-title="ผีบังตา",trueball thai 8
+https://verb169.com/stream/29/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="ผีบังตา",BALLTHAI 1
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
