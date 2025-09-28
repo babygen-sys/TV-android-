@@ -1684,12 +1684,14 @@ https://playid.vercel.app/m3u8/sports/max03.m3u8
 #EXTINF:-1 group-title="ผีบังตา",Foot+
 #EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=845393&extension=ts
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/687272
 #EXTINF:-1 group-title="ผีบังตา",League Live-1
 #EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150880&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",League Live-2
 #EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150879&extension=ts
+http://ott.watch/stream/D3FX33QMIH1/313.m3u8
 #EXTINF:-1 group-title="ผีบังตา",League Live-3
 #EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150878&extension=ts
