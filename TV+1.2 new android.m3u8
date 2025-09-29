@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Sports กีฬา",LFCTV
-#EXTVLCOPT:network-caching=50000
+#EXTVLCOPT:network-caching=1000
+http://panel.sulu1.cc:2052/travis1/travis1/5073
 https://ww.dooballfree.vip/live/lfctv/playlist.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",MUTV
 #EXTVLCOPT:network-caching=1000
@@ -13,9 +14,9 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",CHELSEA
 #EXTVLCOPT:network-caching=1000
 http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B4:AF:2D&stream=45327&extension=ts&play_token=Oj9mGW92he
-#EXTINF:-1 group-title="Sports กีฬา",<======SPOTV=======>
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 ,<======SPOTV=======>
 https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 group-title="Sports กีฬา",SPOTV
 #EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
@@ -24,27 +25,52 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",SPOTV
 https://ww.dooballfree.vip/live/spotv/playlist.m3u8
+http://43.229.79.245:8080/live/MPLFREE/000000/218079.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",SPOTV 2
 https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truespotv2.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",SPOTV 1 TH
-#EXTVLCOPT:network-caching=1000
-http://43.229.79.245:8080/live/MPLFREE/000000/218079.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Spotv 2 TH
-#EXTVLCOPT:network-caching=1000
 http://43.229.79.245:8080/live/MPLFREE/000000/218081.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+#EXTINF:-1 ,<======Special=======>
+https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
+#EXTINF:-1 group-title="Sports กีฬา",🏀 NBA TV
+#EXTVLCOPT:network-caching=1000 
+http://panel.sulu1.cc:2052/travis1/travis1/15223
+#EXTINF:-1 group-title="Sports กีฬา",🏀 NBA TV
+#EXTVLCOPT:network-caching=1000
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/212280
 #EXTINF:-1 group-title="Sports กีฬา",🏀 NBA TV
 #EXTVLCOPT:network-caching=1000
 http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B4:AF:2D&stream=1000006&extension=ts&play_token=SBUpKymbXE
-#EXTINF:-1 group-title="Sports กีฬา",NFL
+https://ww.dooballfree.vip/live/nba/playlist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",🏈 NFL Bein
 #EXTVLCOPT:network-caching=1000
 http://43.229.79.245:8080/live/MPLFREE/000000/159011.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",<====== PremierLeague  =======>
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=9383&extension=ts
+#EXTINF:-1 group-title="Sports กีฬา",🏈 NFL ARENASPORT
 #EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537002&extension=ts
+#EXTINF:-1 group-title="Sports กีฬา",🏈 NFL ESPN
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=173531&extension=ts
+#EXTINF:-1 group-title="Sports กีฬา",🏌️‍♂️Golf Channel 1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186500&extension=ts
+#EXTINF:-1 group-title="Sports กีฬา",🏌️‍♂️Golf Channel 2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186500&extension=ts
+#EXTINF:-1 group-title="Sports กีฬา",🏌️‍♂️Golf NBC
+#EXTVLCOPT:network-caching=1000
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/267757
+#EXTINF:-1 group-title="Sports กีฬา",🏁 DAZN F1
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
+#EXTINF:-1 group-title="Sports กีฬา",Foxsport505
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=76210&extension=ts
+#EXTINF:-1 ,<======⚽ ฟุตบอลลีก League  =======>
 https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
-#EXTINF:-1 group-title="Sports กีฬา",Premier League
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=598127&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",SuperSport Premier League
 http://145.239.5.177:80/566/index.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186388&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",SuperSport Football
 http://145.239.5.177/564/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",SuperSport PSL
@@ -203,7 +229,6 @@ https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTVLCOPT:network-caching=1000
 http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1,<======ฟรีทีวี=======>
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -439,7 +464,6 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
 #EXTINF:-1,<======การ์ตูน=======>
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
 #EXTINF:-1 group-title="Cartoon การ์ตูน",AMAZING
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -603,7 +627,6 @@ http://panel.sulu1.cc:2052/travis1/travis1/90082
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 12
 http://panel.sulu1.cc:2052/travis1/travis1/90083
 #EXTINF:-1,<==== Premium Movies ====>
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C========================%20Premium%20Movies%20==========================%3E
 #EXTINF:-1 group-title="Entertainment บันเทิง", HBO2 HD
 #EXTVLCOPT:network-caching=1000
@@ -753,7 +776,6 @@ http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1,<======สารคดี=======>
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
 #EXTINF:-1 group-title="Documentary สารคดี",AFN
 #EXTVLCOPT:network-caching=1000
@@ -823,7 +845,6 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186384&extension=
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186485&extension=ts
 #EXTINF:-1,<====== NEWS =======>
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
 #EXTINF:-1 group-title="News ข่าว",CNN INDONESIA
 #EXTVLCOPT:network-caching=1000
@@ -844,7 +865,6 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTVLCOPT:network-caching=1000
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1,<====== All Sports =======>
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
 #EXTINF:-1 group-title="Sports กีฬา",ES: DAZN FORMULA 1 SD
 #EXTVLCOPT:network-caching=1000
@@ -1572,7 +1592,6 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTVLCOPT:network-caching=1000
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 #EXTINF:-1,<====== ฟังเพลงสากล =======>
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
 #EXTINF:-1 group-title="Entertainment บันเทิง",MTV USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
