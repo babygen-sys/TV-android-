@@ -1,0 +1,449 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",CH3 HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",CH5 HD
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",CH7 HD
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Ch8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",MCOT HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",NBT2 HD
+https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",NBT World
+https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Amarin TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Thairath TV HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Thai PBS
+https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",PPTV HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",ONE31
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",GMM25
+https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Workpoint TV
+https://global-media.sooplive.com/live/workpoint/master.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Nation TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",TNN 16
+https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",News 1
+https://server1.streamssl.com/stream/news1.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Top News
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Cool Channel
+https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",True 4U
+https://iptv36.vercel.app/api/true.m3u8?channel=true4u
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",JKN 18
+https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",VIPA
+https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",ALTV 4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Siam News TV
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Thai News
+https://live.thaitvstream.com/play/thainews/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",T Sport 7
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",MVGO Sports
+https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Hi Sport
+http://49.0.64.96:8007/HiSports
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",SBT TV
+http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",SBB TV
+https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Brian TV
+https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Cable 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Good Idea TV
+http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Nat TV
+https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",LS TV
+https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/chunklist.m3u
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",IS TV
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",ESC
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Uniquely TV
+https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Active  FM 99
+https://fm99-live-cdn.mcot.net/RadioLive/smil:fm99_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",MCOT News FM100.5
+https://fm1005-live-cdn.mcot.net/tencentradiolive/smil:fm1005_live_tencent.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Hot Wave
+https://atimehd.smartclick.co.th/hotwave/hls/hotwave.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Green Wave
+https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",EFM 94
+https://atimevideo.smartclick.co.th/live/efmlive.sdp/chunklist_w696502376.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Hmongstar
+https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Yateem TV
+https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Police TV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",Rama Channel
+https://ramach.ddns.net/live/ramalive/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",STOU
+https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",DLTV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",DLTV 2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",DLTV 3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",DLTV 4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",DLTV 5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",DLTV 6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",DLTV 7
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",DLTV 8
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",DLTV 9
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",DLTV 10
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",DLTV 11
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",DLTV 12
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",DLTV 13
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",DLTV 14
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Digital ดิจิตอลทีวี",DLTV 15
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Other อื่นๆ",<====== บันเทิง =======>
+
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",TTD1
+https://psiiptv-b.sky-cdn.com/ttd01-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",TTD2
+https://psiiptv-b.sky-cdn.com/ttd02-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",TTD3
+https://psiiptv-b.sky-cdn.com/ttd03-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",TTD5
+https://psiiptv-b.sky-cdn.com/ttd05-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",TTD6
+https://psiiptv-b.sky-cdn.com/ttd06-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",TTD7
+https://psiiptv-b.sky-cdn.com/ttd07-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",TTD8
+https://psiiptv-b.sky-cdn.com/ttd08-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",TTD9
+https://psiiptv-b.sky-cdn.com/ttd09-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",TTD10
+https://psiiptv-b.sky-cdn.com/ttd10-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",TTD11
+https://psiiptv-b.sky-cdn.com/ttd11-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",TTD12
+https://psiiptv-b.sky-cdn.com/ttd12-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",V2H1
+https://psiiptv-b.sky-cdn.com/v2h1-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",V2H2
+https://psiiptv-b.sky-cdn.com/v2h2-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",V2H3
+https://psiiptv-b.sky-cdn.com/v2h3-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",V2H4
+https://psiiptv-b.sky-cdn.com/v2h4-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",V2H5
+https://psiiptv-b.sky-cdn.com/v2h5-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",V2H6
+https://psiiptv-b.sky-cdn.com/v2h6-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",V2H7
+https://psiiptv-b.sky-cdn.com/v2h7-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",V2H8
+https://psiiptv-b.sky-cdn.com/v2h8-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",V2H9
+https://psiiptv-b.sky-cdn.com/v2h9-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",V2H10
+https://psiiptv-b.sky-cdn.com/v2h10-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",V2H11
+https://psiiptv-b.sky-cdn.com/v2h11-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",V2H12
+https://psiiptv-b.sky-cdn.com/v2h12-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",V2H13
+https://psiiptv-b.sky-cdn.com/v2h13-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",V2H14
+https://psiiptv-b.sky-cdn.com/v2h14-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",V2H15
+https://psiiptv-b.sky-cdn.com/v2h15-playlist/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",Ch 8 Thailand
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Entertainment บันเทิง",Zee Nung
+https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Other อื่นๆ",<====== การ์ตูน =======>
+
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Cartoon การ์ตูน",Gags
+https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Cartoon การ์ตูน",Boom
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Cartoon การ์ตูน",Cartoon
+http://49.0.64.96:8007/Cartoonumi
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Cartoon การ์ตูน",Disney Channel
+http://212.102.60.231/DISNEY/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Cartoon การ์ตูน",Cartoon Network
+http://150.129.9.194:8089/83/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Cartoon การ์ตูน",Nick Jr.
+http://150.129.9.194:8089/86/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Cartoon การ์ตูน",Kartoon
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=584
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Cartoon การ์ตูน",Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Cartoon การ์ตูน",Ketchup TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Cartoon การ์ตูน",Zoomoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Cartoon การ์ตูน",Baby Shark TV
+https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Cartoon การ์ตูน",KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Cartoon การ์ตูน",LEGO Kids TV
+https://shorturl.asia/rzC82
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Cartoon การ์ตูน",TOBOT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5480
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Cartoon การ์ตูน",Barbie and Friends
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11075
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Cartoon การ์ตูน",Shaun the Sheep & Friends
+https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Cartoon การ์ตูน",Mr.bean Cartoon
+https://amg00627-amg00627c23-samsung-th-5282.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Other อื่นๆ",<======SPOTV=======>
+
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",SPOTV
+
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",TNTSports2-FHD
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",TNT Sports Premium
+http://195.66.210.10:80/ZMHZE/YFKQW/36424
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Eurosport 1
+http://89.44.229.22:7000/eurosport
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Eurosport 2
+http://185.189.225.157/EuroSport2/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Tennis Channel
+http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Tennis Channel 2
+https://tinyurl.com/ytk5xhvu
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Tennis Channel UK
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Tennis Plus
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",ESPN
+https://stream1.freetv.fun/8bac4c2416bc144d1ec171cd4cc1104bb343152869bdccd214f0bb84dbb11af2.ctv
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",ESPN Premium
+http://195.66.210.10:80/VictorLP/GURWX/215252
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",ESPN Plus
+http://mypanel-4k.com/live/me52pjdqa6/dt2t9r16ja/1317123.ts
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",ESPN PLL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=14010
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Fox Sports 1
+http://23.237.104.106:8080/USA_FS1/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Fox Sports 2
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Hub Premier 1
+https://a1xs.vip/1100041
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",SuperSport Premier League
+http://145.239.5.177:80/566/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",SuperSport Football
+http://145.239.5.177/564/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",SuperSport PSL
+http://145.239.5.177/562/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",LaLiga TV 2 por Movistar Plus
+http://eagle2024.xyz:80/fuegoipsat439/0sxi3j6w3w/970485
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Movistar Liga de Campeones
+http://eagle2024.xyz:80/fuegoipsat439/0sxi3j6w3w/1082310
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",DAZN 1
+http://212.102.60.231/DAZN_1/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",DAZN F1
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",DAZN Combat
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",DAZN Ringside
+https://shorturl.asia/mRCQz
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",DAZN Heldinnen
+https://tinyurl.com/pr53sszx
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Sport-tv 1
+http://fortv.cc:8080/0n8u9R/169324/167742
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Sport-tv 2
+https://stream1.freetv.fun/sport-tv2-1.ctv
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",JSport 1
+https://mt01.utako.moe/js1/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",JSport 2
+https://mt01.utako.moe/js2/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",JSport 3
+https://mt01.utako.moe/js3/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",JSport 4
+https://mt01.utako.moe/js4/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Star Sports 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Sportitalia
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Setanta Sports
+http://94.130.221.219/setantaua/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Setanta 1 HD h265
+http://94.130.221.219/setanta1/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Setanta Sports 1 Georgia
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Setanta Sports 2
+http://94.130.221.219/setanta2/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Setanta Sports Qz HD
+http://94.130.221.219/setantakz/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",One Soccer
+http://nocable.cc:8080/2gKWFe/362900/135810
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Goal TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Zona TUDN
+https://tinyurl.com/4f2j23a9
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Sportdigital Fussball
+https://a1xs.vip/120001
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Polsat Sport 1
+http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105530
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Polsat Sport 2
+http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105533
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Canal Plus Football
+http://145.239.5.177/556/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Canal Plus Sport 2
+http://78.130.250.2:8023/play/a02w/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Nova Sport
+http://87.120.179.187:8000/play/a00l
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",ns6
+http://116.202.237.33:8080/NS6/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Arena Sport 1
+http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKIMflboULtlEFrk2YMMT-xb/ts
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Arena Sport 2
+http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKK_lhfibZeUTwRP0wH5IOX5/ts
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Arena Sport 3
+http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKKIK5rl2n5meUW9b110w7T-/ts
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Arena Sport 4
+http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKJwgvaVf5ef2xfRW1qMuTL6/ts
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",diema sport
+https://de11.seetv.cc/6830/video.m3u8?token=BC28182177585B5
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Diema Sport 2
+https://de11.seetv.cc/6831/video.m3u8?token=BC28182177585B5
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Diema Sport 3
+https://de11.seetv.cc/6832/video.m3u8?token=BC28182177585B5
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Abu Dhabi Sports 2
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b3000000.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Max Sport 1
+https://de11.seetv.cc/6875/video.m3u8?token=BC28182177585B5
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Max Sport 2
+https://de11.seetv.cc/6876/video.m3u8?token=BC28182177585B5
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Max Sport 3
+https://de11.seetv.cc/6877/video.m3u8?token=BC28182177585B5
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Max Sport 4
+https://de11.seetv.cc/6878/video.m3u8?token=BC28182177585B5
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Win Sports
+http://fortv.cc:8080/90820916/64752029/78717
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",DSports Plus
+http://blast.lat:8080/live/cmy.fredyayala/Q3GVgyJaBGEG/249532.ts
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",SPORT KLUB
+http://703145.vpn-xtra.vip:80/92wktmwxsq/3y7k1vf0b0/14743
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",CT Sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Teledeporte
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",SportsTV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Match Football 1
+http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Match Football 2
+http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Match
+http://94.130.221.219/match/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",azam sports 1
+http://145.239.5.177/568/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",azam sports 2
+http://145.239.5.177/569/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",azam sports 3
+http://145.239.5.177/570/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",2TV Sport
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",4Sports
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",CBC Sports
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",KTV Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Aspor
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10165
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Fubo Sports
+https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",NBC Golf
+http://fl1.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",PGA Tour
+https://tinyurl.com/5ab4nkj8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Billiard TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=840
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",World Billiards TV
+https://shorturl.at/iTUf5
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Kozoom
+https://tinyurl.com/3ted8am7
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",World Poker Tour
+https://tinyurl.com/ymt52m6r
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",FTF Sports
+https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE_Ultra.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",World of Free Sports
+https://shorturl.asia/8LUnO
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Pac12 insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Women's Sports Network
+https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",MAVTV
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",NHRA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=732
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Motor Racing
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/f34ba059-f7c4-4d2b-afb2-6e7b03553966/2.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Motorsport tv
+https://eu.linear.zype.com/34713153-3597-42c0-bd0d-5023c3f60585/7823e98c-2e5f-49cf-8e73-425e237b86ff-hls4/live.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",MTRSPT 1
+https://tinyurl.com/bdhme28r
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Motorvision TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=443
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",BIKE Channel
+https://cdn09.milano.nxmedge.net/bikechannel/video.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",UFC
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Bare Knuckle tv
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/486.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",WWE
+http://fortv.cc:8080/0n8u9R/169324/11645
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",Fighting TV Samurai
+https://ca01.utako.moe/fighting_tv/index.m3u8
+#EXTINF:-1 tvg-logo="logos_TV250ch/placeholder.png" group-title="Sports กีฬา",ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+#EXTINF:-1,<=== MOVIE online ปิดปรังปรุง ===>
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
