@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Sports กีฬา",LFCTV
-#EXTVLCOPT:network-caching=1000
 http://45.144.165.187:8080/playid168/12345/12251
 https://ww.dooballfree.vip/live/lfctv/playlist.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",MUTV
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/1057
 #EXTINF:-1 group-title="Sports กีฬา",Top Barça
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
@@ -12,7 +10,6 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/a
 #EXTVLCOPT:network-caching=1000
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",CHELSEA
-#EXTVLCOPT:network-caching=1000
 http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B4:AF:2D&stream=45327&extension=ts&play_token=Oj9mGW92he
 #EXTINF:-1 ,<======SPOTV=======>
 https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
@@ -23,12 +20,12 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",SPOTV2
 #EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",SPOTV
+#EXTINF:-1 group-title="Sports กีฬา",SPOTV สำรอง
 https://ww.dooballfree.vip/live/spotv/playlist.m3u8
 http://43.229.79.245:8080/live/MPLFREE/000000/218079.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",SPOTV 2
-https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truespotv2.m3u8
-http://43.229.79.245:8080/live/MPLFREE/000000/218081.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",SPOTV 2 สำรอง
+http://45.144.165.187:8080/playid168/12345/10396
+http://45.144.165.187:8080/playid168/12345/102
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 #EXTINF:-1 ,<======Special=======>
 https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
@@ -42,19 +39,16 @@ http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/212280
 #EXTVLCOPT:network-caching=1000
 http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B4:AF:2D&stream=1000006&extension=ts&play_token=SBUpKymbXE
 https://ww.dooballfree.vip/live/nba/playlist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",🏈 NFL us
+http://45.144.165.187:8080/playid168/12345/23039
 #EXTINF:-1 group-title="Sports กีฬา",🏈 NFL Bein
-#EXTVLCOPT:network-caching=1000
 http://43.229.79.245:8080/live/MPLFREE/000000/159011.m3u8
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=9383&extension=ts
-#EXTINF:-1 group-title="Sports กีฬา",🏈 NFL ARENASPORT
-#EXTVLCOPT:network-caching=1000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537002&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",🏈 NFL ESPN
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=173531&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",🏌️‍♂️Golf Channel 1
 #EXTVLCOPT:network-caching=1000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186500&extension=ts
+https://fl25.moveonjoy.com/GOLF/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",🏌️‍♂️Golf Channel 2
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186500&extension=ts
@@ -477,27 +471,32 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon Network
+http://45.144.165.187:8080/playid168/12345/55
 http://150.129.9.194:8089/83/index.m3u8?token=test
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon Network FHD
-http://panel.sulu1.cc:2052/travis1/travis1/3227
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.
+http://45.144.165.187:8080/playid168/12345/56
 http://150.129.9.194:8089/86/index.m3u8?token=test
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr. HD
 http://panel.sulu1.cc:2052/travis1/travis1/3239
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon HD
+http://45.144.165.187:8080/playid168/12345/57
 http://panel.sulu1.cc:2052/travis1/travis1/1115
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon +1
 http://panel.sulu1.cc:2052/travis1/travis1/3237
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nicktoons HD
+http://45.144.165.187:8080/playid168/12345/60
 http://panel.sulu1.cc:2052/travis1/travis1/3234
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoonito HD
+http://panel.sulu1.cc:2052/travis1/travis1/1125
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Dreamworks
+http://45.144.165.187:8080/playid168/12345/54
+http://xott.live:8080/03459612396/9512563/350936
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Disney Channel
+http://212.102.60.231/DISNEY/index.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon
 http://49.0.64.96:8007/Cartoonumi
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Mr.bean Cartoon
 https://amg00627-amg00627c23-samsung-th-5282.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Disney Channel
-http://212.102.60.231/DISNEY/index.m3u8
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Dreamworks
-http://xott.live:8080/03459612396/9512563/350936
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Baby Shark TV
@@ -534,8 +533,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-sam
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",CBeebies HD
 http://panel.sulu1.cc:2052/travis1/travis1/1124
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoonito HD
-http://panel.sulu1.cc:2052/travis1/travis1/1125
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 1
 http://panel.sulu1.cc:2052/travis1/travis1/90039
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 2
@@ -642,22 +639,18 @@ http://212.102.60.231/HBO_FAMILY/index.m3u8
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/184866.ts
 #EXTINF:-1 group-title="Entertainment บันเทิง",HBO TH
 http://45.144.165.187:8080/playid168/12345/77
+http://panel.sulu1.cc:2052/travis1/travis1/88743
 #EXTINF:-1 group-title="Entertainment บันเทิง",HBOHITS
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
 http://45.144.165.187:8080/playid168/12345/3018
+http://panel.sulu1.cc:2052/travis1/travis1/88744
 #EXTINF:-1 group-title="Entertainment บันเทิง",HBOSIG
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
 http://45.144.165.187:8080/playid168/12345/3660
+http://panel.sulu1.cc:2052/travis1/travis1/88745
 #EXTINF:-1 group-title="Entertainment บันเทิง",HBO Fiamy
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
 http://45.144.165.187:8080/playid168/12345/5649
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 2
-http://panel.sulu1.cc:2052/travis1/travis1/88743
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Comedy
-http://panel.sulu1.cc:2052/travis1/travis1/88744
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Family
-http://panel.sulu1.cc:2052/travis1/travis1/88745
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Signature
 http://panel.sulu1.cc:2052/travis1/travis1/88746
 #EXTINF:-1 group-title="Entertainment บันเทิง",Universal
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
@@ -846,24 +839,53 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186384&extension=
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186485&extension=ts
 #EXTINF:-1,<====== NEWS =======>
 https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
-#EXTINF:-1 group-title="News ข่าว",CNN INDONESIA
+#EXTINF:-1 group-title="News ข่าว",BBC news
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
+#EXTINF:-1 group-title="News ข่าว",CNN 
 #EXTVLCOPT:network-caching=1000
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w951390649_b384000_sleng.m3u8
 #EXTINF:-1 group-title="News ข่าว",CBS News
 #EXTVLCOPT:network-caching=1000
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 group-title="News ข่าว",Fox Weather
 #EXTVLCOPT:network-caching=1000
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
-#EXTINF:-1 group-title="News ข่าว",CBS News
+#EXTINF:-1 group-title="News ข่าว",Fox News
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",EuronNews
 #EXTVLCOPT:network-caching=1000
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
 #EXTINF:-1 group-title="News ข่าว",Al Jazeera
 #EXTVLCOPT:network-caching=1000
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="News ข่าว",CNA
 #EXTVLCOPT:network-caching=1000
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="News ข่าว",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="News ข่าว",Global News
+http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 group-title="News ข่าว",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="News ข่าว",Boomberg News
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 group-title="News ข่าว",Rusia Today
+https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="News ข่าว",India News
+https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
+#EXTINF:-1 group-title="News ข่าว",BFM Business
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 group-title="News ข่าว",Bloomberg HT
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 group-title="News ข่าว",CNBC World
+https://fl25.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 group-title="News ข่าว",CNBC Europe HD 
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+#EXTINF:-1 group-title="News ข่าว",寰宇新聞台Global News TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1759232099/ei/A2zbaPTjOp6YvcAPhsDUyA0/ip/2403%3A6200%3A8840%3Adf3%3A50b8%3A2bee%3A2fbc%3A236b/id/Ej3LQM_lTEw.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ATw7iSXOiOwVKJUwaXlw-MkxgE7SnFml8CS6nuCWtByQ0CuVI_HQIex03eLhHF7JuTzNJPv9GydG0CgA/spc/hcYD5RXdEucZJCIdNaL7pfVYt0FXtTKVQBUSaxLlg6tkueeDGyj8CDmmjcS90W167FLefATPYvA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51593650/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgdWcRk_aZnkxnuEHmmDJ8ZqpnW37x5hEUjTpsCMoCSeUCIEFJ_Y7Qp2n0sBOTuWlIaAXLn2PmSRR5g81DBnyfgmty/file/index.m3u8
 #EXTINF:-1,<====== All Sports =======>
 https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
 #EXTINF:-1 group-title="Sports กีฬา",ES: DAZN FORMULA 1 SD
@@ -1701,18 +1723,14 @@ https://playid.vercel.app/m3u8/sports/max01.m3u8
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 https://playid.vercel.app/m3u8/sports/max03.m3u8
 #EXTINF:-1 group-title="ผีบังตา",Foot+
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=845393&extension=ts
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/687272
 #EXTINF:-1 group-title="ผีบังตา",League Live-1
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150880&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",League Live-2
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150879&extension=ts
 http://ott.watch/stream/D3FX33QMIH1/313.m3u8
 #EXTINF:-1 group-title="ผีบังตา",League Live-3
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150878&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 1
 #EXTVLCOPT:network-caching=1000
