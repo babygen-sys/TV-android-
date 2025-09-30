@@ -9,8 +9,6 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 group-title="Sports กีฬา",Real Madrid TV
 #EXTVLCOPT:network-caching=1000
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",CHELSEA
-http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B4:AF:2D&stream=45327&extension=ts&play_token=Oj9mGW92he
 #EXTINF:-1 ,<======SPOTV=======>
 https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
 #EXTVLCOPT:network-caching=1000
@@ -29,13 +27,13 @@ http://45.144.165.187:8080/playid168/12345/102
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 #EXTINF:-1 ,<======Special=======>
 https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
-#EXTINF:-1 group-title="Sports กีฬา",🏀 NBA TV
+#EXTINF:-1 group-title="Sports กีฬา",🏀 NBA TV 1
 #EXTVLCOPT:network-caching=1000 
 http://panel.sulu1.cc:2052/travis1/travis1/15223
-#EXTINF:-1 group-title="Sports กีฬา",🏀 NBA TV
+#EXTINF:-1 group-title="Sports กีฬา",🏀 NBA TV 2
 #EXTVLCOPT:network-caching=1000
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/212280
-#EXTINF:-1 group-title="Sports กีฬา",🏀 NBA TV
+#EXTINF:-1 group-title="Sports กีฬา",🏀 NBA TV 3
 #EXTVLCOPT:network-caching=1000
 http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B4:AF:2D&stream=1000006&extension=ts&play_token=SBUpKymbXE
 https://ww.dooballfree.vip/live/nba/playlist.m3u8
@@ -884,8 +882,6 @@ https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 https://fl25.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="News ข่าว",CNBC Europe HD 
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-#EXTINF:-1 group-title="News ข่าว",寰宇新聞台Global News TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1759232099/ei/A2zbaPTjOp6YvcAPhsDUyA0/ip/2403%3A6200%3A8840%3Adf3%3A50b8%3A2bee%3A2fbc%3A236b/id/Ej3LQM_lTEw.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ATw7iSXOiOwVKJUwaXlw-MkxgE7SnFml8CS6nuCWtByQ0CuVI_HQIex03eLhHF7JuTzNJPv9GydG0CgA/spc/hcYD5RXdEucZJCIdNaL7pfVYt0FXtTKVQBUSaxLlg6tkueeDGyj8CDmmjcS90W167FLefATPYvA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51593650/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgdWcRk_aZnkxnuEHmmDJ8ZqpnW37x5hEUjTpsCMoCSeUCIEFJ_Y7Qp2n0sBOTuWlIaAXLn2PmSRR5g81DBnyfgmty/file/index.m3u8
 #EXTINF:-1,<====== All Sports =======>
 https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
 #EXTINF:-1 group-title="Sports กีฬา",ES: DAZN FORMULA 1 SD
