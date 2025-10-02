@@ -55,6 +55,8 @@ http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
 https://tinyurl.com/ytk5xhvu
 #EXTINF:-1 group-title="Sports กีฬา",🎾Tennis Channel UK
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",🎾Tennis Channel TV
+http://49.0.64.96:8007/TENNIS
 #EXTINF:-1 group-title="Sports กีฬา",Tennis Plus
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",🏌️‍♂️Sky Sport Golf
@@ -902,6 +904,80 @@ https://de11.seetv.cc/6831/video.m3u8?token=BC28182177585B5
 #EXTINF:-1 group-title="Sports กีฬา",Diema Sport 3
 https://de11.seetv.cc/6832/video.m3u8?token=BC28182177585B5
 
+#EXTINF:-1,=== ARENA SPORTS ====
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537029&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664041294.png" group-title="Sports กีฬา",ARENASPORT1
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537002&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664041506.png" group-title="Sports กีฬา",ARENASPORT2
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537006&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664219377.png" group-title="Sports กีฬา",ARENASPORT3
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537009&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664132050.png" group-title="Sports กีฬา",ARENASPORT4
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537012&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/serbia/arena-1-premium-icon-rs.png" group-title="Sports กีฬา",ArenaSportPremium1
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537029&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/serbia/arena-2-premium-icon-rs.png" group-title="Sports กีฬา",ArenaSportPremium2
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537031&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/serbia/arena-3-premium-icon-rs.png" group-title="Sports กีฬา",ArenaSportPremium3
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537033&extension=ts
+
+#EXTINF:-1,=== Hubpremier ====
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112229.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier01.png" group-title="Sports กีฬา",Hubpremier1
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112231.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier02.png" group-title="Sports กีฬา",Hubpremier2
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112229.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier03.png" group-title="Sports กีฬา",Hubpremier3
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112228.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier04.png" group-title="Sports กีฬา",Hubpremier4
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112227.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier05.png" group-title="Sports กีฬา",Hubpremier5
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112226.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2025/09/09/20250909042507768164_39.png" group-title="Sports กีฬา",Hubpremier6
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112225.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bVOyKEV.png" group-title="Sports กีฬา",Hubpremier7
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112224.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2025/08/13/20250813042604656209_88.png" group-title="Sports กีฬา",Hubpremier8
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112223.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbuhtHIe9ibaD6FnRFjd4PTcqkK81jAxCC6g&s" group-title="Sports กีฬา",Hubpremier9
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112222.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/h1jaQqc.png" group-title="Sports กีฬา",Hubpremier10
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112221.m3u8
+
+#EXTINF:-1,=== Now Sports ====
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112206.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="Sports กีฬา",Now Sports 1
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112207.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305"group-title="Sports กีฬา",Now Sports 2
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112206.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305"group-title="Sports กีฬา",Now Sports 3
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112205.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305" group-title="Sports กีฬา",Now Sports 4
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112204.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_425_305" group-title="Sports กีฬา",Now Sports 5
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112203.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305" group-title="Sports กีฬา",Now Sports 6
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112202.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305" group-title="Sports กีฬา",Now Sports 7
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112201.m3u8
+
+#EXTINF:-1,=== Prima Sports ====
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77490&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1694689157.png" Prima group-title="Sports กีฬา",Sport 1
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=238886&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1695249914.png" Prima group-title="Sports กีฬา",Sport 2
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=238887&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1695604346.png" group-title="Sports กีฬา",Prima Sport 3
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77481&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1695398839.png"group-title="Sports กีฬา", Prima Sport 4
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77490&extension=ts
+
+
 
 #EXTINF:-1,=== ช่องรอปรับปรุง ====
 http://fl1.moveonjoy.com/GOLF/index.m3u8
@@ -1600,9 +1676,155 @@ http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150863&ex
 #EXTINF:-1 group-title="ผีบังตา",LIVE 19
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150862&extension=ts
 
+#EXTINF:-1 group-title="ผีบังตา",SPOTV 1
+https://ww.dooballfree.vip/live/spotv/playlist.m3u8
+http://45.144.165.187:8080/playid168/12345/10395
+#EXTINF:-1 group-title="ผีบังตา",SPOTV 2
+https://ww.dooballfree.vip/live/spotv2/playlist.m3u8
 
+#EXTINF:-1 group-title="ผีบังตา",บีอินสปอตส์ 1
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein1/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",บีอินสปอตส์ 2
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein2/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",บีอินสปอตส์ 3
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein3/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",บีอินสปอตส์ 4
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein4/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",บีอินสปอตส์ 5
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein5/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",บีอินสปอตส์ 6
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein6/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",บีอินสปอตส์ 7
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein7/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",บีอินสปอตส์ 8
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein8/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",บีอินสปอตส์ 9
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein9/playlist.m3u8
 
+#EXTINF:-1 group-title="ผีบังตา",MAX-1
+https://live3.inwstream.com/transcoder_F1/aismonomaxsports1_inwiptv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ผีบังตา",MAX-2
+https://live3.inwstream.com/transcoder_F1/aismonomaxsports2_inwiptv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ผีบังตา",MAX 1
+#EXTVLCOPT:network-caching=1000
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186563&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",MAX 2
+#EXTVLCOPT:network-caching=1000
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186561&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186570&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 4
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186580&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 5
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186582&extension=ts
 
+#EXTINF:-1 group-title="ผีบังตา",บอลไทย 1
+https://live1.inwstream.com/transcoder_F1/playsports1_inwiptv.stream/chunks.m3u8
+https://verb169.com/stream/22/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:43 group-title="ผีบังตา",บอลไทย 2
+https://live1.inwstream.com/transcoder_F1/playsports2_inwiptv.stream/chunks.m3u8
+https://verb169.com/stream/23/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:46 group-title="ผีบังตา",บอลไทย 3
+https://live1.inwstream.com/transcoder_F1/playsports3_inwiptv.stream/chunks.m3u8
+https://verb169.com/stream/24/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="ผีบังตา",บอลไทย 4
+https://live1.inwstream.com/transcoder_F1/playsports4_inwiptv.stream/chunks.m3u8
+https://verb169.com/stream/25/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="ผีบังตา",บอลไทย 5
+https://verb169.com/stream/26/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:36 group-title="ผีบังตา",บอลไทย 6
+https://verb169.com/stream/27/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:29 group-title="ผีบังตา",บอลไทย 7
+https://verb169.com/stream/28/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:29 group-title="ผีบังตา",บอลไทย 7 สำรอง
+https://verb169.com/stream/28/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:34 group-title="ผีบังตา",บอลไทย 8
+https://verb169.com/stream/29/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="ผีบังตา",BALLTHAI 1
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
+#EXTINF:-1 group-title="ผีบังตา",BALLTHAI 2
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
+#EXTINF:-1 group-title="ผีบังตา",BALLTHAI 3
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005.m3u8
+#EXTINF:-1 group-title="ผีบังตา",BALLTHAI 9
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8
+#EXTINF:-1 group-title="ผีบังตา",BALLTHAI 9
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8
+#EXTINF:-1 group-title="ผีบังตา",BALLTHAI 10
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8
+#EXTINF:-1 group-title="ผีบังตา",BALLTHAI 11
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
+
+#EXTINF:-1 group-title="ผีบังตา",AISPLAY SPORTS 1
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
+#EXTINF:-1 group-title="ผีบังตา",AISPLAY SPORTS 2
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
+
+#EXTINF:-1 group-title="ผีบังตา",truesports 1
+http://45.144.165.187:8080/playid168/12345/18904
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/tsp1/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",truesports 2
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186593&extension=ts
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+
+https://ww.dooballfree.vip/live/tsp2/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",truesports 3
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186602&extension=ts
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/tsp3/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",truesports 4
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/tsp4/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",truesports 5
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186596&extension=ts
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/tsp5/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",truesports 7
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186597&extension=ts
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
 
 
 #EXTINF:-1,<=== MOVIE online ปิดปรังปรุง ===>
