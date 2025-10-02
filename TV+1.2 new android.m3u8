@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="Sports กีฬา",LFCTV
-#EXTVLCOPT:network-caching=1000
 http://45.144.165.187:8080/playid168/12345/12251
-http://panel.sulu1.cc:2052/travis1/travis1/1046
 https://ww.dooballfree.vip/live/lfctv/playlist.m3u8
+http://panel.sulu1.cc:2052/travis1/travis1/5073
+http://panel.sulu1.cc:2052/travis1/travis1/1046
 #EXTINF:-1 group-title="Sports กีฬา",MUTV
 http://panel.sulu1.cc:2052/travis1/travis1/1057
 #EXTINF:-1 group-title="Sports กีฬา",Top Barça
@@ -12,10 +12,10 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/a
 #EXTVLCOPT:network-caching=1000
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 ,<======SPOTV=======>
-http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=311678&extension=ts
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+#EXTINF:-1 ,<=== SPOTV ===>
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 group-title="Sports กีฬา",SPOTV
 #EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
@@ -23,7 +23,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 #EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
-#EXTINF:-1 ,<======Special=======>
+#EXTINF:-1 ,<=== Special ===>
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=311683&extension=ts
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
 
@@ -42,13 +42,21 @@ http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/212280
 #EXTVLCOPT:network-caching=1000
 http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B4:AF:2D&stream=1000006&extension=ts&play_token=SBUpKymbXE
 https://ww.dooballfree.vip/live/nba/playlist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",🏈 NFL ESPN
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=173531&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",🏈 NFL us
 http://45.144.165.187:8080/playid168/12345/23039
 #EXTINF:-1 group-title="Sports กีฬา",🏈 NFL Bein
 http://43.229.79.245:8080/live/MPLFREE/000000/159011.m3u8
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=9383&extension=ts
-#EXTINF:-1 group-title="Sports กีฬา",🏈 NFL ESPN
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=173531&extension=ts
+#EXTINF:-1 group-title="Sports กีฬา",🎾 Tennis Channel
+http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",🎾Tennis Channel 2
+https://tinyurl.com/ytk5xhvu
+#EXTINF:-1 group-title="Sports กีฬา",🎾Tennis Channel UK
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",Tennis Plus
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",🏌️‍♂️Sky Sport Golf
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/live/q8KuDU/354945/35240.ts
@@ -61,8 +69,18 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186500&extension=
 #EXTINF:-1 group-title="Sports กีฬา",🏌️‍♂️Golf NBC
 #EXTVLCOPT:network-caching=1000
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/267757
+#EXTINF:-1 group-title="Sports กีฬา",VOLI TURKI 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+http://iptvde.de:8080/OsmanTokmak/fgxgthus/111498
+#EXTINF:-1 group-title="Sports กีฬา",VOLI ITALIA 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
+#EXTVLCOPT:network-caching=1000
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
-#EXTINF:-1 ,<======⚽ ฟุตบอลลีก =======>
+#EXTINF:-1 ,<===⚽ ฟุตบอลลีก ===>
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=356182&extension=ts
 http://ott.watch/stream/D3FX33QMIH1/313.m3u8
 
@@ -76,88 +94,12 @@ http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150880&ex
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150879&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",League Live-3
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150878&extension=ts
-
 #EXTINF:-1 group-title="Sports กีฬา",SuperSport Football
 http://145.239.5.177/564/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",SuperSport PSL
 http://145.239.5.177/562/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Setanta Sports
-http://94.130.221.219/setantaua/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",PremierLeague 1
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=598127&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",Setanta Sports 1 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 group-title="Sports กีฬา",Setanta Sports 2
-http://94.130.221.219/setanta2/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Setanta Sports Qz HD
-http://94.130.221.219/setantakz/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",program
-https://mt01.utako.moe/js4/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",LaLiga TV 2 por Movistar Plus
-http://eagle2024.xyz:80/fuegoipsat439/0sxi3j6w3w/970485
-#EXTINF:-1 group-title="Sports กีฬา",Movistar Liga de Campeones
-http://eagle2024.xyz:80/fuegoipsat439/0sxi3j6w3w/1082310
-#EXTINF:-1 group-title="Sports กีฬา",DAZN 1
-http://212.102.60.231/DAZN_1/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",DAZN F1
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
-#EXTINF:-1 group-title="Sports กีฬา",DAZN Combat
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",DAZN Ringside
-https://shorturl.asia/mRCQz
-#EXTINF:-1 group-title="Sports กีฬา",DAZN Heldinnen
-https://tinyurl.com/pr53sszx
-#EXTINF:-1 group-title="Sports กีฬา",JSport 1
-https://mt01.utako.moe/js1/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",JSport 2
-https://mt01.utako.moe/js2/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",JSport 3
-https://mt01.utako.moe/js3/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Sky Sport F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/live/q8KuDU/354945/35244.ts
-#EXTINF:-1 group-title="Sports กีฬา",Sky Sport Racing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/live/q8KuDU/354945/76842.ts
-#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 2
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.394
-#EXTVLCOPT:network-caching=1000
-http://panel.sulu1.cc:2052/travis1/travis1/3336
-#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 4
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.399
-#EXTVLCOPT:network-caching=1000
-http://panel.sulu1.cc:2052/travis1/travis1/3343
-#EXTINF:-1 group-title="Sports กีฬา",Prima Sport 1
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Prima Sport 2
-#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Prima Sport 3
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Prima Sport 4
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Prima Sport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-#EXTVLCOPT:network-caching=1000
-https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 1
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
@@ -188,9 +130,10 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
 #EXTINF:-1 group-title="Sports กีฬา",SPORT TV 1
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84597
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84667
 #EXTINF:-1 group-title="Sports กีฬา",SPORT TV 2
 #EXTVLCOPT:network-caching=1000
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84667
+http://panel.sulu1.cc:2052/travis1/travis1/85522
 #EXTINF:-1 group-title="Sports กีฬา",SPORT TV 3
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84669
@@ -200,52 +143,10 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151194
 #EXTINF:-1 group-title="Sports กีฬา",SPORT TV 5
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84671
-#EXTINF:-1 group-title="Sports กีฬา",Polsat Sport 1
-http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105530
-#EXTINF:-1 group-title="Sports กีฬา",Polsat Sport 2
-http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105533
-#EXTINF:-1 group-title="Sports กีฬา",Polsat Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:network-caching=1000
-http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=14838&extension=ts&play_token=rZ559zOlnw
-#EXTINF:-1 group-title="Sports กีฬา",Polsat Sport 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:network-caching=1000
-http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=54165&extension=ts&play_token=DgdOW3zpRD
-#EXTINF:-1 group-title="Sports กีฬา",VOLI
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#EXTVLCOPT:network-caching=1000
-http://103.179.182.117:6768/hls/2/2.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",MOJI
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#EXTVLCOPT:network-caching=1000
-http://103.179.182.117:6768/hls/50/50.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",VOLI TURKI 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-http://iptvde.de:8080/OsmanTokmak/fgxgthus/111498
-#EXTINF:-1 group-title="Sports กีฬา",VOLI ITALIA 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
-#EXTVLCOPT:network-caching=1000
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-#EXTINF:-1 group-title="Sports กีฬา",Tennis Channel
-#EXTVLCOPT:network-caching=1000
-http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Tennis Channel
-http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Tennis Channel 2
-https://tinyurl.com/ytk5xhvu
-#EXTINF:-1 group-title="Sports กีฬา",Tennis Channel UK
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Tennis Plus
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,<=== ฟรีทีวี ====>
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
 
-#EXTINF:-1,<======ฟรีทีวี=======>
-https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -369,16 +270,15 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Top News (720p)
 #EXTVLCOPT:network-caching=1000
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",MVLAO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NEWS1
+https://server1.streamssl.com/stream/news1_mid.m3u8
+
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Cool Channel
 #EXTVLCOPT:network-caching=1000
+https://live-iptv.cool-channel.com/cool/live-transmux.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Channel8
 #EXTVLCOPT:network-caching=1000
-https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",MVM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",France 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -474,13 +374,10 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://cdn-live.dltv.ac.th/dltv15.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",IPTV-THAI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
-#EXTINF:-1,<======การ์ตูน=======>
-https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
+
+#EXTINF:-1,<=== การ์ตูน ====>
+http://49.0.64.96:8007/Cartoonumi
+
 #EXTINF:-1 group-title="Cartoon การ์ตูน",AMAZING
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:network-caching=1000
@@ -488,7 +385,6 @@ http://49.0.64.96:8007/AMAZING
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Gags
 https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Boomerang
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
@@ -498,23 +394,23 @@ http://150.129.9.194:8089/83/index.m3u8?token=test
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.
 http://45.144.165.187:8080/playid168/12345/56
 http://150.129.9.194:8089/86/index.m3u8?token=test
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr. HD
-http://panel.sulu1.cc:2052/travis1/travis1/3239
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon HD
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon 
 http://45.144.165.187:8080/playid168/12345/57
-http://panel.sulu1.cc:2052/travis1/travis1/1115
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon +1
 http://panel.sulu1.cc:2052/travis1/travis1/3237
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Nicktoons HD
-http://45.144.165.187:8080/playid168/12345/60
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Nicktoons 
 http://panel.sulu1.cc:2052/travis1/travis1/3234
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoonito HD
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoonito 
+http://45.144.165.187:8080/playid168/12345/60
 http://panel.sulu1.cc:2052/travis1/travis1/1125
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Dreamworks
 http://45.144.165.187:8080/playid168/12345/54
-http://xott.live:8080/03459612396/9512563/350936
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Disney Channel
 http://212.102.60.231/DISNEY/index.m3u8
+https://e3.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Disney Junior 
+http://116.90.120.149:8000/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="Cartoon การ์ตูน"Disney International 
+https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon
 http://49.0.64.96:8007/Cartoonumi
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Mr.bean Cartoon
@@ -550,11 +446,6 @@ https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",PetClub TV2
 #EXTVLCOPT:network-caching=1000
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Zoo Moo (1080p)
-#EXTVLCOPT:network-caching=1000
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Cartoon การ์ตูน",CBeebies HD
-http://panel.sulu1.cc:2052/travis1/travis1/1124
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 1
 http://panel.sulu1.cc:2052/travis1/travis1/90039
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 2
@@ -645,8 +536,10 @@ http://panel.sulu1.cc:2052/travis1/travis1/90081
 http://panel.sulu1.cc:2052/travis1/travis1/90082
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 12
 http://panel.sulu1.cc:2052/travis1/travis1/90083
+
 #EXTINF:-1,<==== Premium Movies ====>
-https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C========================%20Premium%20Movies%20==========================%3E
+http://45.144.165.187:8080/playid168/12345/22882
+
 #EXTINF:-1 group-title="Entertainment บันเทิง", HBO2 HD
 #EXTVLCOPT:network-caching=1000
 http://212.102.60.231/HBO_2/index.m3u8
@@ -699,21 +592,14 @@ http://panel.sulu1.cc:2052/travis1/travis1/88750
 #EXTINF:-1 group-title="Entertainment บันเทิง",MoreMAX
 http://panel.sulu1.cc:2052/travis1/travis1/88752
 #EXTINF:-1 group-title="Entertainment บันเทิง",CINEMAX
-http://45.144.165.187:8080/playid168/12345/78
-
-
-
-#EXTINF:-1 group-title="Entertainment บันเทิง",Premium Blockbuster
+http://45.144.165.187:8080/playid168/12345/78 
+#EXTINF:-1 group-title="Entertainment บันเทิง",AXN
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186394&extension=ts
+#EXTINF:-1 group-title="Entertainment บันเทิง",Premium movie
 #EXTVLCOPT:network-caching=1000
 http://45.144.165.187:8080/playid168/12345/22882
-#EXTINF:-1 group-title="Entertainment บันเทิง",PlayID หนังพากย์ไทย
+#EXTINF:-1 group-title="Entertainment บันเทิง",หนังพากย์ไทย
 http://49.0.64.96:8007/IZAA
-#EXTINF:-1 group-title="Entertainment บันเทิง",Chiangrai MOVIE
-#EXTVLCOPT:network-caching=1000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186473&extension=ts
-
-
-
 #EXTINF:-1 group-title="Entertainment บันเทิง",movies1
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 #EXTVLCOPT:network-caching=1000
@@ -727,92 +613,77 @@ http://49.0.64.96:8007/IZAA
 #EXTVLCOPT:network-caching=1000
 http://49.0.64.96:8007/PING
 #EXTINF:-1 group-title="Entertainment บันเทิง",movies4
-#EXTVLCOPT:http-user-agent=http://45.144.165.223/
-#EXTVLCOPT:network-caching=1000
-http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2GNXaNwzV0aoBpkJ1W6O9P8/ts
-#EXTINF:-1 group-title="Entertainment บันเทิง",movies5
-#EXTVLCOPT:http-user-agent=http://45.144.165.223/
-#EXTVLCOPT:network-caching=1000
-http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2GE65zCy46pi5iwqJBQAWkV/ts
-#EXTINF:-1 group-title="Entertainment บันเทิง",movies6
-#EXTVLCOPT:http-user-agent=หhttp://45.144.165.223/
-#EXTVLCOPT:network-caching=1000
-http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2FcjXqcX-KxE_l4-JqcfFrc/ts
-#EXTINF:-1 group-title="Entertainment บันเทิง",movies7
-#EXTVLCOPT:http-user-agent=https://playid.short.gy/
-#EXTVLCOPT:network-caching=1000
-http://45.144.165.223:9090/memfs/bac4e40a-9545-4c92-b778-c2a836aeab0b.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง",movies8
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186493&extension=ts
 #EXTINF:-1 group-title="Entertainment บันเทิง",Zee Nung
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง",Warnertv
+#EXTINF:-1 group-title="Entertainment บันเทิง",Warner TV
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186637&extension=ts
-#EXTINF:-1 group-title="Entertainment บันเทิง",Paramount
+ #EXTINF:-1 Paramount
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง",Crime-Investigation
-#EXTVLCOPT:network-caching=1000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186434&extension=ts
-#EXTINF:-1 group-title="Entertainment บันเทิง",VIPA
+#EXTINF:-1 VIPA
 https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง",มวลชนทีวี
-https://live2.thaitvstream.com/play/mounchontv/index.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง",Cool Channel
-#EXTVLCOPT:network-caching=1000
-https://live-iptv.cool-channel.com/cool/live-transmux.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง",Channel8
-#EXTVLCOPT:network-caching=1000
-http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:-1 group-title="Entertainment บันเทิง",thrill
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
+#EXTINF:-1 group-title="Entertainment บันเทิง",ROCK ACTION
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",KbS World
 #EXTVLCOPT:network-caching=1000
 http://mytv.dothome.co.kr/ch/catv/7.php
-#EXTINF:-1,<======สารคดี=======>
-https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
+
+#EXTINF:-1,<=== สารคดี ====>
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+
+#EXTINF:-1 group-title="Documentary สารคดี",Discovery
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186438&extension=ts
+#EXTINF:-1 group-title="Documentary สารคดี",History
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186511&extension=ts
 #EXTINF:-1 group-title="Documentary สารคดี",AFN
 #EXTVLCOPT:network-caching=1000
 http://45.144.165.187:8080/playid168/12345/41
 #EXTINF:-1 group-title="Documentary สารคดี",Food Network FHD
 http://panel.sulu1.cc:2052/travis1/travis1/3513
-
 #EXTINF:-1 group-title="Documentary สารคดี",Animal
 #EXTVLCOPT:network-caching=1000
 http://49.0.64.96:8007/Animal
 #EXTINF:-1 group-title="Documentary สารคดี",SCIENCE
 #EXTVLCOPT:network-caching=1000
 http://49.0.64.96:8007/WSCI
-
-#EXTINF:-1 group-title="Documentary สารคดี",Discovery
-#EXTVLCOPT:network-caching=1000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186438&extension=ts
-
-#EXTINF:-1 group-title="Documentary สารคดี",History
-#EXTVLCOPT:network-caching=1000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186511&extension=ts
-
-
 #EXTINF:-1 group-title="Documentary สารคดี",ANIMAL SHOW
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186456&extension=ts
-
-
 #EXTINF:-1 group-title="Documentary สารคดี",BBCLifestyle
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186399&extension=ts
-
-
-
-
-#EXTINF:-1 group-title="Documentary สารคดี",afn
-#EXTVLCOPT:network-caching=1000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186384&extension=ts
 #EXTINF:-1 group-title="Documentary สารคดี",TLC
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186485&extension=ts
-#EXTINF:-1,<====== NEWS =======>
-https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
+#EXTINF:-1 group-title="Documentary สารคดี",ของดี
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186648&extension=ts
+#EXTINF:-1 group-title="Documentary สารคดี",OutDoor
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186552&extension=ts
+#EXTINF:-1 group-title="Documentary สารคดี",THAI NESS
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186405&extension=ts
+#EXTINF:-1 group-title="Documentary สารคดี",SCi
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186457&extension=ts
+#EXTINF:-1 group-title="Documentary สารคดี",BBC EARTH
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000116/1024.m3u8
+#EXTINF:-1 group-title="Documentary สารคดี",LOVE NATURE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
+#EXTINF:-1 group-title="Documentary สารคดี",CRIME+INVESTIGATION
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
+#EXTINF:-1 group-title="Documentary สารคดี",NHK
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000040/1024.m3u8
+#EXTINF:-1 group-title="Documentary สารคดี",CGTN DOCUMENTARY
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
+
+#EXTINF:-1,<=== NEWS ===>
+https://fl25.moveonjoy.com/CNBC/index.m3u8
+
 #EXTINF:-1 group-title="News ข่าว",BBC news
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
 #EXTINF:-1 group-title="News ข่าว",CNN 
@@ -828,7 +699,6 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 #EXTINF:-1 group-title="News ข่าว",Fox News
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-
 #EXTINF:-1 group-title="News ข่าว",EuronNews
 #EXTVLCOPT:network-caching=1000
 https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
@@ -859,10 +729,192 @@ https://fl25.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="News ข่าว",CNBC Europe HD 
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 
+#EXTINF:-1,<=== premium sports ===>
+http://panel.sulu1.cc:2052/travis1/travis1/3336
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/631067
+
+#EXTINF:-1,<=== TNT SPORTS ===>
+
+#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 1
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.391
+#EXTVLCOPT:network-caching=1000
+http://panel.sulu1.cc:2052/travis1/travis1/3332
+#EXTINF:-1 group-title="Sports กีฬา",TNTSports1-FHD
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 2
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.394
+#EXTVLCOPT:network-caching=1000
+http://panel.sulu1.cc:2052/travis1/travis1/3336
+#EXTINF:-1 group-title="Sports กีฬา",TNTSports2-FHD
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 3
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.397
+#EXTVLCOPT:network-caching=1000
+http://panel.sulu1.cc:2052/travis1/travis1/3338
+#EXTINF:-1 group-title="Sports กีฬา",TNTSports3-FHD
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 4
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.399
+#EXTVLCOPT:network-caching=1000
+http://panel.sulu1.cc:2052/travis1/travis1/3343
+#EXTINF:-1 group-title="Sports กีฬา",TNTSports4-FHD
+https://7pal.short.gy/tntspts4
+#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 5
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.402
+#EXTVLCOPT:network-caching=1000
+http://panel.sulu1.cc:2052/travis1/travis1/1234
+#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 6
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.405
+#EXTVLCOPT:network-caching=1000
+http://panel.sulu1.cc:2052/travis1/travis1/3345
+#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 7
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.406
+#EXTVLCOPT:network-caching=1000
+http://panel.sulu1.cc:2052/travis1/travis1/3346
+#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 8
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.407
+#EXTVLCOPT:network-caching=1000
+http://panel.sulu1.cc:2052/travis1/travis1/1237
+#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 9
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.408
+#EXTVLCOPT:network-caching=1000
+http://panel.sulu1.cc:2052/travis1/travis1/1238
+
+#EXTINF:-1 group-title="Sports กีฬา",=== UEFA REPLAY ====
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/quuen2024/llgnews/queen/=================================================UEFA%20REPLAY======================================================
+https://raw.githubusercontent.com/quuen2024/llgnews/queen/uefa%20info
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extension=ts&play_token=n1KBSwudMQ
+#EXTINF:-1 group-title="Sports กีฬา",UEFA Champion Info
+#EXTVLCOPT:network-caching=1000
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extension=ts&play_token=n1KBSwudMQ
+
+#EXTINF:-1 group-title="Sports กีฬา",HL
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/quuen2024/llgnews/queen/HL
+#EXTINF:-1 group-title="Sports กีฬา",UEFA HIGHLIGHT
+#EXTVLCOPT:network-caching=1000
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830216&extension=ts&play_token=MYt8jW9dDS
+#EXTINF:-1 group-title="Sports กีฬา",1
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/quuen2024/llgnews/queen/1
+#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 1
+#EXTVLCOPT:network-caching=1000
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830215&extension=ts&play_token=W3HraHXS5I
+#EXTINF:-1 group-title="Sports กีฬา",2
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/quuen2024/llgnews/queen/2
+#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 2
+#EXTVLCOPT:network-caching=1000
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830214&extension=ts&play_token=ogSdqOYzDY
+#EXTINF:-1 group-title="Sports กีฬา",3
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/quuen2024/llgnews/queen/3
+#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 3
+#EXTVLCOPT:network-caching=1000
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830213&extension=ts&play_token=NGeII0SCF9
+#EXTINF:-1 group-title="Sports กีฬา",4
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/quuen2024/llgnews/queen/4
+#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 4
+#EXTVLCOPT:network-caching=1000
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830212&extension=ts&play_token=gZiBUM4qyj
+#EXTINF:-1 group-title="Sports กีฬา",4
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/quuen2024/llgnews/queen/4
+#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 5
+#EXTVLCOPT:network-caching=1000
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830211&extension=ts&play_token=I72Boisniw
+#EXTINF:-1 group-title="Sports กีฬา",6
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/quuen2024/llgnews/queen/6
+#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 6
+#EXTVLCOPT:network-caching=1000
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830210&extension=ts&play_token=w82LnRxZjh
+#EXTINF:-1 group-title="Sports กีฬา",7
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/quuen2024/llgnews/queen/7
+#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 7
+#EXTVLCOPT:network-caching=1000
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830209&extension=ts&play_token=BaoYp9sbHf
+#EXTINF:-1 group-title="Sports กีฬา",8
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/quuen2024/llgnews/queen/8
+#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 8
+#EXTVLCOPT:network-caching=1000
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830208&extension=ts&play_token=hALJDnCXCv
+#EXTINF:-1 group-title="Sports กีฬา",9
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/quuen2024/llgnews/queen/9
+#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 9
+#EXTVLCOPT:network-caching=1000
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830207&extension=ts&play_token=NaS4oga7oq
+#EXTINF:-1 group-title="Sports กีฬา",10
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/quuen2024/llgnews/queen/10
+#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 10
+#EXTVLCOPT:network-caching=1000
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830206&extension=ts&play_token=RzldCpIPiE
+https://raw.githubusercontent.com/babygen-sys/TV-android-/refs/heads/main/M3U/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%20android/Home/http-user-agent=Mozilla/5.0%20(Linux;%20Android%2010;%20K)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/124.0.0.0%20Mobile%20Safari/537.36
+
+#EXTINF:-1,=== Max Sport ====
+http://xott.live:8080/03459612396/9512563/346243
+
+#EXTINF:-1 group-title="Sports กีฬา",Max Sport 1
+https://de11.seetv.cc/6875/video.m3u8?token=BC28182177585B5
+#EXTINF:-1 group-title="Sports กีฬา",Max Sport 2
+https://de11.seetv.cc/6876/video.m3u8?token=BC28182177585B5
+#EXTINF:-1 group-title="Sports กีฬา",Max Sport 3
+https://de11.seetv.cc/6877/video.m3u8?token=BC28182177585B5
+#EXTINF:-1 group-title="Sports กีฬา",Max Sport 4
+https://de11.seetv.cc/6878/video.m3u8?token=BC28182177585B5
+
+#EXTINF:-1,=== DAZN ====
+http://212.102.60.231/DAZN_1/index.m3u8
+
+#EXTINF:-1 group-title="Sports กีฬา",DAZN 1
+http://212.102.60.231/DAZN_1/index.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",DAZN 2
+http://212.102.60.231/DAZN_2/index.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",DAZN 3
+http://nocable.cc:8080/2gKWFe/362900/167748
+#EXTINF:-1 group-title="Sports กีฬา",DAZN 4
+http://nocable.cc:8080/2gKWFe/362900/167749
+#EXTINF:-1 group-title="Sports กีฬา",DAZN 5
+http://nocable.cc:8080/2gKWFe/362900/167750
+#EXTINF:-1 group-title="Sports กีฬา",DAZN LaLiga
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94467
+#EXTINF:-1 group-title="Sports กีฬา",DAZN F1
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
+#EXTINF:-1 group-title="Sports กีฬา",DAZN Combat
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",DAZN Ringside
+https://shorturl.asia/mRCQz
+#EXTINF:-1 group-title="Sports กีฬา",DAZN Heldinnen
+https://tinyurl.com/pr53sszx
+
+#EXTINF:-1,=== JSports ====
+https://mt01.utako.moe/js2/index.m3u8
+
+#EXTINF:-1 group-title="Sports กีฬา",JSport 1
+https://mt01.utako.moe/js1/index.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",JSport 2
+https://mt01.utako.moe/js2/index.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",JSport 3
+https://mt01.utako.moe/js3/index.m3u8
 
 
-#EXTINF:-1,<====== premium sports =======>
-https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
+#EXTINF:-1,=== ช่องรอปรับปรุง ====
+http://fl1.moveonjoy.com/GOLF/index.m3u8
 
 #EXTINF:-1 group-title="Sports กีฬา",NBC Golf
 http://fl1.moveonjoy.com/GOLF/index.m3u8
@@ -872,6 +924,66 @@ https://tinyurl.com/5ab4nkj8
 #EXTINF:-1 group-title="Sports กีฬา",PGA Tour
 #EXTVLCOPT:network-caching=1000
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac630-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2b7359-0375-4f34-996b-4fb9429ead78
+#EXTINF:-1 group-title="Sports กีฬา",program
+https://mt01.utako.moe/js4/index.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",LaLiga TV 2 por Movistar Plus
+http://eagle2024.xyz:80/fuegoipsat439/0sxi3j6w3w/970485
+#EXTINF:-1 group-title="Sports กีฬา",Movistar Liga de Campeones
+http://eagle2024.xyz:80/fuegoipsat439/0sxi3j6w3w/1082310
+
+#EXTINF:-1 group-title="Sports กีฬา",DAZN 1
+http://212.102.60.231/DAZN_1/index.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",DAZN F1
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
+#EXTINF:-1 group-title="Sports กีฬา",DAZN Combat
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",DAZN Ringside
+https://shorturl.asia/mRCQz
+#EXTINF:-1 group-title="Sports กีฬา",DAZN Heldinnen
+https://tinyurl.com/pr53sszx
+
+
+#EXTINF:-1 group-title="Sports กีฬา",JSport 1
+https://mt01.utako.moe/js1/index.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",JSport 2
+https://mt01.utako.moe/js2/index.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",JSport 3
+https://mt01.utako.moe/js3/index.m3u8
+
+
+#EXTINF:-1 group-title="Sports กีฬา",Sky Sport F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/q8KuDU/354945/35244.ts
+#EXTINF:-1 group-title="Sports กีฬา",Sky Sport Racing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/live/q8KuDU/354945/76842.ts
+#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 2
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.394
+#EXTVLCOPT:network-caching=1000
+http://panel.sulu1.cc:2052/travis1/travis1/3336
+#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 4
+#EXTVLCOPT:http-referrer= 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.399
+#EXTVLCOPT:network-caching=1000
+http://panel.sulu1.cc:2052/travis1/travis1/3343
+#EXTINF:-1 group-title="Sports กีฬา",Polsat Sport 1
+http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105530
+#EXTINF:-1 group-title="Sports กีฬา",Polsat Sport 2
+http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105533
+#EXTINF:-1 group-title="Sports กีฬา",Polsat Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:network-caching=1000
+http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=14838&extension=ts&play_token=rZ559zOlnw
+#EXTINF:-1 group-title="Sports กีฬา",Polsat Sport 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:network-caching=1000
+http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=54165&extension=ts&play_token=DgdOW3zpRD
 
 
 #EXTINF:-1 group-title="Sports กีฬา",ES: LIGA DE CAMPEONES SD
@@ -928,122 +1040,13 @@ http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/668108
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.302
 #EXTVLCOPT:network-caching=1000
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/668107
-#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 1
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.391
-#EXTVLCOPT:network-caching=1000
-http://panel.sulu1.cc:2052/travis1/travis1/3332
-#EXTINF:-1 group-title="Sports กีฬา",TNTSports1-FHD
-https://7pal.short.gy/tntspts1
-#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 2
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.394
-#EXTVLCOPT:network-caching=1000
-http://panel.sulu1.cc:2052/travis1/travis1/3336
-#EXTINF:-1 group-title="Sports กีฬา",TNTSports2-FHD
-https://7pal.short.gy/tntspts2
-#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 3
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.397
-#EXTVLCOPT:network-caching=1000
-http://panel.sulu1.cc:2052/travis1/travis1/3338
-#EXTINF:-1 group-title="Sports กีฬา",TNTSports3-FHD
-https://7pal.short.gy/tntspts3
-#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 4
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.399
-#EXTVLCOPT:network-caching=1000
-http://panel.sulu1.cc:2052/travis1/travis1/3343
-#EXTINF:-1 group-title="Sports กีฬา",TNTSports4-FHD
-https://7pal.short.gy/tntspts4
-#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 5
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.402
-#EXTVLCOPT:network-caching=1000
-http://panel.sulu1.cc:2052/travis1/travis1/1234
-#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 5
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.404
-#EXTVLCOPT:network-caching=1000
-http://thepiratescove.co.uk:80/rayFCCNE/tuuTdxFf/46479
-#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 6
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.405
-#EXTVLCOPT:network-caching=1000
-http://panel.sulu1.cc:2052/travis1/travis1/3345
-#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 7
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.406
-#EXTVLCOPT:network-caching=1000
-http://panel.sulu1.cc:2052/travis1/travis1/3346
-#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 8
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.407
-#EXTVLCOPT:network-caching=1000
-http://panel.sulu1.cc:2052/travis1/travis1/1237
-#EXTINF:-1 group-title="Sports กีฬา",TNT Sport 9
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.408
-#EXTVLCOPT:network-caching=1000
-http://panel.sulu1.cc:2052/travis1/travis1/1238
-#EXTINF:-1 group-title="Sports กีฬา",PRIMA SPORT 1 US
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.309
-#EXTVLCOPT:network-caching=1000
-http://panel.sulu1.cc:2052/travis1/travis1/15033
-#EXTINF:-1 group-title="Sports กีฬา",PRIMA SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",PRIMA SPORT 2 US
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.310
-#EXTVLCOPT:network-caching=1000
-http://panel.sulu1.cc:2052/travis1/travis1/15032
-#EXTINF:-1 group-title="Sports กีฬา",PRIMA SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",PRIMA SPORT 3 US
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.311
-#EXTVLCOPT:network-caching=1000
-http://panel.sulu1.cc:2052/travis1/travis1/15031
-#EXTINF:-1 group-title="Sports กีฬา",PRIMA SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",PRIMA SPORT 4 US
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.312
-#EXTVLCOPT:network-caching=1000
-http://panel.sulu1.cc:2052/travis1/travis1/15030
-#EXTINF:-1 group-title="Sports กีฬา",PRIMA SPORTS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",PRIMA SPORT 5 US
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.313
-#EXTVLCOPT:network-caching=1000
-http://panel.sulu1.cc:2052/travis1/travis1/15027
-#EXTINF:-1 group-title="Sports กีฬา",PRIMA SPORT 5 Backup
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.313
-#EXTVLCOPT:network-caching=1000
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/290171
+
+
 #EXTINF:-1 group-title="Sports กีฬา",SPORT TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+
 #EXTINF:-1 group-title="Sports กีฬา",AstroArena1
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.140
@@ -1130,14 +1133,13 @@ http://panel.sulu1.cc:2052/travis1/travis1/85523
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.349
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/85524
-#EXTINF:-1 group-title="Sports กีฬา",===========================================================================SKY_SPORT+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+#EXTINF:-1 group-title="Sports กีฬา",=== SKY_SPORT ===
 #EXTVLCOPT:network-caching=1000
+
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/===========================================================================SKY_SPORT+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-#EXTINF:-1 group-title="Sports กีฬา",Sky Sports Premier League HD UK
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.355
-#EXTVLCOPT:network-caching=1000
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/644357
+
 #EXTINF:-1 group-title="Sports กีฬา",Sky Sports Premier League HD UK 2
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.355
@@ -1149,19 +1151,6 @@ http://fortv.cc:8080/live/q8KuDU/354945/35243.ts
 #EXTINF:-1 group-title="Sports กีฬา",Sky Sport Mix
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/live/q8KuDU/354945/53706.ts
-#EXTINF:-1 group-title="Sports กีฬา",Sky Sports F1 HD 2
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.349
-#EXTVLCOPT:network-caching=1000
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/644351
-#EXTINF:-1 group-title="Sports กีฬา",Sky Sports Golf HD 1
-#EXTVLCOPT:http-referrer= 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.351
-#EXTVLCOPT:network-caching=1000
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/644352
-#EXTINF:-1 group-title="Sports กีฬา",Sky Sport Action
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/live/q8KuDU/354945/53705.ts
 #EXTINF:-1 group-title="Sports กีฬา",Sky Sport Arena
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/live/q8KuDU/354945/137719.ts
@@ -1177,89 +1166,8 @@ http://fortv.cc:8080/live/q8KuDU/354945/45940.ts
 #EXTINF:-1 group-title="Sports กีฬา",Sky Sport Racing
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/live/q8KuDU/354945/76842.ts
-#EXTINF:-1 group-title="Sports กีฬา",=================================================UEFA REPLAY======================================================
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/=================================================UEFA%20REPLAY======================================================
-#EXTINF:-1 group-title="Sports กีฬา",uefa info
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/uefa%20info
-#EXTINF:-1 group-title="Sports กีฬา",UEFA Champion Info
-#EXTVLCOPT:network-caching=1000
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extension=ts&play_token=n1KBSwudMQ
-#EXTINF:-1 group-title="Sports กีฬา",HL
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/HL
-#EXTINF:-1 group-title="Sports กีฬา",UEFA HIGHLIGHT
-#EXTVLCOPT:network-caching=1000
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830216&extension=ts&play_token=MYt8jW9dDS
-#EXTINF:-1 group-title="Sports กีฬา",1
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/1
-#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 1
-#EXTVLCOPT:network-caching=1000
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830215&extension=ts&play_token=W3HraHXS5I
-#EXTINF:-1 group-title="Sports กีฬา",2
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/2
-#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 2
-#EXTVLCOPT:network-caching=1000
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830214&extension=ts&play_token=ogSdqOYzDY
-#EXTINF:-1 group-title="Sports กีฬา",3
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/3
-#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 3
-#EXTVLCOPT:network-caching=1000
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830213&extension=ts&play_token=NGeII0SCF9
-#EXTINF:-1 group-title="Sports กีฬา",4
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/4
-#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 4
-#EXTVLCOPT:network-caching=1000
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830212&extension=ts&play_token=gZiBUM4qyj
-#EXTINF:-1 group-title="Sports กีฬา",4
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/4
-#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 5
-#EXTVLCOPT:network-caching=1000
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830211&extension=ts&play_token=I72Boisniw
-#EXTINF:-1 group-title="Sports กีฬา",6
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/6
-#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 6
-#EXTVLCOPT:network-caching=1000
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830210&extension=ts&play_token=w82LnRxZjh
-#EXTINF:-1 group-title="Sports กีฬา",7
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/7
-#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 7
-#EXTVLCOPT:network-caching=1000
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830209&extension=ts&play_token=BaoYp9sbHf
-#EXTINF:-1 group-title="Sports กีฬา",8
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/8
-#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 8
-#EXTVLCOPT:network-caching=1000
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830208&extension=ts&play_token=hALJDnCXCv
-#EXTINF:-1 group-title="Sports กีฬา",9
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/9
-#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 9
-#EXTVLCOPT:network-caching=1000
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830207&extension=ts&play_token=NaS4oga7oq
-#EXTINF:-1 group-title="Sports กีฬา",10
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/10
-#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 10
-#EXTVLCOPT:network-caching=1000
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830206&extension=ts&play_token=RzldCpIPiE
-https://raw.githubusercontent.com/babygen-sys/TV-android-/refs/heads/main/M3U/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%20android/Home/http-user-agent=Mozilla/5.0%20(Linux;%20Android%2010;%20K)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/124.0.0.0%20Mobile%20Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://live.vpnhosted.com/LFCTV_HD/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",L.F.C.
-http://xott.live:8080/03459612396/9512563/346243
-#EXTINF:-1 group-title="Sports กีฬา",Real Madrid TV
-https://shorturl.at/v4P0h
+
+
 #EXTINF:-1 group-title="Sports กีฬา",TNT Sports 1
 http://178.33.239.54:8080/509/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",TNT Sports 2
@@ -1276,6 +1184,8 @@ http://23.237.104.106:8080/USA_FS1/index.m3u8
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Sky Sport MotoGP
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:AD:91&stream=51122&extension=ts
+
+
 #EXTINF:-1 group-title="Sports กีฬา",Sky Sport 1
 http://xott.live:8080/03459612396/9512563/233178
 #EXTINF:-1 group-title="Sports กีฬา",Sky Sport 2
@@ -1290,6 +1200,8 @@ http://xott.live:8080/03459612396/9512563/233182
 http://xott.live:8080/03459612396/9512563/233183
 #EXTINF:-1 group-title="Sports กีฬา",Sky Sport 7
 http://xott.live:8080/03459612396/9512563/233184
+
+
 #EXTINF:-1 group-title="Sports กีฬา",Bein Sports
 https://fl5.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Bein Sports 1 fr
@@ -1310,26 +1222,8 @@ http://xott.live:8080/03459612396/9512563/354425
 http://87.120.179.187:8000/play/a00l
 #EXTINF:-1 group-title="Sports กีฬา",ns6
 http://116.202.237.33:8080/NS6/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
-#EXTINF:-1 group-title="Sports กีฬา",DAZN 1
-http://212.102.60.231/DAZN_1/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",DAZN 2
-http://212.102.60.231/DAZN_2/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",DAZN 3
-http://nocable.cc:8080/2gKWFe/362900/167748
-#EXTINF:-1 group-title="Sports กีฬา",DAZN 4
-http://nocable.cc:8080/2gKWFe/362900/167749
-#EXTINF:-1 group-title="Sports กีฬา",DAZN 5
-http://nocable.cc:8080/2gKWFe/362900/167750
-#EXTINF:-1 group-title="Sports กีฬา",DAZN LaLiga
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94467
-#EXTINF:-1 group-title="Sports กีฬา",DAZN F1
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
-#EXTINF:-1 group-title="Sports กีฬา",DAZN Combat
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",DAZN Ringside
-https://shorturl.asia/mRCQz
-#EXTINF:-1 group-title="Sports กีฬา",DAZN Heldinnen
-https://tinyurl.com/pr53sszx
+
+
 #EXTINF:-1 group-title="Sports กีฬา",JSport 1
 https://mt01.utako.moe/js1/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",JSport 2
@@ -1354,30 +1248,16 @@ http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKK_lhfi
 http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKKIK5rl2n5meUW9b110w7T-/ts
 #EXTINF:-1 group-title="Sports กีฬา",Arena Sport 4
 http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKJwgvaVf5ef2xfRW1qMuTL6/ts
+
+
 #EXTINF:-1 group-title="Sports กีฬา",Diema Sport
 https://de11.seetv.cc/6830/video.m3u8?token=BC28182177585B5
 #EXTINF:-1 group-title="Sports กีฬา",Diema Sport 2
 https://de11.seetv.cc/6831/video.m3u8?token=BC28182177585B5
 #EXTINF:-1 group-title="Sports กีฬา",Diema Sport 3
 https://de11.seetv.cc/6832/video.m3u8?token=BC28182177585B5
-#EXTINF:-1 group-title="Sports กีฬา",Prima Sport 1
-http://xott.live:8080/03459612396/9512563/353136
-#EXTINF:-1 group-title="Sports กีฬา",Prima Sport 2
-http://xott.live:8080/03459612396/9512563/353137
-#EXTINF:-1 group-title="Sports กีฬา",Prima Sport 3
-http://xott.live:8080/03459612396/9512563/353138
-#EXTINF:-1 group-title="Sports กีฬา",Prima Sport 4
-http://xott.live:8080/03459612396/9512563/353139
-#EXTINF:-1 group-title="Sports กีฬา",Prima Sport 5
-http://xott.live:8080/03459612396/9512563/353140
-#EXTINF:-1 group-title="Sports กีฬา",Max Sport 1
-https://de11.seetv.cc/6875/video.m3u8?token=BC28182177585B5
-#EXTINF:-1 group-title="Sports กีฬา",Max Sport 2
-https://de11.seetv.cc/6876/video.m3u8?token=BC28182177585B5
-#EXTINF:-1 group-title="Sports กีฬา",Max Sport 3
-https://de11.seetv.cc/6877/video.m3u8?token=BC28182177585B5
-#EXTINF:-1 group-title="Sports กีฬา",Max Sport 4
-https://de11.seetv.cc/6878/video.m3u8?token=BC28182177585B5
+
+
 #EXTINF:-1 group-title="Sports กีฬา",Hub Premier 1
 https://a1xs.vip/1100041
 #EXTINF:-1 group-title="Sports กีฬา",SuperSport Premier League
@@ -1478,9 +1358,13 @@ https://pepsi.abntv.live/hls/4spstream.m3u8
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Sports กีฬา",<====== ช่องกีฬาทั่วไป =======>
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
+#EXTINF:-1,=== ช่องรอปรับปรุง ====
+http://fl1.moveonjoy.com/GOLF/index.m3u8
+
+
+#EXTINF:-1 group-title="Sports กีฬา",<=== ช่องกีฬาทั่วไป ====>
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
 #EXTINF:-1 group-title="Sports กีฬา",KTV Sport Plus
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Aspor
@@ -1586,9 +1470,9 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTVLCOPT:network-caching=1000
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 
+#EXTINF:-1,<=== ฟังเพลงสากล ====>
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
-#EXTINF:-1,<====== ฟังเพลงสากล =======>
-https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/%3C====================================================%20Area%20Sport%20Tambahan%20======================================%3E
 #EXTINF:-1 group-title="Entertainment บันเทิง",MTV USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
