@@ -69,16 +69,6 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186500&extension=
 #EXTINF:-1 group-title="Sports กีฬา",🏌️‍♂️Golf NBC
 #EXTVLCOPT:network-caching=1000
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/267757
-#EXTINF:-1 group-title="Sports กีฬา",VOLI TURKI 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-http://iptvde.de:8080/OsmanTokmak/fgxgthus/111498
-#EXTINF:-1 group-title="Sports กีฬา",VOLI ITALIA 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
-#EXTVLCOPT:network-caching=1000
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
 #EXTINF:-1 ,<===⚽ ฟุตบอลลีก ===>
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=356182&extension=ts
@@ -912,6 +902,16 @@ https://mt01.utako.moe/js2/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",JSport 3
 https://mt01.utako.moe/js3/index.m3u8
 
+#EXTINF:-1,=== Diema Sports ====
+https://de11.seetv.cc/6832/video.m3u8?token=BC28182177585B5
+
+#EXTINF:-1 group-title="Sports กีฬา",Diema Sport
+https://de11.seetv.cc/6830/video.m3u8?token=BC28182177585B5
+#EXTINF:-1 group-title="Sports กีฬา",Diema Sport 2
+https://de11.seetv.cc/6831/video.m3u8?token=BC28182177585B5
+#EXTINF:-1 group-title="Sports กีฬา",Diema Sport 3
+https://de11.seetv.cc/6832/video.m3u8?token=BC28182177585B5
+
 
 #EXTINF:-1,=== ช่องรอปรับปรุง ====
 http://fl1.moveonjoy.com/GOLF/index.m3u8
@@ -1167,7 +1167,6 @@ http://fortv.cc:8080/live/q8KuDU/354945/45940.ts
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/live/q8KuDU/354945/76842.ts
 
-
 #EXTINF:-1 group-title="Sports กีฬา",TNT Sports 1
 http://178.33.239.54:8080/509/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",TNT Sports 2
@@ -1184,7 +1183,6 @@ http://23.237.104.106:8080/USA_FS1/index.m3u8
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Sky Sport MotoGP
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:AD:91&stream=51122&extension=ts
-
 
 #EXTINF:-1 group-title="Sports กีฬา",Sky Sport 1
 http://xott.live:8080/03459612396/9512563/233178
@@ -1365,6 +1363,15 @@ http://fl1.moveonjoy.com/GOLF/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",<=== ช่องกีฬาทั่วไป ====>
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
+
+#EXTINF:-1 group-title="Sports กีฬา",TRT SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+http://iptvde.de:8080/OsmanTokmak/fgxgthus/111498
+#EXTINF:-1 group-title="Sports กีฬา",Rai Ssport
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:-1 group-title="Sports กีฬา",KTV Sport Plus
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Aspor
