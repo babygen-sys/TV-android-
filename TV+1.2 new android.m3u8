@@ -569,22 +569,12 @@ http://49.0.64.96:8007/SERIES
 #EXTINF:-1 group-title="Entertainment บันเทิง",FuckIDMovie
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/PING
-#EXTINF:-1 group-title="Entertainment บันเทิง",Oxygen True Crime
-http://panel.sulu1.cc:2052/travis1/travis1/88686
-#EXTINF:-1 group-title="Entertainment บันเทิง",Paramount Network
-http://panel.sulu1.cc:2052/travis1/travis1/88687
-#EXTINF:-1 group-title="Entertainment บันเทิง",Lifetime Movie Network
-http://panel.sulu1.cc:2052/travis1/travis1/88747
-#EXTINF:-1 group-title="Entertainment บันเทิง",MGM+ Drive-in
-http://panel.sulu1.cc:2052/travis1/travis1/88749
-#EXTINF:-1 group-title="Entertainment บันเทิง",MGM+ Hits
-http://panel.sulu1.cc:2052/travis1/travis1/88750
 #EXTINF:-1 group-title="Entertainment บันเทิง",MoreMAX
 http://panel.sulu1.cc:2052/travis1/travis1/88752
 #EXTINF:-1 group-title="Entertainment บันเทิง",CINEMAX
 http://45.144.165.187:8080/playid168/12345/78 
 #EXTINF:-1 group-title="Entertainment บันเทิง",AXN
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186394&extension=ts
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #EXTINF:-1 group-title="Entertainment บันเทิง",Premium movie
 #EXTVLCOPT:network-caching=1000
 http://45.144.165.187:8080/playid168/12345/22882
@@ -610,10 +600,10 @@ https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 group-title="Entertainment บันเทิง",Warner TV
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186637&extension=ts
- #EXTINF:-1 Paramount
+#EXTINF:-1 group-title="Entertainment บันเทิง",Paramount
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
-#EXTINF:-1 VIPA
+#EXTINF:-1 group-title="Entertainment บันเทิง", VIPA
 https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",thrill
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
