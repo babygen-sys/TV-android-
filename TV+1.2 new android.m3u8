@@ -710,10 +710,10 @@ https://fl25.moveonjoy.com/CNBC/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 
 #EXTINF:-1,<=== premium sports ===>
-http://panel.sulu1.cc:2052/travis1/travis1/3336
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/631067
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extension=ts&play_token=n1KBSwudMQ
 
 #EXTINF:-1,<=== TNT SPORTS ===>
+http://panel.sulu1.cc:2052/travis1/travis1/1234
 
 #EXTINF:-1 group-title="Sports กีฬา",TNT Sport 1
 #EXTVLCOPT:http-referrer= 
@@ -774,7 +774,7 @@ http://panel.sulu1.cc:2052/travis1/travis1/1238
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/=================================================UEFA%20REPLAY======================================================
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/uefa%20info
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extension=ts&play_token=n1KBSwudMQ
-#EXTINF:-1 group-title="Sports กีฬา",UEFA Champion Info
+#EXTINF:-1 group-title="Sports กีฬา",UEFA Champion 
 #EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extension=ts&play_token=n1KBSwudMQ
 
