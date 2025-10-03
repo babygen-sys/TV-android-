@@ -34,6 +34,17 @@ http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/267757
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=356182&extension=ts
 http://ott.watch/stream/D3FX33QMIH1/313.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="Sports กีฬา",Now Sports 1
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112207.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305"group-title="Sports กีฬา",Now Sports 2
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112206.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305"group-title="Sports
+
+#EXTINF:-1 group-title="Sports กีฬา",Max Sport 1
+https://de11.seetv.cc/6875/video.m3u8?token=BC28182177585B5
+#EXTINF:-1 group-title="Sports กีฬา",Max Sport 2
+https://de11.seetv.cc/6876/video.m3u8?token=BC28182177585B5
+
 #EXTINF:-1 group-title="Sports กีฬา",SuperSport Premier League
 http://145.239.5.177:80/566/index.m3u8
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186388&extension=ts
