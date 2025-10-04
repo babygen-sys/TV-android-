@@ -95,30 +95,40 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 1
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13534&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 2
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142756
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13532&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 3
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142757
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13530&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 4
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142758
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13548&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 5
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142759
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13546&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 6
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142760
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13544&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 7
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142761
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13536&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 8
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13540&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 9
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13538&extension=ts
+
 #EXTINF:-1 group-title="Sports กีฬา",SPORT TV 1
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84597
@@ -1700,6 +1710,295 @@ http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150863&ex
 #EXTINF:-1 group-title="ผีบังตา",LIVE 19
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150862&extension=ts
 
+#EXTINF:-1 group-title="ผีบังตา",Golf Channel
+http://live4.inwstream.com:1936/transcoder_F1/golfplus_inwiptv.stream/playlist.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186500&extension=ts
 
-#EXTINF:-1,<  MOVIE ปิดปรับปรุง >
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186583&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",SPOTV 1
+https://ww.dooballfree.vip/live/spotv/playlist.m3u8
+http://45.144.165.187:8080/playid168/12345/10395
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186480&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",SPOTV 2
+https://ww.dooballfree.vip/live/spotv2/playlist.m3u8
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truespotv2.m3u8
+
+#EXTINF:-1 group-title="ผีบังตา",บีอินสปอตส์ 1
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein1/playlist.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186614&extension=ts
+
+#EXTINF:-1 group-title="ผีบังตา",บีอินสปอตส์ 2
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein2/playlist.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186615&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",บีอินสปอตส์ 3
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein3/playlist.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186533&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",บีอินสปอตส์ 4
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein4/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",บีอินสปอตส์ 5
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein5/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",บีอินสปอตส์ 6
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein6/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",บีอินสปอตส์ 7
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein7/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",บีอินสปอตส์ 8
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein8/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",บีอินสปอตส์ 9
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/bein9/playlist.m3u8
+
+#EXTINF:-1 group-title="ผีบังตา",MAX-1
+https://live3.inwstream.com/transcoder_F1/aismonomaxsports1_inwiptv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ผีบังตา",MAX-2
+https://live3.inwstream.com/transcoder_F1/aismonomaxsports2_inwiptv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ผีบังตา",MAX 1
+#EXTVLCOPT:network-caching=1000
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186563&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",MAX 2
+#EXTVLCOPT:network-caching=1000
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186561&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186570&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 4
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186580&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",MAX SPORTS 5
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186582&extension=ts
+
+#EXTINF:-1 group-title="ผีบังตา",บอลไทย 1
+https://live1.inwstream.com/transcoder_F1/playsports1_inwiptv.stream/chunks.m3u8
+https://verb169.com/stream/22/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:43 group-title="ผีบังตา",บอลไทย 2
+https://live1.inwstream.com/transcoder_F1/playsports2_inwiptv.stream/chunks.m3u8
+https://verb169.com/stream/23/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:46 group-title="ผีบังตา",บอลไทย 3
+https://live1.inwstream.com/transcoder_F1/playsports3_inwiptv.stream/chunks.m3u8
+https://verb169.com/stream/24/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="ผีบังตา",บอลไทย 4
+https://live1.inwstream.com/transcoder_F1/playsports4_inwiptv.stream/chunks.m3u8
+https://verb169.com/stream/25/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="ผีบังตา",บอลไทย 5
+https://verb169.com/stream/26/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:36 group-title="ผีบังตา",บอลไทย 6
+https://verb169.com/stream/27/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:29 group-title="ผีบังตา",บอลไทย 7
+https://verb169.com/stream/28/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:29 group-title="ผีบังตา",บอลไทย 7 สำรอง
+https://verb169.com/stream/28/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:34 group-title="ผีบังตา",บอลไทย 8
+https://verb169.com/stream/29/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 group-title="ผีบังตา",BALLTHAI 1
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
+#EXTINF:-1 group-title="ผีบังตา",BALLTHAI 2
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
+#EXTINF:-1 group-title="ผีบังตา",BALLTHAI 3
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005.m3u8
+#EXTINF:-1 group-title="ผีบังตา",BALLTHAI 9
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8
+#EXTINF:-1 group-title="ผีบังตา",BALLTHAI 9
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8
+#EXTINF:-1 group-title="ผีบังตา",BALLTHAI 10
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8
+#EXTINF:-1 group-title="ผีบังตา",BALLTHAI 11
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
+
+#EXTINF:-1 group-title="ผีบังตา",AISPLAY SPORTS 1
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
+#EXTINF:-1 group-title="ผีบังตา",AISPLAY SPORTS 2
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
+
+#EXTINF:-1 group-title="ผีบังตา",truesports 1
+http://45.144.165.187:8080/playid168/12345/18904
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/tsp1/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",truesports 2
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186593&extension=ts
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+
+https://ww.dooballfree.vip/live/tsp2/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",truesports 3
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186602&extension=ts
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/tsp3/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",truesports 4
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/tsp4/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",truesports 5
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186596&extension=ts
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/tsp5/playlist.m3u8
+#EXTINF:-1 group-title="ผีบังตา",truesports 7
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186597&extension=ts
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+#EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
+
+#EXTINF:0,<====Premium channels====>
+https://raw.githubusercontent.com/BeritaSelatan
+
+#EXTINF:-1 group-title="ผีบังตา",SPOTV
+https://ww.dooballfree.vip/live/spotv/playlist.m3u8
+
+#EXTINF:-1 group-title="ผีบังตา",SPOTV 2
+https://ww.dooballfree.vip/live/spotv2/playlist.m3u8
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truespotv2.m3u8
+
+#EXTINF:-1 group-title="ผีบังตา",🏁🏍️MotoGP
+#EXTVLCOPT:network-caching=1000
+http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B4:AF:2D&stream=1000006&extension=ts&play_token=SBUpKymbXE
+
+#EXTINF:-1 group-title="ผีบังตา",TrueTennis
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186612&extension=ts
+
+#EXTINF:-1 group-title="ผีบังตา",🏈NFL
+http://45.144.165.187:8080/playid168/12345/23039
+http://43.229.79.245:8080/live/MPLFREE/000000/159011.m3u8
+
+#EXTINF:-1 group-title="ผีบังตา",HBO TH
+http://45.144.165.187:8080/playid168/12345/77
+
+#EXTINF:-1 group-title="ผีบังตา",HBOHITS
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/3018
+
+#EXTINF:-1 group-title="ผีบังตา",HBOSIG
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/3660
+
+#EXTINF:-1 group-title="ผีบังตา",HBO Fiamy
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/5649
+
+#EXTINF:-1 group-title="ผีบังตา",CINEMAX
+http://45.144.165.187:8080/playid168/12345/78
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186473&extension=ts
+
+#EXTINF:-1 group-title="ผีบังตา",Axn
+http://45.144.165.187:8080/playid168/12345/75
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186394&extension=ts
+
+#EXTINF:-1 group-title="ผีบังตา",true MOVIE HITS
+https://playtvthai.github.io/m3u8/movie/truehits.m3u8
+
+
+#EXTINF:-1 group-title="ผีบังตา",true Asian MORE
+http://45.144.165.187:8080/playid168/12345/70
+http://45.144.165.187:8080/playid168/12345/80
+
+#EXTINF:-1 group-title="ผีบังตา",true THAI FILM
+http://45.144.165.187:8080/playid168/12345/64
+
+#EXTINF:-1 group-title="ผีบังตา",true FILM 1
+http://45.144.165.187:8080/playid168/12345/67
+
+
+#EXTINF:-1 group-title="ผีบังตา",True Film HD2
+http://45.144.165.187:8080/playid168/12345/79
+
+#EXTINF:-1 group-title="ผีบังตา",true Series
+#EXTVLCOPT:network-caching=1000
+https://e109.hellotherepadawan.org/v5/BIMWq3YkONcTBqXnUiXmXw/1756836429/92e6f341c728a6e9b2f28b85333fae8d/gpzy0LattedyHmCQz7uNFg/1756847109/live/dx-origin/sd-series_720/chunks.m3u8
+
+#EXTINF:-1 group-title="ผีบังตา",TRUE FILM ASIAN
+http://45.144.165.187:8080/playid168/12345/70
+
+#EXTINF:-1 group-title="ผีบังตา",Rock-Action
+http://45.144.165.187:8080/playid168/12345/81
+#EXTINF:-1 group-title="ผีบังตา",Rock-Entertainment
+http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=191950&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",Family พากย์ไทย
+http://49.0.64.96:8007/Cartoonumi
+#EXTINF:-1 group-title="ผีบังตา",ซีรีย์ พากย์ไทย
+http://49.0.64.96:8007/PING
+#EXTINF:-1 group-title="ผีบังตา",หนัง พากย์ไทย
+http://49.0.64.96:8007/IZAA
+#EXTINF:-1 group-title="ผีบังตา",หนังยอดเยี่ยม
+http://49.0.64.96:8007/H-Channel
+
+
+#EXTINF:-1 group-title="ผีบังตา",true Animal
+https://live.thaitvstream.com/play/thainews/index.m3u8
+
+#EXTINF:-1 group-title="ผีบังตา",Discovery Asia
+https://live3.inwstream.com/transcoder_F1/discoveryasia_inwiptv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="ผีบังตา",Discovery
+https://live1.inwstream.com/transcoder_F1/discovery_inwiptv.stream/chunks.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186438&extension=ts
+
+#EXTINF:-1 group-title="ผีบังตา",History
+http://45.144.165.187:8080/playid168/12345/48
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186511&extension=ts
+
+
+#EXTINF:-1 group-title="ผีบังตา",trueEXPLOREWILD
+https://e113.hellotherepadawan.org/v5/KyJV5mh52TnwVajOnEQ5Yw/1756852476/92e6f341c728a6e9b2f28b85333fae8d/hcIFpuoUjBSAc_0IbnBnUQ/1756863156/live/vx-origin/sd-expwild_720/chunks.m3u8
+
+#EXTINF:-1 group-title="ผีบังตา",trueX-ZYTE
+#EXTVLCOPT:network-caching=1000
+https://e103.hellotherepadawan.org/v5/FNQQslinifE9-SEeGuQiSA/1756836536/92e6f341c728a6e9b2f28b85333fae8d/QSeHrnOfppSCnR00C6BfuA/1756847216/live/vx-origin/hd-xzyte_720/chunks.m3u8
+
+#EXTINF:-1 group-title="ผีบังตา",True Explore Wild
+http://45.144.165.187:8080/playid168/12345/49
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186405&extension=ts
+
+#EXTINF:-1 group-title="ผีบังตา",True Explore Life
+http://45.144.165.187:8080/playid168/12345/52
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186456&extension=ts
+
+#EXTINF:-1 group-title="ผีบังตา",true EXPLORE SCI
+http://45.144.165.187:8080/playid168/12345/51
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186457&extension=ts
+
+#EXTINF:-1 group-title="ผีบังตา",trueX-ZYTE
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186648&extension=ts
+
+#EXTINF:-1 group-title="ผีบังตา",Natgeo graphic
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=45964&extension=ts
+
+#EXTINF:-1 group-title="ผีบังตา",Natgeo Wild
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=45962&extension=ts
+
+#EXTINF:-1 group-title="ผีบังตา",Food Network
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186468&extension=ts
+
+#EXTINF:-1 group-title="ผีบังตา", Asian food channel
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186384&extension=ts
