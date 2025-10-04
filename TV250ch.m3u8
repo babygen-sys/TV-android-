@@ -31,6 +31,9 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 ,<===⚽ ฟุตบอลลีก ===>
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=356182&extension=ts
+http://ott.watch/stream/D3FX33QMIH1/313.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",Setanta Sports 1 Georgia
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
 #EXTINF:-1 group-title="Sports กีฬา",Hubpremier1
 #EXTVLCOPT:network-caching=1000
