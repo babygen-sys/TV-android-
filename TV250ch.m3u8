@@ -8,15 +8,15 @@ http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
 #EXTINF:-1 group-title="Sports กีฬา",Foxsport505
 #EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=76210&extension=ts
+#EXTINF:-1 group-title="Sports กีฬา",🏁TNTsport2 MotoGP
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175185&extension=ts
+http://panel.sulu1.cc:2052/travis1/travis1/3336
 #EXTINF:-1 group-title="Sports กีฬา",🏀 NBA TV 1
 #EXTVLCOPT:network-caching=1000 
 http://panel.sulu1.cc:2052/travis1/travis1/15223
 
 #EXTINF:-1 group-title="Sports กีฬา",🏈 NFL ESPN
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=173531&extension=ts
-#EXTINF:-1 group-title="Sports กีฬา",🏈 NFL Bein
-http://43.229.79.245:8080/live/MPLFREE/000000/159011.m3u8
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=9383&extension=ts
 
 #EXTINF:-1 group-title="Sports กีฬา",🎾 Tennis Channel
 http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
@@ -25,10 +25,6 @@ https://tinyurl.com/ytk5xhvu
 
 #EXTINF:-1 group-title="Sports กีฬา",Tennis Plus
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports กีฬา",🏌️‍♂️Golf NBC
-#EXTVLCOPT:network-caching=1000
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/267757
 
 #EXTINF:-1 ,<===⚽ ฟุตบอลลีก ===>
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=356182&extension=ts
