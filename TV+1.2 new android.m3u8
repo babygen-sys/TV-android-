@@ -75,6 +75,61 @@ http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/267757
 #EXTINF:-1 ,<===⚽ ฟุตบอลลีก ===>
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=356182&extension=ts
 http://ott.watch/stream/D3FX33QMIH1/313.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",Setanta Sports 1 Georgia
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+
+#EXTINF:60,Hubpremier1
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112231.m3u8
+#EXTINF:0,Hubpremier2
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112229.m3u8
+#EXTINF:0,Hubpremier3
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112228.m3u8
+#EXTINF:0,Hubpremier4
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112227.m3u8
+#EXTINF:0,Hubpremier5
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112226.m3u8
+#EXTINF:0,Hubpremier6
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112225.m3u8
+#EXTINF:0,Hubpremier7
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112224.m3u8
+#EXTINF:0,Hubpremier8
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112223.m3u8
+#EXTINF:0,Hubpremier9
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112222.m3u8
+#EXTINF:0,Hubpremier10
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112221.m3u8
+
+#EXTINF:60,Now Sports 1
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112207.m3u8
+#EXTINF:0,Now Sports 2
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112206.m3u8
+#EXTINF:0,Now Sports 3
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112205.m3u8
+#EXTINF:0,Now Sports 4
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112204.m3u8
+#EXTINF:0,Now Sports 5
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112203.m3u8
+#EXTINF:0,Now Sports 6
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112202.m3u8
+#EXTINF:0,Now Sports 7
+#EXTVLCOPT:network-caching=1000
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112201.m3u8
 
 #EXTINF:-1 group-title="Sports กีฬา",SuperSport Premier League
 http://145.239.5.177:80/566/index.m3u8
@@ -90,8 +145,7 @@ http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150878&ex
 http://145.239.5.177/564/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",SuperSport PSL
 http://145.239.5.177/562/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Setanta Sports 1 Georgia
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 1
 #EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
