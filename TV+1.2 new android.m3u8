@@ -101,7 +101,7 @@ http://145.239.5.177/562/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",ES: LIGA DE CAMPEONES SD
 #EXTVLCOPT:network-caching=1000
 http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165359.ts
-#EXTINF:60 group-title="Sports กีฬา",,Now Sports 1
+#EXTINF:60 group-title="Sports กีฬา",Now Sports 1
 #EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112207.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Now Sports 2
@@ -421,20 +421,24 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon Network
+http://live1.inwstream.com:1936/transcoder_F1/cartoonnetwork_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/55
 http://150.129.9.194:8089/83/index.m3u8?token=test
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.
+http://live3.inwstream.com:1936/transcoder_F1/nickjr_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/56
 http://150.129.9.194:8089/86/index.m3u8?token=test
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon 
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon
+http://live4.inwstream.com:1936/transcoder_F1/nickelodeon_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/57
 http://panel.sulu1.cc:2052/travis1/travis1/3237
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nicktoons 
 http://panel.sulu1.cc:2052/travis1/travis1/3234
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoonito 
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoonito
+http://live5.inwstream.com:1936/transcoder_F1/cartoonito_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/60
 http://panel.sulu1.cc:2052/travis1/travis1/1125
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Dreamworks
+
 http://45.144.165.187:8080/playid168/12345/54
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Disney Channel
 http://212.102.60.231/DISNEY/index.m3u8
@@ -584,21 +588,6 @@ http://212.102.60.231/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง", HBO SIGNATURE HD
 #EXTVLCOPT:network-caching=1000
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/184866.ts
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 
-http://45.144.165.187:8080/playid168/12345/77
-http://panel.sulu1.cc:2052/travis1/travis1/88743
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO HITS
-#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
-http://45.144.165.187:8080/playid168/12345/3018
-http://panel.sulu1.cc:2052/travis1/travis1/88744
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO SIG
-#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
-http://45.144.165.187:8080/playid168/12345/3660
-http://panel.sulu1.cc:2052/travis1/travis1/88745
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Fiamy
-#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
-http://45.144.165.187:8080/playid168/12345/5649
-http://panel.sulu1.cc:2052/travis1/travis1/88746
 #EXTINF:-1 group-title="Entertainment บันเทิง",Universal
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/H-Channel
@@ -1044,7 +1033,6 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77481&extension=t
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1695398839.png"group-title="Sports กีฬา",Prima Sport 4
 #EXTVLCOPT:network-caching=1000 
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77490&extension=ts
-
 
 #EXTINF:-1,===Polsat Sports===
 #EXTVLCOPT:network-caching=1000
@@ -1602,6 +1590,10 @@ https://live1.inwstream.com/transcoder_F1/playsports2_inwiptv.stream/chunks.m3u8
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
 #EXTINF:-1 group-title="ผีบังตา",AISPLAY SPORTS 3
 https://live1.inwstream.com/transcoder_F1/playsports3_inwiptv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ผีบังตา",AISPLAY SPORTS 4
+https://live1.inwstream.com/transcoder_F1/playsports4_inwiptv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ผีบังตา",AISPLAY SPORTS 6
+https://live1.inwstream.com/transcoder_F1/playsports6_inwiptv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="ผีบังตา",truesports 1
 http://45.144.165.187:8080/playid168/12345/18904
@@ -1645,6 +1637,7 @@ https://ww.dooballfree.vip/live/spotv2/playlist.m3u8
 https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truespotv2.m3u8
 
 #EXTINF:-1 group-title="ผีบังตา",🏁🏍️MotoGP
+https://ww.dooballfree.vip/live/spotv2/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B4:AF:2D&stream=1000006&extension=ts&play_token=SBUpKymbXE
 
@@ -1655,22 +1648,27 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186612&extension=
 http://45.144.165.187:8080/playid168/12345/23039
 http://43.229.79.245:8080/live/MPLFREE/000000/159011.m3u8
 
-#EXTINF:-1 group-title="ผีบังตา",HBO TH
+#EXTINF:-1 group-title="ผีบังตา",HBO 
+http://live3.inwstream.com:1936/transcoder_F1/hbohd_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/77
 
-#EXTINF:-1 group-title="ผีบังตา",HBOHITS
+#EXTINF:-1 group-title="ผีบังตา",HBO HITS
+http://live4.inwstream.com:1936/transcoder_F1/hbohits_inwiptv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
 http://45.144.165.187:8080/playid168/12345/3018
 
-#EXTINF:-1 group-title="ผีบังตา",HBOSIG
+#EXTINF:-1 group-title="ผีบังตา",HBO Signature
+http://live5.inwstream.com:1936/transcoder_F1/hbosignature_inwiptv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
 http://45.144.165.187:8080/playid168/12345/3660
 
 #EXTINF:-1 group-title="ผีบังตา",HBO Fiamy
+http://live2.inwstream.com:1936/transcoder_F1/hbofamily_inwiptv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
 http://45.144.165.187:8080/playid168/12345/5649
 
 #EXTINF:-1 group-title="ผีบังตา",CINEMAX
+http://live2.inwstream.com:1936/transcoder_F1/cinemax_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/78
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186473&extension=ts
 
@@ -1698,14 +1696,16 @@ http://45.144.165.187:8080/playid168/12345/79
 
 #EXTINF:-1 group-title="ผีบังตา",true Series
 #EXTVLCOPT:network-caching=1000
+http://live3.inwstream.com:1936/transcoder_F1/trueseries_inwiptv.stream/playlist.m3u8
 https://e109.hellotherepadawan.org/v5/BIMWq3YkONcTBqXnUiXmXw/1756836429/92e6f341c728a6e9b2f28b85333fae8d/gpzy0LattedyHmCQz7uNFg/1756847109/live/dx-origin/sd-series_720/chunks.m3u8
 
 #EXTINF:-1 group-title="ผีบังตา",TRUE FILM ASIAN
 http://45.144.165.187:8080/playid168/12345/70
-
 #EXTINF:-1 group-title="ผีบังตา",Rock-Action
+http://live3.inwstream.com:1936/transcoder_F1/rockaction_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/81
 #EXTINF:-1 group-title="ผีบังตา",Rock-Entertainment
+http://live3.inwstream.com:1936/transcoder_F1/rockentertainment_inwiptv.stream/playlist.m3u8
 http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=191950&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",Family พากย์ไทย
 http://49.0.64.96:8007/Cartoonumi
@@ -1716,6 +1716,8 @@ http://49.0.64.96:8007/IZAA
 #EXTINF:-1 group-title="ผีบังตา",หนังยอดเยี่ยม
 http://49.0.64.96:8007/H-Channel
 
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Dreamworks
+http://live5.inwstream.com:1936/transcoder_F1/dreamwork_inwiptv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ผีบังตา",true Animal
 https://live.thaitvstream.com/play/thainews/index.m3u8
@@ -1732,12 +1734,14 @@ http://45.144.165.187:8080/playid168/12345/48
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186511&extension=ts
 
 
-#EXTINF:-1 group-title="ผีบังตา",trueEXPLOREWILD
-https://e113.hellotherepadawan.org/v5/KyJV5mh52TnwVajOnEQ5Yw/1756852476/92e6f341c728a6e9b2f28b85333fae8d/hcIFpuoUjBSAc_0IbnBnUQ/1756863156/live/vx-origin/sd-expwild_720/chunks.m3u8
+#EXTINF:-1 group-title="ผีบังตา",True Explore Wild
+http://live5.inwstream.com:1936/transcoder_F1/trueexplorewild_inwiptv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="ผีบังตา",trueX-ZYTE
+
+#EXTINF:-1 group-title="ผีบังตา",true X-ZYTE
 #EXTVLCOPT:network-caching=1000
-https://e103.hellotherepadawan.org/v5/FNQQslinifE9-SEeGuQiSA/1756836536/92e6f341c728a6e9b2f28b85333fae8d/QSeHrnOfppSCnR00C6BfuA/1756847216/live/vx-origin/hd-xzyte_720/chunks.m3u8
+https://live2.inwstream.com/transcoder_F1/truexzyte_inwiptv.stream/chunks.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186648&extension=ts
 
 #EXTINF:-1 group-title="ผีบังตา",True Explore Wild
 http://45.144.165.187:8080/playid168/12345/49
@@ -1748,6 +1752,7 @@ http://45.144.165.187:8080/playid168/12345/52
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186456&extension=ts
 
 #EXTINF:-1 group-title="ผีบังตา",true EXPLORE SCI
+http://live4.inwstream.com:1936/transcoder_F1/trueexploresci_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/51
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186457&extension=ts
 
@@ -1756,8 +1761,8 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186457&extension=
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186648&extension=ts
 
 #EXTINF:-1 group-title="ผีบังตา",Natgeo graphic
+#EXTVLCOPT:network-caching=1000
 http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=45964&extension=ts
-
 #EXTINF:-1 group-title="ผีบังตา",Natgeo Wild
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=45962&extension=ts
 
