@@ -344,7 +344,6 @@ https://cdn-live.dltv.ac.th/dltv02.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 https://cdn-live.dltv.ac.th/dltv03.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
@@ -421,20 +420,24 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon Network
+http://live1.inwstream.com:1936/transcoder_F1/cartoonnetwork_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/55
 http://150.129.9.194:8089/83/index.m3u8?token=test
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.
+http://live3.inwstream.com:1936/transcoder_F1/nickjr_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/56
 http://150.129.9.194:8089/86/index.m3u8?token=test
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon 
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon
+http://live4.inwstream.com:1936/transcoder_F1/nickelodeon_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/57
 http://panel.sulu1.cc:2052/travis1/travis1/3237
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nicktoons 
 http://panel.sulu1.cc:2052/travis1/travis1/3234
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoonito 
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoonito
+http://live5.inwstream.com:1936/transcoder_F1/cartoonito_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/60
 http://panel.sulu1.cc:2052/travis1/travis1/1125
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Dreamworks
+
 http://45.144.165.187:8080/playid168/12345/54
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Disney Channel
 http://212.102.60.231/DISNEY/index.m3u8
@@ -478,7 +481,9 @@ https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",PetClub TV2
 #EXTVLCOPT:network-caching=1000
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 1
+#EXTVLCOPT:network-caching=2000
 http://panel.sulu1.cc:2052/travis1/travis1/90039
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 2
 http://panel.sulu1.cc:2052/travis1/travis1/90040
@@ -572,7 +577,7 @@ http://panel.sulu1.cc:2052/travis1/travis1/90083
 #EXTINF:-1,<==== Premium Movies ====>
 http://45.144.165.187:8080/playid168/12345/22882
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", HBO2 HD
+#EXTINF:-1 group-title="Entertainment บันเทิง", HBO HD
 #EXTVLCOPT:network-caching=1000
 http://212.102.60.231/HBO_2/index.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง", HBO COMEDY HD
@@ -584,21 +589,34 @@ http://212.102.60.231/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง", HBO SIGNATURE HD
 #EXTVLCOPT:network-caching=1000
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/184866.ts
+http://panel.sulu1.cc:2052/travis1/travis1/88746
+
 #EXTINF:-1 group-title="Entertainment บันเทิง",HBO 
+#EXTVLCOPT:network-caching=2000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186515&extension=ts
+http://live3.inwstream.com:1936/transcoder_F1/hbohd_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/77
-http://panel.sulu1.cc:2052/travis1/travis1/88743
+http://panel.sulu1.cc:2052/travis1/travis1/88742
 #EXTINF:-1 group-title="Entertainment บันเทิง",HBO HITS
+#EXTVLCOPT:network-caching=2000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186429&extension=ts
+http://live4.inwstream.com:1936/transcoder_F1/hbohits_inwiptv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
 http://45.144.165.187:8080/playid168/12345/3018
-http://panel.sulu1.cc:2052/travis1/travis1/88744
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO SIG
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Signature
+#EXTVLCOPT:network-caching=2000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186513&extension=ts
+http://live5.inwstream.com:1936/transcoder_F1/hbosignature_inwiptv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
 http://45.144.165.187:8080/playid168/12345/3660
-http://panel.sulu1.cc:2052/travis1/travis1/88745
 #EXTINF:-1 group-title="Entertainment บันเทิง",HBO Fiamy
+#EXTVLCOPT:network-caching=2000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186427&extension=ts
+http://live2.inwstream.com:1936/transcoder_F1/hbofamily_inwiptv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
 http://45.144.165.187:8080/playid168/12345/5649
-http://panel.sulu1.cc:2052/travis1/travis1/88746
+
+
 #EXTINF:-1 group-title="Entertainment บันเทิง",Universal
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/H-Channel
@@ -1045,7 +1063,6 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77481&extension=t
 #EXTVLCOPT:network-caching=1000 
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77490&extension=ts
 
-
 #EXTINF:-1,===Polsat Sports===
 #EXTVLCOPT:network-caching=1000
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105533
@@ -1381,6 +1398,7 @@ https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",Spirit TV
 #EXTVLCOPT:network-caching=1000
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
 
 #EXTINF:-1 group-title="ผีบังตา",CANAL+ SPORT
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=543383&extension=ts
