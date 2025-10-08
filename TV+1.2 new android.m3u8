@@ -577,44 +577,44 @@ http://panel.sulu1.cc:2052/travis1/travis1/90083
 #EXTINF:-1,<==== Premium Movies ====>
 http://45.144.165.187:8080/playid168/12345/22882
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", HBO HD
+#EXTINF:-1 group-title="Entertainment บันเทิง", HBO 1
 #EXTVLCOPT:network-caching=1000
 http://212.102.60.231/HBO_2/index.m3u8
+#EXTINF:-1 group-title="Entertainment บันเทิง", HBO 2
+#EXTVLCOPT:network-caching=3000
+http://panel.sulu1.cc:2052/travis1/travis1/88742
+#EXTINF:-1 group-title="Entertainment บันเทิง", HBO 3
+#EXTVLCOPT:network-caching=3000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186515&extension=ts
+
 #EXTINF:-1 group-title="Entertainment บันเทิง", HBO COMEDY HD
 #EXTVLCOPT:network-caching=1000
 http://212.102.60.231/HBO_COMEDY/index.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง", HBO FAMILY HD
-#EXTVLCOPT:network-caching=1000
-http://212.102.60.231/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง", HBO SIGNATURE HD
-#EXTVLCOPT:network-caching=1000
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/184866.ts
-http://panel.sulu1.cc:2052/travis1/travis1/88746
-
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 
-#EXTVLCOPT:network-caching=2000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186515&extension=ts
-http://live3.inwstream.com:1936/transcoder_F1/hbohd_inwiptv.stream/playlist.m3u8
-http://45.144.165.187:8080/playid168/12345/77
-http://panel.sulu1.cc:2052/travis1/travis1/88742
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO HITS
+#EXTINF:-1 group-title="Entertainment บันเทิง", HBO HITS
 #EXTVLCOPT:network-caching=2000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186429&extension=ts
 http://live4.inwstream.com:1936/transcoder_F1/hbohits_inwiptv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
 http://45.144.165.187:8080/playid168/12345/3018
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Signature
-#EXTVLCOPT:network-caching=2000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186513&extension=ts
-http://live5.inwstream.com:1936/transcoder_F1/hbosignature_inwiptv.stream/playlist.m3u8
-#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
-http://45.144.165.187:8080/playid168/12345/3660
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Fiamy
+#EXTINF:-1 group-title="Entertainment บันเทิง", HBO FAMILY HD
+#EXTVLCOPT:network-caching=1000
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="Entertainment บันเทิง", HBO Fiamy 2
 #EXTVLCOPT:network-caching=2000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186427&extension=ts
 http://live2.inwstream.com:1936/transcoder_F1/hbofamily_inwiptv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
 http://45.144.165.187:8080/playid168/12345/5649
+#EXTINF:-1 group-title="Entertainment บันเทิง", HBO SIGNATURE HD
+#EXTVLCOPT:network-caching=1000
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/184866.ts
+http://panel.sulu1.cc:2052/travis1/travis1/88746
+#EXTINF:-1 group-title="Entertainment บันเทิง", HBO Signature 2
+#EXTVLCOPT:network-caching=2000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186513&extension=ts
+http://live5.inwstream.com:1936/transcoder_F1/hbosignature_inwiptv.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
+http://45.144.165.187:8080/playid168/12345/3660
 
 
 #EXTINF:-1 group-title="Entertainment บันเทิง",Universal
