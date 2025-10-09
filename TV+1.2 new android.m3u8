@@ -1,1852 +1,1266 @@
 #EXTM3U
 #EXTINF:-1 group-title="Sports กีฬา",LFCTV
-#EXTVLCOPT:network-caching=1000
 http://45.144.165.187:8080/playid168/12345/12251
 https://ww.dooballfree.vip/live/lfctv/playlist.m3u8
 http://panel.sulu1.cc:2052/travis1/travis1/5073
 http://panel.sulu1.cc:2052/travis1/travis1/1046
 #EXTINF:-1 group-title="Sports กีฬา",MUTV
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/1057
 #EXTINF:-1 group-title="Sports กีฬา",Top Barça
-#EXTVLCOPT:network-caching=1000
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Real Madrid TV
-#EXTVLCOPT:network-caching=1000
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/307/437307-SNAPSHOT-l.png" group-title="Channel Vision+",<=== SPOTV ===>
-#EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
 #EXTINF:-1 group-title="Sports กีฬา",SPOTV
-#EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",SPOTV/1
-#EXTVLCOPT:network-caching=1000
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34406
 #EXTINF:-1 group-title="Sports กีฬา",SPOTV/2
-#EXTVLCOPT:network-caching=1000
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34405
 
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/308/437308-SNAPSHOT-l.png" group-title="Channel Vision+",SPOTV 2
-#EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",SPOTV2
-#EXTVLCOPT:network-caching=1000
 
 #EXTINF:-1 group-title="Sports กีฬา",SPOTV2/1
-#EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",SPOTV2/2
-#EXTVLCOPT:network-caching=100
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 #EXTINF:-1 group-title="Sports กีฬา",SPOTV VIP-1
-#EXTVLCOPT:network-caching=1000
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34638
 #EXTINF:-1 group-title="Sports กีฬา",SPOTV VIP-2
-#EXTVLCOPT:network-caching=1000
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34663
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #EXTINF:-1 ,<=== Special ===>
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=311683&extension=ts
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
 
 #EXTINF:-1 group-title="Sports กีฬา",🏁 DAZN F1
-#EXTVLCOPT:network-caching=1000
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
 #EXTINF:-1 group-title="Sports กีฬา",🏁 Foxsport505
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=76210&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",🏀 NBA TV 1
-#EXTVLCOPT:network-caching=1000 
 http://panel.sulu1.cc:2052/travis1/travis1/15223
 #EXTINF:-1 group-title="Sports กีฬา",🏀 NBA TV 2
-#EXTVLCOPT:network-caching=1000
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/212280
 #EXTINF:-1 group-title="Sports กีฬา",🏀 NBA TV 3
-#EXTVLCOPT:network-caching=1000
 http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B4:AF:2D&stream=1000006&extension=ts&play_token=SBUpKymbXE
 https://ww.dooballfree.vip/live/nba/playlist.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",🏈 NFL ESPN
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=173531&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",🏈 NFL us
-#EXTVLCOPT:network-caching=1000
 http://45.144.165.187:8080/playid168/12345/23039
 #EXTINF:-1 group-title="Sports กีฬา",🏈 NFL Bein
-#EXTVLCOPT:network-caching=1000
 http://43.229.79.245:8080/live/MPLFREE/000000/159011.m3u8
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=9383&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",🎾 Tennis Channel
-#EXTVLCOPT:network-caching=1000
 http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",🎾Tennis Channel 2
-#EXTVLCOPT:network-caching=1000
 https://tinyurl.com/ytk5xhvu
 #EXTINF:-1 group-title="Sports กีฬา",🎾Tennis Channel UK
-#EXTVLCOPT:network-caching=1000
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",🎾Tennis Channel TV
-#EXTVLCOPT:network-caching=1000
 http://49.0.64.96:8007/TENNIS
 #EXTINF:-1 group-title="Sports กีฬา",Tennis Plus
-#EXTVLCOPT:network-caching=1000
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",🏌️‍♂️Sky Sport Golf
-#EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/live/q8KuDU/354945/35240.ts
 #EXTINF:-1 group-title="Sports กีฬา",🏌️‍♂️Golf NBC
-#EXTVLCOPT:network-caching=1000
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/267757
 #EXTINF:-1 group-title="Sports กีฬา",🏌️‍PGA Tour
-#EXTVLCOPT:network-caching=1000
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac630-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2b7359-0375-4f34-996b-4fb9429ead78
 #EXTINF:-1 group-title="Sports กีฬา",🏌️‍♂️Golf Channel 1
-#EXTVLCOPT:network-caching=1000
 https://fl25.moveonjoy.com/GOLF/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",🏌️‍♂️Golf Channel 2
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186500&extension=ts
 
 #EXTINF:-1 ,<===⚽ฟุตบอล===>
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=356182&extension=ts
 http://ott.watch/stream/D3FX33QMIH1/313.m3u8
 
 #EXTINF:-1 group-title="Sports กีฬา",League Live-1
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150880&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",League Live-2
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150879&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",League Live-3
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150878&extension=ts
 
 #EXTINF:-1 group-title="Sports กีฬา",4Sports
-#EXTVLCOPT:network-caching=1000
 https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Setanta Sports Ukraine HD
-#EXTVLCOPT:network-caching=1000
 http://ott.watch/stream/D3FX33QMIH1/313.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Setanta Sports 1 Georgia
-#EXTVLCOPT:network-caching=1000
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 group-title="Sports กีฬา",Premier League 1
-#EXTVLCOPT:network-caching=1000
 http://145.239.5.177:80/566/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Premier League 2
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186388&extension=ts
 http://dmtn-tv.com:8080/6323fza503/xzFMrVcwrw/687272
 
 #EXTINF:-1 group-title="Sports กีฬา",SuperSport Football
-#EXTVLCOPT:network-caching=1000
 http://145.239.5.177/564/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",SuperSport PSL
-#EXTVLCOPT:network-caching=1000
 http://145.239.5.177/562/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",ES: LIGA DE CAMPEONES SD
-#EXTVLCOPT:network-caching=1000
 http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165359.ts
  
 #EXTINF:-1 group-title="Sports กีฬา",Hubpremier1
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112231.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Hubpremier2
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112229.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Hubpremier3
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112228.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Hubpremier4
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112227.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Hubpremier5
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112226.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Hubpremier6
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112225.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Hubpremier7
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112224.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Hubpremier8
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112223.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Hubpremier9
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112222.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Hubpremier10
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112221.m3u8
 
 #EXTINF:60 group-title="Sports กีฬา",Now Sports 1
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112207.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Now Sports 2
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112206.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Now Sports 3
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112205.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Now Sports 4
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112204.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Now Sports 5
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112203.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Now Sports 6
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112202.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Now Sports 7
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112201.m3u8
 
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 1
-#EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13534&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 2
-#EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142756
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13532&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 3
-#EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142757
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13530&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 4
-#EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142758
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13548&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 5
-#EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142759
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13546&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 6
-#EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142760
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13544&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 7
-#EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142761
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13536&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 8
-#EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13540&extension=ts
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 9
-#EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13538&extension=ts
 
 #EXTINF:-1 group-title="Sports กีฬา",SPORT TV 1
-#EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84597
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84667
 #EXTINF:-1 group-title="Sports กีฬา",SPORT TV 2
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/85522
 #EXTINF:-1 group-title="Sports กีฬา",SPORT TV 3
-#EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84669
 #EXTINF:-1 group-title="Sports กีฬา",SPORT TV 4
-#EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151194
 #EXTINF:-1 group-title="Sports กีฬา",SPORT TV 5
-#EXTVLCOPT:network-caching=1000
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84671
 
 #EXTINF:-1,<=== ฟรีทีวี ====>
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
 
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",TPBS
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/fffd/muruugvl/muruugvl.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",ALTV
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/fffc/gvcvmuu/gvcvmuu.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",5HD
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Boomerang
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",T SPORT
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",TPTV
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffec/murumuu/murumuu.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",TNN
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",JKN18
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",ไทบ้านทีวี
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Nation
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Workpoint
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",True24
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",GMM25
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",ช่อง 8
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Boom Cartoon
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",MONO 29
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",MCOT
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",ONE
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Thairath
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",3HD
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Amarin
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",7HD
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",PPTV
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Top News (720p)
-#EXTVLCOPT:network-caching=1000
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NEWS1
-#EXTVLCOPT:network-caching=1000
 https://server1.streamssl.com/stream/news1_mid.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Cool Channel
-#EXTVLCOPT:network-caching=1000
 https://live-iptv.cool-channel.com/cool/live-transmux.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Channel8
-#EXTVLCOPT:network-caching=1000
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",France 24
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",CNA
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NHK WORLD
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",CCTV4
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV1
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://cdn-live.dltv.ac.th/dltv01.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV2
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://cdn-live.dltv.ac.th/dltv02.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV3
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://cdn-live.dltv.ac.th/dltv03.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV4
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://cdn-live.dltv.ac.th/dltv04.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV5
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://cdn-live.dltv.ac.th/dltv05.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV6
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://cdn-live.dltv.ac.th/dltv06.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV7
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://cdn-live.dltv.ac.th/dltv07.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV8
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://cdn-live.dltv.ac.th/dltv08.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV9
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://cdn-live.dltv.ac.th/dltv09.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV10
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://cdn-live.dltv.ac.th/dltv10.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV11
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://cdn-live.dltv.ac.th/dltv11.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV12
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://cdn-live.dltv.ac.th/dltv12.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV13
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://cdn-live.dltv.ac.th/dltv13.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV14
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV15
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
 #EXTINF:-1,<=== การ์ตูน ====>
-#EXTVLCOPT:network-caching=1000
 http://49.0.64.96:8007/Cartoonumi
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",AMAZING
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:network-caching=1000
 http://49.0.64.96:8007/AMAZING
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Gags
-#EXTVLCOPT:network-caching=1000
 https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",มิสเตอร์บีน
-#EXTVLCOPT:network-caching=1000
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Boomerang
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
-#EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon Network
-#EXTVLCOPT:network-caching=1000
 http://live1.inwstream.com:1936/transcoder_F1/cartoonnetwork_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/55
 http://150.129.9.194:8089/83/index.m3u8?token=test
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.
-#EXTVLCOPT:network-caching=1000
 http://live3.inwstream.com:1936/transcoder_F1/nickjr_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/56
 http://150.129.9.194:8089/86/index.m3u8?token=test
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon
-#EXTVLCOPT:network-caching=1000
 http://live4.inwstream.com:1936/transcoder_F1/nickelodeon_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/57
 http://panel.sulu1.cc:2052/travis1/travis1/3237
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nicktoons 
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/3234
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoonito
-#EXTVLCOPT:network-caching=1000
 http://live5.inwstream.com:1936/transcoder_F1/cartoonito_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/60
 http://panel.sulu1.cc:2052/travis1/travis1/1125
 
 http://45.144.165.187:8080/playid168/12345/54
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Disney Channel
-#EXTVLCOPT:network-caching=1000
 http://212.102.60.231/DISNEY/index.m3u8
 https://e3.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Disney Junior 
-#EXTVLCOPT:network-caching=1000
 http://116.90.120.149:8000/play/a0b3/index.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Disney International 
-#EXTVLCOPT:network-caching=1000
 https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon
-#EXTVLCOPT:network-caching=1000
 http://49.0.64.96:8007/Cartoonumi
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Mr.bean Cartoon
-#EXTVLCOPT:network-caching=1000
 https://amg00627-amg00627c23-samsung-th-5282.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Zoomoo
-#EXTVLCOPT:network-caching=1000
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Baby Shark TV
-#EXTVLCOPT:network-caching=1000
 https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Cinebox: Animation
-#EXTVLCOPT:network-caching=1000
 http://1tv41.icu:8080/ahx4CN/815233/119420
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Shaun the Sheep & Friends
-#EXTVLCOPT:network-caching=1000
 https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Moonbug
-#EXTVLCOPT:network-caching=1000
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS TV
-#EXTVLCOPT:network-caching=1000
 https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",One Piece
-#EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Naruto
-#EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5da0c85bd2c9c10009370984.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Pokémon
-#EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",LEGO Kids TV
-#EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Pet Collective1
-#EXTVLCOPT:network-caching=1000
 https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",PetClub TV2
-#EXTVLCOPT:network-caching=1000
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 1
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90039
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 2
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90040
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 3
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90041
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 4
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90042
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 5
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90043
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 6
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90044
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 7
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90045
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 8
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90046
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 9
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90047
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 10
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90048
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 11
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90049
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 12
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90050
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 13
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90051
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 14
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90052
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 15
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90053
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 16
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90054
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 17
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90055
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 18
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90056
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 19
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90057
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 20
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90058
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 90's 1
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90059
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 90's 2
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90060
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 90's 3
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90061
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 90's 4
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90062
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 90's 5
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90063
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 1
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90064
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 2
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90065
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 3
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90066
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 4
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90067
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 5
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90068
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 6
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90069
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 7
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90070
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 8
-#EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90071
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 1
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90072
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 2
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90073
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 3
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90074
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 4
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90075
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 5
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90076
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 6
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90077
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 7
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90078
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 8
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90079
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 9
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90080
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 10
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90081
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 11
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90082
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 12
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90083
 
 #EXTINF:-1,<==== Premium Movies ====>
-#EXTVLCOPT:network-caching=1000
 http://45.144.165.187:8080/playid168/12345/22882
 
 #EXTINF:-1 group-title="Entertainment บันเทิง", HBO 1
-#EXTVLCOPT:network-caching=1000
 http://212.102.60.231/HBO_2/index.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง", HBO 2
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/88742
 #EXTINF:-1 group-title="Entertainment บันเทิง", HBO 3
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186515&extension=ts
 
 #EXTINF:-1 group-title="Entertainment บันเทิง", HBO COMEDY HD
-#EXTVLCOPT:network-caching=1000
 http://212.102.60.231/HBO_COMEDY/index.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง", HBO HITS
-#EXTVLCOPT:network-caching=2000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186429&extension=ts
 http://live4.inwstream.com:1936/transcoder_F1/hbohits_inwiptv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
 http://45.144.165.187:8080/playid168/12345/3018
 #EXTINF:-1 group-title="Entertainment บันเทิง", HBO FAMILY HD
-#EXTVLCOPT:network-caching=1000
 http://212.102.60.231/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง", HBO Fiamy 2
-#EXTVLCOPT:network-caching=2000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186427&extension=ts
 http://live2.inwstream.com:1936/transcoder_F1/hbofamily_inwiptv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
 http://45.144.165.187:8080/playid168/12345/5649
 #EXTINF:-1 group-title="Entertainment บันเทิง", HBO SIGNATURE HD
-#EXTVLCOPT:network-caching=1000
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/184866.ts
 http://panel.sulu1.cc:2052/travis1/travis1/88746
 #EXTINF:-1 group-title="Entertainment บันเทิง", HBO Signature 2
-#EXTVLCOPT:network-caching=2000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186513&extension=ts
 http://live5.inwstream.com:1936/transcoder_F1/hbosignature_inwiptv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
 http://45.144.165.187:8080/playid168/12345/3660
 
 #EXTINF:-1 group-title="Entertainment บันเทิง",Universal
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/H-Channel
 #EXTINF:-1 group-title="Entertainment บันเทิง",IZAA MOVIE
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/IZAA
 #EXTINF:-1 group-title="Entertainment บันเทิง",Series
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/SERIES
 #EXTINF:-1 group-title="Entertainment บันเทิง",Movie
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/PING
 #EXTINF:-1 group-title="Entertainment บันเทิง",MoreMAX
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/88752
 #EXTINF:-1 group-title="Entertainment บันเทิง",CINEMAX
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186470&extension=ts
 http://45.144.165.187:8080/playid168/12345/78 
 #EXTINF:-1 group-title="Entertainment บันเทิง",AXN
-#EXTVLCOPT:network-caching=1000
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #EXTINF:-1 group-title="Entertainment บันเทิง",Premium movie
-#EXTVLCOPT:network-caching=1000
 http://45.144.165.187:8080/playid168/12345/22882
 #EXTINF:-1 group-title="Entertainment บันเทิง",หนังพากย์ไทย
-#EXTVLCOPT:network-caching=1000
 http://49.0.64.96:8007/IZAA
 #EXTINF:-1 group-title="Entertainment บันเทิง",movies1
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-#EXTVLCOPT:network-caching=1000
 http://49.0.64.96:8007/SERIES
 #EXTINF:-1 group-title="Entertainment บันเทิง",movies2
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
-#EXTVLCOPT:network-caching=1000
 http://49.0.64.96:8007/IZAA
 #EXTINF:-1 group-title="Entertainment บันเทิง",movies3
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=https://playid.short.gy/
-#EXTVLCOPT:network-caching=1000
 http://49.0.64.96:8007/PING
 #EXTINF:-1 group-title="Entertainment บันเทิง",movies4
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186493&extension=ts
 #EXTINF:-1 group-title="Entertainment บันเทิง",Zee Nung
-#EXTVLCOPT:network-caching=1000
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",Warner TV
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186637&extension=ts
 #EXTINF:-1 group-title="Entertainment บันเทิง",Paramount
-#EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",VIPA
-#EXTVLCOPT:network-caching=1000
 https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",thrill
-#EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",ROCK ACTION
-#EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",KbS World
-#EXTVLCOPT:network-caching=1000
 http://mytv.dothome.co.kr/ch/catv/7.php
 
 #EXTINF:-1,<=== สารคดี ====>
-#EXTVLCOPT:network-caching=1000
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 
 #EXTINF:-1 group-title="Documentary สารคดี",Discovery
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186438&extension=ts
 #EXTINF:-1 group-title="Documentary สารคดี",History
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186511&extension=ts
 #EXTINF:-1 group-title="Documentary สารคดี",AFN
-#EXTVLCOPT:network-caching=1000
 http://45.144.165.187:8080/playid168/12345/41
 #EXTINF:-1 group-title="Documentary สารคดี",Food Network FHD
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/3513
 #EXTINF:-1 group-title="Documentary สารคดี",Animal
-#EXTVLCOPT:network-caching=1000
 http://49.0.64.96:8007/Animal
 #EXTINF:-1 group-title="Documentary สารคดี",SCIENCE
-#EXTVLCOPT:network-caching=1000
 http://49.0.64.96:8007/WSCI
 #EXTINF:-1 group-title="Documentary สารคดี",ANIMAL SHOW
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186456&extension=ts
 #EXTINF:-1 group-title="Documentary สารคดี",BBCLifestyle
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186399&extension=ts
 #EXTINF:-1 group-title="Documentary สารคดี",TLC
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186485&extension=ts
 #EXTINF:-1 group-title="Documentary สารคดี",ของดี
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186648&extension=ts
 #EXTINF:-1 group-title="Documentary สารคดี",OutDoor
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186552&extension=ts
 #EXTINF:-1 group-title="Documentary สารคดี",THAI NESS
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186405&extension=ts
 #EXTINF:-1 group-title="Documentary สารคดี",SCi
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186457&extension=ts
 #EXTINF:-1 group-title="Documentary สารคดี",BBC EARTH
-#EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000116/1024.m3u8
 #EXTINF:-1 group-title="Documentary สารคดี",LOVE NATURE
-#EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
 #EXTINF:-1 group-title="Documentary สารคดี",CRIME+INVESTIGATION
-#EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
 #EXTINF:-1 group-title="Documentary สารคดี",NHK
-#EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000040/1024.m3u8
 #EXTINF:-1 group-title="Documentary สารคดี",CGTN DOCUMENTARY
-#EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
 #EXTINF:-1 group-title="Documentary สารคดี",Xtreme Outdoor Presented by HISTORY
-#EXTVLCOPT:network-caching=1000
 https://d3t5fccwnhi5z7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uy8wco0v6aga/v1/aenetworks_skills_thrills_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 group-title="Documentary สารคดี",Natgeo graphic
-#EXTVLCOPT:network-caching=1000
 http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=45964&extension=ts
 #EXTINF:-1 group-title="Documentary สารคดี",Natgeo wild
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=45962&extension=ts
 #EXTINF:-1 group-title="Documentary สารคดี",Wired2Fish
-#EXTVLCOPT:network-caching=1000
 https://linear-80.frequency.stream/dist/plex/80\hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Documentary สารคดี",WildEarth
-#EXTVLCOPT:network-caching=1000
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary สารคดี",XPLORE
-#EXTVLCOPT:network-caching=1000
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 group-title="Documentary สารคดี", Alure Channel
-#EXTVLCOPT:network-caching=1000
 http://45.144.165.187:8080/playid168/12345/10380
 #EXTINF:-1 group-title="Documentary สารคดี", RUSH Stories
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186397&extension=ts
 
 #EXTINF:-1,<=== NEWS ===>
-#EXTVLCOPT:network-caching=1000
 https://fl25.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 group-title="News ข่าว",BBC news
-#EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
 #EXTINF:-1 group-title="News ข่าว",CNN 
-#EXTVLCOPT:network-caching=1000
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w951390649_b384000_sleng.m3u8
 #EXTINF:-1 group-title="News ข่าว",CBS News
-#EXTVLCOPT:network-caching=1000
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 group-title="News ข่าว",Fox Weather
-#EXTVLCOPT:network-caching=1000
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 #EXTINF:-1 group-title="News ข่าว",Fox News
-#EXTVLCOPT:network-caching=1000
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 group-title="News ข่าว",EuronNews
-#EXTVLCOPT:network-caching=1000
 https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
 #EXTINF:-1 group-title="News ข่าว",Al Jazeera
-#EXTVLCOPT:network-caching=1000
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="News ข่าว",CNA
-#EXTVLCOPT:network-caching=1000
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="News ข่าว",ABC News
-#EXTVLCOPT:network-caching=1000
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="News ข่าว",Global News
-#EXTVLCOPT:network-caching=1000
 http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 group-title="News ข่าว",DW English
-#EXTVLCOPT:network-caching=1000
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="News ข่าว",Boomberg News
-#EXTVLCOPT:network-caching=1000
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 group-title="News ข่าว",Rusia Today
-#EXTVLCOPT:network-caching=1000
 https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="News ข่าว",India News
-#EXTVLCOPT:network-caching=1000
 https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
 #EXTINF:-1 group-title="News ข่าว",BFM Business
-#EXTVLCOPT:network-caching=1000
 https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 group-title="News ข่าว",Bloomberg HT
-#EXTVLCOPT:network-caching=1000
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 group-title="News ข่าว",CNBC World
-#EXTVLCOPT:network-caching=1000
 https://fl25.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="News ข่าว",CNBC Europe HD 
-#EXTVLCOPT:network-caching=1000
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 
 #EXTINF:-1,<=== premium sports ===>
-#EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extension=ts&play_token=n1KBSwudMQ
 
 #EXTINF:-1 group-title="Sports กีฬา",Eurosport 1
-#EXTVLCOPT:network-caching=1000
 http://89.44.229.22:7000/eurosport
 #EXTINF:-1 group-title="Sports กีฬา",Eurosport 2
-#EXTVLCOPT:network-caching=1000
 http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1 group-title="Sports กีฬา",=== UEFA REPLAY ====
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/=================================================UEFA%20REPLAY======================================================
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/uefa%20info
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extension=ts&play_token=n1KBSwudMQ
 #EXTINF:-1 group-title="Sports กีฬา",UEFA Champion 
-#EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extension=ts&play_token=n1KBSwudMQ
 
 #EXTINF:-1 group-title="Sports กีฬา",HL
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/HL
 #EXTINF:-1 group-title="Sports กีฬา",UEFA HIGHLIGHT
-#EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830216&extension=ts&play_token=MYt8jW9dDS
 #EXTINF:-1 group-title="Sports กีฬา",1
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/1
 #EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 1
-#EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830215&extension=ts&play_token=W3HraHXS5I
 #EXTINF:-1 group-title="Sports กีฬา",2
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/2
 #EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 2
-#EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830214&extension=ts&play_token=ogSdqOYzDY
 #EXTINF:-1 group-title="Sports กีฬา",3
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/3
 #EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 3
-#EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830213&extension=ts&play_token=NGeII0SCF9
 #EXTINF:-1 group-title="Sports กีฬา",4
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/4
 #EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 4
-#EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830212&extension=ts&play_token=gZiBUM4qyj
 #EXTINF:-1 group-title="Sports กีฬา",4
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/4
 #EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 5
-#EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830211&extension=ts&play_token=I72Boisniw
 #EXTINF:-1 group-title="Sports กีฬา",6
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/6
 #EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 6
-#EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830210&extension=ts&play_token=w82LnRxZjh
 #EXTINF:-1 group-title="Sports กีฬา",7
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/7
 #EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 7
-#EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830209&extension=ts&play_token=BaoYp9sbHf
 #EXTINF:-1 group-title="Sports กีฬา",8
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/8
 #EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 8
-#EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830208&extension=ts&play_token=hALJDnCXCv
 #EXTINF:-1 group-title="Sports กีฬา",9
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/9
 #EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 9
-#EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830207&extension=ts&play_token=NaS4oga7oq
 #EXTINF:-1 group-title="Sports กีฬา",10
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/10
 #EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 10
-#EXTVLCOPT:network-caching=1000
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830206&extension=ts&play_token=RzldCpIPiE
 https://raw.githubusercontent.com/babygen-sys/TV-android-/refs/heads/main/M3U/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%20android/Home/http-user-agent=Mozilla/5.0%20(Linux;%20Android%2010;%20K)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/124.0.0.0%20Mobile%20Safari/537.36
 
 #EXTINF:-1,===TNT Sports===
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/3336
 
 #EXTINF:-1 group-title="Sports กีฬา",TNT Sport 1
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.391
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/3332
 #EXTINF:-1 group-title="Sports กีฬา",TNTSports1-FHD
-#EXTVLCOPT:network-caching=1000
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 group-title="Sports กีฬา",TNT Sport 2
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.394
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/3336
 #EXTINF:-1 group-title="Sports กีฬา",TNTSports2-FHD
-#EXTVLCOPT:network-caching=1000
 https://7pal.short.gy/tntspts2
 #EXTINF:-1 group-title="Sports กีฬา",TNT Sport 3
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.397
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/3338
 #EXTINF:-1 group-title="Sports กีฬา",TNTSports3-FHD
-#EXTVLCOPT:network-caching=1000
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 group-title="Sports กีฬา",TNT Sport 4
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.399
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/3343
 #EXTINF:-1 group-title="Sports กีฬา",TNTSports4-FHD
-#EXTVLCOPT:network-caching=1000
 https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="Sports กีฬา",TNT Sport 5
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.402
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/1234
 
 #EXTINF:-1,===Max Sports===
-#EXTVLCOPT:network-caching=1000
 https://de11.seetv.cc/6878/video.m3u8?token=BC28182177585B5
 
 #EXTINF:-1 group-title="Sports กีฬา",Max Sport 1
-#EXTVLCOPT:network-caching=1000
 https://de11.seetv.cc/6875/video.m3u8?token=BC28182177585B5
 #EXTINF:-1 group-title="Sports กีฬา",Max Sport 2
-#EXTVLCOPT:network-caching=1000
 https://de11.seetv.cc/6876/video.m3u8?token=BC28182177585B5
 #EXTINF:-1 group-title="Sports กีฬา",Max Sport 3
-#EXTVLCOPT:network-caching=1000
 https://de11.seetv.cc/6877/video.m3u8?token=BC28182177585B5
 #EXTINF:-1 group-title="Sports กีฬา",Max Sport 4
-#EXTVLCOPT:network-caching=1000
 https://de11.seetv.cc/6878/video.m3u8?token=BC28182177585B5
 
 #EXTINF:-1,===DAZN===
-#EXTVLCOPT:network-caching=1000
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 group-title="Sports กีฬา",DAZN 1
-#EXTVLCOPT:network-caching=1000
 http://212.102.60.231/DAZN_1/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",DAZN 2
-#EXTVLCOPT:network-caching=1000
 http://212.102.60.231/DAZN_2/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",DAZN 3
-#EXTVLCOPT:network-caching=1000
 http://nocable.cc:8080/2gKWFe/362900/167748
 #EXTINF:-1 group-title="Sports กีฬา",DAZN 4
-#EXTVLCOPT:network-caching=1000
 http://nocable.cc:8080/2gKWFe/362900/167749
 #EXTINF:-1 group-title="Sports กีฬา",DAZN 5
-#EXTVLCOPT:network-caching=1000
 http://nocable.cc:8080/2gKWFe/362900/167750
 #EXTINF:-1 group-title="Sports กีฬา",DAZN LaLiga
-#EXTVLCOPT:network-caching=1000
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94467
 #EXTINF:-1 group-title="Sports กีฬา",DAZN F1
-#EXTVLCOPT:network-caching=1000
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
 #EXTINF:-1 group-title="Sports กีฬา",DAZN Combat
-#EXTVLCOPT:network-caching=1000
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",DAZN Ringside
-#EXTVLCOPT:network-caching=1000
 https://shorturl.asia/mRCQz
 #EXTINF:-1 group-title="Sports กีฬา",DAZN Heldinnen
-#EXTVLCOPT:network-caching=1000
 https://tinyurl.com/pr53sszx
 
 #EXTINF:-1,===J-Sports===
-#EXTVLCOPT:network-caching=1000
 https://mt01.utako.moe/js3/index.m3u8
 
 #EXTINF:-1 group-title="Sports กีฬา",JSport 1
-#EXTVLCOPT:network-caching=1000
 https://mt01.utako.moe/js1/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",JSport 2
-#EXTVLCOPT:network-caching=1000
 https://mt01.utako.moe/js2/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",JSport 3
-#EXTVLCOPT:network-caching=1000
 https://mt01.utako.moe/js3/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",JSport 4
-#EXTVLCOPT:network-caching=1000
 https://mt01.utako.moe/js4/index.m3u8
 
 #EXTINF:-1,===Diema Sports===
-#EXTVLCOPT:network-caching=1000
 https://de11.seetv.cc/6832/video.m3u8?token=BC28182177585B5
 
 
 #EXTINF:-1 group-title="Sports กีฬา",Diema Sport
-#EXTVLCOPT:network-caching=1000
 https://de11.seetv.cc/6830/video.m3u8?token=BC28182177585B5
 #EXTINF:-1 group-title="Sports กีฬา",Diema Sport 2
-#EXTVLCOPT:network-caching=1000
 https://de11.seetv.cc/6831/video.m3u8?token=BC28182177585B5
 #EXTINF:-1 group-title="Sports กีฬา",Diema Sport 3
-#EXTVLCOPT:network-caching=1000
 https://de11.seetv.cc/6832/video.m3u8?token=BC28182177585B5
 
 #EXTINF:-1,===ARENA Sports===
-#EXTVLCOPT:network-caching=1000
 http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKKIK5rl2n5meUW9b110w7T-/ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664041294.png" group-title="Sports กีฬา",ARENA SPORT 1
-#EXTVLCOPT:network-caching=1000 
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537002&extension=ts
 http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKIMflboULtlEFrk2YMMT-xb/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664041506.png" group-title="Sports กีฬา",ARENA SPORT 2
-#EXTVLCOPT:network-caching=1000 
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537006&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664219377.png" group-title="Sports กีฬา",ARENA SPORT 3
-#EXTVLCOPT:network-caching=1000 
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537009&extension=ts
 http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKKIK5rl2n5meUW9b110w7T-/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664132050.png" group-title="Sports กีฬา",ARENA SPORT 4
-#EXTVLCOPT:network-caching=1000 
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537012&extension=ts
 http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKJwgvaVf5ef2xfRW1qMuTL6/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/serbia/arena-1-premium-icon-rs.png" group-title="Sports กีฬา",Arena SportPremium 1
-#EXTVLCOPT:network-caching=1000 
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537029&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/serbia/arena-2-premium-icon-rs.png" group-title="Sports กีฬา",Arena SportPremium 2
-#EXTVLCOPT:network-caching=1000 
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537031&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/serbia/arena-3-premium-icon-rs.png" group-title="Sports กีฬา",Arena SportPremium 3
-#EXTVLCOPT:network-caching=1000 
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537033&extension=ts
 
 #EXTINF:-1,===Hubpremier Sports===
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/14152
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier01.png" group-title="Sports กีฬา",Hubpremier1
-#EXTVLCOPT:network-caching=1000 
 https://7pal.short.gy/HPremier1
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier02.png" group-title="Sports กีฬา",Hubpremier2
-#EXTVLCOPT:network-caching=1000 
 http://panel.sulu1.cc:2052/travis1/travis1/14152
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier03.png" group-title="Sports กีฬา",Hubpremier3
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112228.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier04.png" group-title="Sports กีฬา",Hubpremier4
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112227.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier05.png" group-title="Sports กีฬา",Hubpremier5
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112226.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2025/09/09/20250909042507768164_39.png" group-title="Sports กีฬา",Hubpremier6
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112225.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bVOyKEV.png" group-title="Sports กีฬา",Hubpremier7
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112224.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.pw/media/images/epg/2025/08/13/20250813042604656209_88.png" group-title="Sports กีฬา",Hubpremier8
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112223.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbuhtHIe9ibaD6FnRFjd4PTcqkK81jAxCC6g&s" group-title="Sports กีฬา",Hubpremier9
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112222.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/h1jaQqc.png" group-title="Sports กีฬา",Hubpremier10
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112221.m3u8
 
 #EXTINF:-1,===Now Sports===
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112206.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="Sports กีฬา",Now Sports 1
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112207.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305"group-title="Sports กีฬา",Now Sports 2
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112206.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305"group-title="Sports กีฬา",Now Sports 3
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112205.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305" group-title="Sports กีฬา",Now Sports 4
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112204.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_425_305" group-title="Sports กีฬา",Now Sports 5
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112203.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305" group-title="Sports กีฬา",Now Sports 6
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112202.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305" group-title="Sports กีฬา",Now Sports 7
-#EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112201.m3u8
 
 #EXTINF:-1,===Prima Sports===
-#EXTVLCOPT:network-caching=1000 
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77490&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1694689157.png" Prima group-title="Sports กีฬา",Prima Sport 1
-#EXTVLCOPT:network-caching=1000 
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=238886&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1695249914.png" Prima group-title="Sports กีฬา",Prima Sport 2
-#EXTVLCOPT:network-caching=1000 
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=238887&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1695604346.png" group-title="Sports กีฬา",Prima Sport 3
-#EXTVLCOPT:network-caching=1000 
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77481&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1695398839.png"group-title="Sports กีฬา",Prima Sport 4
-#EXTVLCOPT:network-caching=1000 
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77490&extension=ts
 
 #EXTINF:-1,===Polsat Sports===
-#EXTVLCOPT:network-caching=1000
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105533
 
 #EXTINF:-1 group-title="Sports กีฬา",Polsat Sport 1
-#EXTVLCOPT:network-caching=1000
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105530
 #EXTINF:-1 group-title="Sports กีฬา",Polsat Sport 1/2
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:network-caching=1000
 http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=14838&extension=ts&play_token=rZ559zOlnw
 
 #EXTINF:-1 group-title="Sports กีฬา",Polsat Sport 2
-#EXTVLCOPT:network-caching=1000
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105533
 
 #EXTINF:-1 group-title="Sports กีฬา",Polsat Sport 3
-#EXTVLCOPT:network-caching=1000
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105531
 
 #EXTINF:-1 group-title="Sports กีฬา",Polsat PREMIUM 2
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:network-caching=1000
 http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=54165&extension=ts&play_token=DgdOW3zpRD
 
 #EXTINF:-1,===CANAL+Sports===
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 group-title="Sports กีฬา",SPORT TV
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
 #EXTINF:-1 group-title="Sports กีฬา",Canal+ Sport 2 (1080i)
-#EXTVLCOPT:network-caching=1000
 http://78.130.250.2:8023/play/a02w/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",CANAL+ SPORT 360
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.189
-#EXTVLCOPT:network-caching=1000
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/687267
 #EXTINF:-1 group-title="Sports กีฬา",CANAL+ Sport HD
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.192
-#EXTVLCOPT:network-caching=1000
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/687251
 #EXTINF:-1 group-title="Sports กีฬา",CANAL+ Foot
-#EXTVLCOPT:network-caching=1000
 http://145.239.5.177/556/index.m3u8
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.196
-#EXTVLCOPT:network-caching=1000
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/687272
 #EXTINF:-1 group-title="Sports กีฬา",CANAL+ PREMIER LEAGUE FR
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.191
-#EXTVLCOPT:network-caching=1000
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/631067
 
 #EXTINF:-1,===SPORT-TV===
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 group-title="Sports กีฬา",program
-#EXTVLCOPT:network-caching=1000
 
 #EXTINF:-1 group-title="Sports กีฬา",SPORT TV 1 
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.346
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/85521
 #EXTINF:-1 group-title="Sports กีฬา",SPORT TV 2 
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.347
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/85522
 #EXTINF:-1 group-title="Sports กีฬา",SPORT TV 3 
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.348
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/85523
 #EXTINF:-1 group-title="Sports กีฬา",SPORT TV 4 
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.349
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/85524
 
 #EXTINF:-1,===SKY_SPORTS===
-#EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/quuen2024/llgnews/queen/===========================================================================SKY_SPORT+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 http://fortv.cc:8080/live/q8KuDU/354945/35241.ts
 
 #EXTINF:-1 group-title="Sports กีฬา",Sky Sports Premier League HD UK 2
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.355
-#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/36161
 #EXTINF:-1 group-title="Sports กีฬา",Sky Sport Main Event
-#EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/live/q8KuDU/354945/35243.ts
 #EXTINF:-1 group-title="Sports กีฬา",Sky Sport Mix
-#EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/live/q8KuDU/354945/53706.ts
 #EXTINF:-1 group-title="Sports กีฬา",Sky Sport Arena
-#EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/live/q8KuDU/354945/137719.ts
 #EXTINF:-1 group-title="Sports กีฬา",Sky Sport F1
-#EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/live/q8KuDU/354945/35244.ts
 #EXTINF:-1 group-title="Sports กีฬา",Sky Sport News
-#EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/live/q8KuDU/354945/35241.ts
 #EXTINF:-1 group-title="Sports กีฬา",Sky Sport Cricket
-#EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/live/q8KuDU/354945/45940.ts
 #EXTINF:-1 group-title="Sports กีฬา",Sky Sport Racing
-#EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/live/q8KuDU/354945/76842.ts
 
 #EXTINF:-1,===azam sports===
-#EXTVLCOPT:network-caching=1000
 http://145.239.5.177/569/index.m3u8
 
 #EXTINF:-1 group-title="Sports กีฬา",azam sports 1
-#EXTVLCOPT:network-caching=1000
 http://145.239.5.177/568/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",azam sports 2
-#EXTVLCOPT:network-caching=1000
 http://145.239.5.177/569/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",azam sports 3
-#EXTVLCOPT:network-caching=1000
 http://145.239.5.177/570/index.m3u8
 
 
 #EXTINF:-1,===Boxing/Wrestling===
-#EXTVLCOPT:network-caching=1000
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports กีฬา",WWE 1
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:network-caching=1000
 http://tvmate.icu:8080/69NpyV/884735/11645
 #EXTINF:-1 group-title="Sports กีฬา",MMA
-#EXTVLCOPT:network-caching=1000
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",MMA Junkie
-#EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Swerve Combat
-#EXTVLCOPT:network-caching=1000
 https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
 #EXTINF:-1 group-title="Sports กีฬา",MMA PFL
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Sports กีฬา",UFC
-#EXTVLCOPT:network-caching=1000
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
 #EXTINF:-1 group-title="Sports กีฬา",Fighting TV Samurai
-#EXTVLCOPT:network-caching=1000
 https://ca01.utako.moe/fighting_tv/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",United Fight Alliance
-#EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Bare Knuckle tv
-#EXTVLCOPT:network-caching=1000
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/486.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",UFC
-#EXTVLCOPT:network-caching=1000
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",ITV Deportes
-#EXTVLCOPT:network-caching=1000
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
 
 #EXTINF:-1,<===ช่องกีฬาทั่วไป===>
-#EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 group-title="Sports กีฬา",Strongman Champions League
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 group-title="Sports กีฬา",FIFA+
-#EXTVLCOPT:network-caching=1000
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",FIFA+
-#EXTVLCOPT:network-caching=1000
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports กีฬา",TVRI Sport
-#EXTVLCOPT:network-caching=1000
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",2TV Sport
-#EXTVLCOPT:network-caching=1000
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",LaLiga TV 2 por Movistar Plus
-#EXTVLCOPT:network-caching=1000
 http://eagle2024.xyz:80/fuegoipsat439/0sxi3j6w3w/970485
 #EXTINF:-1 group-title="Sports กีฬา",One Soccer
-#EXTVLCOPT:network-caching=1000
 http://nocable.cc:8080/2gKWFe/362900/135810
 #EXTINF:-1 group-title="Sports กีฬา",Sportdigital Fussball
-#EXTVLCOPT:network-caching=1000
 https://a1xs.vip/120001
 #EXTINF:-1 group-title="Sports กีฬา",DSports Plus
-#EXTVLCOPT:network-caching=1000
 http://blast.lat:8080/live/cmy.fredyayala/Q3GVgyJaBGEG/249532.ts
 #EXTINF:-1 group-title="Sports กีฬา",CT Sport
-#EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",SportsTV
-#EXTVLCOPT:network-caching=1000
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",TRT SPORT
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 http://iptvde.de:8080/OsmanTokmak/fgxgthus/111498
 #EXTINF:-1 group-title="Sports กีฬา",Rai Ssport
-#EXTVLCOPT:network-caching=1000
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:-1 group-title="Sports กีฬา",KTV Sport Plus
-#EXTVLCOPT:network-caching=1000
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Aspor
-#EXTVLCOPT:network-caching=1000
 http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10165
 #EXTINF:-1 group-title="Sports กีฬา",Kozoom
-#EXTVLCOPT:network-caching=1000
 https://tinyurl.com/3ted8am7
 #EXTINF:-1 group-title="Sports กีฬา",World Poker Tour
-#EXTVLCOPT:network-caching=1000
 https://tinyurl.com/ymt52m6r
 #EXTINF:-1 group-title="Sports กีฬา",FTF Sports
-#EXTVLCOPT:network-caching=1000
 https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE_Ultra.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",World of Free Sports
-#EXTVLCOPT:network-caching=1000
 https://shorturl.asia/8LUnO
 #EXTINF:-1 group-title="Sports กีฬา",Trace Sports
-#EXTVLCOPT:network-caching=1000
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Pac12 insider
-#EXTVLCOPT:network-caching=1000
 https://pac12-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",MAVTV
-#EXTVLCOPT:network-caching=1000
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",NHRA
-#EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=732
 #EXTINF:-1 group-title="Sports กีฬา",Motorsport tv
-#EXTVLCOPT:network-caching=1000
 https://eu.linear.zype.com/34713153-3597-42c0-bd0d-5023c3f60585/7823e98c-2e5f-49cf-8e73-425e237b86ff-hls4/live.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",MTRSPT 1
-#EXTVLCOPT:network-caching=1000
 https://tinyurl.com/bdhme28r
 #EXTINF:-1 group-title="Sports กีฬา",BIKE Channel
-#EXTVLCOPT:network-caching=1000
 https://cdn09.milano.nxmedge.net/bikechannel/video.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Red Bull TV
-#EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Billiard TV 🇺🇸 🟤
-#EXTVLCOPT:network-caching=1000
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Billiard TV ² 🇺🇸 🟤
-#EXTVLCOPT:network-caching=1000
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Fishing TV
-#EXTVLCOPT:network-caching=1000
 https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",WIRED 2 FISH
-#EXTVLCOPT:network-caching=1000
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",FISHING TV
-#EXTVLCOPT:network-caching=1000
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",JUST FISHING
-#EXTVLCOPT:network-caching=1000
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
 
 
 #EXTINF:-1,<=== ฟังเพลงสากล ====>
-#EXTVLCOPT:network-caching=1000
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment บันเทิง",MTV USA
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-#EXTVLCOPT:network-caching=1000
 https://nfsnew.newkso.ru/nfs/premium371/mono.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",Vevo '70s
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Entertainment บันเทิง",Vevo '80s
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Entertainment บันเทิง",Vevo '90s
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Entertainment บันเทิง",Vevo 2K
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Entertainment บันเทิง",Vevo Retro Rock
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Entertainment บันเทิง",Vevo Pop
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Entertainment บันเทิง",Vevo R&B
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Entertainment บันเทิง",Vevo True School Hip-Hop
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Entertainment บันเทิง",Vevo Country
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Entertainment บันเทิง",MTV BIGGEST POP
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Entertainment บันเทิง",MTV SPANKIN NEW
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Entertainment บันเทิง",MTV ROCKS
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624303598e45140007d765c1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Entertainment บันเทิง",MTV FLOW LATINO
-#EXTVLCOPT:network-caching=1000
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Entertainment บันเทิง",MTV 90's
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 #EXTINF:-1 group-title="Entertainment บันเทิง",MTV Live HD
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:network-caching=1000
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 #EXTINF:-1 group-title="Entertainment บันเทิง",Now Rock
-#EXTVLCOPT:network-caching=1000
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",Now 70s
-#EXTVLCOPT:network-caching=1000
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",Now 80's
-#EXTVLCOPT:network-caching=1000
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",Show Champion
-#EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
 #EXTINF:-1 group-title="Entertainment บันเทิง",Trace UK
-#EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",Trace Urban
-#EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",YG TV
-#EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=424
 #EXTINF:-1 group-title="Entertainment บันเทิง",new K-POP
-#EXTVLCOPT:network-caching=1000
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง",Spirit TV
-#EXTVLCOPT:network-caching=1000
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 
 #EXTINF:-1 group-title="ผีบังตา",CANAL+ SPORT
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=543383&extension=ts
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=248340&extension=ts
 
 #EXTINF:-1 group-title="ผีบังตา",CANAL+SPORT2
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=248341&extension=ts
 http://78.130.250.2:8023/play/a02w/index.m3u8
 
 #EXTINF:-1 group-title="ผีบังตา",CANAL+SPORT4
-#EXTVLCOPT:network-caching=1000
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=248342&extension=ts
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=248343&extension=ts
 
 #EXTINF:-1 group-title="ผีบังตา",CANAL+ FOOT HD
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=543407&extension=ts
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=770798&extension=ts
 http://145.239.5.177/556/index.m3u8
 
 #EXTINF:-1 group-title="ผีบังตา",LIVE 1
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150880&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",LIVE 2
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150879&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",LIVE 3
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150878&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",LIVE 4
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150877&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",LIVE 5
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150876&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",LIVE 6
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150875&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",LIVE 7
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150874&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",LIVE 8
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150873&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",LIVE 9
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150872&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",LIVE 10
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150871&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",LIVE 11
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150870&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",LIVE 12
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150869&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",LIVE 13
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150868&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",LIVE 14
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150867&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",LIVE 15
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150866&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",LIVE 16
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150865&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",LIVE 17
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150864&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",LIVE 18
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150863&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",LIVE 19
-#EXTVLCOPT:network-caching=1000
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150862&extension=ts
 
 #EXTINF:0,Live streaming 1
-#EXTVLCOPT:network-caching=1000
 https://live1.bh6taiye.com/live/48855481_5a43144a525af5e8936edff8c44615b2_h540p.m3u8?auth_key=1759954837-0-0-60d862d9acd57ff394baccdab2c3e222
 #EXTINF:0,Live streaming 2
-#EXTVLCOPT:network-caching=1000
 https://live1.bh6taiye.com/live/48855481_5a43144a525af5e8936edff8c44615b2_h720p.m3u8?auth_key=1759954837-0-0-60d862d9acd57ff394baccdab2c3e222
 #EXTINF:0,Live streaming 3
-#EXTVLCOPT:network-caching=1000
 https://live3.bh6taiye.com/live/48855541_a3e71c03ed0ee93be0a367645fc4436f_h540p.m3u8?auth_key=1759955036-0-0-4772e05c6b1b69336a45705e99241bb0
 #EXTINF:0,Live streaming 4
-#EXTVLCOPT:network-caching=1000
 https://live3.bh6taiye.com/live/48855541_a3e71c03ed0ee93be0a367645fc4436f_h720p.m3u8?auth_key=1759955036-0-0-4772e05c6b1b69336a45705e99241bb0
 #EXTINF:0,Live streaming 5
-#EXTVLCOPT:network-caching=1000
 https://live5.bh6taiye.com/live/48855547_6b6854156a23d7228c9e737c77331b60_h540p.m3u8?auth_key=1759954997-0-0-087dd2396b3771c7781fcec2fb8b33bb
 #EXTINF:0,Live streaming 6
-#EXTVLCOPT:network-caching=1000
 https://live5.bh6taiye.com/live/48855547_6b6854156a23d7228c9e737c77331b60_h720p.m3u8?auth_key=1759954997-0-0-087dd2396b3771c7781fcec2fb8b33bb
 #EXTINF:0,Live streaming 7
-#EXTVLCOPT:network-caching=1000
 https://live5.k8v4dh4.app/live/90725470.m3u8
 #EXTINF:0,Live streaming 8
-#EXTVLCOPT:network-caching=1000
 https://live5.k8v4dh4.app/live/90725470.flv
 #EXTINF:0,Live streaming 9
-#EXTVLCOPT:network-caching=1000
 https://live5.k8v4dh4.app/live/07808742.flv
 #EXTINF:0,Live streaming 10
-#EXTVLCOPT:network-caching=1000
 https://live5.k8v4dh4.app/live/07808742.m3u8
 #EXTINF:0,Live streaming 11
-#EXTVLCOPT:network-caching=1000
 https://live5.k8v4dh4.app/live/90725470.flv
 #EXTINF:0,Live streaming 12
-#EXTVLCOPT:network-caching=1000
 https://live5.k8v4dh4.app/live/90725470.m3u8
 #EXTINF:0,Live streaming 13
-#EXTVLCOPT:network-caching=1000
 https://live5.k8v4dh4.app/live/43612277.flv
 #EXTINF:0,Live streaming 14
-#EXTVLCOPT:network-caching=1000
 https://live5.k8v4dh4.app/live/43612277.m3u8
 #EXTINF:0,Live streaming 15
-#EXTVLCOPT:network-caching=1000
 https://live5.k8v4dh4.app/live/97312754.flv
 #EXTINF:0,Live streaming 16
-#EXTVLCOPT:network-caching=1000
 https://live5.k8v4dh4.app/live/97312754.m3u8
 #EXTINF:0,Live streaming 17
-#EXTVLCOPT:network-caching=1000
 https://live5.k8v4dh4.app/live/90725470.flv
 #EXTINF:0,Live streaming 18
-#EXTVLCOPT:network-caching=1000
 https://live5.k8v4dh4.app/live/90725470.m3u8
 #EXTINF:0,Live streaming 19
-#EXTVLCOPT:network-caching=1000
 https://live5.k8v4dh4.app/live/14707124.flv
 #EXTINF:0,Live streaming 20
-#EXTVLCOPT:network-caching=1000
 https://live5.k8v4dh4.app/live/14707124.m3u8
 #EXTINF:0,Indo vs Saudi
-#EXTVLCOPT:network-caching=1000
 https://live5.k8v4dh4.app/live/14707124.m3u8
 
 
