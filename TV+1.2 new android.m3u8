@@ -288,7 +288,11 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon Network
-http://live1.inwstream.com:1936/transcoder_F1/cartoonnetwork_inwiptv.stream/playlist.m3u8
+#EXTINF:30,Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
+https://nfsnew.newkso.ru/nfs/premium339/mono.m3u8
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.
 http://live3.inwstream.com:1936/transcoder_F1/nickjr_inwiptv.stream/playlist.m3u8
@@ -330,6 +334,9 @@ https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90039
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 2
 http://panel.sulu1.cc:2052/travis1/travis1/90040
