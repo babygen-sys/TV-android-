@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 ,<===⚽ฟุตบอล===>
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/81359
 https://pepsi.abntv.live/hls/4spstream.m3u8
 http://ott.watch/stream/D3FX33QMIH1/313.m3u8
 
@@ -96,6 +98,353 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13540&extension=t
 #EXTINF:-1 group-title="Sports กีฬา",BEIN 9
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13538&extension=ts
+
+
+#EXTM3U
+#EXTINF:0,- - - - - TURKIYE SPOR - - - - -
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/81359
+#EXTINF:0,TR: TIVIBU SPOR 1 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/709
+#EXTINF:0,TR: TIVIBU SPOR 2 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/708
+#EXTINF:0,TR: TIVIBU SPOR 3 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/707
+#EXTINF:0,TR: S SPORT 1 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/700
+#EXTINF:0,TR: S SPORT 1 SD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115206
+#EXTINF:0,TR: S SPORT 2 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/81289
+#EXTINF:0,TR: S SPORT 2 SD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115207
+#EXTINF:0,TR: TRT SPOR HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/697
+#EXTINF:0,TR: TRT SPOR SD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115204
+#EXTINF:0,TR: A SPOR HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/692
+#EXTINF:0,TR: A SPOR SD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6296
+#EXTINF:0,TR: SPORTS TV HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/696
+#EXTINF:0,TR: SMARTSPORT 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111409
+#EXTINF:0,TR: SMARTSPORT 1 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111410
+#EXTINF:0,TR: SMARTSPORT 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111411
+#EXTINF:0,TR: SMARTSPORT 2 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111412
+#EXTINF:0,TR: FB TV HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/690
+#EXTINF:0,TR: GS TV HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/689
+#EXTINF:0,TR: NBA TV HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/687
+#EXTINF:0,TR: TRT 3 SPOR HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115160
+#EXTINF:0,TR: TRT SPOR YILDIZ HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/16955
+#EXTINF:0,TR: TRT SPOR YILDIZ SD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115205
+#EXTINF:0,TR: EUROSPORT 1 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/19181
+#EXTINF:0,TR: EUROSPORT 2 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/19182
+#EXTINF:0,TR: KANAL 26 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115142
+#EXTINF:0,= = = = = VIP LOCAL BEINSPORTS = = = = =
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115575
+#EXTINF:0,- - - - - TURKIYE  BEINSPORT - - - - -
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/5913
+#EXTINF:0,TR: BEIN SPORTS 4K (REAL 4K)
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14795
+#EXTINF:0,TR: BEİNSPORTS 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115033
+#EXTINF:0,TR: BEINSPORTS 1 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111898
+#EXTINF:0,TR: BEINSPORTS 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111900
+#EXTINF:0,TR: BEINSPORTS 2 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111901
+#EXTINF:0,TR: BEINSPORTS 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111902
+#EXTINF:0,TR: BEINSPORTS 3 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111903
+#EXTINF:0,TR: BEINSPORTS 4 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111904
+#EXTINF:0,TR: BEINSPORTS 4 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111905
+#EXTINF:0,TR: BEINSPORTS 5 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111906
+#EXTINF:0,TR: BEINSPORTS 5 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111907
+#EXTINF:0,TR: BEINSPORTS MAX 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111908
+#EXTINF:0,TR: BEINSPORTS MAX 1 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111909
+#EXTINF:0,TR: BEINSPORTS MAX 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111910
+#EXTINF:0,TR: BEINSPORTS MAX 2 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111911
+#EXTINF:0,TR: BEiN SPORT HABER HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
+#EXTINF:0,NL: ESPN 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14919
+#EXTINF:0,NL: ESPN 1 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14920
+#EXTINF:0,NL: ESPN 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14917
+#EXTINF:0,NL: ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14918
+#EXTINF:0,NL: ESPN 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14915
+#EXTINF:0,NL: ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14916
+#EXTINF:0,NL: ESPN 4 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14913
+#EXTINF:0,NL: ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14914
+#EXTINF:0,NL: Ziggo Sport Voetbal FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14905
+#EXTINF:0,NL: Ziggo Sport Voetbal HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14906
+#EXTINF:0,NL: Ziggo Sport Select FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14907
+#EXTINF:0,NL: Ziggo Sport Select HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14908
+#EXTINF:0,NL: ZIGGO SPORT RACING FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14903
+#EXTINF:0,NL: ZIGGO SPORT RACING HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14904
+#EXTINF:0,NL: Ziggo Sport Golf FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14902
+#EXTINF:0,NL: ZIGGO GOLF HD BACKUP
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/24587
+#EXTINF:0,NL: Eurosport 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14898
+#EXTINF:0,NL: Eurosport 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14897
+#EXTINF:0,NL: VIAPLAY GIDS
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/76230
+#EXTINF:0,GLORY
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/81287
+#EXTINF:0,VIAPLAY? ZIE VIAPLAY PAKKET!
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/74379
+#EXTINF:0,ES: GOLF 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115834
+#EXTINF:0,ES: M+ #VAMOS FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115835
+#EXTINF:0,ES: M+ LALIGA FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115836
+#EXTINF:0,ES: M+ LCAMPEONES FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115837
+#EXTINF:0,ES: M+ LCAMPEONES FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115838
+#EXTINF:0,ES: M+ DEPORTES FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115839
+#EXTINF:0,ES: DAZN F1 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115840
+#EXTINF:0,ES: DAZN 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115841
+#EXTINF:0,ES: DAZN 1 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115842
+#EXTINF:0,ES: DAZN 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115843
+#EXTINF:0,ES: DAZN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115844
+#EXTINF:0,ES: DAZN 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115845
+#EXTINF:0,ES: TELEDEPORTE FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115846
+#EXTINF:0,ES: TELEDEPORTE HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115847
+#EXTINF:0,ES: LALIGATV BAR FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115848
+#EXTINF:0,ES: REAL MADRID TV FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115849
+#EXTINF:0,ES: REAL MADRID TV HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115850
+#EXTINF:0,ES: EUROSPORT 1 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115851
+#EXTINF:0,ES: EUROSPORT 2 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115852
+#EXTINF:0,ES: M. GOLF FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115853
+#EXTINF:0,ES: M. GOLF HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115854
+#EXTINF:0,ES: REAL BETIS FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115855
+#EXTINF:0,= = = = = DEPORTES SOLO PARTIDO = = = = =
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115856
+#EXTINF:0,ES: M+ LALIGA BAR HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115858
+#EXTINF:0,ES: M+ DEPORTES 2 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115860
+#EXTINF:0,ES: M+ DEPORTES 3 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115861
+#EXTINF:0,ES: M+ DEPORTES 4 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115862
+#EXTINF:0,ES: M+ LCAMPEON 2 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115863
+#EXTINF:0,ES: M+ LCAMPEON 3 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115864
+#EXTINF:0,ES: M+ LCAMPEON 4 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115865
+#EXTINF:0,ES: M+ LCAMPEON 5 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115866
+#EXTINF:0,ES: DAZN LALIGA 2 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115976
+#EXTINF:0,SR: ARENA SPORT 1 PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112126
+#EXTINF:0,SR: ARENA SPORT 1 PREMIUM   (L2)
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112127
+#EXTINF:0,SR: ARENA SPORT 2 PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112128
+#EXTINF:0,SR: ARENA SPORT 2 PREMIUM   (L2)
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112129
+#EXTINF:0,SR: ARENA SPORT 3 PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112130
+#EXTINF:0,SR: ARENA SPORT 3 PREMIUM   (L2)
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112131
+#EXTINF:0,SR: ARENA SPORT 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112132
+#EXTINF:0,SR: ARENA SPORT 2 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112133
+#EXTINF:0,SR: ARENA SPORT 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112134
+#EXTINF:0,SR: ARENA SPORT 4 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112135
+#EXTINF:0,SR: ARENA SPORT 5 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112136
+#EXTINF:0,SR: ARENA SPORT 6 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112137
+#EXTINF:0,SR: ARENA SPORT 7 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112138
+#EXTINF:0,SR: ARENA SPORT 8 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112139
+#EXTINF:0,SR: ARENA SPORT  1x2 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112140
+#EXTINF:0,===================================Channel IndiTV=======================================================================
+#EXTVLCOPT:network-caching=1000
+https://pastebin.com/raw/===================================Channel%20IndiTV=======================================================================
+
+
+#EXTINF:-1 ,<=== Special ===>
+http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=311683&extension=ts
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
 
 #EXTINF:-1 group-title="Sports กีฬา",🏁 DAZN F1
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
@@ -286,7 +635,6 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
-
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon Network
 #EXTINF:30,Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -330,7 +678,6 @@ https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS TV
 https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
-
 
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 1
@@ -517,68 +864,15 @@ https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186438&extension=ts
 #EXTINF:-1 group-title="Documentary สารคดี",History
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186511&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",AFN
-http://45.144.165.187:8080/playid168/12345/41
-#EXTINF:-1 group-title="Documentary สารคดี",Food Network FHD
-http://panel.sulu1.cc:2052/travis1/travis1/3513
 #EXTINF:-1 group-title="Documentary สารคดี",Animal
 http://49.0.64.96:8007/Animal
 #EXTINF:-1 group-title="Documentary สารคดี",SCIENCE
 http://49.0.64.96:8007/WSCI
-#EXTINF:-1 group-title="Documentary สารคดี",ANIMAL SHOW
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186456&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",BBCLifestyle
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186399&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",TLC
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186485&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",ของดี
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186648&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",OutDoor
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186552&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",THAI NESS
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186405&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",SCi
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186457&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",BBC EARTH
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000116/1024.m3u8
-#EXTINF:-1 group-title="Documentary สารคดี",LOVE NATURE
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
-#EXTINF:-1 group-title="Documentary สารคดี",CRIME+INVESTIGATION
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
-#EXTINF:-1 group-title="Documentary สารคดี",NHK
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000040/1024.m3u8
-#EXTINF:-1 group-title="Documentary สารคดี",CGTN DOCUMENTARY
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
-#EXTINF:-1 group-title="Documentary สารคดี",Xtreme Outdoor Presented by HISTORY
-https://d3t5fccwnhi5z7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uy8wco0v6aga/v1/aenetworks_skills_thrills_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 group-title="Documentary สารคดี",Natgeo graphic
-http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=45964&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",Natgeo wild
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=45962&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",Wired2Fish
-https://linear-80.frequency.stream/dist/plex/80\hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Documentary สารคดี",WildEarth
-https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentary สารคดี",XPLORE
-https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 group-title="Documentary สารคดี", Alure Channel
-http://45.144.165.187:8080/playid168/12345/10380
-#EXTINF:-1 group-title="Documentary สารคดี", RUSH Stories
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186397&extension=ts
+
 
 #EXTINF:-1,<=== NEWS ===>
 https://fl25.moveonjoy.com/CNBC/index.m3u8
 
-#EXTINF:-1 group-title="News ข่าว",BBC news
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
-#EXTINF:-1 group-title="News ข่าว",CNN 
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w951390649_b384000_sleng.m3u8
-#EXTINF:-1 group-title="News ข่าว",CBS News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 group-title="News ข่าว",Fox Weather
-https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 #EXTINF:-1 group-title="News ข่าว",Fox News
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 group-title="News ข่าว",EuronNews
@@ -683,9 +977,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
 
 
-
-#EXTINF:-1,<=== premium sports ===>
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extension=ts&play_token=n1KBSwudMQ
+#EXTINF:-1 ,<=== Special ===>
+http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=311683&extension=ts
+http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
 
 #EXTINF:-1 group-title="Sports กีฬา",LFCTV
 http://45.144.165.187:8080/playid168/12345/12251
@@ -726,10 +1020,6 @@ http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34663
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
-#EXTINF:-1 ,<=== Special ===>
-http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=311683&extension=ts
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
-
 #EXTINF:-1 group-title="Sports กีฬา",🏁 DAZN F1
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
 #EXTINF:-1 group-title="Sports กีฬา",🏁 Foxsport505
@@ -769,6 +1059,10 @@ https://fl25.moveonjoy.com/GOLF/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",🏌️‍♂️Golf Channel 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186500&extension=ts
 
+
+#EXTINF:-1,<=== premium sports ===>
+http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extension=ts&play_token=n1KBSwudMQ
+
 #EXTINF:-1 group-title="Sports กีฬา",Eurosport 1
 http://89.44.229.22:7000/eurosport
 #EXTINF:-1 group-title="Sports กีฬา",Eurosport 2
@@ -786,58 +1080,6 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151194
 #EXTINF:-1 group-title="Sports กีฬา",SPORT TV 5
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84671
 
-#EXTINF:-1 group-title="Sports กีฬา",=== UEFA REPLAY ====
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/=================================================UEFA%20REPLAY======================================================
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/uefa%20info
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extension=ts&play_token=n1KBSwudMQ
-#EXTINF:-1 group-title="Sports กีฬา",UEFA Champion 
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extension=ts&play_token=n1KBSwudMQ
-
-#EXTINF:-1 group-title="Sports กีฬา",HL
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/HL
-#EXTINF:-1 group-title="Sports กีฬา",UEFA HIGHLIGHT
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830216&extension=ts&play_token=MYt8jW9dDS
-#EXTINF:-1 group-title="Sports กีฬา",1
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/1
-#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 1
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830215&extension=ts&play_token=W3HraHXS5I
-#EXTINF:-1 group-title="Sports กีฬา",2
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/2
-#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 2
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830214&extension=ts&play_token=ogSdqOYzDY
-#EXTINF:-1 group-title="Sports กีฬา",3
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/3
-#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 3
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830213&extension=ts&play_token=NGeII0SCF9
-#EXTINF:-1 group-title="Sports กีฬา",4
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/4
-#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 4
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830212&extension=ts&play_token=gZiBUM4qyj
-#EXTINF:-1 group-title="Sports กีฬา",4
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/4
-#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 5
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830211&extension=ts&play_token=I72Boisniw
-#EXTINF:-1 group-title="Sports กีฬา",6
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/6
-#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 6
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830210&extension=ts&play_token=w82LnRxZjh
-#EXTINF:-1 group-title="Sports กีฬา",7
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/7
-#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 7
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830209&extension=ts&play_token=BaoYp9sbHf
-#EXTINF:-1 group-title="Sports กีฬา",8
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/8
-#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 8
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830208&extension=ts&play_token=hALJDnCXCv
-#EXTINF:-1 group-title="Sports กีฬา",9
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/9
-#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 9
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830207&extension=ts&play_token=NaS4oga7oq
-#EXTINF:-1 group-title="Sports กีฬา",10
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/10
-#EXTINF:-1 group-title="Sports กีฬา",UEFA REPLAY 10
-http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830206&extension=ts&play_token=RzldCpIPiE
-https://raw.githubusercontent.com/babygen-sys/TV-android-/refs/heads/main/M3U/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%20android/Home/http-user-agent=Mozilla/5.0%20(Linux;%20Android%2010;%20K)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/124.0.0.0%20Mobile%20Safari/537.36
 
 #EXTINF:-1,===TNT Sports===
 http://panel.sulu1.cc:2052/travis1/travis1/3336
@@ -1195,27 +1437,6 @@ http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150864&ex
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150863&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",LIVE 19
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150862&extension=ts
-
-#EXTINF:0,Live streaming 1 group-title="ผีบังตา"https://live1.bh6taiye.com/live/48855481_5a43144a525af5e8936edff8c44615b2_h540p.m3u8?auth_key=1759954837-0-0-60d862d9acd57ff394baccdab2c3e222
-#EXTINF:0,Live streaming 2 group-title="ผีบังตา"https://live1.bh6taiye.com/live/48855481_5a43144a525af5e8936edff8c44615b2_h720p.m3u8?auth_key=1759954837-0-0-60d862d9acd57ff394baccdab2c3e222
-#EXTINF:0,Live streaming 3 group-title="ผีบังตา"https://live3.bh6taiye.com/live/48855541_a3e71c03ed0ee93be0a367645fc4436f_h540p.m3u8?auth_key=1759955036-0-0-4772e05c6b1b69336a45705e99241bb0
-#EXTINF:0,Live streaming 4 group-title="ผีบังตา"https://live3.bh6taiye.com/live/48855541_a3e71c03ed0ee93be0a367645fc4436f_h720p.m3u8?auth_key=1759955036-0-0-4772e05c6b1b69336a45705e99241bb0
-#EXTINF:0,Live streaming 5 group-title="ผีบังตา"https://live5.bh6taiye.com/live/48855547_6b6854156a23d7228c9e737c77331b60_h540p.m3u8?auth_key=1759954997-0-0-087dd2396b3771c7781fcec2fb8b33bb
-#EXTINF:0,Live streaming 6 group-title="ผีบังตา"https://live5.bh6taiye.com/live/48855547_6b6854156a23d7228c9e737c77331b60_h720p.m3u8?auth_key=1759954997-0-0-087dd2396b3771c7781fcec2fb8b33bb
-#EXTINF:0,Live streaming 7 group-title="ผีบังตา"https://live5.k8v4dh4.app/live/90725470.m3u8
-#EXTINF:0,Live streaming 8 group-title="ผีบังตา"https://live5.k8v4dh4.app/live/90725470.flv
-#EXTINF:0,Live streaming 9 group-title="ผีบังตา"https://live5.k8v4dh4.app/live/07808742.flv
-#EXTINF:0,Live streaming 10 group-title="ผีบังตา"https://live5.k8v4dh4.app/live/07808742.m3u8
-#EXTINF:0,Live streaming 11 group-title="ผีบังตา"https://live5.k8v4dh4.app/live/90725470.flv
-#EXTINF:0,Live streaming 12 group-title="ผีบังตา"https://live5.k8v4dh4.app/live/90725470.m3u8
-#EXTINF:0,Live streaming 13 group-title="ผีบังตา"https://live5.k8v4dh4.app/live/43612277.flv
-#EXTINF:0,Live streaming 14 group-title="ผีบังตา"https://live5.k8v4dh4.app/live/43612277.m3u8
-#EXTINF:0,Live streaming 15 group-title="ผีบังตา"https://live5.k8v4dh4.app/live/97312754.flv
-#EXTINF:0,Live streaming 16 group-title="ผีบังตา"https://live5.k8v4dh4.app/live/97312754.m3u8
-#EXTINF:0,Live streaming 17 group-title="ผีบังตา"https://live5.k8v4dh4.app/live/90725470.flv
-#EXTINF:0,Live streaming 18 group-title="ผีบังตา"https://live5.k8v4dh4.app/live/90725470.m3u8
-#EXTINF:0,Live streaming 19 group-title="ผีบังตา"https://live5.k8v4dh4.app/live/14707124.flv
-#EXTINF:0,Live streaming 20 group-title="ผีบังตา"https://live5.k8v4dh4.app/live/14707124.m3u8
 
 
 #EXTINF:-1 group-title="ผีบังตา",Golf Channel
@@ -1671,18 +1892,11 @@ https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 
 
-#EXTINF:-1,<===Daocumentary===> group-title="ผีบังตา"http://66.90.99.154:8278/Natgeo/playlist.m3u8?tid=MEEE2253814622538146&ct=20364&tsum=0673fb53fcefe54035c7cff8cd51ad4a
-
+#EXTINF:-1,<===Daocumentary===> 
+http://66.90.99.154:8278/Natgeo/playlist.m3u8?tid=MEEE2253814622538146&ct=20364&tsum=0673fb53fcefe54035c7cff8cd51ad4a
 
 #EXTINF:-1 group-title="ผีบังตา",true Animal
 https://live.thaitvstream.com/play/thainews/index.m3u8
-
-#EXTINF:-1 group-title="ผีบังตา",Discovery Asia
-https://live3.inwstream.com/transcoder_F1/discoveryasia_inwiptv.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="ผีบังตา",Discovery
-https://live1.inwstream.com/transcoder_F1/discovery_inwiptv.stream/chunks.m3u8
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186438&extension=ts
 
 #EXTINF:-1 group-title="ผีบังตา",History
 http://45.144.165.187:8080/playid168/12345/48
@@ -1714,10 +1928,105 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186468&extension=
 #EXTINF:-1 group-title="ผีบังตา", Asian food channel
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186384&extension=ts
 
+#EXTINF:-1 group-title="Documentary สารคดี",Discovery
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186438&extension=ts
+#EXTINF:-1 group-title="Documentary สารคดี",History
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186511&extension=ts
+#EXTINF:-1 group-title="Documentary สารคดี",AFN
+http://45.144.165.187:8080/playid168/12345/41
+#EXTINF:-1 group-title="Documentary สารคดี",Food Network FHD
+http://panel.sulu1.cc:2052/travis1/travis1/3513
+#EXTINF:-1 group-title="Documentary สารคดี",Animal
+http://49.0.64.96:8007/Animal
+#EXTINF:-1 group-title="Documentary สารคดี",SCIENCE
+http://49.0.64.96:8007/WSCI
+#EXTINF:-1 group-title="Documentary สารคดี",ANIMAL SHOW
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186456&extension=ts
+#EXTINF:-1 group-title="Documentary สารคดี",BBCLifestyle
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186399&extension=ts
+#EXTINF:-1 group-title="Documentary สารคดี",TLC
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186485&extension=ts
+#EXTINF:-1 group-title="Documentary สารคดี",ของดี
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186648&extension=ts
+#EXTINF:-1 group-title="Documentary สารคดี",OutDoor
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186552&extension=ts
+#EXTINF:-1 group-title="Documentary สารคดี",THAI NESS
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186405&extension=ts
+#EXTINF:-1 group-title="Documentary สารคดี",SCi
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186457&extension=ts
+#EXTINF:-1 group-title="Documentary สารคดี",BBC EARTH
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000116/1024.m3u8
+#EXTINF:-1 group-title="Documentary สารคดี",LOVE NATURE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
+#EXTINF:-1 group-title="Documentary สารคดี",CRIME+INVESTIGATION
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
+#EXTINF:-1 group-title="Documentary สารคดี",NHK
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000040/1024.m3u8
+#EXTINF:-1 group-title="Documentary สารคดี",CGTN DOCUMENTARY
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
+#EXTINF:-1 group-title="Documentary สารคดี",Xtreme Outdoor Presented by HISTORY
+https://d3t5fccwnhi5z7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uy8wco0v6aga/v1/aenetworks_skills_thrills_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="Documentary สารคดี",Natgeo graphic
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=45964&extension=ts
+#EXTINF:-1 group-title="Documentary สารคดี",Natgeo wild
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=45962&extension=ts
+#EXTINF:-1 group-title="Documentary สารคดี",Wired2Fish
+https://linear-80.frequency.stream/dist/plex/80\hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Documentary สารคดี",WildEarth
+https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Documentary สารคดี",XPLORE
+https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 group-title="Documentary สารคดี", Alure Channel
+http://45.144.165.187:8080/playid168/12345/10380
+#EXTINF:-1 group-title="Documentary สารคดี", RUSH Stories
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186397&extension=ts
+
+
+#EXTINF:-1,<=== NEWS ===>
+https://fl25.moveonjoy.com/CNBC/index.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",BBC news
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
+#EXTINF:-1 group-title="News ข่าว",CNN 
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w951390649_b384000_sleng.m3u8
+#EXTINF:-1 group-title="News ข่าว",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 group-title="News ข่าว",Fox Weather
+https://247wlive.foxweather.com/stream/index_1280x720.m3u8
+#EXTINF:-1 group-title="News ข่าว",Fox News
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#EXTINF:-1 group-title="News ข่าว",EuronNews
+https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
+#EXTINF:-1 group-title="News ข่าว",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="News ข่าว",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="News ข่าว",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="News ข่าว",Global News
+http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 group-title="News ข่าว",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="News ข่าว",Boomberg News
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 group-title="News ข่าว",Rusia Today
+https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="News ข่าว",India News
+https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
+#EXTINF:-1 group-title="News ข่าว",BFM Business
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 group-title="News ข่าว",Bloomberg HT
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 group-title="News ข่าว",CNBC World
+https://fl25.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 group-title="News ข่าว",CNBC Europe HD 
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+
 
 #EXTINF:-1,<===MOVIE online===>
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186583&extension=ts
-
 
 #EXTM3U
 #EXTINF:9349group-title="MOVIE",F1 The Movie (2025) F1 เดอะ มูฟวี่
