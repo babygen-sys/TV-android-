@@ -12,8 +12,7 @@ http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150879&ex
 #EXTINF:-1 group-title="Sports กีฬา",League Live-3
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150878&extension=ts
 
-#EXTINF:-1 group-title="Sports กีฬา",BG-Sports
-https://slave02.appball.vip/hls/EJXRpMUllu4h0KgHik1deg/1760107911/ch11.m3u8
+
 #EXTINF:-1 group-title="Sports กีฬา",4Sports
 https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",FSBL Sports
@@ -25,7 +24,8 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 group-title="Sports กีฬา",Premier League 1
 http://145.239.5.177:80/566/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",Premier League 2
-http://tvscreen.icu:8080/1uHb2R/223922/35241
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117203
+http://dmtn-tv.com:8080/6323fza503/xzFMrVcwrw/687272
 
 #EXTINF:-1 group-title="Sports กีฬา",SuperSport Football
 http://145.239.5.177/564/index.m3u8
@@ -34,26 +34,6 @@ http://145.239.5.177/562/index.m3u8
 #EXTINF:-1 group-title="Sports กีฬา",ES: LIGA DE CAMPEONES SD
 http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165359.ts
  
-#EXTINF:-1 group-title="Sports กีฬา",Hubpremier1
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112231.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Hubpremier2
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112229.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Hubpremier3
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112228.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Hubpremier4
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112227.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Hubpremier5
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112226.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Hubpremier6
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112225.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Hubpremier7
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112224.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Hubpremier8
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112223.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Hubpremier9
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112222.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Hubpremier10
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112221.m3u8
 
 #EXTINF:60 group-title="Sports กีฬา",Now Sports 1
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112207.m3u8
