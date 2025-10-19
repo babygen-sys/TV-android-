@@ -2028,6 +2028,7 @@ https://live3.inwstream.com/transcoder_F1/aismonomaxsports2_inwiptv.stream/chunk
 http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
 #EXTINF:-1 group-title="ผีบังตา",MAX-3
 #EXTVLCOPT:network-caching=1000
+https://slave03.appball.vip/hls/YiAik1fb8AV9rRUxRAUDHw/1760896161/mono3.m3u8
 https://live3.inwstream.com/transcoder_F1/aismonomaxsports3_inwiptv.stream/chunks.m3u8
 #EXTINF:-1 group-title="ผีบังตา",MAX-4
 #EXTVLCOPT:network-caching=1000
