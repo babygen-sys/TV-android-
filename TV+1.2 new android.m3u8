@@ -1993,6 +1993,115 @@ http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&exten
 #EXTVLCOPT:network-caching=1000
 https://slave02.appball.vip/hls/JVaFRZJv85Pd_SbtAhxw1Q/1760900739/ch13.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 1 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 1 TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/ScdXes6u2bRNFyCEoJFnBw/1760852144/7e082863bad9b2193b817f67ef13b2ed/eQ37H-ANErhEtbqw43Xqjw/1760862824/live/lx-origin/th-monomax01_720/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 1 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 1 Backup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/uQfcWXyiQ7y705RZxCJs9Q/1760853035/8eb89ccc652e82f9148013cf26a96356/WyzVdMCVwE2BL4kEwvvM3w/1760863715/live/lx-origin/th-monomax01bkp_720/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 1 EN" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 1 EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/fVnk12U1VotPc1jCpO1kXg/1760853055/7e082863bad9b2193b817f67ef13b2ed/zxlfztduycHBnlvMVF32oA/1760863735/live/lx-origin/th-monomax01eng_720/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 2 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 2 TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/4ckznCn17_-CfdCP-YS40w/1760853165/8eb89ccc652e82f9148013cf26a96356/csSkDasyWRsSyLXerBjVzA/1760863845/live/lx-origin/th-monomax02_720/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 2 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 2 Backup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/Tv7MQZUJDvFAT0MWMjkFxw/1760853187/7e082863bad9b2193b817f67ef13b2ed/fqUgsWUaPUd9a11HTNxDTQ/1760863867/live/lx-origin/th-monomax02bkp_720/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 2 EN" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 2 EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/fJ4aHyqw30EWzxpSkNogNQ/1760853216/8eb89ccc652e82f9148013cf26a96356/tJ957_KcXceBg3TJa1X_Wg/1760863896/live/lx-origin/th-monomax02eng_720/chunks.m3u8
+
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 3 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 3 TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/Ty7obekTbPqcy8Ewm0-Xhg/1760853307/7e082863bad9b2193b817f67ef13b2ed/zfM5y0Qxik2aTonwccuUwg/1760863987/live/lx-origin/th-monomax03_720/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 3 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 3 Backup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/DzJD0A9P_tlwl0ciaCHhew/1760853325/8eb89ccc652e82f9148013cf26a96356/46JZuyto9YfNn5rV7HmSaA/1760864005/live/lx-origin/th-monomax03bkp_720/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 3 EN" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 3 EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/gCvGhUZW7u6GgxXaRM7a2g/1760853345/7e082863bad9b2193b817f67ef13b2ed/M9b0aLwYa_0tWMxE1D-08A/1760864025/live/lx-origin/th-monomax03bkp_720/chunks.m3u8
+
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 4 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 4 TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/PyaEppwjcX2SdB-c4ItZgg/1760853537/8eb89ccc652e82f9148013cf26a96356/fpKtXm74DvmZ3u3vuDzKzQ/1760864217/live/lx-origin/th-monomax04_720/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 4 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 4 Backup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/-ThEd0_3ZKvJBA06exL2Tg/1760853558/7e082863bad9b2193b817f67ef13b2ed/KuPg11SWkpT7fzq8qc4-Kg/1760864238/live/lx-origin/th-monomax04bkp_720/chunks.m3u8
+
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 5 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 5 TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/X44dF5fIf2T730d862Uzfg/1760853684/8eb89ccc652e82f9148013cf26a96356/nidLeCA_9TcyUIhd200W1g/1760864364/live/lx-origin/th-monomax05_720/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 5 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 5 Backup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/vITycVJPgsyqxmyYchHKjg/1760853703/7e082863bad9b2193b817f67ef13b2ed/asnVJeOgJ61TGUYgvXdelQ/1760864383/live/lx-origin/th-monomax05bkp_720/chunks.m3u8
+
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 6 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 6 TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/yNJ7PVzf9omGGu3fDeQH7w/1760853722/8eb89ccc652e82f9148013cf26a96356/Dn0MEcDpDOt34ZpS8ZVBAQ/1760864402/live/lx-origin/th-monomax06bkp_720/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 6 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 6 Backup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/as8E1xFC492S6X2CjkMgaA/1760853742/7e082863bad9b2193b817f67ef13b2ed/9_mgvuIWEEIEHFZjdOsFlg/1760864422/live/lx-origin/th-monomax06bkp_720/chunks.m3u8
+
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 7 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 7 TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/OiYhYZxz1GLzhgu1yLRiNA/1760853768/8eb89ccc652e82f9148013cf26a96356/Pu-D8g8zQs0FmBxMxIE2hg/1760864448/live/lx-origin/th-monomax07_720/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 7 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 7 Backup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/OlHbVKy2CgZj9rwY0Ww6iA/1760853816/8eb89ccc652e82f9148013cf26a96356/u5FO2yBwTXRs0gCUyhxWMA/1760864496/live/lx-origin/th-monomax07bkp_720/chunks.m3u8
+
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 8 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 8 TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/PPr58W5If3Ujr1gifObkPQ/1760853840/7e082863bad9b2193b817f67ef13b2ed/NIqPxC4dtu1UinEmC7o1EQ/1760864520/live/lx-origin/th-monomax08_720/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 8 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 8 Backup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/wR0vO0SuLQ0bReIbXOUJ3Q/1760853863/8eb89ccc652e82f9148013cf26a96356/sipt5ySdst2RuAQTN8f1ig/1760864543/live/lx-origin/th-monomax08bkp_720/chunks.m3u8
+
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 9 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 9 TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/gLxXAdIUDATUOhGSFBbqGQ/1760853892/7e082863bad9b2193b817f67ef13b2ed/Soqoa1_AiSQve8dYxaDW6g/1760864572/live/lx-origin/th-monomax09_720/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 9 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 9 Backup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/VldtdN7n9DJxZ_3l7foUiQ/1760853911/8eb89ccc652e82f9148013cf26a96356/XP5NGexgyO3qzD8gJxFCsg/1760864591/live/lx-origin/th-monomax09bkp_720/chunks.m3u8
+
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 10 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 10 TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/kISR4EeNgfPJ-mNfP0GoKA/1760853934/7e082863bad9b2193b817f67ef13b2ed/Dbqcf9R2JiIyGFageWFSgw/1760864614/live/lx-origin/th-monomax10_720/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 10 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 10 Backup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/sb1TrJoFBH9HNFDnrYghhQ/1760853957/8eb89ccc652e82f9148013cf26a96356/lQjyPRVlvzAKsu3oTHSPYA/1760864637/live/lx-origin/th-monomax10bkp_720/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 11 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="MONOMAX", MONOMAX 11 TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://la4.youllneverwalkalone.online:9310/v5/dJNPfM1Q6pD-imlxakaDRA/1760853977/7e082863bad9b2193b817f67ef13b2ed/K16FxY0RN7XVRBuGbW0KSA/1760864657/live/lx-origin/th-monomax11_720/chunks.m3u8
+
+
+
 #EXTINF:-1 group-title="ผีบังตา",M-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
