@@ -2199,6 +2199,8 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186561&extension=
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
 
 
+
+
 #EXTM3U
 #EXTINF:24 group-title="Live Sport",NFL 1
 https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/lx-origin/th-aislive51_720/chunks.m3u8
@@ -2380,7 +2382,11 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=
 #EXTINF:-1,<===MOVIE online===>
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186583&extension=ts
 
+
 #EXTM3U
+#EXTINF:6906group-title="MOVIE",28 years later
+#EXTVLCOPT:network-caching=1000
+https://main.24playerhd.com/m3u8/0a6daaa712ea887b975b0d96/0a6daaa712ea887b975b0d96438.m3u8
 #EXTINF:9349group-title="MOVIE",F1 The Movie (2025) F1 เดอะ มูฟวี่
 https://main.24playerhd.com/newplaylist/f104349c0ec457ab4c3749fc/f104349c0ec457ab4c3749fc.m3u8
 #EXTINF:8247group-title="MOVIE",Bullet Train Explosion (2025) ระเบิดรถด่วนขบวนระห่ำ
