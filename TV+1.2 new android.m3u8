@@ -653,22 +653,35 @@ http://panel.sulu1.cc:2052/travis1/travis1/90082
 http://panel.sulu1.cc:2052/travis1/travis1/90083
 
 #EXTINF:-1,<==== entertainment ====>
-http://45.144.165.187:8080/playid168/12345/22882
+file:///C:/Users/WIN10/Downloads/%3C===================%20HBO%20===================%3E
+#EXTINF:0,HBO+ FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32934
+#EXTINF:0,HBO 2 FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32930
+#EXTINF:0,HBO XTREME FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32945
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", HBO 1
-http://212.102.60.231/HBO_2/index.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง", HBO 2
-http://panel.sulu1.cc:2052/travis1/travis1/88742
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 1 ca
+http://xxip25.top:8080/n7NX45/216258/57437
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 2 ca
+http://xxip25.top:8080/n7NX45/216258/57438
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO East us
+http://xxip25.top:8080/n7NX45/216258/46713
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 1 us
+http://xxip25.top:8080/n7NX45/216258/9264
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 2 us
+http://xxip25.top:8080/n7NX45/216258/9816
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Comedy (East) us 
+http://xxip25.top:8080/n7NX45/216258/17773
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Family (East) us
+http://xxip25.top:8080/n7NX45/216258/17772
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO SIGNATURE (East) us
+http://xxip25.top:8080/n7NX45/216258/9266
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Zone (East) us
+http://xxip25.top:8080/n7NX45/216258/9265
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO HD br
+http://xxip25.top:8080/n7NX45/216258/164950
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", HBO COMEDY HD
-http://212.102.60.231/HBO_COMEDY/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment บันเทิง", HBO FAMILY HD
-http://212.102.60.231/HBO_FAMILY/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment บันเทิง", HBO SIGNATURE HD
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/184866.ts
-http://panel.sulu1.cc:2052/travis1/travis1/88746
 
 #EXTINF:-1 group-title="Entertainment บันเทิง",IZAA MOVIE
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
