@@ -1726,7 +1726,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon Network
 http://45.144.165.187:8080/playid168/12345/57
-https://stream1.freetv.fun/cartoon-network--wj-1.ctv
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Nickjr/playlist.m3u8
@@ -1796,8 +1795,11 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:e9:7c:63&stream=882229&extension=ts&play_token=6f9l3z7xuS
 #EXTINF:-1 tvg-id="Dreamworks.us" tvg-logo="https://i.postimg.cc/xCPHdrVt/IMG-2929.png" group-title="Cartoon การ์ตูน",Dreamworks
 https://la4.youllneverwalkalone.online:9310/v5/45025c88230b8c4ea93b72355b4c93f7/1760685853/e569b3c00e3c5808e13f0817a6296c8f/79dc853501578d668b11/1760685853/live/vx-origin/th-dreamworks_720/chunks.m3u8
+
 #EXTINF:-1 tvg-id="CN.us" tvg-logo="https://i.postimg.cc/MZr3y7sp/IMG-2974.png" group-title="Cartoon การ์ตูน",Cartoon Network
-https://la4.youllneverwalkalone.online:9310/v5/45025c88230b8c4ea93b72355b4c93f7/1760685853/e569b3c00e3c5808e13f0817a6296c8f/79dc853501578d668b11/1760685853/live/vx-origin/th-cartoonnetwork_720/chunks.m3u8
+http://45.144.165.187:8080/playid168/12345/55
+https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/vx-origin/sd-cartoonnetwork_720/chunks.m3u8
+
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/JzMTJMz4/IMG-3549.png" group-title="Cartoon การ์ตูน",Cartoonito
 https://la4.youllneverwalkalone.online:9310/v5/45025c88230b8c4ea93b72355b4c93f7/1760685853/e569b3c00e3c5808e13f0817a6296c8f/79dc853501578d668b11/1760685853/live/vx-origin/th-cartoonito_720/chunks.m3u8
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/0NMWJyk9/IMG-3451.webp" group-title="Cartoon การ์ตูน",Nick Jr.
