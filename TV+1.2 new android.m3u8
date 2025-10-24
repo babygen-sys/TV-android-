@@ -316,7 +316,7 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
 
 
 
-#EXTINF:-1 ,<=== Special ===>
+#EXTINF:-1 ,<=== Special-1 ===>
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=311683&extension=ts
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
 
@@ -358,146 +358,156 @@ http://89.44.229.22:7000/eurosport
 #EXTINF:-1 group-title="Sports กีฬา",Eurosport 2
 http://185.189.225.157/EuroSport2/index.m3u8
 
-#EXTINF:-1,<=== ฟรีทีวี ====>
-https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
 
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",TPBS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/fffd/muruugvl/muruugvl.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",ALTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/fffc/gvcvmuu/gvcvmuu.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",5HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Boomerang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",T SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",TPTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffec/murumuu/murumuu.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",TNN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",JKN18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",ไทบ้านทีวี
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Nation
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Workpoint
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",True24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",GMM25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",ช่อง 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Boom Cartoon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",MONO 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",MCOT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",ONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Thairath
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",3HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Amarin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",7HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",PPTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Top News (720p)
-https://live.topnews.co.th/hls/topnews_a_720.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NEWS1
+#EXTM3U
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",===ดิจิตอลทีวี===
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/BeritaSelatan/Th/refs/heads/main/%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B9%84%E0%B8%A1
+
+#EXTINF:60 group-title="Digital ดิจิตอลทีวี",News1
+#EXTVLCOPT:network-caching=1000
 https://server1.streamssl.com/stream/news1_mid.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Cool Channel
-https://live-iptv.cool-channel.com/cool/live-transmux.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Channel8
-http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",France 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",CNA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NHK WORLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",CCTV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv01.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv02.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv03.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv04.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv05.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv06.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv07.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv08.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv09.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv10.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv11.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv12.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv13.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv14.m3u8
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv15.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",THAI PBS HD
+#EXTVLCOPT:network-caching=1000
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",CH5 HD
+#EXTVLCOPT:network-caching=1000
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Nation TV
+#EXTVLCOPT:http-referrer=https://www.nationtv.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Top News
+#EXTVLCOPT:network-caching=1000
+https://live.topnews.co.th/hls/mobile_v1.m3u8
+
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",GMM
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/bdfd964c7fa447a8811f2a3c4ed3ef1c/playlist_ssaiM.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Workpoint
+#EXTVLCOPT:network-caching=1000
+https://global-media.sooplive.com/live/workpoint/master.m3u8
+
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Mono 29
+#EXTVLCOPT:network-caching=1000
+https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",MCOT HD
+#EXTVLCOPT:network-caching=1000
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",ONE31 HD
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",CH7 HD
+#EXTVLCOPT:network-caching=1000
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",PPTV HD
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT HD
+#EXTVLCOPT:network-caching=1000
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",ALTV
+#EXTVLCOPT:network-caching=1000
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",VIPA
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Channel 8 THAILAND
+#EXTVLCOPT:network-caching=1000
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT ภาคกลาง
+#EXTVLCOPT:network-caching=1000
+https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT ภาคเหนือ
+#EXTVLCOPT:network-caching=1000
+https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT ภาคอีสาน
+#EXTVLCOPT:network-caching=1000
+https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT ภาคใต้
+#EXTVLCOPT:network-caching=1000
+https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",13สยามไท
+#EXTVLCOPT:network-caching=1000
+https://live.x2.co.th/live/13livetv-th_720p/index.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",TPTV
+#EXTVLCOPT:network-caching=1000
+https://tv-live.tpchannel.org/live/tv.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Rama Channel
+#EXTVLCOPT:network-caching=1000
+https://ramach.ddns.net/live/ramalive/index.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Dopa Channel
+#EXTVLCOPT:network-caching=1000
+http://dopachannel.truegse.com/live/dopatv03.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี", Zee Nung
+#EXTVLCOPT:network-caching=1000
+https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Suwannabhumi Channel
+#EXTVLCOPT:network-caching=1000
+https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Police TV
+#EXTVLCOPT:network-caching=1000
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Cable Channel 37
+#EXTVLCOPT:network-caching=1000
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Siamnews
+#EXTVLCOPT:network-caching=1000
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Thainews
+#EXTVLCOPT:network-caching=1000
+https://live.thaitvstream.com/play/thainews/index.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",มวลชนทีวี
+#EXTVLCOPT:network-caching=1000
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี", บ้านบ้านทีวี
+#EXTVLCOPT:network-caching=1000
+https://vdo.plathong.net/live8794/live8794/chunklist_.m3u8
+
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Nation22
+#EXTVLCOPT:network-caching=1000
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Thairath TV
+#EXTVLCOPT:network-caching=1000
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",AmarinTV
+#EXTVLCOPT:network-caching=1000
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",True24
+#EXTVLCOPT:network-caching=1000
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
+
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Mono 29
+#EXTVLCOPT:network-caching=1000
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",CH 8
+#EXTVLCOPT:network-caching=1000
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",Workpoint
+#EXTVLCOPT:network-caching=1000
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",TOPNEW
+#EXTVLCOPT:network-caching=1000
+https://live.topnews.co.th/hls/mobile_v1.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NEW1
+#EXTVLCOPT:network-caching=1000
+https://server1.streamssl.com/stream/news1_mid.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",CH3
+#EXTVLCOPT:network-caching=1000
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
+
+
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",CH7
+#EXTVLCOPT:network-caching=1000
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",MCOT
+#EXTVLCOPT:network-caching=1000
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
 
 #EXTINF:-1,<=== การ์ตูน ====>
 http://49.0.64.96:8007/Cartoonumi
@@ -868,7 +878,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
 
 
-#EXTINF:-1 ,<=== Special ===>
+#EXTINF:-1 ,<=== Special-2 ===>
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=311683&extension=ts
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
 
@@ -969,7 +979,44 @@ https://fl25.moveonjoy.com/GOLF/index.m3u8
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186500&extension=ts
 
 
-#EXTINF:-1,<=== premium sports ===>
+#EXTINF:-1 group-title="Sports กีฬา",CA: NFL NETWORK HD
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/47346
+#EXTINF:-1 group-title="Sports กีฬา",US NFL Network
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/83724
+#EXTINF:-1 group-title="Sports กีฬา",USA: NFL NETWORK (1)
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/159091
+#EXTINF:-1 group-title="Sports กีฬา",USA: NFL NETWORK (2)
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/159117
+#EXTINF:-1 group-title="Sports กีฬา",USA: NFL NETWORK (3)
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/208830
+#EXTINF:-1 group-title="Sports กีฬา",USA: NFL REDZONE 1
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/159118
+#EXTINF:-1 group-title="Sports กีฬา",USA: NFL REDZONE 2
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/159119
+#EXTINF:-1 group-title="Sports กีฬา",USA: NFL REDZONE 3
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/208830
+#EXTINF:-1 group-title="Sports กีฬา",MLB
+#EXTINF:-1 group-title="Sports กีฬา",MLB Network
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/21360
+#EXTINF:-1 group-title="Sports กีฬา",MLB Strike Zone
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/65699
+#EXTINF:-1 group-title="Sports กีฬา",NBA
+#EXTINF:-1 group-title="Sports กีฬา",CA-NBA TV
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/22995
+#EXTINF:-1 group-title="Sports กีฬา",USA: NBA TV
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/20073
+#EXTINF:-1 group-title="Sports กีฬา",GOLF
+#EXTINF:-1 group-title="Sports กีฬา",CA: Golf Channel HD
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/57362
+#EXTINF:-1 group-title="Sports กีฬา",US Golf Channel
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/9806
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/46728
+#EXTINF:-1 group-title="Sports กีฬา",UK Sky Sports Golf FHD
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/35240
+
+
+
+#EXTINF:-1,<===INTER SPORTS ===>
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extension=ts&play_token=n1KBSwudMQ
 
 #EXTINF:-1 group-title="Sports กีฬา",Eurosport 1
@@ -977,6 +1024,23 @@ http://89.44.229.22:7000/eurosport
 #EXTINF:-1 group-title="Sports กีฬา",Eurosport 2
 http://185.189.225.157/EuroSport2/index.m3u8
 
+
+#EXTINF:-1,<=== NBC SPORTS ===>
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/46725
+#EXTINF:-1 group-title="Sports กีฬา",NBC Sports Network
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/46725
+#EXTINF:-1 group-title="Sports กีฬา",NBC Sports Bay Area
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/9900
+#EXTINF:-1 group-title="Sports กีฬา",NBC Sports Boston
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/20939
+#EXTINF:-1 group-title="Sports กีฬา",NBC Sports California
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/20940
+#EXTINF:-1 group-title="Sports กีฬา",NBC Sports Chicago
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/20941
+#EXTINF:-1 group-title="Sports กีฬา",NBC Sports Philly
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/20943
+#EXTINF:-1 group-title="Sports กีฬา",NBC Sports Washingto
+http://xxip25.top:8080/jakewilliamsf13@yahoo.com/UzQ23fxVN5/20944
 
 #EXTINF:-1,===TNT Sports===
 http://b1g.uk/200/230/697067
@@ -1549,31 +1613,21 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186515&extension=
 
 #EXTINF:-1 group-title="ผีบังตา", HBO HITS
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186429&extension=ts
-http://live4.inwstream.com:1936/transcoder_F1/hbohits_inwiptv.stream/playlist.m3u8
-#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
-http://45.144.165.187:8080/playid168/12345/3018
 
 #EXTINF:-1 group-title="ผีบังตา", HBO Fiamy 
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186427&extension=ts
-http://live2.inwstream.com:1936/transcoder_F1/hbofamily_inwiptv.stream/playlist.m3u8
-#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
-http://45.144.165.187:8080/playid168/12345/5649
 
 #EXTINF:-1 group-title="ผีบังตา", HBO Signature HD
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186513&extension=ts
-http://live5.inwstream.com:1936/transcoder_F1/hbosignature_inwiptv.stream/playlist.m3u8
-#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 11)
-http://45.144.165.187:8080/playid168/12345/3660
 
 #EXTINF:-1 group-title="ผีบังตา",CINEMAX
-http://live2.inwstream.com:1936/transcoder_F1/cinemax_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/78
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186473&extension=ts
 
 #EXTINF:-1 group-title="ผีบังตา",AXN
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #EXTINF:-1 group-title="ผีบังตา",Axn
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186394&extension=ts
+
 #EXTINF:-1 group-title="ผีบังตา",Universal
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/H-Channel
@@ -1592,10 +1646,9 @@ http://panel.sulu1.cc:2052/travis1/travis1/88752
 
 #EXTINF:-1 group-title="ผีบังตา",Rock-Action
 http://103.114.203.129:8080/ott168/ott168/81
-http://45.144.165.187:8080/playid168/12345/81
-#EXTINF:-1 group-title="ผีบังตา",Rock-Entertainment
-http://live3.inwstream.com:1936/transcoder_F1/rockentertainment_inwiptv.stream/playlist.m3u8
 http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=191950&extension=ts
+#EXTINF:-1 group-title="ผีบังตา",Rock-Entertainment
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
 
 #EXTINF:-1 group-title="ผีบังตา",Premium movie
 http://45.144.165.187:8080/playid168/12345/22882
@@ -1655,82 +1708,163 @@ http://49.0.64.96:8007/IZAA
 #EXTINF:-1 group-title="ผีบังตา",หนังยอดเยี่ยม
 http://49.0.64.96:8007/H-Channel
 
-#EXTINF:-1,<===cartoon====> group-title="ผีบังตา"http://49.0.64.96:8007/Cartoonumi
 
-#EXTINF:-1 group-title="ผีบังตา",AMAZING
+#EXTINF:-1 group-title="Cartoon การ์ตูน",,<===Premium cartoon====> 
+http://49.0.64.96:8007/Cartoonumi
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",AMAZING
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://49.0.64.96:8007/AMAZING
-#EXTINF:-1 group-title="ผีบังตา",Gags
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Gags
 https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ผีบังตา",มิสเตอร์บีน
+#EXTINF:-1 group-title="Cartoon การ์ตูน",มิสเตอร์บีน
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="ผีบังตา",Boomerang
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Boomerang
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-#EXTINF:-1 group-title="ผีบังตา",BC Boomerang Cartoon
+#EXTINF:-1 group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
-
-#EXTINF:-1 group-title="ผีบังตา",Cartoon Network
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon Network
 http://45.144.165.187:8080/playid168/12345/57
 https://stream1.freetv.fun/cartoon-network--wj-1.ctv
 
-#EXTINF:-1 group-title="ผีบังตา",Nick Jr.
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Nickjr/playlist.m3u8
 
-#EXTINF:-1 group-title="ผีบังตา",Nickelodeon
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon
 http://66.90.99.154:8278/Nickelodeon/playlist.m3u8?tid=MC4C5313507053135070&ct=20364&tsum=7ed5c516f7530f58ede76358ef563490
 
-#EXTINF:-1 group-title="ผีบังตา",Nicktoons 
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Nicktoons 
 http://panel.sulu1.cc:2052/travis1/travis1/3234
 
-#EXTINF:-1 group-title="ผีบังตา",Cartoonito
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoonito
 http://45.144.165.187:8080/playid168/12345/60
 http://panel.sulu1.cc:2052/travis1/travis1/1125
 
-#EXTINF:-1 group-title="ผีบังตา",Dreamworks
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Dreamworks
 http://live5.inwstream.com:1936/transcoder_F1/dreamwork_inwiptv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="ผีบังตา",Disney Channel
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Disney Channel
 http://212.102.60.231/DISNEY/index.m3u8
 https://e3.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="ผีบังตา",Disney Junior 
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Disney Junior 
 http://116.90.120.149:8000/play/a0b3/index.m3u8
 
-#EXTINF:-1 group-title="ผีบังตา",Disney International 
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Disney International 
 https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
 
-#EXTINF:-1 group-title="ผีบังตา",Cartoon
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon
 http://49.0.64.96:8007/Cartoonumi
-#EXTINF:-1 group-title="ผีบังตา",Mr.bean Cartoon
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Mr.bean Cartoon
 https://amg00627-amg00627c23-samsung-th-5282.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ผีบังตา",Zoomoo
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ผีบังตา",Baby Shark TV
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Baby Shark TV
 https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ผีบังตา",Cinebox: Animation
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Cinebox: Animation
 http://1tv41.icu:8080/ahx4CN/815233/119420
-#EXTINF:-1 group-title="ผีบังตา",Shaun the Sheep & Friends
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Shaun the Sheep & Friends
 https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
-#EXTINF:-1 group-title="ผีบังตา",Moonbug
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ผีบังตา",KIDS TV
+#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS TV
 https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ผีบังตา",One Piece
+#EXTINF:-1 group-title="Cartoon การ์ตูน",One Piece
 https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8
-#EXTINF:-1 group-title="ผีบังตา",Naruto
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Naruto
 https://jmp2.uk/plu-5da0c85bd2c9c10009370984.m3u8
-#EXTINF:-1 group-title="ผีบังตา",Pokémon
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Pokémon
 https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
-#EXTINF:-1 group-title="ผีบังตา",LEGO Kids TV
+#EXTINF:-1 group-title="Cartoon การ์ตูน",LEGO Kids TV
 https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
-#EXTINF:-1 group-title="ผีบังตา",Pet Collective1
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Pet Collective1
 https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="ผีบังตา",PetClub TV2
+#EXTINF:-1 group-title="Cartoon การ์ตูน",PetClub TV2
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/Wz7qzMTG/IMG-2061.png" group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
+#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/zDCqL8v7/IMG-2635.png" group-title="Cartoon การ์ตูน",Boom
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+#EXTINF:-1 tvg-id="Disney.us" tvg-logo="https://i.postimg.cc/L5pDYP1C/IMG-2139.png" group-title="Cartoon การ์ตูน",Disney Channel
+https://fl31.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 tvg-id="Disney.us" tvg-logo="https://i.postimg.cc/ncFDmwCT/IMG-4273.png" group-title="Cartoon การ์ตูน",Disney Junior
+https://fl25.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="Disney.us" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/8e/Disney_XD_-_2015.svg.png" group-title="Cartoon การ์ตูน",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="Disney.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Disney_pixar_logo.png" group-title="Cartoon การ์ตูน",Disney Pixar
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:e9:7c:63&stream=882229&extension=ts&play_token=6f9l3z7xuS
+#EXTINF:-1 tvg-id="Dreamworks.us" tvg-logo="https://i.postimg.cc/xCPHdrVt/IMG-2929.png" group-title="Cartoon การ์ตูน",Dreamworks
+https://la4.youllneverwalkalone.online:9310/v5/45025c88230b8c4ea93b72355b4c93f7/1760685853/e569b3c00e3c5808e13f0817a6296c8f/79dc853501578d668b11/1760685853/live/vx-origin/th-dreamworks_720/chunks.m3u8
+#EXTINF:-1 tvg-id="CN.us" tvg-logo="https://i.postimg.cc/MZr3y7sp/IMG-2974.png" group-title="Cartoon การ์ตูน",Cartoon Network
+https://la4.youllneverwalkalone.online:9310/v5/45025c88230b8c4ea93b72355b4c93f7/1760685853/e569b3c00e3c5808e13f0817a6296c8f/79dc853501578d668b11/1760685853/live/vx-origin/th-cartoonnetwork_720/chunks.m3u8
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/JzMTJMz4/IMG-3549.png" group-title="Cartoon การ์ตูน",Cartoonito
+https://la4.youllneverwalkalone.online:9310/v5/45025c88230b8c4ea93b72355b4c93f7/1760685853/e569b3c00e3c5808e13f0817a6296c8f/79dc853501578d668b11/1760685853/live/vx-origin/th-cartoonito_720/chunks.m3u8
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/0NMWJyk9/IMG-3451.webp" group-title="Cartoon การ์ตูน",Nick Jr.
+https://la4.youllneverwalkalone.online:9310/v5/45025c88230b8c4ea93b72355b4c93f7/1760685853/e569b3c00e3c5808e13f0817a6296c8f/79dc853501578d668b11/1760685853/live/vx-origin/sd-nickjr_720/chunks.m3u8
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/c/cb/Nickelodeon_2023_logo.png" group-title="Cartoon การ์ตูน",Nickelodeon
+https://la4.youllneverwalkalone.online:9310/v5/45025c88230b8c4ea93b72355b4c93f7/1760685853/e569b3c00e3c5808e13f0817a6296c8f/79dc853501578d668b11/1760685853/live/vx-origin/sd-nickelodeon_720/chunks.m3u8
+#EXTINF:-1 tvg-id="Kartoon.uk" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/f/fa/Nicktoons_2024.webp" group-title="Cartoon การ์ตูน",Nicktoons
+https://fl7.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="Kartoon.uk" tvg-logo="https://i.postimg.cc/50PmnR6v/IMG-4271.png" group-title="Cartoon การ์ตูน",Baby TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13057
+#EXTINF:-1 tvg-id="Kartoon.uk" tvg-logo="https://i.postimg.cc/76cTyxxH/IMG-4278.png" group-title="Cartoon การ์ตูน",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="Kartoon.uk" tvg-logo="https://i.postimg.cc/t4m9F12F/IMG-2443.png" group-title="Cartoon การ์ตูน",Kartoon
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=584
+#EXTINF:-1 tvg-id="Moonbug.us" tvg-logo="https://i.postimg.cc/qvTvttzq/IMG-2049.png" group-title="Cartoon การ์ตูน",Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Ketchup.us" tvg-logo="https://i.postimg.cc/sXcXy3Vx/IMG-2048.png" group-title="Cartoon การ์ตูน",Ketchup TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171
+#EXTINF:-1 tvg-id="Zoomoo.au" tvg-logo="https://i.postimg.cc/kDrkX96L/IMG-2007.png" group-title="Cartoon การ์ตูน",Zoomoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Babyshark.us" tvg-logo="https://i.postimg.cc/2SdyBfGr/IMG-2793.png" group-title="Cartoon การ์ตูน",Baby Shark TV
+https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Kidsflix.us" tvg-logo="https://i.postimg.cc/3Jsb5gQf/IMG-2751.png" group-title="Cartoon การ์ตูน",KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1 tvg-id="Kidsflix.us" tvg-logo="https://i.postimg.cc/h4dHSjSv/IMG-4292.png" group-title="Cartoon การ์ตูน",Kids TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/fTyCySzV/IMG-3776.png" group-title="Cartoon การ์ตูน",Cinebox Animation
+http://1tv41.icu:8080/ahx4CN/815233/119420
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/rm7STP35/IMG-4286.png" group-title="Cartoon การ์ตูน",Sky Kids
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1905890&extension=ts&play_token=MiC6AjPfcC
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/7LWQP17Y/IMG-3772.png" group-title="Cartoon การ์ตูน",LEGO Kids TV
+https://shorturl.asia/rzC82
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Teen_Titans_Go%21_horizontal_logo.svg/1024px-Teen_Titans_Go%21_horizontal_logo.svg.png" group-title="Cartoon การ์ตูน",Teen Titans Go!
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:e9:7c:63&stream=947743&extension=ts&play_token=XVpQsWSuSf
+#EXTINF:-1 tvg-id="Tobot.kr" tvg-logo="https://i.postimg.cc/GmN7CNFZ/IMG-2853.png" group-title="Cartoon การ์ตูน",TOBOT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5480
+#EXTINF:-1 tvg-id="Barbie.us" tvg-logo="https://i.postimg.cc/8CBnLpsM/IMG-3032.png" group-title="Cartoon การ์ตูน",Barbie and Friends
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11075
+#EXTINF:-1 tvg-id="Shaun.us" tvg-logo="https://i.postimg.cc/MpvvDsK3/IMG-2662.png" group-title="Cartoon การ์ตูน",Shaun the Sheep & Friends
+https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/MGhQMRqs/IMG-3760.png" group-title="Cartoon การ์ตูน",TOM & JERRY
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:e9:7c:63&stream=947730&extension=ts
+#EXTINF:-1 tvg-id="Bean.us" tvg-logo="https://i.postimg.cc/Ls6Z8Zhf/IMG-2441.png" group-title="Cartoon การ์ตูน",Mr.bean Cartoon
+https://amg00627-amg00627c23-samsung-th-5282.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Toonami.us" tvg-logo="https://i.postimg.cc/XYpy8Bn8/IMG-2046.webp" group-title="Cartoon การ์ตูน",Toonami
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 tvg-id="Aniplus.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/1024px-Aniplus_logo.svg.png" group-title="Cartoon การ์ตูน",Aniplus
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341608&extension=m3u8
+#EXTINF:-1 tvg-id="Animax.kr" tvg-logo="https://i.postimg.cc/zvFCyNzv/IMG-2886.png" group-title="Cartoon การ์ตูน",Animax
+https://ca01.utako.moe/Animax/index.m3u8
+#EXTINF:-1 tvg-id="Anime.uk" tvg-logo="https://i.postimg.cc/fWpVtLk1/IMG-2554.png" group-title="Cartoon การ์ตูน",Anime All Day
+https://tinyurl.com/52dhjnhw
+#EXTINF:-1 tvg-id="Anime.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pokémon_logo.svg/1024px-International_Pokémon_logo.svg.png" group-title="Cartoon การ์ตูน",Pokémon
+https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
+#EXTINF:-1 tvg-id="Animax.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Dragon_Ball_Z_Logo_B.png/1024px-Dragon_Ball_Z_Logo_B.png" group-title="Cartoon การ์ตูน",Dragon Ball Z
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:D5:2A:A0&stream=1345824&extension=ts&play_token=T4VMYU8xQr
+#EXTINF:-1 tvg-id="Anime.uk" tvg-logo="https://i.postimg.cc/yNYxkYhM/IMG-1974.png" group-title="Cartoon การ์ตูน",Naruto
+https://tinyurl.com/bderscw3
+#EXTINF:-1 tvg-id="Anime.uk" tvg-logo="https://i.postimg.cc/sx1cQNXY/IMG-2445.png" group-title="Cartoon การ์ตูน",One Piece
+https://shorturl.at/5Y1ri
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/Wbd3mgfG/IMG-3363.png" group-title="Cartoon การ์ตูน",Da Vinci
+http://portal.geniptv.com:8080//live/dmtndmtnkimo/a7GPMeArdf/9451.m3u8
+#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png" group-title="Cartoon การ์ตูน",Cartoonumi
+http://49.0.64.96:8007/Cartoonumi
 
 
-#EXTINF:-1,<===Daocumentary===> 
+#EXTINF:-1,<===Premium Daocumentary===> 
 http://66.90.99.154:8278/Natgeo/playlist.m3u8?tid=MEEE2253814622538146&ct=20364&tsum=0673fb53fcefe54035c7cff8cd51ad4a
 
 #EXTINF:-1 group-title="ผีบังตา",Animal
@@ -1824,7 +1958,7 @@ http://45.144.165.187:8080/playid168/12345/10380
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186397&extension=ts
 
 
-#EXTINF:-1,<=== NEWS ===>
+#EXTINF:-1,<===Premium NEWS ===>
 https://fl25.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 group-title="News ข่าว",BBC news
@@ -1867,6 +2001,7 @@ https://fl25.moveonjoy.com/CNBC/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 
 
+#EXTINF:-1,<===Premium Sports===>
 
 #EXTINF:-1 group-title="Live Sport",บีอินสปอตส์ 1
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
@@ -1910,28 +2045,6 @@ https://ww.dooballfree.vip/live/bein8/playlist.m3u8
 https://ww.dooballfree.vip/live/bein9/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Live Sport",บอลไทย 1
-https://live1.inwstream.com/transcoder_F1/playsports1_inwiptv.stream/chunks.m3u8
-https://verb169.com/stream/22/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:43 group-title="Live Sport",บอลไทย 2
-https://live1.inwstream.com/transcoder_F1/playsports2_inwiptv.stream/chunks.m3u8
-https://verb169.com/stream/23/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:46 group-title="Live Sport",บอลไทย 3
-https://live1.inwstream.com/transcoder_F1/playsports3_inwiptv.stream/chunks.m3u8
-https://verb169.com/stream/24/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 group-title="Live Sport",บอลไทย 4
-https://live1.inwstream.com/transcoder_F1/playsports4_inwiptv.stream/chunks.m3u8
-https://verb169.com/stream/25/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 group-title="Live Sport",บอลไทย 5
-https://verb169.com/stream/26/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:36 group-title="Live Sport",บอลไทย 6
-https://verb169.com/stream/27/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:29 group-title="Live Sport",บอลไทย 7
-https://verb169.com/stream/28/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:29 group-title="Live Sport",บอลไทย 7 สำรอง
-https://verb169.com/stream/28/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:34 group-title="Live Sport",บอลไทย 8
-https://verb169.com/stream/29/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 group-title="Live Sport",BALLTHAI 1
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
@@ -1955,19 +2068,13 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
 
 #EXTINF:-1 group-title="Live Sport",PLAY SPORTS 1
-https://live1.inwstream.com/transcoder_F1/playsports1_inwiptv.stream/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
+
 #EXTINF:-1 group-title="Live Sport",PLAY SPORTS 2
-https://live1.inwstream.com/transcoder_F1/playsports2_inwiptv.stream/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
-#EXTINF:-1 group-title="Live Sport",PLAY SPORTS 3
-https://live1.inwstream.com/transcoder_F1/playsports3_inwiptv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Live Sport",PLAY SPORTS 4
-https://live1.inwstream.com/transcoder_F1/playsports4_inwiptv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Live Sport",PLAY SPORTS 6
-https://live1.inwstream.com/transcoder_F1/playsports6_inwiptv.stream/chunks.m3u8
+
 
 #EXTINF:-1 group-title="Live Sport",sports 1
 http://45.144.165.187:8080/playid168/12345/18904
@@ -2391,10 +2498,8 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186561&extension=
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
 
 
-
 #EXTINF:-1,<===MOVIE online===>
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186583&extension=ts
-
 
 #EXTM3U
 #EXTINF:6906group-title="MOVIE",28 years later
