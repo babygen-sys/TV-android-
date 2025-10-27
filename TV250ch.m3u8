@@ -1,368 +1,7 @@
 #EXTM3U
-#EXTINF:-1 ,<===⚽ฟุตบอล===>
+#EXTINF:-1,===ดิจิตอลทีวี===
 #EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/81359
-https://pepsi.abntv.live/hls/4spstream.m3u8
-http://ott.watch/stream/D3FX33QMIH1/313.m3u8
-
-#EXTINF:-1 group-title="Sports กีฬา",Live Sports-1
-http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150880&extension=ts
-#EXTINF:-1 group-title="Sports กีฬา",Live Sports-2
-http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150879&extension=ts
-#EXTINF:-1 group-title="Sports กีฬา",Live Sports-3
-http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=1150878&extension=ts
-
-
-#EXTINF:-1 group-title="Sports กีฬา",4Sports
-https://pepsi.abntv.live/hls/4spstream.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",FSBL Sports
-https://dl.dropbox.com/scl/fi/w7g1je6ged2ce1ew3xcqm/live4.m3u8?rlkey=7c7579wsd3hbg1lrzmt499wjv&st=fnx949vr&dl=0
-#EXTINF:-1 group-title="Sports กีฬา",Setanta Sports Ukraine HD
-http://ott.watch/stream/D3FX33QMIH1/313.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Setanta Sports 1 Georgia
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 group-title="Sports กีฬา",Premier League 1
-http://145.239.5.177:80/566/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Premier League 2
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117203
-http://dmtn-tv.com:8080/6323fza503/xzFMrVcwrw/687272
-
-#EXTINF:-1 group-title="Sports กีฬา",SuperSport Football
-http://145.239.5.177/564/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",SuperSport PSL
-http://145.239.5.177/562/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",ES: LIGA DE CAMPEONES SD
-http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165359.ts
- 
-
-#EXTINF:60 group-title="Sports กีฬา",Now Sports 1
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112207.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Now Sports 2
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112206.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Now Sports 3
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112205.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Now Sports 4
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112204.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Now Sports 5
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112203.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Now Sports 6
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112202.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Now Sports 7
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112201.m3u8
-
-#EXTINF:0 group-title="Sports กีฬา",NOW SPORTS PREMIER LEAGUE 01
-#EXTVLCOPT:network-caching=1000
-http://mains.services/live/bshorty/Zv5le07a0J/e9301034-7ab8-4915-86f2-9e092bb06134.m3u
-#EXTINF:0 group-title="Sports กีฬา",NOW SPORTS PREMIER LEAGUE 02
-#EXTVLCOPT:network-caching=1000
-http://mains.services/live/bshorty/Zv5le07a0J/41176be7-518a-4f04-a721-7d89161cf8fc.m3u
-#EXTINF:0 group-title="Sports กีฬา",NOW SPORTS PREMIER LEAGUE 03
-#EXTVLCOPT:network-caching=1000
-http://mains.services/live/bshorty/Zv5le07a0J/cbceee38-4772-4b22-b2bb-797ce06177ed.m3u
-#EXTINF:0 group-title="Sports กีฬา",NOW SPORTS PREMIER LEAGUE 04
-#EXTVLCOPT:network-caching=1000
-http://mains.services/live/bshorty/Zv5le07a0J/7367b8b8-f459-4be2-aee2-5e3f5e8d1f7e.m3u
-#EXTINF:0 group-title="Sports กีฬา",NOW SPORTS PREMIER LEAGUE 05
-#EXTVLCOPT:network-caching=1000
-http://mains.services/live/bshorty/Zv5le07a0J/5655f0f0-79f8-404d-a44c-128ef2e3c74d.m3u
-#EXTINF:0 group-title="Sports กีฬา",NOW SPORTS PREMIER LEAGUE 06
-#EXTVLCOPT:network-caching=1000
-http://mains.services/live/bshorty/Zv5le07a0J/93aa194a-e771-4070-9ee3-055230acc379.m3u
-#EXTINF:0 group-title="Sports กีฬา",NOW SPORTS PREMIER LEAGUE TV
-#EXTVLCOPT:network-caching=1000
-http://mains.services/live/bshorty/Zv5le07a0J/5153cfce-c89d-4937-901f-98bb480d35e5.m3u
-
-#EXTINF:-1 group-title="Sports กีฬา",BEIN 1
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13534&extension=ts
-#EXTINF:-1 group-title="Sports กีฬา",BEIN 2
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142756
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13532&extension=ts
-#EXTINF:-1 group-title="Sports กีฬา",BEIN 3
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142757
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13530&extension=ts
-#EXTINF:-1 group-title="Sports กีฬา",BEIN 4
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142758
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13548&extension=ts
-#EXTINF:-1 group-title="Sports กีฬา",BEIN 5
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142759
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13546&extension=ts
-#EXTINF:-1 group-title="Sports กีฬา",BEIN 6
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142760
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13544&extension=ts
-#EXTINF:-1 group-title="Sports กีฬา",BEIN 7
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142761
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13536&extension=ts
-#EXTINF:-1 group-title="Sports กีฬา",BEIN 8
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13540&extension=ts
-#EXTINF:-1 group-title="Sports กีฬา",BEIN 9
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=13538&extension=ts
-
-
-#EXTINF:-1,<===พิเศษ===>
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/tvplaylist/Hahaha/refs/heads/main/%3C===================%20INDONESIA%20=============================%3E
-http://b1g.uk/200/230/697067
-
-
-#EXTINF:-1,===Hub Sport===
-http://b1g.uk/200/230/952022
-
-#EXTINF:-1,Hub Premier 1 FHD
-http://b1g.uk/200/230/952022
-#EXTINF:-1,Hub Premier 1 HD
-http://b1g.uk/200/230/426734
-#EXTINF:-1,Hub Premier 2 FHD
-http://b1g.uk/200/230/952023
-#EXTINF:-1,Hub Premier 2 HD
-http://b1g.uk/200/230/426733
-#EXTINF:-1,Hub Premier 3 FHD
-http://b1g.uk/200/230/952024
-#EXTINF:-1,Hub Premier 3 HD
-http://b1g.uk/200/230/426732
-#EXTINF:-1,Hub Premier 4 FHD
-http://b1g.uk/200/230/952025
-#EXTINF:-1,Hub Premier 4 HD
-http://b1g.uk/200/230/426731
-#EXTINF:-1,Hub Premier 5 FHD
-http://b1g.uk/200/230/952026
-#EXTINF:-1,Hub Premier 5 HD
-http://b1g.uk/200/230/426730
-#EXTINF:-1,Hub Premier 6 FHD
-http://b1g.uk/200/230/952027
-#EXTINF:-1,Hub Premier 6 HD
-http://b1g.uk/200/230/426729
-#EXTINF:-1,Hub Premier 7 FHD
-http://b1g.uk/200/230/952028
-#EXTINF:-1,Hub Premier 7 HD
-http://b1g.uk/200/230/426728
-#EXTINF:-1,Hub Premier 8 FHD
-http://b1g.uk/200/230/952029
-#EXTINF:-1,Hub Premier 8 HD
-http://b1g.uk/200/230/426727
-#EXTINF:-1,Hub Premier 9 FHD
-http://b1g.uk/200/230/952030
-#EXTINF:-1,Hub Premier 9 HD
-http://b1g.uk/200/230/426726
-#EXTINF:-1,Hub Premier 10 FHD
-http://b1g.uk/200/230/952031
-#EXTINF:-1,Hub Premier 10 HD
-http://b1g.uk/200/230/426725
-#EXTINF:-1,Hub Premier 11 FHD
-http://b1g.uk/200/230/952032
-#EXTINF:-1,Hub Premier 11 HD
-http://b1g.uk/200/230/426724
-#EXTINF:-1,Hub Premier 2 4K
-http://b1g.uk/200/230/426723
-
-
-#EXTINF:-1,===Astro====
-
-#EXTINF:-1,MY | Astro Premier League 1 FHD
-http://b1g.uk/200/230/709263
-#EXTINF:-1,MY | Astro Premier League 1 HD
-http://b1g.uk/200/230/709262
-#EXTINF:-1,MY | Astro Premier League 2 FHD
-http://b1g.uk/200/230/709261
-#EXTINF:-1,MY | Astro Premier League 2 HD
-http://b1g.uk/200/230/709260
-#EXTINF:-1,MY | Astro Premier League 3 FHD
-http://b1g.uk/200/230/848961
-#EXTINF:-1,MY | Astro Premier League 3 HD
-http://b1g.uk/200/230/945703
-#EXTINF:-1,MY | Astro Premier League 4 FHD
-http://b1g.uk/200/230/848960
-#EXTINF:-1,MY | Astro Premier League 4 HD
-http://b1g.uk/200/230/945704
-#EXTINF:-1,MY | Astro Premier League 5 FHD
-http://b1g.uk/200/230/848959
-#EXTINF:-1,MY | Astro Premier League 5 HD
-http://b1g.uk/200/230/945705
-#EXTINF:-1,MY | Astro Grandstand FHD
-http://b1g.uk/200/230/709259
-#EXTINF:-1,MY | Astro Grandstand HD
-http://b1g.uk/200/230/709258
-#EXTINF:-1,MY | Astro Football FHD
-http://b1g.uk/200/230/709257
-#EXTINF:-1,MY | Astro Football HD
-http://b1g.uk/200/230/709256
-#EXTINF:-1,MY | Astro Cricket FHD
-http://b1g.uk/200/230/709264
-#EXTINF:-1,MY | Astro Badminton
-http://b1g.uk/200/230/848711
-#EXTINF:-1,MY | Astro Badminton 2
-http://b1g.uk/200/230/848710
-#EXTINF:-1,MY | W-Sport FHD
-http://b1g.uk/200/230/709252
-
-
-#EXTINF:-1,TNT SPORTS 1
-#EXTVLCOPT:network-caching=1000
-http://tv.8dott.xyz:80/live/samuel/samuel123456/697057.ts
-#EXTINF:-1,TNT SPORTS 2
-#EXTVLCOPT:network-caching=1000
-http://tv.8dott.xyz:80/live/samuel/samuel123456/697056.ts
-#EXTINF:-1,TNT SPORTS 3
-#EXTVLCOPT:network-caching=1000
-http://tv.8dott.xyz:80/live/samuel/samuel123456/697055.ts
-#EXTINF:-1,TNT SPORTS 4
-#EXTVLCOPT:network-caching=1000
-http://tv.8dott.xyz:80/live/samuel/samuel123456/697060.ts
-
-
-#EXTINF:162,Prima Sport 1 
-#EXTVLCOPT:http-referrer=https://hulky116.lokix1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://hulky116.lokix1.cfd/puk1/usergenrx0cir27aq.m3u8
-#EXTINF:161,Prima Sport 2 
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-#EXTINF:162,Prima Sport 3 
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-#EXTINF:81,Prima Sport 4 
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
-#EXTINF:63,Prima Sport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
-#EXTVLCOPT:network-caching=1000
-https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
-
-
-#EXTINF:161, DGS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://pulse1.zalmora.cfd/000/
-#EXTVLCOPT:network-caching=1000
-https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
-#EXTINF:180, DGS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
-#EXTVLCOPT:network-caching=1000
-https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
-#EXTINF:-1, DGS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
-#EXTVLCOPT:network-caching=1000
-https://ultra2.falconx1.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
-#EXTINF:180, DGS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
-#EXTVLCOPT:network-caching=1000
-https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
-#EXTINF:60,Dubai Sports 1
-#EXTVLCOPT:network-caching=1000
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-
-
-#EXTINF:-1,Dubai Sports 2
-#EXTVLCOPT:network-caching=1000
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
-#EXTINF:60,Dubai Sports 3
-#EXTVLCOPT:network-caching=1000
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
-
-#EXTINF:-1,Sky Sport F1
-#EXTVLCOPT:network-caching=1000
-http://viphlvp.xyz:8080/VIP017091755351711557/9ba665db60c6/135435
-#EXTINF:-1,Sky Sport Racing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/live/q8KuDU/354945/76842.ts
-#EXTINF:-1, SkySportsPremiereLeague
-#EXTVLCOPT:network-caching=1000
-http://viphlvp.xyz:8080/VIP017091755351711557/9ba665db60c6/135439
-
-
-#EXTINF:-1, DAZN 1
-#EXTVLCOPT:network-caching=1000
-http://viptwso.top:8080//VIP01545171425617373/ca75a1a2314d/128935
-#EXTINF:-1, DAZN 2
-#EXTVLCOPT:network-caching=1000
-http://viptwso.top:8080//VIP01545171425617373/ca75a1a2314d/248
-#EXTINF:-1, DAZN 3
-#EXTVLCOPT:network-caching=1000
-http://viptwso.top:8080//VIP01545171425617373/ca75a1a2314d/249
-#EXTINF:-1,=========================================== sports ===============================================
-===========================================%20sports%20===============================================
-#EXTINF:-1, BEIN 1 Arab
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
-#EXTINF:-1, BEIN 2 Arab
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142756
-#EXTINF:-1, BEIN 3 Arab
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142757
-#EXTINF:-1, BEIN 4 Arab
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142758
-#EXTINF:-1, BEIN 5 Arab
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142759
-#EXTINF:-1, BEIN 6 Arab
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142760
-#EXTINF:-1, BEIN 7 Arab
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142761
-#EXTINF:-1, BEIN 8 Arab
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
-#EXTINF:-1, BEIN 9 Arab
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
-
-
-
-#EXTINF:-1 ,<=== Special-1 ===>
-http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=311683&extension=ts
-http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
-
-#EXTINF:-1 group-title="Sports กีฬา",🏁 F1
-#EXTVLCOPT:network-caching=1000
-http://66.90.99.154:8278/tiankongf1/playlist.m3u8?tid=MFFF3610076936100769&ct=20361&tsum=c3de2703077fe3e4f3c728f6c9ff7ac2
-#EXTINF:-1 group-title="Sports กีฬา",🏁 F1
-#EXTVLCOPT:network-caching=1000
-http://66.90.99.154:8278/tiankongf1/playlist.m3u8?tid=MFBF2228820822288208&ct=20364&tsum=aa32d6a8fe45bb312ea5f8652ab55bef
-
-#EXTINF:-1 group-title="Sports กีฬา",🏀 NBA TV 1
-http://panel.sulu1.cc:2052/travis1/travis1/15223
-#EXTINF:-1 group-title="Sports กีฬา",🏀 NBA TV 2
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/212280
-#EXTINF:-1 group-title="Sports กีฬา",🏀 NBA TV 3
-http://vpn.modetv.ink:80/play/live.php?mac=00:1A:79:B4:AF:2D&stream=1000006&extension=ts&play_token=SBUpKymbXE
-https://ww.dooballfree.vip/live/nba/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports กีฬา",🏈 NFL ESPN
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=173531&extension=ts
-#EXTINF:-1 group-title="Sports กีฬา",🏈 NFL Bein
-http://43.229.79.245:8080/live/MPLFREE/000000/159011.m3u8
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=9383&extension=ts
-
-#EXTINF:-1 group-title="Sports กีฬา",🎾 Tennis Channel
-http://212.102.60.231/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",🎾Tennis Channel 2
-https://tinyurl.com/ytk5xhvu
-
-#EXTINF:-1 group-title="Sports กีฬา",🏌️‍♂️Sky Sport Golf
-http://fortv.cc:8080/live/q8KuDU/354945/35240.ts
-#EXTINF:-1 group-title="Sports กีฬา",🏌️‍♂️Golf NBC
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/267757
-#EXTINF:-1 group-title="Sports กีฬา",🏌️‍PGA Tour
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac630-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2b7359-0375-4f34-996b-4fb9429ead78
-
-#EXTINF:-1 group-title="Sports กีฬา",Eurosport 1
-http://89.44.229.22:7000/eurosport
-#EXTINF:-1 group-title="Sports กีฬา",Eurosport 2
-http://185.189.225.157/EuroSport2/index.m3u8
-
-
-#EXTM3U
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",===ดิจิตอลทีวี===
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/BeritaSelatan/Th/refs/heads/main/%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B9%84%E0%B8%A1
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
 #EXTINF:60 group-title="Digital ดิจิตอลทีวี",News1
 #EXTVLCOPT:network-caching=1000
@@ -405,6 +44,7 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",PPTV HD
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186560&extension=ts
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT HD
 #EXTVLCOPT:network-caching=1000
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
@@ -501,7 +141,6 @@ https://server1.streamssl.com/stream/news1_mid.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
 
-
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",CH7
 #EXTVLCOPT:network-caching=1000
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
@@ -509,16 +148,59 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
 
+
+#EXTINF:-1,<==== entertainment ====>
+file:///C:/Users/WIN10/Downloads/%3C===================%20HBO%20===================%3E
+
+#EXTINF:-1 group-title="Entertainment บันเทิง",,มิสเตอร์บีน
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment บันเทิง",AMAZING
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://49.0.64.96:8007/AMAZING
+
+#EXTINF:-1 group-title="Entertainment บันเทิง",Gags
+https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment บันเทิง",,HBO+ FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32934
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 2 FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32930
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO XTREME FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32945
+
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 1 ca
+http://xxip25.top:8080/n7NX45/216258/57437
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 2 ca
+http://xxip25.top:8080/n7NX45/216258/57438
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO East us
+http://xxip25.top:8080/n7NX45/216258/46713
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 1 us
+http://xxip25.top:8080/n7NX45/216258/9264
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 2 us
+http://xxip25.top:8080/n7NX45/216258/9816
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Comedy (East) us 
+http://xxip25.top:8080/n7NX45/216258/17773
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Family (East) us
+http://xxip25.top:8080/n7NX45/216258/17772
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO SIGNATURE (East) us
+http://xxip25.top:8080/n7NX45/216258/9266
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Zone (East) us
+http://xxip25.top:8080/n7NX45/216258/9265
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO HD br
+http://xxip25.top:8080/n7NX45/216258/164950
+
+#EXTINF:-1 group-title="Entertainment บันเทิง",IZAA MOVIE
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/IZAA
+#EXTINF:-1 group-title="Entertainment บันเทิง",Series
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/SERIES
+
+
 #EXTINF:-1,<=== การ์ตูน ====>
 http://49.0.64.96:8007/Cartoonumi
 
-#EXTINF:-1 group-title="Cartoon การ์ตูน",AMAZING
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://49.0.64.96:8007/AMAZING
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Gags
-https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Cartoon การ์ตูน",มิสเตอร์บีน
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Boomerang
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
@@ -531,24 +213,18 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 https://nfsnew.newkso.ru/nfs/premium339/mono.m3u8
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.
-http://live3.inwstream.com:1936/transcoder_F1/nickjr_inwiptv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeonhttp://panel.sulu1.cc:2052/travis1/travis1/3237
-
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Nicktoons 
-http://panel.sulu1.cc:2052/travis1/travis1/3234
-
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoonito
-http://panel.sulu1.cc:2052/travis1/travis1/1125
+https://fl41.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="Cartoon การ์ตูน",NickToon
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Disney Channel
-http://212.102.60.231/DISNEY/index.m3u8
-
+http://xxip25.top:8080/7686199/9576982/2206
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Disney Junior 
 http://116.90.120.149:8000/play/a0b3/index.m3u8
-
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Disney International 
-https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Disney XD
+http://xxip25.top:8080/7686199/9576982/57420
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon
 http://49.0.64.96:8007/Cartoonumi
@@ -558,8 +234,6 @@ https://amg00627-amg00627c23-samsung-th-5282.playouts.now.amagi.tv/playlist.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Baby Shark TV
 https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Cinebox: Animation
-http://1tv41.icu:8080/ahx4CN/815233/119420
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Shaun the Sheep & Friends
 https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Moonbug
@@ -662,109 +336,81 @@ http://panel.sulu1.cc:2052/travis1/travis1/90082
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 12
 http://panel.sulu1.cc:2052/travis1/travis1/90083
 
-#EXTINF:-1,<==== entertainment ====>
-file:///C:/Users/WIN10/Downloads/%3C===================%20HBO%20===================%3E
-#EXTINF:0,HBO+ FHD
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32934
-#EXTINF:0,HBO 2 FHD
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32930
-#EXTINF:0,HBO XTREME FHD
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32945
-
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 1 ca
-http://xxip25.top:8080/n7NX45/216258/57437
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 2 ca
-http://xxip25.top:8080/n7NX45/216258/57438
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO East us
-http://xxip25.top:8080/n7NX45/216258/46713
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 1 us
-http://xxip25.top:8080/n7NX45/216258/9264
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 2 us
-http://xxip25.top:8080/n7NX45/216258/9816
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Comedy (East) us 
-http://xxip25.top:8080/n7NX45/216258/17773
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Family (East) us
-http://xxip25.top:8080/n7NX45/216258/17772
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO SIGNATURE (East) us
-http://xxip25.top:8080/n7NX45/216258/9266
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Zone (East) us
-http://xxip25.top:8080/n7NX45/216258/9265
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO HD br
-http://xxip25.top:8080/n7NX45/216258/164950
-
-
-#EXTINF:-1 group-title="Entertainment บันเทิง",IZAA MOVIE
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://49.0.64.96:8007/IZAA
-#EXTINF:-1 group-title="Entertainment บันเทิง",Series
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://49.0.64.96:8007/SERIES
 
 #EXTINF:-1,<===เพลง====>
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment บันเทิง",MTV USA
+#EXTINF:-1 group-title="Music เพลง",MTV USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://nfsnew.newkso.ru/nfs/premium371/mono.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo '70s
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo '80s
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo '90s
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo 2K
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo Retro Rock
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo Pop
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo R&B
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo True School Hip-Hop
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง",Vevo Country
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง",MTV BIGGEST POP
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง",MTV SPANKIN NEW
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง",MTV ROCKS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624303598e45140007d765c1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง",MTV FLOW LATINO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment บันเทิง",MTV 90's
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-title="Music เพลง",Vevo '70s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8
+#EXTINF:-1 group-title="Music เพลง",Vevo '80s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8
+#EXTINF:-1 group-title="Music เพลง",Vevo '90s
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8
+#EXTINF:-1 group-title="Music เพลง",Vevo 2K
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8
+#EXTINF:-1 group-title="Music เพลง",Vevo Retro Rock
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8
+#EXTINF:-1 group-title="Music เพลง",Vevo Pop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8
+#EXTINF:-1 group-title="Music เพลง",Vevo R&B
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8
+#EXTINF:-1 group-title="Music เพลง",Vevo True School Hip-Hop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8
+#EXTINF:-1 group-title="Music เพลง",Vevo Country
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8
+#EXTINF:-1 group-title="Music เพลง",MTV BIGGEST POP
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8
+#EXTINF:-1 group-title="Music เพลง",MTV SPANKIN NEW
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8
+#EXTINF:-1 group-title="Music เพลง",MTV ROCKS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624303598e45140007d765c1/master.m3u8
+#EXTINF:-1 group-title="Music เพลง",MTV FLOW LATINO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8
+#EXTINF:-1 group-title="Music เพลง",MTV 90's
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
-#EXTINF:-1 group-title="Entertainment บันเทิง",MTV Live HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-title="Music เพลง",MTV Live HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
-#EXTINF:-1 group-title="Entertainment บันเทิง",Now Rock
+#EXTINF:-1 group-title="Music เพลง",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง",Now 70s
+#EXTINF:-1 group-title="Music เพลง",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง",Now 80's
+#EXTINF:-1 group-title="Music เพลง",Now 80's
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง",Show Champion
+#EXTINF:-1 group-title="Music เพลง",Show Champion
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
-#EXTINF:-1 group-title="Entertainment บันเทิง",Trace UK
+#EXTINF:-1 group-title="Music เพลง",Trace UK
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง",Trace Urban
+#EXTINF:-1 group-title="Music เพลง",Trace Urban
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง",YG TV
+#EXTINF:-1 group-title="Music เพลง",YG TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=424
-#EXTINF:-1 group-title="Entertainment บันเทิง",new K-POP
+#EXTINF:-1 group-title="Music เพลง",new K-POP
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง",Spirit TV
+#EXTINF:-1 group-title="Music เพลง",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
 
 #EXTINF:-1,<=== สารคดี ====>
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 
-#EXTINF:-1 group-title="Documentary สารคดี",Discovery
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186438&extension=ts
+#EXTINF:-1 group-title="Documentary สารคดี",Discovery Channel
+http://xxip25.top:8080/7686199/9576982/57252
+#EXTINF:-1 group-title="Documentary สารคดี",Discovery Science1
+http://xxip25.top:8080/7686199/9576982/57418
+#EXTINF:-1 group-title="Documentary สารคดี",Discovery Science2
+http://xxip25.top:8080/7686199/9576982/53695
+
 #EXTINF:-1 group-title="Documentary สารคดี",History
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186511&extension=ts
+#EXTINF:-1 group-title="Documentary สารคดี",History(ca)
+http://xxip25.top:8080/7686199/9576982/47302
+#EXTINF:-1 group-title="Documentary สารคดี",History(us)
+http://xxip25.top:8080/7686199/9576982/46724
+
 #EXTINF:-1 group-title="Documentary สารคดี",Animal
 http://49.0.64.96:8007/Animal
 #EXTINF:-1 group-title="Documentary สารคดี",SCIENCE
@@ -802,6 +448,7 @@ https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 https://fl25.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="News ข่าว",CNBC Europe HD 
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+
 
 #EXTINF:-1,<===ช่องกีฬาทั่วไป===>
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -876,3 +523,79 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ee
 #EXTINF:-1 group-title="Sports กีฬา",JUST FISHING
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
+
+
+#EXTINF:-1 ,<===⚽ฟุตบอล===>
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/81359
+https://pepsi.abntv.live/hls/4spstream.m3u8
+http://ott.watch/stream/D3FX33QMIH1/313.m3u8
+
+#EXTINF:-1 group-title="Sports กีฬา",4Sports
+https://pepsi.abntv.live/hls/4spstream.m3u8
+
+#EXTINF:-1 group-title="Sports กีฬา",Sports1
+https://dl.dropbox.com/scl/fi/w7g1je6ged2ce1ew3xcqm/live4.m3u8?rlkey=7c7579wsd3hbg1lrzmt499wjv&st=fnx949vr&dl=0
+
+#EXTINF:-1 group-title="Sports กีฬา",Sports2
+http://145.239.5.177:80/566/index.m3u8
+
+#EXTINF:-1 group-title="Sports กีฬา",Sports3
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117203
+http://dmtn-tv.com:8080/6323fza503/xzFMrVcwrw/687272
+
+#EXTINF:-1 group-title="Sports กีฬา",Setanta Sports 1 Georgia
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 group-title="Sports กีฬา",Setanta Sports Ukraine HD
+http://ott.watch/stream/D3FX33QMIH1/313.m3u8
+
+#EXTINF:-1 group-title="Sports กีฬา",SuperSport Football
+http://145.239.5.177/564/index.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",SuperSport PSL
+http://145.239.5.177/562/index.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",ES: LIGA DE CAMPEONES SD
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165359.ts
+ 
+
+#EXTINF:60 group-title="Sports กีฬา",Now Sports 1
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112207.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",Now Sports 2
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112206.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",Now Sports 3
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112205.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",Now Sports 4
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112204.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",Now Sports 5
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112203.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",Now Sports 6
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112202.m3u8
+#EXTINF:-1 group-title="Sports กีฬา",Now Sports 7
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112201.m3u8
+
+#EXTINF:-1 group-title="Sports กีฬา",BEIN 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
+
+#EXTINF:-1 group-title="Sports กีฬา",BEIN 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142756
+
+#EXTINF:-1 group-title="Sports กีฬา",BEIN 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142757
+
+#EXTINF:-1 group-title="Sports กีฬา",BEIN 4
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142758
+
+#EXTINF:-1 group-title="Sports กีฬา",BEIN 5
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142759
+
+#EXTINF:-1 group-title="Sports กีฬา",BEIN 6
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142760
+
+#EXTINF:-1 group-title="Sports กีฬา",BEIN 7
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142761
+
+#EXTINF:-1 group-title="Sports กีฬา",BEIN 8
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
+
+#EXTINF:-1 group-title="Sports กีฬา",BEIN 9
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
+
