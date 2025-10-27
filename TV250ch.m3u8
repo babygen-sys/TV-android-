@@ -525,75 +525,91 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
 
 
-#EXTINF:-1 ,⚽🏁🏈🎾🏌️‍♂️Special sports1===>
+#EXTINF:-1 ,⚽🏁🏈🎾🏌️‍♂️Special sports 1===>
 #EXTVLCOPT:network-caching=1000
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/81359
 https://pepsi.abntv.live/hls/4spstream.m3u8
 http://ott.watch/stream/D3FX33QMIH1/313.m3u8
 
-#EXTINF:-1 group-title="Special sports1",4Sports
+#EXTINF:-1 group-title="Special sports",4Sports
 https://pepsi.abntv.live/hls/4spstream.m3u8
 
-#EXTINF:-1 group-title="Special sports1",Sports1
+#EXTINF:-1 group-title="Special sports",Sports1
 https://dl.dropbox.com/scl/fi/w7g1je6ged2ce1ew3xcqm/live4.m3u8?rlkey=7c7579wsd3hbg1lrzmt499wjv&st=fnx949vr&dl=0
 
-#EXTINF:-1 group-title="Special sports1",Sports2
+#EXTINF:-1 group-title="Special sports",Sports2
 http://145.239.5.177:80/566/index.m3u8
 
-#EXTINF:-1 group-title="Special sports1",Sports3
+#EXTINF:-1 group-title="Special sports",Sports3
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117203
 http://dmtn-tv.com:8080/6323fza503/xzFMrVcwrw/687272
 
-#EXTINF:-1 group-title="Special sports1",Setanta Sports 1 Georgia
+#EXTINF:-1 group-title="Special sports",Setanta Sports 1 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 group-title="Special sports1",Setanta Sports Ukraine HD
 http://ott.watch/stream/D3FX33QMIH1/313.m3u8
 
-#EXTINF:-1 group-title="Special sports1",SuperSport Football
+#EXTINF:-1 group-title="Special sports",SuperSport Football
 http://145.239.5.177/564/index.m3u8
-#EXTINF:-1 group-title="Special sports1",SuperSport PSL
+#EXTINF:-1 group-title="Special sports",SuperSport PSL
 http://145.239.5.177/562/index.m3u8
-#EXTINF:-1 group-title="Special sports1",ES: LIGA DE CAMPEONES SD
+#EXTINF:-1 group-title="Special sports",ES: LIGA DE CAMPEONES SD
 http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165359.ts
 
-#EXTINF:60 group-title="Special sports1",Now Sports 1
+#EXTINF:60 group-title="Special sports",Now Sports 1
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112207.m3u8
-#EXTINF:-1 group-title="Special sports1",Now Sports 2
+#EXTINF:-1 group-title="Special sports",Now Sports 2
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112206.m3u8
-#EXTINF:-1 group-title="Special sports1",Now Sports 3
+#EXTINF:-1 group-title="Special sports",Now Sports 3
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112205.m3u8
-#EXTINF:-1 group-title="Special sports1",Now Sports 4
+#EXTINF:-1 group-title="Special sports",Now Sports 4
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112204.m3u8
-#EXTINF:-1 group-title="Special sports1",Now Sports 5
+#EXTINF:-1 group-title="Special sports",Now Sports 5
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112203.m3u8
-#EXTINF:-1 group-title="Special sports1",Now Sports 6
+#EXTINF:-1 group-title="Special sports",Now Sports 6
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112202.m3u8
-#EXTINF:-1 group-title="Special sports1",Now Sports 7
+#EXTINF:-1 group-title="Special sports",Now Sports 7
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112201.m3u8
 
-#EXTINF:-1 group-title="Special sports1",BEIN 1
+#EXTINF:-1 group-title="Special sports",BEIN 1
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 
-#EXTINF:-1 group-title="Special sports1",BEIN 2
+#EXTINF:-1 group-title="Special sports",BEIN 2
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142756
 
-#EXTINF:-1 group-title="Special sports1",BEIN 3
+#EXTINF:-1 group-title="Special sports",BEIN 3
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142757
 
-#EXTINF:-1 group-title="Special sports1",BEIN 4
+#EXTINF:-1 group-title="Special sports",BEIN 4
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142758
 
-#EXTINF:-1 group-title="Special sports1",BEIN 5
+#EXTINF:-1 group-title="Special sports",BEIN 5
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142759
 
-#EXTINF:-1 group-title="Special sports1",BEIN 6
+#EXTINF:-1 group-title="Special sports",BEIN 6
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142760
 
-#EXTINF:-1 group-title="Special sports1",BEIN 7
+#EXTINF:-1 group-title="Special sports",BEIN 7
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142761
 
-#EXTINF:-1 group-title="Special sports1",BEIN 8
+#EXTINF:-1 group-title="Special sports",BEIN 8
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
 
-#EXTINF:-1 group-title="Special sports1",BEIN 9
+#EXTINF:-1 group-title="Special sports",BEIN 9
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
+
+
+#EXTINF:-1 group-title="SPORTS | DSTV SUPER" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I26.png?width=50" tvg-id="espn.za" ,DSTV: ESPN
+http://livebox.pro/565trail724/6655447788/23369
+
+#EXTINF:-1 group-title="SPORTS | DSTV SUPER" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SDN.png" tvg-id="espn2.za" ,DSTV: ESPN2
+http://livebox.pro/565trail724/6655447788/120871
+
+#EXTINF:-1 group-title="SPORTS | DSTV SUPER (FHD)" ,|NG| ESPN
+http://livebox.pro/565trail724/6655447788/170666
+#EXTINF:-1 group-title="SPORTS | DSTV SUPER (FHD)" ,|NG| ESPN2
+http://livebox.pro/565trail724/6655447788/170667
+
+
+#EXTINF:-1 group-title="SPORTS | DSTV SUPER (FHD)" ,|NG| WWE Channel
+http://livebox.pro/565trail724/6655447788/171934
