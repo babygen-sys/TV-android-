@@ -547,7 +547,7 @@ http://dmtn-tv.com:8080/6323fza503/xzFMrVcwrw/687272
 
 #EXTINF:-1 group-title="Special sports",Setanta Sports 1 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 group-title="Special sports1",Setanta Sports Ukraine HD
+#EXTINF:-1 group-title="Special sports",Setanta Sports Ukraine HD
 http://ott.watch/stream/D3FX33QMIH1/313.m3u8
 
 #EXTINF:-1 group-title="Special sports",SuperSport Football
@@ -600,17 +600,16 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
 
 
-#EXTINF:-1 group-title="SPORTS | DSTV SUPER" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I26.png?width=50" tvg-id="espn.za" ,DSTV: ESPN
+#EXTINF:-1 group-title="Special sports" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I26.png?width=50" tvg-id="espn.za" ,DSTV: ESPN
 http://livebox.pro/565trail724/6655447788/23369
 
-#EXTINF:-1 group-title="SPORTS | DSTV SUPER" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SDN.png" tvg-id="espn2.za" ,DSTV: ESPN2
+#EXTINF:-1 group-title="Special sports" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SDN.png" tvg-id="espn2.za" ,DSTV: ESPN2
 http://livebox.pro/565trail724/6655447788/120871
 
-#EXTINF:-1 group-title="SPORTS | DSTV SUPER (FHD)" ,|NG| ESPN
+#EXTINF:-1 group-title="Special sports",|NG| ESPN
 http://livebox.pro/565trail724/6655447788/170666
-#EXTINF:-1 group-title="SPORTS | DSTV SUPER (FHD)" ,|NG| ESPN2
+#EXTINF:-1 group-title="Special sports",|NG| ESPN2
 http://livebox.pro/565trail724/6655447788/170667
 
-
-#EXTINF:-1 group-title="SPORTS | DSTV SUPER (FHD)" ,|NG| WWE Channel
+#EXTINF:-1 group-title="Special sports",|NG| WWE Channel
 http://livebox.pro/565trail724/6655447788/171934
