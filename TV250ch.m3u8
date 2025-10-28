@@ -632,6 +632,9 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 https://pepsi.abntv.live/hls/4spstream.m3u8
 http://ott.watch/stream/D3FX33QMIH1/313.m3u8
 
+#EXTINF:-1 group-title="Special sports",🏁 F1
+http://66.90.99.154:8278/tiankongf1/playlist.m3u8?tid=MFFF3610076936100769&ct=20361&tsum=c3de2703077fe3e4f3c728f6c9ff7ac2
+
 #EXTINF:-1 group-title="Special sports",4Sports
 https://pepsi.abntv.live/hls/4spstream.m3u8
 
