@@ -43,11 +43,7 @@ https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",PPTV HD
 #EXTVLCOPT:network-caching=1000
-https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186560&extension=ts
-#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT HD
-#EXTVLCOPT:network-caching=1000
-https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",ALTV
 #EXTVLCOPT:network-caching=1000
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
@@ -59,6 +55,9 @@ https://bcovlive-a.akamaihd.net/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/
 #EXTVLCOPT:network-caching=1000
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
 
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT HD
+#EXTVLCOPT:network-caching=1000
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
 #EXTINF:-1 group-title="Digital ดิจิตอลทีวี",NBT ภาคกลาง
 #EXTVLCOPT:network-caching=1000
 https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8
@@ -148,11 +147,42 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
 
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 7
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 8
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 9
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 10
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 11
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 12
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 13
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 14
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 group-title="Digital ดิจิตอลทีวี",DLTV 15
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 #EXTINF:-1,<==== entertainment ====>
 file:///C:/Users/WIN10/Downloads/%3C===================%20HBO%20===================%3E
 
-#EXTINF:-1 group-title="Entertainment บันเทิง",,มิสเตอร์บีน
+#EXTINF:-1 group-title="Entertainment บันเทิง",มิสเตอร์บีน
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment บันเทิง",AMAZING
@@ -162,7 +192,7 @@ http://49.0.64.96:8007/AMAZING
 #EXTINF:-1 group-title="Entertainment บันเทิง",Gags
 https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment บันเทิง",,HBO+ FHD
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO+ FHD
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32934
 #EXTINF:-1 group-title="Entertainment บันเทิง",HBO 2 FHD
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32930
@@ -212,6 +242,9 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 #EXTVLCOPT:network-caching=1000
 https://nfsnew.newkso.ru/nfs/premium339/mono.m3u8
 
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon Network Japan
+https://ca01.utako.moe/cartoon_network/index.m3u8
+
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.
 https://fl41.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon
@@ -226,6 +259,8 @@ http://xxip25.top:8080/7686199/9576982/2206
 http://116.90.120.149:8000/play/a0b3/index.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Disney XD
 http://xxip25.top:8080/7686199/9576982/57420
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Disney Channel
+https://ca01.utako.moe/disneychan/index.m3u8
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon
 http://49.0.64.96:8007/Cartoonumi
@@ -241,7 +276,6 @@ https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS TV
 https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
-
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -338,61 +372,118 @@ http://panel.sulu1.cc:2052/travis1/travis1/90082
 http://panel.sulu1.cc:2052/travis1/travis1/90083
 
 
-#EXTINF:-1,<===เพลง====>
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/128/9280/9280598.png" group-title="MUSIC",==========MUSIC==========
+https://fl3.moveonjoy.com/MUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://8upload.com/image/68553fc819866/kpopplushilay.png" group-title="MUSIC",KPOP+
+https://maldivesn.net/hilaytv/kpopplus
 
-#EXTINF:-1 group-title="Music เพลง",MTV USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://nfsnew.newkso.ru/nfs/premium371/mono.m3u8
-#EXTINF:-1 group-title="Music เพลง",Vevo '70s
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8
-#EXTINF:-1 group-title="Music เพลง",Vevo '80s
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8
-#EXTINF:-1 group-title="Music เพลง",Vevo '90s
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8
-#EXTINF:-1 group-title="Music เพลง",Vevo 2K
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8
-#EXTINF:-1 group-title="Music เพลง",Vevo Retro Rock
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8
-#EXTINF:-1 group-title="Music เพลง",Vevo Pop
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8
-#EXTINF:-1 group-title="Music เพลง",Vevo R&B
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8
-#EXTINF:-1 group-title="Music เพลง",Vevo True School Hip-Hop
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8
-#EXTINF:-1 group-title="Music เพลง",Vevo Country
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8
-#EXTINF:-1 group-title="Music เพลง",MTV BIGGEST POP
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8
-#EXTINF:-1 group-title="Music เพลง",MTV SPANKIN NEW
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8
-#EXTINF:-1 group-title="Music เพลง",MTV ROCKS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624303598e45140007d765c1/master.m3u8
-#EXTINF:-1 group-title="Music เพลง",MTV FLOW LATINO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8
-#EXTINF:-1 group-title="Music เพลง",MTV 90's
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
-#EXTINF:-1 group-title="Music เพลง",MTV Live HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
-#EXTINF:-1 group-title="Music เพลง",Now Rock
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music เพลง",Now 70s
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music เพลง",Now 80's
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music เพลง",Show Champion
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
-#EXTINF:-1 group-title="Music เพลง",Trace UK
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
-#EXTINF:-1 group-title="Music เพลง",Trace Urban
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
-#EXTINF:-1 group-title="Music เพลง",YG TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=424
-#EXTINF:-1 group-title="Music เพลง",new K-POP
-https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music เพลง",Spirit TV
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png" group-title="MUSIC",K-POP by CJ ENM
+https://jmp2.uk/stvp-US39000038W
+
+#EXTINF:-1 tvg-logo="https://www.opp.no/applefavicon.png" group-title="MUSIC",IMTV
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",CMC
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66866fc995e91900088768a5/colorLogoPNG.png" group-title="MUSIC",MTV Biggest Pop
+https://jmp2.uk/plu-66866fc995e91900088768a5.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/571px-M6_logo.svg.png" group-title="MUSIC",M6
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png" group-title="MUSIC",XITE 80s Flashback
+https://jmp2.uk/stvp-USBB320000647
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png" group-title="MUSIC",XITE 90s Throwback
+https://jmp2.uk/stvp-USBB3200007AK
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20250121T101057SQUARE.png" group-title="MUSIC",XITE Celebrates
+https://jmp2.uk/stvp-USBD350003932
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" group-title="MUSIC",XITE Hits
+https://jmp2.uk/stvp-USBD3300004RH
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="MUSIC",XITE Rock x Metal
+https://jmp2.uk/stvp-USBB2300004KV
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="MUSIC",Vevo '70s & '80s
+https://jmp2.uk/stvp-GBBD1900009UD
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="MUSIC",Vevo '90s & '00s
+https://jmp2.uk/stvp-GBBC2100002HP
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20241112T001845SQUARE.png" group-title="MUSIC",Vevo 2K
+https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="MUSIC",Vevo Hip Hop & R&B
+https://jmp2.uk/stvp-GBBD2300001C0
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" group-title="MUSIC",Vevo Pop
+https://jmp2.uk/stvp-GBBC19000017V
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20250602T231528SQUARE.png" group-title="MUSIC",Vevo Rock
+https://jmp2.uk/stvp-USBD3000145P
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="MUSIC",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="MUSIC",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993046/400x225.jpg?type=channelTile" group-title="MUSIC",Movie Music By Stingray
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="MUSIC",Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20250121T101157SQUARE.png" group-title="MUSIC",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="MUSIC",Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="MUSIC",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xVVKH8.png" group-title="MUSIC",Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="MUSIC",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title="MUSIC",Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="MUSIC",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="MUSIC",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="MUSIC",Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="MUSIC",Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="MUSIC",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20250121T101219SQUARE.png" group-title="MUSIC",Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="MUSIC",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="MUSIC",Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ywAN923.png" group-title="MUSIC",Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="MUSIC",Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="MUSIC",Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="MUSIC",Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC",J.E.K.A. Muzzik (720p)
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",MUZZIK (720p)
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Muzzik ELECTRO (720p)
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Muzzik FLASHBACK (720p)
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Muzzik MOBA (720p)
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Muzzik POP STAR (720p)
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Muzzik Rock&Roll (720p)
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Muzzik SENSE (720p)
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Muzzik TIKTAK (720p)
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Muzzik ZZ TV (720p)
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Senato TV (1080p)
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",Worldwide Muzzik (720p)
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 
 
 #EXTINF:-1,<=== สารคดี ====>
@@ -416,6 +507,15 @@ http://xxip25.top:8080/7686199/9576982/46724
 http://49.0.64.96:8007/Animal
 #EXTINF:-1 group-title="Documentary สารคดี",SCIENCE
 http://49.0.64.96:8007/WSCI
+
+#EXTINF:-1 group-title="Documentary สารคดี",CGTN 
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+
+#EXTINF:-1 group-title="Documentary สารคดี",RT
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary สารคดี",Smithsonian Channel
+https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 
 
 #EXTINF:-1,<=== NEWS ===>
@@ -644,3 +744,5 @@ https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playl
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 group-title="Special sports",HIFIGHT
 http://49.0.64.96:8007/HIFIGHT
+#EXTINF:-1 group-title="Special sports",Fighting TV Samurai
+https://ca01.utako.moe/fighting_tv/index.m3u8
