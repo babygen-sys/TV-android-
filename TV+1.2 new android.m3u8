@@ -632,6 +632,9 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 https://pepsi.abntv.live/hls/4spstream.m3u8
 http://ott.watch/stream/D3FX33QMIH1/313.m3u8
 
+#EXTINF:-1 group-title="Special sports",🏁 F1
+http://66.90.99.154:8278/tiankongf1/playlist.m3u8?tid=MFFF3610076936100769&ct=20361&tsum=c3de2703077fe3e4f3c728f6c9ff7ac2
+
 #EXTINF:-1 group-title="Special sports",4Sports
 https://pepsi.abntv.live/hls/4spstream.m3u8
 
@@ -785,13 +788,13 @@ http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34638
 #EXTINF:-1 group-title="Special sports",SPOTV VIP-2
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34663
 
-#EXTINF:-1 group-title="Special sports",🏁 DAZN F1
+#EXTINF:-1 group-title="Special sports",🏁 F1
 http://tv.zapping.life:8080/Maximo003/dNyY9k8v4N/94466
 #EXTINF:-1 group-title="Special sports",🏁 Foxsport505
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=76210&extension=ts
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Zy6ODEg.png?v=1.0.0.1" group-title="Special sports",🏀 NBA TV 1
-http://panel.sulu1.cc:2052/travis1/travis1/15223
+https://ww.dooballfree.vip/live/nba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Zy6ODEg.png?v=1.0.0.1" group-title="Special sports",🏀 NBA TV 2
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/212280
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Zy6ODEg.png?v=1.0.0.1" group-title="Special sports",🏀 NBA TV 3
@@ -807,6 +810,7 @@ http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=173531&extension=ts
 #EXTINF:-1 group-title="Special sports",🏈 NFL us
 http://45.144.165.187:8080/playid168/12345/23039
+https://ww.dooballfree.vip/live/nfl/playlist.m3u8
 #EXTINF:-1 group-title="Special sports",🏈 NFL Bein
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=9383&extension=ts
 #EXTINF:-1 group-title="Special sports",🏈 NFL sky
@@ -823,6 +827,13 @@ https://fl25.moveonjoy.com/GOLF/index.m3u8
 #EXTINF:-1 group-title="Special sports",🏌️‍♂️Golf Channel 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186500&extension=ts
 
+#EXTINF:-1 group-title="Special sports",🏸badminton Channel
+http://66.90.99.154:8278/go_badminton1/playlist.m3u8?tid=MC7C3275817832758178&ct=20361&tsum=c722c3df5aaa869b7d796ef922796707
+#EXTINF:-1 group-title="Special sports",Arena1
+http://66.90.99.154:8278/Arena/playlist.m3u8?tid=MB4B6468719464687194&ct=20361&tsum=148653608817408a9edaa77d5a6e8bff
+
+#EXTINF:-1 group-title="Special sports",Arena2
+http://66.90.99.154:8278/Arena2/playlist.m3u8?tid=MEAE5406066854060668&ct=20361&tsum=304cc27fa38b36bbc26ba830334cbbc4
 
 #EXTINF:-1,<===🍿🍿🍿Premium entertainment===>
 http://103.114.203.129:8080/ott168/ott168/81
@@ -1524,19 +1535,6 @@ http://b1g.uk/200/230/848710
 http://b1g.uk/200/230/709252
 
 
-#EXTINF:-1,===J-Sports===
-https://mt01.utako.moe/js3/index.m3u8
-
-#EXTINF:-1  group-title="Premium sports 1",JSport 1
-https://mt01.utako.moe/js1/index.m3u8
-#EXTINF:-1 group-title="Premium sports 1",JSport 2
-https://mt01.utako.moe/js2/index.m3u8
-#EXTINF:-1 group-title="Premium sports 1",JSport 3
-https://mt01.utako.moe/js3/index.m3u8
-#EXTINF:-1 group-title="Premium sports 1",JSport 4
-https://mt01.utako.moe/js4/index.m3u8
-
-
 #EXTINF:-1,===DIGI Sports===
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:network-caching=1000
@@ -1945,6 +1943,7 @@ https://ww.dooballfree.vip/live/spotv2/playlist.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live1 NFL🏈🏈🏈
 http://45.144.165.187:8080/playid168/12345/23039
+https://ww.dooballfree.vip/live/nfl/playlist.m3u8
 
 #EXTINF:24 group-title="Live Sport",Live2
 https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/lx-origin/th-aislive51_720/chunks.m3u8
@@ -1987,30 +1986,41 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186533&extension=
 https://raw.githubusercontent.com/BeritaSelatan
 
 #EXTINF:-1 group-title="Live Sport",sports 1
+https://ww.dooballfree.vip/live/tsp1/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport",sports 1
 http://45.144.165.187:8080/playid168/12345/18904
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-https://ww.dooballfree.vip/live/tsp1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live Sport",sports 2
+https://ww.dooballfree.vip/live/tsp2/playlist.m3u8
 #EXTINF:-1 group-title="Live Sport",sports 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186593&extension=ts
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
 
-https://ww.dooballfree.vip/live/tsp2/playlist.m3u8
+#EXTINF:-1 group-title="Live Sport",sports 3
+https://ww.dooballfree.vip/live/tsp3/playlist.m3u8
 #EXTINF:-1 group-title="Live Sport",sports 3
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186602&extension=ts
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-https://ww.dooballfree.vip/live/tsp3/playlist.m3u8
+
+#EXTINF:-1 group-title="Live Sport",sports 4
+https://ww.dooballfree.vip/live/tsp4/playlist.m3u8
 #EXTINF:-1 group-title="Live Sport",sports 4
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-https://ww.dooballfree.vip/live/tsp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Live Sport",sports 5
+https://ww.dooballfree.vip/live/tsp5/playlist.m3u8
 #EXTINF:-1 group-title="Live Sport",sports 5
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186596&extension=ts
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
 #EXTVLCOPT:http-user-agent=ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
-https://ww.dooballfree.vip/live/tsp5/playlist.m3u8
+
+#EXTINF:-1 group-title="Live Sport",sports 7
+https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
 #EXTINF:-1 group-title="Live Sport",sports 7
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186597&extension=ts
 #EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
