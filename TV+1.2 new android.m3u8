@@ -1260,11 +1260,10 @@ https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extension=ts&play_token=n1KBSwudMQ
 
 
-
 #EXTINF:-1,===Setanta Sports===
 http://panel.sulu1.cc:2052/travis1/travis1/14152
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsrPjvNB/download-5.jpg" group-title="Premium sports 1",tvg-logo=https://i.postimg.cc/SsrPjvNB/download-5.jpg,Setanta Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsrPjvNB/download-5.jpg" group-title="Premium sports 1",Setanta Sports 1 HD
 http://ott.watch/stream/D3FX33QMIH1/234.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsrPjvNB/download-5.jpg" group-title="Premium sports 1",tvg-logo=https://i.postimg.cc/SsrPjvNB/download-5.jpg,Setanta Sports 2 HD
