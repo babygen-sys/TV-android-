@@ -227,6 +227,38 @@ http://49.0.64.96:8007/IZAA
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/SERIES
 
+#EXTINF:-1 group-title="Entertainment บันเทิง",TVN MOVIES
+#EXTVLCOPT:network-caching=1000
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
+#EXTINF:-1 group-title="Entertainment บันเทิง",HITS
+#EXTVLCOPT:network-caching=1000
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
+#EXTINF:-1 group-title="Entertainment บันเทิง",HITS MOVIES
+#EXTVLCOPT:network-caching=1000
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
+#EXTINF:-1 group-title="Entertainment บันเทิง",GALAXY
+#EXTVLCOPT:network-caching=1000
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
+#EXTINF:-1 group-title="Entertainment บันเทิง",GALAXY PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
+#EXTINF:-1 group-title="Entertainment บันเทิง",CINEEDGE
+#EXTVLCOPT:network-caching=1000
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
+#EXTINF:-1 group-title="Entertainment บันเทิง",ORIGINALS
+#EXTVLCOPT:network-caching=1000
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
+#EXTINF:-1 group-title="Entertainment บันเทิง",superrix
+#EXTVLCOPT:network-caching=1000
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
+#EXTINF:-1 group-title="Entertainment บันเทิง",UNIQUES
+#EXTVLCOPT:network-caching=1000
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8
+#EXTINF:-1 group-title="Entertainment บันเทิง",buddy star
+#EXTVLCOPT:network-caching=1000
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
+
+
 
 #EXTINF:-1,<=== การ์ตูน ====>
 http://49.0.64.96:8007/Cartoonumi
@@ -236,14 +268,8 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
-#EXTINF:30 group-title="Cartoon การ์ตูน",Cartoon Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-#EXTVLCOPT:network-caching=1000
-https://nfsnew.newkso.ru/nfs/premium339/mono.m3u8
-
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon Network Japan
-https://ca01.utako.moe/cartoon_network/index.m3u8
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon Network
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/752
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.
 https://fl41.moveonjoy.com/NICK_JR/index.m3u8
@@ -490,10 +516,10 @@ https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 
 #EXTINF:-1 group-title="Documentary สารคดี",Discovery Channel
-http://xxip25.top:8080/7686199/9576982/57252
-#EXTINF:-1 group-title="Documentary สารคดี",Discovery Science1
-http://xxip25.top:8080/7686199/9576982/57418
-#EXTINF:-1 group-title="Documentary สารคดี",Discovery Science2
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1967
+#EXTINF:-1 group-title="Documentary สารคดี",Discovery 
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/482
+#EXTINF:-1 group-title="Documentary สารคดี",Discovery Sci
 http://xxip25.top:8080/7686199/9576982/53695
 
 #EXTINF:-1 group-title="Documentary สารคดี",History
