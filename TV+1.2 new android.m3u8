@@ -1422,7 +1422,7 @@ http://livebox.pro/565trail724/6655447788/157942
 http://livebox.pro/565trail724/6655447788/157943
 #EXTINF:-1 group-title="Premium sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-psl-za.png" tvg-id="supersportpsl.za",SUPERSPORTS PSL (FHD)
 http://livebox.pro/565trail724/6655447788/157944
-#EXTINF:-1 group-title="Premium sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-golf-za.png" tvg-id="supersportgolf.za",DSTV : SuperSport Golf (FHD)
+#EXTINF:-1 group-title="Premium sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-golf-za.png" tvg-id="supersportgolf.za",SuperSport Golf (FHD)
 http://livebox.pro/565trail724/6655447788/157946
 #EXTINF:-1 group-title="Premium sports 1" tvg-logo="https://archive.org/download/racinguk-01_202011/supersport-motorsport.png" tvg-id="supersportmotorsport.za",SUPER MOTORSPORT (FHD)
 http://livebox.pro/565trail724/6655447788/157947
@@ -1606,116 +1606,134 @@ http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112206.m3u8
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112207.m3u8
 
 
-#EXTINF:-1 group-title="Premium sports 1", tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305"group-title="Sports กีฬา",Now Sports 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305"group-title="Premium sports 1",Now Sports 2
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112206.m3u8
-#EXTINF:-1 group-title="Premium sports 1", tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305"group-title="Sports กีฬา",Now Sports 3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305"group-title="Premium sports 1",Now Sports 3
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112205.m3u8
-#EXTINF:-1 group-title="Premium sports 1", tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305" group-title="Sports กีฬา",Now Sports 4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305" group-title="Premium sports 1",Now Sports 4
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112204.m3u8
-#EXTINF:-1 group-title="Premium sports 1", tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_425_305" group-title="Sports กีฬา",Now Sports 5
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_425_305" group-title="Premium sports 1",,Now Sports 5
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112203.m3u8
-#EXTINF:-1 group-title="Premium sports 1", tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305" group-title="Sports กีฬา",Now Sports 6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305" group-title="Premium sports 1",Now Sports 6
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112202.m3u8
-#EXTINF:-1 group-title="Premium sports 1", tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305" group-title="Sports กีฬา",Now Sports 7
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305" group-title="Premium sports 1",Now Sports 7
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112201.m3u8
 
 
-#EXTINF:-1 group-title="Premium sports 1",===Prima Sports===
+#EXTINF:-1,===Prima Sports===
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77490&extension=ts
 
-#EXTINF:-1 group-title="Premium sports 1", tvg-id="" tvg-logo="https://dookeela2.live/uploads/1694689157.png" Prima group-title="Sports กีฬา",Prima Sport 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1694689157.png" Prima group-title="Premium sports 1",Prima Sport 1
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=238886&extension=ts
-#EXTINF:-1 group-title="Premium sports 1", tvg-id="" tvg-logo="https://dookeela2.live/uploads/1695249914.png" Prima group-title="Sports กีฬา",Prima Sport 2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela2.live/uploads/1695249914.png" Prima group-title="Premium sports 1",Prima Sport 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=238887&extension=ts
-#EXTINF:-1 group-title="Premium sports 1", tvg-id="" tvg-logo="https://dookeela.live/uploads/1695604346.png" group-title="Sports กีฬา",Prima Sport 3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1695604346.png" group-title="Premium sports 1",,Prima Sport 3
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77481&extension=ts
-#EXTINF:-1 group-title="Premium sports 1", tvg-id="" tvg-logo="https://dookeela.live/uploads/1695398839.png"group-title="Sports กีฬา",Prima Sport 4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1695398839.png"group-title="Premium sports 1",Prima Sport 4
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77490&extension=ts
 
 
 #EXTINF:-1 ,===Polsat Sports===
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105533
 
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",Polsat Sport 1
+#EXTINF:-1 group-title="Sports กีฬา",Polsat Sport 1
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105530
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",Polsat Sport 1/2
+
+#EXTINF:-1 group-title="Sports กีฬา",Polsat Sport 1/2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=14838&extension=ts&play_token=rZ559zOlnw
 
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",Polsat Sport 2
+#EXTINF:-1 group-title="Premium sports 1",Polsat Sport 2
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105533
 
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",Polsat Sport 3
+#EXTINF:-1 group-title="Premium sports 1",Polsat Sport 3
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105531
 
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",Polsat PREMIUM 2
+#EXTINF:-1 group-title="Premium sports 1",Polsat PREMIUM 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=54165&extension=ts&play_token=DgdOW3zpRD
 
 
-#EXTINF:-1 group-title="Premium sports 1",===SPORT-TV===
+#EXTINF:-1 ===SPORT-TV===
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84671
+
+#EXTINF:-1 group-title="Premium sports 1",SPORT TV 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84597
+#EXTINF:-1 group-title="Premium sports 1",SPORT TV 1 
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.346
 http://panel.sulu1.cc:2052/travis1/travis1/85521
 
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",SPORT TV 1 
-#EXTVLCOPT:http-referrer=https://99dooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.346
-http://panel.sulu1.cc:2052/travis1/travis1/85521
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",SPORT TV 2 
+#EXTINF:-1 group-title="Premium sports 1",SPORT TV 2
+http://panel.sulu1.cc:2052/travis1/travis1/85522
+#EXTINF:-1 group-title="Premium sports 1",SPORT TV 2 
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.347
 http://panel.sulu1.cc:2052/travis1/travis1/85522
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",SPORT TV 3 
+
+#EXTINF:-1 group-title="Premium sports 1",SPORT TV 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84669
+#EXTINF:-1 group-title="Premium sports 1",SPORT TV 3 
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.348
 http://panel.sulu1.cc:2052/travis1/travis1/85523
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",SPORT TV 4 
+
+#EXTINF:-1 group-title="Premium sports 1",SPORT TV 4
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151194
+#EXTINF:-1 group-title="Premium sports 1",SPORT TV 4 
 #EXTVLCOPT:http-referrer=https://99dooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.349
 http://panel.sulu1.cc:2052/travis1/travis1/85524
 
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",SPORT TV 1
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84597
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84667
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",SPORT TV 2
-http://panel.sulu1.cc:2052/travis1/travis1/85522
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",SPORT TV 3
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84669
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",SPORT TV 4
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151194
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",SPORT TV 5
+#EXTINF:-1 group-title="Premium sports 1",SPORT TV 5
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84671
 
 
-#EXTINF:-1 group-title="Premium sports 1",===SKY_SPORTS===
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/===========================================================================SKY_SPORT+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-http://fortv.cc:8080/live/q8KuDU/354945/35241.ts
 
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",Sky Sports Premier League HD UK 2
+#EXTINF:-1 ===SKY_SPORTS===
+http://fortv.cc:8080/live/q8KuDU/354945/45940.ts
+https://raw.githubusercontent.com/quuen2024/llgnews/queen/===========================================================================SKY_SPORT+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:-1 group-title="Premium sports 1",Sky Sports Premier League HD UK 2
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.355
 http://panel.sulu1.cc:2052/travis1/travis1/36161
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",Sky Sport Main Event
+
+#EXTINF:-1 group-title="Premium sports 1",Sky Sport Main Event
 http://fortv.cc:8080/live/q8KuDU/354945/35243.ts
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",Sky Sport Mix
+
+#EXTINF:-1 group-title="Premium sports 1",Sky Sport Mix
 http://fortv.cc:8080/live/q8KuDU/354945/53706.ts
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",Sky Sport Arena
+
+#EXTINF:-1 group-title="Premium sports 1",Sky Sport Arena
 #EXTVLCOPT:network-caching=1000
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115479
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",Sky Sport F1
+
+#EXTINF:-1 group-title="Premium sports 1",Sky Sport F1
 http://fortv.cc:8080/live/q8KuDU/354945/35244.ts
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",Sky Sport News
+
+#EXTINF:-1 group-title="Premium sports 1",Sky Sport News
 http://fortv.cc:8080/live/q8KuDU/354945/35241.ts
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",Sky Sport Cricket
+
+#EXTINF:-1 group-title="Premium sports 1",Sky Sport Cricket
 http://fortv.cc:8080/live/q8KuDU/354945/45940.ts
-#EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",Sky Sport Racing
+
+#EXTINF:-1 group-title="Premium sports 1",Sky Sport Racing
 http://fortv.cc:8080/live/q8KuDU/354945/76842.ts
 
 #EXTINF:-1 group-title="Premium sports 1",DE: SKY SPORT BUNDESLIGA 1 FHD
 #EXTVLCOPT:network-caching=1000
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117181
+
 #EXTINF:-1 group-title="Premium sports 1",DE: SKY SPORT BUNDESLIGA 2 FHD (SPIELZEIT)
 #EXTVLCOPT:network-caching=1000
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117182
@@ -1843,22 +1861,25 @@ http://145.239.5.177/556/index.m3u8
 
 #EXTINF:-1 group-title="Premium sports 1",CANAL+ Sport HD
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/85385
+
 #EXTINF:-1 group-title="Premium sports 1",CANAL+ Foot
-http://145.239.5.177/556/index.m3u8
 #EXTVLCOPT:http-referrer= 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.196
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/687272
+http://145.239.5.177/556/index.m3u8
 
-#EXTINF:-1 group-title="Premium sports 1",CANAL+ SPORT
+#EXTINF:-1 group-title="Premium sports 1",CANAL+ SPORT 1
 http://visioniptvus.com:80/play/live.php?mac=00:1A:79:19:31:08&stream=543383&extension=ts
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=248340&extension=ts
 
-#EXTINF:-1 group-title="Premium sports 1",CANAL+SPORT2
+#EXTINF:-1 group-title="Premium sports 1",CANAL+SPORT 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=248341&extension=ts
 http://78.130.250.2:8023/play/a02w/index.m3u8
 
-#EXTINF:-1 group-title="Premium sports 1",CANAL+SPORT4
+#EXTINF:-1 group-title="Premium sports 1",CANAL+SPORT 3
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=248342&extension=ts
+
+#EXTINF:-1 group-title="Premium sports 1",CANAL+SPORT 4
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=248343&extension=ts
 
 #EXTINF:-1 group-title="Premium sports 1",CANAL+ FOOT HD
@@ -2069,160 +2090,13 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/T
 
 #EXTINF:0,<=== M Live===> https://raw.githubusercontent.com/BeritaSelatan
 
-#EXTINF:-1 group-title="Live Sport",M-Live1
-https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/lx-origin/th-monomax01_720/chunks.m3u8
-
-
-
-#EXTINF:-1 group-title="Live Sport",M-Live2
-https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/lx-origin/th-monomax01_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Live Sport",M-Live3
+#EXTINF:-1 group-title="Live Sport",MAX SPORTS 1
 #EXTVLCOPT:network-caching=1000
-http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186561&extension=ts
 
-#EXTINF:-1 group-title="Live Sport",M-Live4
-https://ww.dooballfree.vip/live/monomax-2/playlist.m3u8
-
-#EXTINF:-1 group-title="Live Sport",M-Live5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4432/Monomax_PL_3HD/chunklist.m3u8
-
-#EXTINF:24 group-title="Live Sport",M-Live6
-https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/lx-origin/th-monomax05_720/chunks.m3u8
-
-#EXTINF:24 group-title="Live Sport",M SPORT 1
-https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/lx-origin/th-monomax01_720/chunks.m3u8
-#EXTINF:24 group-title="Live Sport",M SPORT 2
-https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/lx-origin/th-monomax02_720/chunks.m3u8
-#EXTINF:24 group-title="Live Sport",M SPORT 3
-https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/lx-origin/th-monomax03_720/chunks.m3u8
-#EXTINF:24 group-title="Live Sport",M SPORT 4
-https://la4.youllneverwalkalone.online:9310/v5/FZIP5PU93OIWDSnjZu9kWg/1760507854/7e57a128a6a70eb8f7edde6114a94937/Bl-zlyPAdDfle0jcxjd31w/1760518534/live/lx-origin/th-monomax04_720/chunks.m3u8
-
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 1 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 1 TH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/ScdXes6u2bRNFyCEoJFnBw/1760852144/7e082863bad9b2193b817f67ef13b2ed/eQ37H-ANErhEtbqw43Xqjw/1760862824/live/lx-origin/th-monomax01_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 1 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 1 Backup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/uQfcWXyiQ7y705RZxCJs9Q/1760853035/8eb89ccc652e82f9148013cf26a96356/WyzVdMCVwE2BL4kEwvvM3w/1760863715/live/lx-origin/th-monomax01bkp_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 1 EN" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 1 EN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/fVnk12U1VotPc1jCpO1kXg/1760853055/7e082863bad9b2193b817f67ef13b2ed/zxlfztduycHBnlvMVF32oA/1760863735/live/lx-origin/th-monomax01eng_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 2 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 2 TH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/4ckznCn17_-CfdCP-YS40w/1760853165/8eb89ccc652e82f9148013cf26a96356/csSkDasyWRsSyLXerBjVzA/1760863845/live/lx-origin/th-monomax02_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 2 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 2 Backup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/Tv7MQZUJDvFAT0MWMjkFxw/1760853187/7e082863bad9b2193b817f67ef13b2ed/fqUgsWUaPUd9a11HTNxDTQ/1760863867/live/lx-origin/th-monomax02bkp_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 2 EN" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 2 EN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/fJ4aHyqw30EWzxpSkNogNQ/1760853216/8eb89ccc652e82f9148013cf26a96356/tJ957_KcXceBg3TJa1X_Wg/1760863896/live/lx-origin/th-monomax02eng_720/chunks.m3u8
-
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 3 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 3 TH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/Ty7obekTbPqcy8Ewm0-Xhg/1760853307/7e082863bad9b2193b817f67ef13b2ed/zfM5y0Qxik2aTonwccuUwg/1760863987/live/lx-origin/th-monomax03_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 3 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 3 Backup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/DzJD0A9P_tlwl0ciaCHhew/1760853325/8eb89ccc652e82f9148013cf26a96356/46JZuyto9YfNn5rV7HmSaA/1760864005/live/lx-origin/th-monomax03bkp_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 3 EN" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 3 EN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/gCvGhUZW7u6GgxXaRM7a2g/1760853345/7e082863bad9b2193b817f67ef13b2ed/M9b0aLwYa_0tWMxE1D-08A/1760864025/live/lx-origin/th-monomax03bkp_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 4 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 4 TH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/PyaEppwjcX2SdB-c4ItZgg/1760853537/8eb89ccc652e82f9148013cf26a96356/fpKtXm74DvmZ3u3vuDzKzQ/1760864217/live/lx-origin/th-monomax04_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 4 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 4 Backup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/-ThEd0_3ZKvJBA06exL2Tg/1760853558/7e082863bad9b2193b817f67ef13b2ed/KuPg11SWkpT7fzq8qc4-Kg/1760864238/live/lx-origin/th-monomax04bkp_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 5 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 5 TH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/X44dF5fIf2T730d862Uzfg/1760853684/8eb89ccc652e82f9148013cf26a96356/nidLeCA_9TcyUIhd200W1g/1760864364/live/lx-origin/th-monomax05_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 5 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 5 Backup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/vITycVJPgsyqxmyYchHKjg/1760853703/7e082863bad9b2193b817f67ef13b2ed/asnVJeOgJ61TGUYgvXdelQ/1760864383/live/lx-origin/th-monomax05bkp_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 6 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 6 TH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/yNJ7PVzf9omGGu3fDeQH7w/1760853722/8eb89ccc652e82f9148013cf26a96356/Dn0MEcDpDOt34ZpS8ZVBAQ/1760864402/live/lx-origin/th-monomax06bkp_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 6 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 6 Backup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/as8E1xFC492S6X2CjkMgaA/1760853742/7e082863bad9b2193b817f67ef13b2ed/9_mgvuIWEEIEHFZjdOsFlg/1760864422/live/lx-origin/th-monomax06bkp_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 7 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 7 TH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/OiYhYZxz1GLzhgu1yLRiNA/1760853768/8eb89ccc652e82f9148013cf26a96356/Pu-D8g8zQs0FmBxMxIE2hg/1760864448/live/lx-origin/th-monomax07_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 7 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 7 Backup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/OlHbVKy2CgZj9rwY0Ww6iA/1760853816/8eb89ccc652e82f9148013cf26a96356/u5FO2yBwTXRs0gCUyhxWMA/1760864496/live/lx-origin/th-monomax07bkp_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 8 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 8 TH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/PPr58W5If3Ujr1gifObkPQ/1760853840/7e082863bad9b2193b817f67ef13b2ed/NIqPxC4dtu1UinEmC7o1EQ/1760864520/live/lx-origin/th-monomax08_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 8 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 8 Backup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/wR0vO0SuLQ0bReIbXOUJ3Q/1760853863/8eb89ccc652e82f9148013cf26a96356/sipt5ySdst2RuAQTN8f1ig/1760864543/live/lx-origin/th-monomax08bkp_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 9 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 9 TH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/gLxXAdIUDATUOhGSFBbqGQ/1760853892/7e082863bad9b2193b817f67ef13b2ed/Soqoa1_AiSQve8dYxaDW6g/1760864572/live/lx-origin/th-monomax09_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 9 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 9 Backup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/VldtdN7n9DJxZ_3l7foUiQ/1760853911/8eb89ccc652e82f9148013cf26a96356/XP5NGexgyO3qzD8gJxFCsg/1760864591/live/lx-origin/th-monomax09bkp_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 10 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 10 TH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/kISR4EeNgfPJ-mNfP0GoKA/1760853934/7e082863bad9b2193b817f67ef13b2ed/Dbqcf9R2JiIyGFageWFSgw/1760864614/live/lx-origin/th-monomax10_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 10 Backup" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 10 Backup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/sb1TrJoFBH9HNFDnrYghhQ/1760853957/8eb89ccc652e82f9148013cf26a96356/lQjyPRVlvzAKsu3oTHSPYA/1760864637/live/lx-origin/th-monomax10bkp_720/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="" ch-number="" tvg-id="" tvg-name="MONOMAX 11 TH" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/streaming-app/monomax/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.jpeg/1749202563435/logo-monomax-2025.jpeg" group-title="Live Sport", M 11 TH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://la4.youllneverwalkalone.online:9310/v5/dJNPfM1Q6pD-imlxakaDRA/1760853977/7e082863bad9b2193b817f67ef13b2ed/K16FxY0RN7XVRBuGbW0KSA/1760864657/live/lx-origin/th-monomax11_720/chunks.m3u8
-
-
-#EXTINF:-1 group-title="Live Sport",M-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4432/Monomax_PL_3HD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/PL_Mono4.jpg" group-title="Live Sport",M-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4432/Monomax_PL_4HD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/PL_Mono5.jpg" group-title="Live Sport",M-5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4432/Monomax_PL_5HD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/PL_Mono6.jpg" group-title="Live Sport",M-6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4432/Monomax_PL_6HD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/PL_Mono7.jpg" group-title="Live Sport",M-7
-http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186571&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img04.xyz/assets/img/ch_logo/PL_Mono8.jpg" group-title="Live Sport",M-8
-http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186570&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/Monomax_Sport09.png" group-title="Live Sport",M-9
-http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186578&extension=ts
-
+#EXTINF:-1 group-title="Live Sport",MAX SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
 
 #EXTINF:-1 group-title="Live Sport",MAX 1
 #EXTVLCOPT:network-caching=1000
@@ -2230,13 +2104,47 @@ http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186563&exten
 #EXTINF:-1 group-title="Live Sport",MAX 2
 #EXTVLCOPT:network-caching=1000
 http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
-#EXTINF:-1 group-title="Live Sport",MAX SPORTS 1
-#EXTVLCOPT:network-caching=1000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186561&extension=ts
-#EXTINF:-1 group-title="Live Sport",MAX SPORTS 2
-#EXTVLCOPT:network-caching=1000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
 
+#EXTINF:-1 group-title="Live Sport",M-Live1
+#EXTVLCOPT:network-caching=1000
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
+
+#EXTINF:-1 group-title="Live Sport",M-Live2
+https://ww.dooballfree.vip/live/monomax-2/playlist.m3u8
+
+#EXTINF:-1 group-title="Live Sport",M-Live3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4432/Monomax_PL_3HD/chunklist.m3u8
+
+#EXTINF:-1 group-title="Live Sport",M-Live4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4432/Monomax_PL_3HD/chunklist.m3u8
+
+#EXTINF:-1 group-title="Live Sport",M-Live5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4432/Monomax_PL_4HD/chunklist.m3u8
+
+#EXTINF:-1 group-title="Live Sport",M-Live6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4432/Monomax_PL_5HD/chunklist.m3u8
+
+#EXTINF:-1 group-title="Live Sport",M-Live7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4432/Monomax_PL_6HD/chunklist.m3u8
+
+#EXTINF:-1 group-title="Live Sport",M-Live8
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186571&extension=ts
+
+#EXTINF:-1 group-title="Live Sport",M-Live9
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186570&extension=ts
+
+#EXTINF:-1 group-title="Live Sport",M-Live10
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186578&extension=ts
 
 
 #EXTINF:-1,<===MOVIE online===>
