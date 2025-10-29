@@ -1252,6 +1252,7 @@ https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 group-title="News ข่าว",CNBC World
 https://fl25.moveonjoy.com/CNBC/index.m3u8
+
 #EXTINF:-1 group-title="News ข่าว",CNBC Europe HD 
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 
@@ -1259,27 +1260,25 @@ https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1,<===Premium sports 1===>
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extension=ts&play_token=n1KBSwudMQ
 
-
 #EXTINF:-1,===Setanta Sports===
 http://panel.sulu1.cc:2052/travis1/travis1/14152
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsrPjvNB/download-5.jpg" group-title="Premium sports 1",Setanta Sports 1 HD
 http://ott.watch/stream/D3FX33QMIH1/234.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsrPjvNB/download-5.jpg" group-title="Premium sports 1",tvg-logo=https://i.postimg.cc/SsrPjvNB/download-5.jpg,Setanta Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsrPjvNB/download-5.jpg" group-title="Premium sports 1",Setanta Sports 2 HD
 http://ott.watch/stream/D3FX33QMIH1/235.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTSwxpQt/download-3.png" group-title="Premium sports 1",tvg-logo=https://i.postimg.cc/wTSwxpQt/download-3.png,Setanta Sports HD EpL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTSwxpQt/download-3.png" group-title="Premium sports 1"Setanta Sports HD EpL
 http://ott.watch/stream/D3FX33QMIH1/313.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsrPjvNB/download-5.jpg" group-title="Premium sports 1",tvg-logo=https://i.postimg.cc/SsrPjvNB/download-5.jpg,Setanta Sports+ HD F
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsrPjvNB/download-5.jpg" group-title="Premium sports 1",Setanta Sports+ HD F
 http://ott.watch/stream/D3FX33QMIH1/390.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvnvpzRP/download.png" group-title="Premium sports 1",tvg-logo=https://i.postimg.cc/bvnvpzRP/download.png,001.EPL Live(Myn Voice)
-https://live.95tv.live/channel/25/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvnvpzRP/download.png" group-title="Premium sports 1",EPL Livehttps://live.95tv.live/channel/25/playlist.m3u8
 
 
-#EXTINF:-1,===Hubpremier Sports===
+#EXTINF:-1,===Hub premier===
 http://panel.sulu1.cc:2052/travis1/travis1/14152
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier01.png" group-title="Premium sports 1",Hubpremier1
@@ -1539,14 +1538,16 @@ http://b1g.uk/200/230/709252
 #EXTVLCOPT:network-caching=1000
 http://sorinv2.hopto.org:8008/live/Cosmin_Craciun/ekT4Y49h2b/277316.m3u8
 
-#EXTINF:-1 group-title="Premium sports 1", group-title="Premium sports 1", DIGI SPORT 1
+#EXTINF:-1 group-title="Premium sports 1", DIGI SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:network-caching=1000
 http://sorinv2.hopto.org:8008/live/Cosmin_Craciun/ekT4Y49h2b/277313.m3u8
+
 #EXTINF:-1 group-title="Premium sports 1", DIGI SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:network-caching=1000
 http://sorinv2.hopto.org:8008/live/Cosmin_Craciun/ekT4Y49h2b/277314.m3u8
+
 #EXTINF:-1 group-title="Premium sports 1", DIGI SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:network-caching=1000
@@ -1568,34 +1569,45 @@ https://de11.seetv.cc/6831/video.m3u8?token=BC28182177585B5
 https://de11.seetv.cc/6832/video.m3u8?token=BC28182177585B5
 
 
-#EXTINF:-1 group-title="Premium sports 1",===ARENA Sports===
+#EXTINF:-1,===ARENA Sports===
 http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKKIK5rl2n5meUW9b110w7T-/ts
 
-#EXTINF:-1 group-title="Premium sports 1", tvg-id="" tvg-logo="https://dookeela.live/uploads/1664041294.png" group-title="Sports กีฬา",ARENA SPORT 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664041294.png" group-title="Premium sports 1",ARENA SPORT 1
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537002&extension=ts
-#EXTINF:-1 group-title="Premium sports 1", tvg-id="" tvg-logo="https://dookeela.live/uploads/1664041294.png" group-title="Sports กีฬา",ARENA SPORT 1/2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664041294.png"group-title="Premium sports 1",ARENA SPORT 1/2
 http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKIMflboULtlEFrk2YMMT-xb/ts
 
-#EXTINF:-1 group-title="Premium sports 1", tvg-id="" tvg-logo="https://dookeela.live/uploads/1664041506.png" group-title="Sports กีฬา",ARENA SPORT 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664041506.png"group-title="Sports กีฬา",ARENA SPORT 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537006&extension=ts
 
-#EXTINF:-1 group-title="Premium sports 1", tvg-id="" tvg-logo="https://dookeela.live/uploads/1664219377.png" group-title="Sports กีฬา",ARENA SPORT 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664219377.png"group-title="Premium sports 1", ARENA SPORT 3
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537009&extension=ts
 http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKKIK5rl2n5meUW9b110w7T-/ts
 
-#EXTINF:-1 group-title="Premium sports 1", tvg-id="" tvg-logo="https://dookeela.live/uploads/1664132050.png" group-title="Sports กีฬา",ARENA SPORT 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664132050.png" group-title="Premium sports 1",ARENA SPORT 4
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537012&extension=ts
 http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKJwgvaVf5ef2xfRW1qMuTL6/ts
 
-#EXTINF:-1 group-title="Premium sports 1", tvg-id="" tvg-logo="https://logo.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/serbia/arena-1-premium-icon-rs.png" group-title="Sports กีฬา",Arena SportPremium 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/serbia/arena-1-premium-icon-rs.png" group-title="Premium sports 1",Arena SportPremium 1
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537029&extension=ts
-#EXTINF:-1 group-title="Premium sports 1", tvg-id="" tvg-logo="https://logo.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/serbia/arena-2-premium-icon-rs.png" group-title="Sports กีฬา",Arena SportPremium 2
+
+#EXTINF:-1  tvg-id="" tvg-logo="https://logo.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/serbia/arena-2-premium-icon-rs.png" group-title="Premium sports 1",Arena SportPremium 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537031&extension=ts
-#EXTINF:-1 group-title="Premium sports 1", tvg-id="" tvg-logo="https://logo.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/serbia/arena-3-premium-icon-rs.png" group-title="Sports กีฬา",Arena SportPremium 3
+
+#EXTINF:-1  tvg-id="" tvg-logo="https://logo.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/serbia/arena-3-premium-icon-rs.png" group-title="Premium sports 1",Arena SportPremium 3
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537033&extension=ts
 
 
-#EXTINF:-1 group-title="Premium sports 1",===Now Sports===
+
+
+
+
+
+
+
+
+#EXTINF:-1,===Now Sports===
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112206.m3u8
 
 #EXTINF:-1 group-title="Premium sports 1", tvg-id="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="Sports กีฬา",Now Sports 1
@@ -1627,7 +1639,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77481&extension=t
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77490&extension=ts
 
 
-#EXTINF:-1 group-title="Premium sports 1",===Polsat Sports===
+#EXTINF:-1 ,===Polsat Sports===
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105533
 
 #EXTINF:-1 group-title="Premium sports 1", group-title="Sports กีฬา",Polsat Sport 1
