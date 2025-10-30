@@ -4,7 +4,10 @@
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 HD
+#EXTVLCOPT:network-caching=1000
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
 https://load1.v2h-cdn.com/digitaltv/ch3/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="🇹🇭 THAILAND",CH5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.postimg.cc/8kMvzGt1/IMG-2393.png" group-title="🇹🇭 THAILAND",CH7 HD
@@ -711,7 +714,7 @@ http://panel.sulu1.cc:2052/travis1/travis1/5073
 #EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="Special sports",MUTV
 http://panel.sulu1.cc:2052/travis1/travis1/1057
 
-#EXTINF:-1 tvg-id="Chelsea.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/768px-Chelsea_FC.svg.png" group-title="🇹🇭 THAILAND",CHELSEA TV
+#EXTINF:-1 tvg-id="Chelsea.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/768px-Chelsea_FC.svg.png" group-title="Special sports",CHELSEA TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:0D:A1:24&stream=45327&extension=m3u8
 
 #EXTINF:-1 group-title="Special sports",Top Barça
