@@ -102,7 +102,8 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 #EXTINF:-1,<==== entertainment ====>
 file:///C:/Users/WIN10/Downloads/%3C===================%20HBO%20===================%3E
 
-#EXTINF:-1 group-title="Entertainment บันเทิง",มิสเตอร์บีน
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/hvsjcMx3/IMG-3443.png" group-title="Entertainment บันเทิง",Mr.Bean Classic
+https://shorturl.asia/jAf5V
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment บันเทิง",AMAZING
@@ -837,6 +838,23 @@ http://45.144.165.187:8080/playid168/12345/22882
 #EXTINF:-1 group-title="Entertainment บันเทิง", หนังพากย์ไทย
 http://49.0.64.96:8007/IZAA
 
+#EXTINF:-1 tvg-id="CCM.cn" tvg-logo="https://i.postimg.cc/MGknscth/IMG-2909.png" group-title="Entertainment บันเทิง",Celestial Classic Movie
+https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/sDm3DKgL/IMG-3782.png" group-title="Entertainment บันเทิง",Meiya Movie
+https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-id="IQIYI.cn" tvg-logo="https://i.postimg.cc/y89DdqFc/IMG-2926.png" group-title="Entertainment บันเทิง",IQIYI
+https://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/bY2CWnRG/IMG-3244.png" group-title="Entertainment บันเทิง",TVN Movies
+http://grande99826.cdngold.me:80/play/live.php?mac=00:1A:79:81:9C:05&stream=659318&extension=ts&play_token=y3gyhQLEbt
+#EXTINF:-1 tvg-id="Newid.kr" tvg-logo="https://i.postimg.cc/tgZY1ck4/IMG-2189.png" group-title="Entertainment บันเทิง",KMOVIES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1 tvg-id="Kdrama.uk" tvg-logo="https://i.postimg.cc/90crSQ0X/IMG-2655.png" group-title="Entertainment บันเทิง",RomCom K-Drama
+https://tinyurl.com/3h2e4rtz
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/cCBR7Whp/IMG-3288.png" group-title="Entertainment บันเทิง",& TV
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JKN18.th" tvg-logo="https://i.postimg.cc/t70L1xG0/IMG-4003.png" group-title="Entertainment บันเทิง",JKN 18
+https://load1.v2h-cdn.com/digitaltv/jkn/playlist.m3u8
+
 #EXTINF:-1 group-title="Entertainment บันเทิง", movies1
 #EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
 http://49.0.64.96:8007/SERIES
@@ -906,16 +924,15 @@ http://49.0.64.96:8007/H-Channel
 #EXTINF:-1,🤓🤓🤓Premium การ์ตูน ====>
 http://49.0.64.96:8007/Cartoonumi
 
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Boomerang
+#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/zDCqL8v7/IMG-2635.png" group-title="Cartoon การ์ตูน",Boomerang
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-#EXTINF:-1 group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
+
+#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/Wz7qzMTG/IMG-2061.png" group-title="Cartoon การ์ตูน", Boomerang Cartoon
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
-#EXTINF:-1 tvg-id="Dreamworks.us" tvg-logo="https://i.postimg.cc/xCPHdrVt/IMG-2929.png" group-title="Cartoon การ์ตูน",Dreamworks
-https://la4.youllneverwalkalone.online:9310/v5/45025c88230b8c4ea93b72355b4c93f7/1760685853/e569b3c00e3c5808e13f0817a6296c8f/79dc853501578d668b11/1760685853/live/vx-origin/th-dreamworks_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="CN.us" tvg-logo="https://i.postimg.cc/MZr3y7sp/IMG-2974.png" group-title="Cartoon การ์ตูน",Cartoon Network TH
-http://45.144.165.187:8080/playid168/12345/55
+http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=191714&extension=m3u8&play_token=
 
 #EXTINF:-1 gtvg-id="CN.us" tvg-logo="https://i.postimg.cc/MZr3y7sp/IMG-2974.png" group-title="Cartoon การ์ตูน",Cartoon Network HD
 http://panel.sulu1.cc:2052/travis1/travis1/3227
@@ -933,44 +950,50 @@ http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/458
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/763
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/JzMTJMz4/IMG-3549.png" group-title="Cartoon การ์ตูน",Cartoonito
-https://la4.youllneverwalkalone.online:9310/v5/45025c88230b8c4ea93b72355b4c93f7/1760685853/e569b3c00e3c5808e13f0817a6296c8f/79dc853501578d668b11/1760685853/live/vx-origin/th-cartoonito_720/chunks.m3u8
-
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoonito
 http://45.144.165.187:8080/playid168/12345/60
 
+
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/0NMWJyk9/IMG-3451.webp" group-title="Cartoon การ์ตูน",Nick Jr.
-https://la4.youllneverwalkalone.online:9310/v5/45025c88230b8c4ea93b72355b4c93f7/1760685853/e569b3c00e3c5808e13f0817a6296c8f/79dc853501578d668b11/1760685853/live/vx-origin/sd-nickjr_720/chunks.m3u8
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/c/cb/Nickelodeon_2023_logo.png" group-title="Cartoon การ์ตูน",Nickelodeon
-https://la4.youllneverwalkalone.online:9310/v5/45025c88230b8c4ea93b72355b4c93f7/1760685853/e569b3c00e3c5808e13f0817a6296c8f/79dc853501578d668b11/1760685853/live/vx-origin/sd-nickelodeon_720/chunks.m3u8
-#EXTINF:-1 tvg-id="Kartoon.uk" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/f/fa/Nicktoons_2024.webp" group-title="Cartoon การ์ตูน",Nicktoons
-https://fl7.moveonjoy.com/NICKTOONS/index.m3u8
+https://fl31.moveonjoy.com/NICK_JR/index.m3u8
 
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/0NMWJyk9/IMG-3451.webp" group-title="Cartoon การ์ตูน",Nick Jr.
 http://panel.sulu1.cc:2052/travis1/travis1/3239
-
-
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.too HD
-http://panel.sulu1.cc:2052/travis1/travis1/3230
-
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon
-http://66.90.99.154:8278/Nickelodeon/playlist.m3u8?tid=MC4C5313507053135070&ct=20364&tsum=7ed5c516f7530f58ede76358ef563490
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nicktoons 
 http://panel.sulu1.cc:2052/travis1/travis1/3234
 
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.too 
+http://panel.sulu1.cc:2052/travis1/travis1/3230
 
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Dreamworks
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/0NMWJyk9/IMG-3451.webp" group-title="Cartoon การ์ตูน",Nickelodeon
+http://66.90.99.154:8278/Nickelodeon/playlist.m3u8?tid=MC4C5313507053135070&ct=20364&tsum=7ed5c516f7530f58ede76358ef563490
+
+
+#EXTINF:-1 tvg-id="Dreamworks.us" tvg-logo="https://i.postimg.cc/xCPHdrVt/IMG-2929.png" group-title="Cartoon การ์ตูน",Dreamworks
 http://live5.inwstream.com:1936/transcoder_F1/dreamwork_inwiptv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Disney Channel
-http://212.102.60.231/DISNEY/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Disney.us" tvg-logo="https://i.postimg.cc/L5pDYP1C/IMG-2139.png" group-title="Cartoon การ์ตูน",Disney Channel
+https://fl31.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 tvg-id="Disney.us" tvg-logo="https://i.postimg.cc/L5pDYP1C/IMG-2139.png" group-title="Cartoon การ์ตูน",Disney 
 https://e3.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Disney Junior 
+#EXTINF:-1 tvg-id="Disney.us" tvg-logo="https://i.postimg.cc/ncFDmwCT/IMG-4273.png" group-title="Cartoon การ์ตูน",Disney Junior
+https://fl25.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="Disney.us" tvg-logo="https://i.postimg.cc/ncFDmwCT/IMG-4273.png" group-title="Cartoon การ์ตูน",Disney J
 http://116.90.120.149:8000/play/a0b3/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Disney.us" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/8e/Disney_XD_-_2015.svg.png" group-title="Cartoon การ์ตูน",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Disney_pixar_logo.png" group-title="Cartoon การ์ตูน",Disney Pixar
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:e9:7c:63&stream=882229&extension=ts&play_token=6f9l3z7xuS
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Disney International 
 https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
+
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon
 http://49.0.64.96:8007/Cartoonumi
@@ -1000,18 +1023,7 @@ https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
 https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",PetClub TV2
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/Wz7qzMTG/IMG-2061.png" group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
-https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
-#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/zDCqL8v7/IMG-2635.png" group-title="Cartoon การ์ตูน",Boom
-https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-#EXTINF:-1 tvg-id="Disney.us" tvg-logo="https://i.postimg.cc/L5pDYP1C/IMG-2139.png" group-title="Cartoon การ์ตูน",Disney Channel
-https://fl31.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 tvg-id="Disney.us" tvg-logo="https://i.postimg.cc/ncFDmwCT/IMG-4273.png" group-title="Cartoon การ์ตูน",Disney Junior
-https://fl25.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-id="Disney.us" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/8e/Disney_XD_-_2015.svg.png" group-title="Cartoon การ์ตูน",Disney XD
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-id="Disney.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Disney_pixar_logo.png" group-title="Cartoon การ์ตูน",Disney Pixar
-http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:e9:7c:63&stream=882229&extension=ts&play_token=6f9l3z7xuS
+
 
 
 #EXTINF:-1 tvg-id="Kartoon.uk" tvg-logo="https://i.postimg.cc/50PmnR6v/IMG-4271.png" group-title="Cartoon การ์ตูน",Baby TV
