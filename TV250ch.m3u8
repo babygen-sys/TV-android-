@@ -4,9 +4,9 @@
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 HD
+https://p1.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yMTU4MGJhYzJiOWUwNTI3N2YzNwN2UyNzQxZGYzZjE5NjU4
 #EXTVLCOPT:network-caching=1000
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
-https://load1.v2h-cdn.com/digitaltv/ch3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="🇹🇭 THAILAND",CH5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
@@ -14,8 +14,10 @@ https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 #EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://i.postimg.cc/8z5sMgBf/IMG-2395.png" group-title="🇹🇭 THAILAND",Ch8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+
 #EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://i.postimg.cc/8cpTGLZf/IMG-2397.png" group-title="🇹🇭 THAILAND",MCOT HD
-https://load1.v2h-cdn.com/digitaltv/mcot/playlist.m3u8
+https://p1.cdn.vet/live/ch9/i/ch9i.m3u8?sid=b5yOTY2Y2VkNDJjYWI4NmY2ODA5MAN2RmYWQzNWYzZjVmYjU4
+
 #EXTINF:-1 tvg-id="NBT2HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="🇹🇭 THAILAND",NBT2 HD
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NBT.th" tvg-logo="https://i.postimg.cc/nLfbZvzV/IMG-2399.png" group-title="🇹🇭 THAILAND",NBT 11 ภาคเหนือ
@@ -30,26 +32,37 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/play
 https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 #EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="🇹🇭 THAILAND",MONO29 (หนัง Soundtrack บรรยายไทย)
 https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Amarin_TV_HD_34_Logo.svg/2560px-Amarin_TV_HD_34_Logo.svg.png" group-title="🇹🇭 THAILAND",Amarin TV
-https://load1.v2h-cdn.com/digitaltv/amarin/playlist.m3u8
+https://p1.cdn.vet/live/ch26/i/ch26i.m3u8?sid=b5yOTU2ZjJmM2U1M2UzMmUwZmQ1NwNTc3MTEyNTNjMjMyOWJl
+
 #EXTINF:-1 tvg-id="ThairathTV32.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png" group-title="🇹🇭 THAILAND",Thairath TV
-https://load1.v2h-cdn.com/digitaltv/thairath/playlist.m3u8
+https://p0.cdn.vet/live/ch39/i/ch39i.m3u8?sid=b5yMDIzMjYwMWI5ZjlmNThiMzM0ZgNzlhMjI3ZmUzNjgzOTNk
+
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png" group-title="🇹🇭 THAILAND",Thai PBS
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV HD
-https://load1.v2h-cdn.com/digitaltv/pptv/playlist.m3u8
+https://p0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yNTc2MzM5OGE2ZjBhNmRlZjQ2NANzRkNTMzYjIzODA3Zjk1
+
 #EXTINF:-1 tvg-id="One31.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png" group-title="🇹🇭 THAILAND",ONE31
-https://load1.v2h-cdn.com/digitaltv/one/playlist.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186495&extension=ts
+
 #EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png" group-title="🇹🇭 THAILAND",GMM25
-https://load1.v2h-cdn.com/digitaltv/gmm25/playlist.m3u8
+https://p1.cdn.vet/live/ch0/i/ch0i.m3u8?sid=b5yNWM0ZWNkYTNmZDFhZmU3MmUxMwM2Y2OTcwOGZhNDE5Yzg3
+
 #EXTINF:-1 tvg-id="Workpoint23.th" tvg-logo="https://i.postimg.cc/WzT9cJHK/IMG-2565.png" group-title="🇹🇭 THAILAND",Workpoint TV
 https://global-media.sooplive.com/live/workpoint/master.m3u8
+
 #EXTINF:-1 tvg-id="NationTV.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png" group-title="🇹🇭 THAILAND",Nation TV
-https://load1.v2h-cdn.com/digitaltv/nation/playlist.m3u8
+https://p0.cdn.vet/live/ch37/i/ch37i.m3u8?sid=b5yOTA5NzBjNTQyZGY1MzkxZjAyOQOGUyMmU2YjEwMjBlYzhi
+
 #EXTINF:-1 tvg-id="TNN.th" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png" group-title="🇹🇭 THAILAND",TNN 16
-https://load1.v2h-cdn.com/digitaltv/tnn/playlist.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186626&extension=ts
+
 #EXTINF:-1 tvg-id="News1.th" tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png" group-title="🇹🇭 THAILAND",News 1
 https://server1.streamssl.com/stream/news1.m3u8
+
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/qMJ7ff5h/IMG-3145.png" group-title="🇹🇭 THAILAND",Top News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
@@ -99,6 +112,7 @@ https://cdn-live.dltv.ac.th/dltv13.m3u8
 https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/MHfWy961/IMG-1930.png" group-title="🇹🇭 THAILAND",DLTV 15
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 
 
