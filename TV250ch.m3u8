@@ -4,7 +4,6 @@
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 HD
-https://p1.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yMTU4MGJhYzJiOWUwNTI3N2YzNwN2UyNzQxZGYzZjE5NjU4
 #EXTVLCOPT:network-caching=1000
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
 
@@ -16,7 +15,7 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 
 #EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://i.postimg.cc/8cpTGLZf/IMG-2397.png" group-title="🇹🇭 THAILAND",MCOT HD
-https://p1.cdn.vet/live/ch9/i/ch9i.m3u8?sid=b5yOTY2Y2VkNDJjYWI4NmY2ODA5MAN2RmYWQzNWYzZjVmYjU4
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBT2HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="🇹🇭 THAILAND",NBT2 HD
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
@@ -34,28 +33,28 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Amarin_TV_HD_34_Logo.svg/2560px-Amarin_TV_HD_34_Logo.svg.png" group-title="🇹🇭 THAILAND",Amarin TV
-https://p1.cdn.vet/live/ch26/i/ch26i.m3u8?sid=b5yOTU2ZjJmM2U1M2UzMmUwZmQ1NwNTc3MTEyNTNjMjMyOWJl
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 
 #EXTINF:-1 tvg-id="ThairathTV32.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png" group-title="🇹🇭 THAILAND",Thairath TV
-https://p0.cdn.vet/live/ch39/i/ch39i.m3u8?sid=b5yMDIzMjYwMWI5ZjlmNThiMzM0ZgNzlhMjI3ZmUzNjgzOTNk
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png" group-title="🇹🇭 THAILAND",Thai PBS
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV HD
-https://p0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yNTc2MzM5OGE2ZjBhNmRlZjQ2NANzRkNTMzYjIzODA3Zjk1
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186560&extension=ts
 
 #EXTINF:-1 tvg-id="One31.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png" group-title="🇹🇭 THAILAND",ONE31
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186495&extension=ts
 
 #EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png" group-title="🇹🇭 THAILAND",GMM25
-https://p1.cdn.vet/live/ch0/i/ch0i.m3u8?sid=b5yNWM0ZWNkYTNmZDFhZmU3MmUxMwM2Y2OTcwOGZhNDE5Yzg3
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/bdfd964c7fa447a8811f2a3c4ed3ef1c/playlist_ssaiM.m3u8
 
 #EXTINF:-1 tvg-id="Workpoint23.th" tvg-logo="https://i.postimg.cc/WzT9cJHK/IMG-2565.png" group-title="🇹🇭 THAILAND",Workpoint TV
 https://global-media.sooplive.com/live/workpoint/master.m3u8
 
 #EXTINF:-1 tvg-id="NationTV.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png" group-title="🇹🇭 THAILAND",Nation TV
-https://p0.cdn.vet/live/ch37/i/ch37i.m3u8?sid=b5yOTA5NzBjNTQyZGY1MzkxZjAyOQOGUyMmU2YjEwMjBlYzhi
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 
 #EXTINF:-1 tvg-id="TNN.th" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png" group-title="🇹🇭 THAILAND",TNN 16
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186626&extension=ts
