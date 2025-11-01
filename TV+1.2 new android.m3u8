@@ -2089,7 +2089,7 @@ http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/8054
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/8053
 
 
-#EXTINF:-1,<===Live บีอิน ===>
+#EXTINF:-1,<===Live บีอิน(android)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186533&extension=ts
 
 #EXTINF:-1 group-title="Live Sport",บีอินสปอตส์ 1
@@ -2156,8 +2156,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186597&extension=
 https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
 
 
-
-#EXTINF:-1,====บอล(android)====
+#EXTINF:-1,<===บอล(android)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186533&extension=ts
 
 #EXTINF:-1 group-title="Live Sport",บอล 1
@@ -2193,73 +2192,224 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
 
-
 #EXTINF:-1 group-title="Live Sport",PLAY 2
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
 
 
-#EXTINF:0,<=== M Live===>
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4432/Monomax_PL_6HD/chunklist.m3u8
-https://raw.githubusercontent.com/BeritaSelatan
 
-#EXTINF:-1 group-title="Live Sport",MAX SPORTS 1
-#EXTVLCOPT:network-caching=1000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186561&extension=ts
 
-#EXTINF:-1 group-title="Live Sport",MAX SPORTS 2
-#EXTVLCOPT:network-caching=1000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
+#EXTINF:-1 ,<===A-Live(k168)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+url="https://dl.dropbox.com/scl/fi/akkzw7faxqm6p12qeh6ch/1682.m3u?rlkey=s8hf6wxthcykid8s56yvsk8l3&st=xo7bvfdc&dl=0"
 
-#EXTINF:-1 group-title="Live Sport",MAX 1
-#EXTVLCOPT:network-caching=1000
-http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186563&extension=ts
-#EXTINF:-1 group-title="Live Sport",MAX 2
-#EXTVLCOPT:network-caching=1000
-http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AIS Live 1 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 
+https://dl.dropbox.com/scl/fi/mfrj3fynh8ts6qvutrvms/aisplay1.m3u8?rlkey=tow934fckjcq7xz9f8gssamz2&st=y6q3uz2z&dl=0
 
-#EXTINF:-1 group-title="Live Sport",M-Live1
-#EXTVLCOPT:network-caching=1000
-http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
 
-#EXTINF:-1 group-title="Live Sport",M-Live2
-https://ww.dooballfree.vip/live/monomax-2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AIS Live TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130744
 
-#EXTINF:-1 group-title="Live Sport",M-Live3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4432/Monomax_PL_3HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AIS Live 1 TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 1-2 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130743
 
-#EXTINF:-1 group-title="Live Sport",M-Live4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4432/Monomax_PL_3HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AIS Play 1 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 1-3
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130742
 
-#EXTINF:-1 group-title="Live Sport",M-Live5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4432/Monomax_PL_4HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AIS Play 1 TH VIP Sports" tvg-logo=""group-title="Live Sport",A-LIVE 1-4
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130741
 
-#EXTINF:-1 group-title="Live Sport",M-Live6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4432/Monomax_PL_5HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AIS Live 2 TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 2
+https://dl.dropbox.com/scl/fi/sviu39u14e0mjlkb2fvcl/aisplay2.m3u8?rlkey=10f5iuqtj2bb51pu9hh3wdv79&st=03e11adi&dl=0
 
-#EXTINF:-1 group-title="Live Sport",M-Live7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4432/Monomax_PL_6HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AIS Live 2 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 2-2
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130758
 
-#EXTINF:-1 group-title="Live Sport",M-Live8
-http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186571&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AIS Play 2 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 2-3
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130740
 
-#EXTINF:-1 group-title="Live Sport",M-Live9
-http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186570&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AIS Play 2 TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 2-4
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130739
 
-#EXTINF:-1 group-title="Live Sport",M-Live10
-http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186578&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AIS Live 3 TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 3
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130757
+
+#EXTINF:-1 tvg-id="" tvg-name="AIS Live 3 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 3-1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130756
+
+#EXTINF:-1 tvg-id="" tvg-name="AIS Play 3 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 3-2
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130738
+
+#EXTINF:-1 tvg-id="" tvg-name="AIS Play 3 TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 3-3
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130737
+
+#EXTINF:-1 tvg-id="" tvg-name="AIS Live 4 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 4
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130754
+
+#EXTINF:-1 tvg-id="" tvg-name="AIS Play 4 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 4-1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130736
+
+#EXTINF:-1 tvg-id="" tvg-name="AIS Play 4 TH VIP Sports" tvg-logo=""group-title="Live Sport",A-LIVE 4-2
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130735
+
+#EXTINF:-1 tvg-id="" tvg-name="AIS Live 5 TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 5
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130755
+
+#EXTINF:-1 tvg-id="" tvg-name="AIS Live 5 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 6
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130753
+
+#EXTINF:-1 tvg-id="" tvg-name="AIS Live 6 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 6-1 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130752
+
+#EXTINF:-1 tvg-id="" tvg-name="AIS Live 6 TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 6-2
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130751
+
+#EXTINF:-1 tvg-id="" tvg-name="AIS Live 7 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 7
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130750
+
+#EXTINF:-1 tvg-id="" tvg-name="AIS Live 7 TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 7-1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130749
+
+#EXTINF:-1 tvg-id="" tvg-name="AIS Live 8 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 8
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130748
+
+#EXTINF:-1 tvg-id="" tvg-name="AIS Live 8 TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 8-1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130747
+
+#EXTINF:-1 tvg-id="" tvg-name="AIS Live 9 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 9
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130746
+
+#EXTINF:-1 tvg-id="" tvg-name="AIS Live 9 TH VIP Sports" tvg-logo="" group-title="Live Sport",A-LIVE 9-1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130745
+
+
+
+#EXTINF:-1 ,<===M-Live(k168)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+url="https://dl.dropbox.com/scl/fi/akkzw7faxqm6p12qeh6ch/1682.m3u?rlkey=s8hf6wxthcykid8s56yvsk8l3&st=xo7bvfdc&dl=0"
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 1 TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 1 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130732
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 1 TH [EN] VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 1-2 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130731
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 2 TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 2
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130724
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 2 TH [EN] VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 2-1 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130723
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 2 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 2-2 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130726
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 2 HD TH [EN] VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 2-3 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130725
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 3 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 3
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130722
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 3 HD TH [EN] VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 3-1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130721
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 3 TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 3-2
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130720
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 3 TH [EN] VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 3-3
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130719
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 4 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 4
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130718
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 4 HD TH [EN] VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 4-1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130717
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 4 TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 4-2
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130716
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 4 TH [EN] VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 4-3
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130715
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 5 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 5
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130714
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 5 HD TH [EN] VIP Sports" tvg-logo=""group-title="Live Sport",M-Live 5-1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130713
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 5 TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 5-2
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130712
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 5 TH [EN] VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 5-3
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130711
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 6 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 6
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130710
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 6 HD TH [EN] VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 6-1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130709
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 6 TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 6-2
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130708
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 6 TH [EN] VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 6-3
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130707
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 7 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 7
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130706
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 7 HD TH [EN] VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 7-1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130705
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 7 TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 7-2
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130704
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 7 TH [EN] VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 7-3
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130703
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 8 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 8
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130702
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 8 HD TH [EN] VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 8-1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130701
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 8 TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 8-2 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130700
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 8 TH [EN] VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 8-3
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130699
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 9 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 9
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130698
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 9 HD TH [EN] VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 9-1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130697
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 9 TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 9-2
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130696
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 9 TH [EN] VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 9-3
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130695
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 10 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 10
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130730
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 10 TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 10-1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130729
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 11 HD TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 11
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130728
+
+#EXTINF:-1 tvg-id="" tvg-name="MonoMax 11 TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 11-1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130727
+
+
 
 
 #EXTINF:-1,<===MOVIE online===>
