@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTM3U
-
 #EXTINF:-1,++++ Today's special +++
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=76210&extension=ts
 
@@ -698,20 +696,27 @@ http://145.239.5.177/562/index.m3u8
 #EXTINF:-1 group-title="Special sports",ES: LIGA DE CAMPEONES SD
 http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165359.ts
 
-#EXTINF:60 group-title="Special sports",Now Sports 1
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112207.m3u8
-#EXTINF:-1 group-title="Special sports",Now Sports 2
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112206.m3u8
-#EXTINF:-1 group-title="Special sports",Now Sports 3
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112205.m3u8
-#EXTINF:-1 group-title="Special sports",Now Sports 4
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112204.m3u8
-#EXTINF:-1 group-title="Special sports",Now Sports 5
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112203.m3u8
-#EXTINF:-1 group-title="Special sports",Now Sports 6
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112202.m3u8
-#EXTINF:-1 group-title="Special sports",Now Sports 7
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112201.m3u8
+
+#EXTINF:-1 tvg-id="Astro.uk" tvg-logo="https://i.postimg.cc/vmRMV7MJ/IMG-3976.png" group-title="🇹🇭 THAILAND",Astro Premier League
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:e9:7c:63&stream=828098&extension=ts&play_token=Z4y6bmBQr2
+#EXTINF:-1 tvg-id="Astro.uk" tvg-logo="https://i.postimg.cc/bN34Pxsx/IMG-3980.png" group-title="🇹🇭 THAILAND",Astro Premier League 2
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:e9:7c:63&stream=854447&extension=ts&play_token=tMWG2be2ST
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/7LNt84JR/IMG-3789.png" group-title="🇹🇭 THAILAND",SuperSport Premier League
+http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=138586&extension=m3u8
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="🇹🇭 THAILAND",Now Sports 1 4k
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/118746
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/7LKcmbVL/IMG-4153.png" group-title="🇹🇭 THAILAND",Now Sports Premier 1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/wMj6cfct/IMG-3777.png" group-title="🇹🇭 THAILAND",Hub Premier 1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112231
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/fW8WTsDY/IMG-3778.png" group-title="🇹🇭 THAILAND",Hub Premier 2
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112229
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/NfVgmxyM/IMG-3779.png" group-title="🇹🇭 THAILAND",Hub Premier 3
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112228
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/NGZ0djCv/IMG-4155.png" group-title="🇹🇭 THAILAND",Hub Premier 4
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112227
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/L43yTJ8f/IMG-4157.png" group-title="🇹🇭 THAILAND",Hub Premier 5
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112226
 
 #EXTINF:-1 group-title="Special sports",BEIN 1
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
@@ -741,6 +746,20 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
 
 
+#EXTINF:60 group-title="Special sports",Now Sports 1
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112207.m3u8
+#EXTINF:-1 group-title="Special sports",Now Sports 2
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112206.m3u8
+#EXTINF:-1 group-title="Special sports",Now Sports 3
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112205.m3u8
+#EXTINF:-1 group-title="Special sports",Now Sports 4
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112204.m3u8
+#EXTINF:-1 group-title="Special sports",Now Sports 5
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112203.m3u8
+#EXTINF:-1 group-title="Special sports",Now Sports 6
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112202.m3u8
+#EXTINF:-1 group-title="Special sports",Now Sports 7
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112201.m3u8
 #EXTINF:-1 group-title="Special sports" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I26.png?width=50" tvg-id="espn.za" ,DSTV: ESPN
 http://livebox.pro/565trail724/6655447788/23369
 
@@ -794,12 +813,13 @@ https://ca01.utako.moe/fighting_tv/index.m3u8
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSE
 
 
-
 #EXTINF:-1 tvg-id="Liverpool.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="Special sports",LFCTV
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/17081.m3u8
 http://panel.sulu1.cc:2052/travis1/travis1/1046
 http://panel.sulu1.cc:2052/travis1/travis1/5073
 
 #EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="Special sports",MUTV
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:e9:7c:63&stream=754447&extension=ts&play_token=Q53duS4c9r
 http://panel.sulu1.cc:2052/travis1/travis1/1057
 
 #EXTINF:-1 tvg-id="Chelsea.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/768px-Chelsea_FC.svg.png" group-title="Special sports",CHELSEA TV
@@ -819,9 +839,22 @@ https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://static.wikia.nocookie.net/internationalbroadcasts/images/1/1b/Premier_League_logo.png" group-title="Special sports,PREMIER LEAGUE TV
 
-
 #EXTINF:-1 group-title="Special sports",La liga Inside
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/kGSRT6xN/IMG-4160.png" group-title="Special sports",V Sport Premier League
+http://sonymax.org:8080/krounbarnasfhj/U7Y1U48QCG/434512
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://static.wikia.nocookie.net/internationalbroadcasts/images/1/1b/Premier_League_logo.png" group-title="Special sports",PREMIER LEAGUE TV
+http://sonymax.org:8080/krounbarnasfhj/U7Y1U48QCG/505778
+
+#EXTINF:-1 tvg-id="USAnetwork.us" tvg-logo="https://i.postimg.cc/Wpqrjwwy/IMG-4330.png" group-title="Special sports",TNT Sports 1 (Event)
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1A:79:e9:7c:63&stream=577967&extension=ts&play_token=Nb0o2QV8Hk
+
+#EXTINF:-1 tvg-id="USAnetwork.us" tvg-logo="https://i.postimg.cc/C56jydtb/IMG-2943.png" group-title="Special sports",USA (Event)
+https://fl31.moveonjoy.com/USA_NETWORK/index.m3u8
+
+
 
 #EXTINF:-1 group-title="Special sports",SPOTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
