@@ -54,6 +54,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 
+
 #EXTINF:-1,===ดิจิตอลทีวี===
 #EXTVLCOPT:network-caching=1000
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
@@ -294,99 +295,6 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS TV
 https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-#EXTVLCOPT:network-caching=1000
-http://panel.sulu1.cc:2052/travis1/travis1/90039
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 2
-http://panel.sulu1.cc:2052/travis1/travis1/90040
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 3
-http://panel.sulu1.cc:2052/travis1/travis1/90041
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 4
-http://panel.sulu1.cc:2052/travis1/travis1/90042
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 5
-http://panel.sulu1.cc:2052/travis1/travis1/90043
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 6
-http://panel.sulu1.cc:2052/travis1/travis1/90044
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 7
-http://panel.sulu1.cc:2052/travis1/travis1/90045
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 8
-http://panel.sulu1.cc:2052/travis1/travis1/90046
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 9
-http://panel.sulu1.cc:2052/travis1/travis1/90047
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 10
-http://panel.sulu1.cc:2052/travis1/travis1/90048
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 11
-http://panel.sulu1.cc:2052/travis1/travis1/90049
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 12
-http://panel.sulu1.cc:2052/travis1/travis1/90050
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 13
-http://panel.sulu1.cc:2052/travis1/travis1/90051
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 14
-http://panel.sulu1.cc:2052/travis1/travis1/90052
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 15
-http://panel.sulu1.cc:2052/travis1/travis1/90053
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 16
-http://panel.sulu1.cc:2052/travis1/travis1/90054
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 17
-http://panel.sulu1.cc:2052/travis1/travis1/90055
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 18
-http://panel.sulu1.cc:2052/travis1/travis1/90056
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 19
-http://panel.sulu1.cc:2052/travis1/travis1/90057
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 20
-http://panel.sulu1.cc:2052/travis1/travis1/90058
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 90's 1
-http://panel.sulu1.cc:2052/travis1/travis1/90059
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 90's 2
-http://panel.sulu1.cc:2052/travis1/travis1/90060
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 90's 3
-http://panel.sulu1.cc:2052/travis1/travis1/90061
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 90's 4
-http://panel.sulu1.cc:2052/travis1/travis1/90062
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation 90's 5
-http://panel.sulu1.cc:2052/travis1/travis1/90063
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 1
-http://panel.sulu1.cc:2052/travis1/travis1/90064
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 2
-http://panel.sulu1.cc:2052/travis1/travis1/90065
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 3
-http://panel.sulu1.cc:2052/travis1/travis1/90066
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 4
-http://panel.sulu1.cc:2052/travis1/travis1/90067
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 5
-http://panel.sulu1.cc:2052/travis1/travis1/90068
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 6
-http://panel.sulu1.cc:2052/travis1/travis1/90069
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 7
-http://panel.sulu1.cc:2052/travis1/travis1/90070
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Animation Classic 8
-http://panel.sulu1.cc:2052/travis1/travis1/90071
-#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 1
-http://panel.sulu1.cc:2052/travis1/travis1/90072
-#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 2
-http://panel.sulu1.cc:2052/travis1/travis1/90073
-#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 3
-http://panel.sulu1.cc:2052/travis1/travis1/90074
-#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 4
-http://panel.sulu1.cc:2052/travis1/travis1/90075
-#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 5
-http://panel.sulu1.cc:2052/travis1/travis1/90076
-#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 6
-http://panel.sulu1.cc:2052/travis1/travis1/90077
-#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 7
-http://panel.sulu1.cc:2052/travis1/travis1/90078
-#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 8
-http://panel.sulu1.cc:2052/travis1/travis1/90079
-#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 9
-http://panel.sulu1.cc:2052/travis1/travis1/90080
-#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 10
-http://panel.sulu1.cc:2052/travis1/travis1/90081
-#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 11
-http://panel.sulu1.cc:2052/travis1/travis1/90082
-#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS 12
-http://panel.sulu1.cc:2052/travis1/travis1/90083
 
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/128/9280/9280598.png" group-title="MUSIC",==========MUSIC==========
@@ -741,16 +649,7 @@ http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112203.m3u8
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112202.m3u8
 #EXTINF:-1 group-title="Special sports",Now Sports 7
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112201.m3u8
-#EXTINF:-1 group-title="Special sports" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I26.png?width=50" tvg-id="espn.za" ,DSTV: ESPN
-http://livebox.pro/565trail724/6655447788/23369
 
-#EXTINF:-1 group-title="Special sports" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SDN.png" tvg-id="espn2.za" ,DSTV: ESPN2
-http://livebox.pro/565trail724/6655447788/120871
-
-#EXTINF:-1 group-title="Special sports",|NG| ESPN
-http://livebox.pro/565trail724/6655447788/170666
-#EXTINF:-1 group-title="Special sports",|NG| ESPN2
-http://livebox.pro/565trail724/6655447788/170667
 
 
 #EXTINF:-1,===Boxing/Wrestling===
