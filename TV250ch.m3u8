@@ -18,8 +18,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 HD
-#EXTVLCOPT:network-caching=1000
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://p0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yYjgzYzVmNWU3MTliOTdkNzA1MAMzA0ZDc0ZTY3YmE0ZWI2
 
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="🇹🇭 THAILAND",CH5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
