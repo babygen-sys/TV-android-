@@ -4,7 +4,8 @@
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 HD
-http://xtvantsc.xyz/Smart.php?id=ch3_pat
+https://p1.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yZWFmZWMxYzY0ZWI3YTRlZGUzNAOTE0OGI5YTExZDExYzJj
+
 
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="🇹🇭 THAILAND",CH5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
@@ -41,7 +42,8 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV HD
-http://xtvantsc.xyz/Smart.php?id=pptv_pat
+https://p1.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yYTQ2N2M4NWEwYWQ0YmZkYzQxNgMWE5MmZhZWI4MTE4NDg3
+
 
 #EXTINF:-1 tvg-id="One31.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png" group-title="🇹🇭 THAILAND",ONE31
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186495&extension=ts
