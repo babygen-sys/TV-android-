@@ -4,8 +4,8 @@
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 HD
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://p1.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yOWE1MTM3OWNiNGU4NzNhYjk1MwODA3MWJiZDM3Mjg4YTUy
+http://otv.to:8080/ayaaz/ayaz11/354544
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302696.ts
 
 
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="🇹🇭 THAILAND",CH5 HD
@@ -43,12 +43,13 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV HD
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://p1.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yZDlhYzQ1ZjhkZTZiM2U3NDNjYQODI1NTExNjJhMjEwYjRm
+http://portal.geniptv.com:8080//live/dmtndmtnkimo/a7GPMeArdf/8669.m3u8
+http://otv.to:8080/ayaaz/ayaz11/354577
 
 
 #EXTINF:-1 tvg-id="One31.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png" group-title="🇹🇭 THAILAND",ONE31
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186495&extension=ts
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+
 
 #EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png" group-title="🇹🇭 THAILAND",GMM25
 https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/bdfd964c7fa447a8811f2a3c4ed3ef1c/playlist_ssaiM.m3u8
@@ -60,7 +61,10 @@ https://global-media.sooplive.com/live/workpoint/master.m3u8
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 
 #EXTINF:-1 tvg-id="TNN.th" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png" group-title="🇹🇭 THAILAND",TNN 16
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186626&extension=ts
+http://grande99826.cdngold.me:80/play/live.php?mac=00:1A:79:81:9C:05&stream=494474&extension=ts&play_token=hqw1IrwPP0
+http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776228&extension=ts&play_token=QH8PfjBP2G
+
+
 
 #EXTINF:-1 tvg-id="News1.th" tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png" group-title="🇹🇭 THAILAND",News 1
 https://server1.streamssl.com/stream/news1.m3u8
@@ -114,6 +118,470 @@ https://cdn-live.dltv.ac.th/dltv13.m3u8
 https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/MHfWy961/IMG-1930.png" group-title="🇹🇭 THAILAND",DLTV 15
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+
+
+
+#EXTINF:-1,<===ช่องต่างประเทศ===>
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",Strongman Champions League
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",FIFA+
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",FIFA+
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",2TV Sport
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",LaLiga TV 2 por Movistar Plus
+http://eagle2024.xyz:80/fuegoipsat439/0sxi3j6w3w/970485
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",One Soccer
+http://nocable.cc:8080/2gKWFe/362900/135810
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",Sportdigital Fussball
+https://a1xs.vip/120001
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",DSports Plus
+http://blast.lat:8080/live/cmy.fredyayala/Q3GVgyJaBGEG/249532.ts
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",CT Sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",SportsTV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",TRT SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+http://iptvde.de:8080/OsmanTokmak/fgxgthus/111498
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",Rai Ssport
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",KTV Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",Aspor
+http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10165
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",Kozoom
+https://tinyurl.com/3ted8am7
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",World Poker Tour
+https://tinyurl.com/ymt52m6r
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",FTF Sports
+https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE_Ultra.m3u8
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",World of Free Sports
+https://shorturl.asia/8LUnO
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",Pac12 insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",MAVTV
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",NHRA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=732
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",Motorsport tv
+https://eu.linear.zype.com/34713153-3597-42c0-bd0d-5023c3f60585/7823e98c-2e5f-49cf-8e73-425e237b86ff-hls4/live.m3u8
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",MTRSPT 1
+https://tinyurl.com/bdhme28r
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",BIKE Channel
+https://cdn09.milano.nxmedge.net/bikechannel/video.m3u8
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",Billiard TV 🇺🇸 🟤
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",Billiard TV ² 🇺🇸 🟤
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",Fishing TV
+https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",WIRED 2 FISH
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",FISHING TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+#EXTINF:-1 group-title="ทีวีต่างประเทศ",JUST FISHING
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
+
+
+#EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
+#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed" group-title="ทีวีต่างประเทศ",A&E US Eastern Feed
+https://tvpass.org/live/AEEast/sd
+#EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles" group-title="ทีวีต่างประเทศ",ABC (KABC) Los Angeles
+https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY" group-title="ทีวีต่างประเทศ",ABC (WABC) New York, NY
+https://tvpass.org/live/WABCDT1/sd
+#EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network" group-title="ทีวีต่างประเทศ",ACC Network
+https://tvpass.org/live/ACCNetwork/sd
+#EXTINF:-1 tvg-id="altitude-sports-denver" tvg-name="Altitude Sports Denver" group-title="ทีวีต่างประเทศ",Altitude Sports Denver
+https://tvpass.org/live/altitude-sports-denver/sd
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed" group-title="ทีวีต่างประเทศ",AMC Eastern Feed
+https://tvpass.org/live/AMCEast/sd
+#EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel" group-title="ทีวีต่างประเทศ",American Heroes Channel
+https://tvpass.org/live/AmericanHeroesChannel/sd
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East" group-title="ทีวีต่างประเทศ",Animal Planet US East
+https://tvpass.org/live/AnimalPlanetEast/sd
+#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East" group-title="ทีวีต่างประเทศ",BBC America East
+https://tvpass.org/live/BBCAmericaEast/sd
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD" group-title="ทีวีต่างประเทศ",BBC News North America HD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
+#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed" group-title="ทีวีต่างประเทศ",BET Eastern Feed
+https://tvpass.org/live/BETEast/sd
+#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her" group-title="ทีวีต่างประเทศ",BET Her
+https://tvpass.org/live/BETHerEast/sd
+#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network" group-title="ทีวีต่างประเทศ",Big Ten Network
+https://tvpass.org/live/BTN/sd
+#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA" group-title="ทีวีต่างประเทศ",Bloomberg TV USA
+https://tvpass.org/live/BloombergTV/sd
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" group-title="ทีวีต่างประเทศ",Boomerang
+https://tvpass.org/live/Boomerang/sd
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed" group-title="ทีวีต่างประเทศ",Bravo USA Eastern Feed
+https://tvpass.org/live/BravoEast/sd
+#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN" group-title="ทีวีต่างประเทศ",C-SPAN
+https://tvpass.org/live/CSPAN/sd
+#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2" group-title="ทีวีต่างประเทศ",C-SPAN 2
+https://tvpass.org/live/CSPAN2/sd
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed" group-title="ทีวีต่างประเทศ",Cartoon Network USA Eastern Feed
+https://tvpass.org/live/CartoonNetworkEast/sd
+#EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca" tvg-name="CBS (KCBS) Los Angeles" group-title="ทีวีต่างประเทศ",CBS (KCBS) Los Angeles
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS) New York, NY" group-title="ทีวีต่างประเทศ",CBS (WCBS) New York, NY
+https://tvpass.org/live/WCBSDT1/sd
+#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA" group-title="ทีวีต่างประเทศ",CBS Sports Network USA
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+#EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network" group-title="ทีวีต่างประเทศ",Chicago Sports Network
+https://tvpass.org/live/chicago-sports-network/sd
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed" group-title="ทีวีต่างประเทศ",Cinemax Eastern Feed
+https://tvpass.org/live/CinemaxEast/sd
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed" group-title="ทีวีต่างประเทศ",CMT US Eastern Feed
+https://tvpass.org/live/CMTEast/sd
+#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA" group-title="ทีวีต่างประเทศ",CNBC USA
+https://tvpass.org/live/CNBC/sd
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US" group-title="ทีวีต่างประเทศ",CNN US
+https://tvpass.org/live/CNN/sd
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed" group-title="ทีวีต่างประเทศ",Comedy Central (US) Eastern Feed
+https://tvpass.org/live/ComedyCentralEast/sd
+#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD" group-title="ทีวีต่างประเทศ",Crime & Investigation Network USA HD
+https://tvpass.org/live/CrimePlusInvestigation/sd
+#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca" tvg-name="CW (KFMB-TV2) San Diego" group-title="ทีวีต่างประเทศ",CW (KFMB-TV2) San Diego
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
+#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia" group-title="ทีวีต่างประเทศ",CW (WDCW) District of Columbia
+https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
+#EXTINF:-1 tvg-id="destination-america" tvg-name="Destination America" group-title="ทีวีต่างประเทศ",Destination America
+https://tvpass.org/live/DestinationAmerica/sd
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="ทีวีต่างประเทศ",Discovery Channel (US) Eastern Feed
+https://tvpass.org/live/DiscoveryChannelEast/sd
+#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel" group-title="ทีวีต่างประเทศ",Discovery Family Channel
+https://tvpass.org/live/DiscoveryFamily/sd
+#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel" group-title="ทีวีต่างประเทศ",Discovery Life Channel
+https://tvpass.org/live/DiscoveryLife/sd
+#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed" group-title="ทีวีต่างประเทศ",Disney Eastern Feed
+https://tvpass.org/live/DisneyChannelEast/sd
+#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East" group-title="ทีวีต่างประเทศ",Disney Junior USA East
+https://tvpass.org/live/DisneyJuniorEast/sd
+#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed" group-title="ทีวีต่างประเทศ",Disney XD USA Eastern Feed
+https://tvpass.org/live/DisneyXDEast/sd
+#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed" group-title="ทีวีต่างประเทศ",E! Entertainment USA Eastern Feed
+https://tvpass.org/live/EEast/sd
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" group-title="ทีวีต่างประเทศ",ESPN
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes" group-title="ทีวีต่างประเทศ",ESPN Deportes
+https://tvpass.org/live/espn-deportes/sd
+#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News" group-title="ทีวีต่างประเทศ",ESPN News
+https://tvpass.org/live/ESPNews/sd
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U" group-title="ทีวีต่างประเทศ",ESPN U
+https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2" group-title="ทีวีต่างประเทศ",ESPN2
+https://tvpass.org/live/ESPN2/sd
+#EXTINF:-1 tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana" group-title="ทีวีต่างประเทศ",Fanduel Sports Indiana
+https://tvpass.org/live/fanduel-sports-indiana/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit" group-title="ทีวีต่างประเทศ",Fanduel Sports Network Detroit
+https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida" group-title="ทีวีต่างประเทศ",Fanduel Sports Network Florida
+https://tvpass.org/live/fanduel-sports-network-florida/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" tvg-name="Fanduel Sports Network Great Lakes" group-title="ทีวีต่างประเทศ",Fanduel Sports Network Great Lakes
+https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-north" tvg-name="Fanduel Sports Network North" group-title="ทีวีต่างประเทศ",Fanduel Sports Network North
+https://tvpass.org/live/fanduel-sports-network-north/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-ohio-cleveland" tvg-name="Fanduel Sports Network Ohio Cleveland" group-title="ทีวีต่างประเทศ",Fanduel Sports Network Ohio Cleveland
+https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-oklahoma" tvg-name="Fanduel Sports Network Oklahoma" group-title="ทีวีต่างประเทศ",Fanduel Sports Network Oklahoma
+https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-san-diego" tvg-name="Fanduel Sports Network San Diego" group-title="ทีวีต่างประเทศ",Fanduel Sports Network San Diego
+https://tvpass.org/live/fanduel-sports-network-san-diego/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-socal" tvg-name="Fanduel Sports Network Socal" group-title="ทีวีต่างประเทศ",Fanduel Sports Network Socal
+https://tvpass.org/live/fanduel-sports-network-socal/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-south-carolinas" tvg-name="Fanduel Sports Network South Carolinas" group-title="ทีวีต่างประเทศ",Fanduel Sports Network South Carolinas
+https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee" group-title="ทีวีต่างประเทศ",Fanduel Sports Network South Tennessee
+https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West" group-title="ทีวีต่างประเทศ",Fanduel Sports Network West
+https://tvpass.org/live/fanduel-sports-network-west/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin" group-title="ทีวีต่างประเทศ",Fanduel Sports Network Wisconsin
+https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-georgia" tvg-name="Fanduel Sports Southeast Georgia" group-title="ทีวีต่างประเทศ",Fanduel Sports Southeast Georgia
+https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-north-carolina" tvg-name="Fanduel Sports Southeast North Carolina" group-title="ทีวีต่างประเทศ",Fanduel Sports Southeast North Carolina
+https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-south-carolina" tvg-name="Fanduel Sports Southeast South Carolina" group-title="ทีวีต่างประเทศ",Fanduel Sports Southeast South Carolina
+https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-name="Fanduel Sports Southeast Tennessee Nashville" group-title="ทีวีต่างประเทศ",Fanduel Sports Southeast Tennessee Nashville
+https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd
+#EXTINF:-1 tvg-id="bally-sports-sun" tvg-name="Fanduel Sports Sun" group-title="ทีวีต่างประเทศ",Fanduel Sports Sun
+https://tvpass.org/live/fanduel-sports-sun/sd
+#EXTINF:-1 tvg-id="fanduel-sports-tennessee-east" tvg-name="Fanduel Sports Tennessee East" group-title="ทีวีต่างประเทศ",Fanduel Sports Tennessee East
+https://tvpass.org/live/fanduel-sports-tennessee-east/sd
+#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed" group-title="ทีวีต่างประเทศ",Food Network USA Eastern Feed
+https://tvpass.org/live/FoodNetworkEast/sd
+#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles" group-title="ทีวีต่างประเทศ",FOX (KTTV) Los Angeles
+https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY" group-title="ทีวีต่างประเทศ",FOX (WNYW) New York, NY
+https://tvpass.org/live/WNYWDT1/sd
+#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business" group-title="ทีวีต่างประเทศ",Fox Business
+https://tvpass.org/live/FoxBusiness/sd
+#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News" group-title="ทีวีต่างประเทศ",Fox News
+https://tvpass.org/live/FoxNewsChannel/sd
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1" group-title="ทีวีต่างประเทศ",Fox Sports 1
+https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2" group-title="ทีวีต่างประเทศ",Fox Sports 2
+https://tvpass.org/live/FoxSports2/sd
+#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed" group-title="ทีวีต่างประเทศ",Freeform East Feed
+https://tvpass.org/live/FreeformEast/sd
+#EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FUSE TV Eastern feed" group-title="ทีวีต่างประเทศ",FUSE TV Eastern feed
+https://tvpass.org/live/FuseEast/sd
+#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel" group-title="ทีวีต่างประเทศ",FX Movie Channel
+https://tvpass.org/live/FXMovieChannel/sd
+#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast" group-title="ทีวีต่างประเทศ",FX Networks East Coast
+https://tvpass.org/live/FXEast/sd
+#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern" group-title="ทีวีต่างประเทศ",FXX USA Eastern
+https://tvpass.org/live/FXXEast/sd
+#EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern" group-title="ทีวีต่างประเทศ",FYI USA Eastern
+https://tvpass.org/live/FYIEast/sd
+#EXTINF:-1 tvg-id="game-show-network-east" tvg-name="Game Show Network East" group-title="ทีวีต่างประเทศ",Game Show Network East
+https://tvpass.org/live/game-show-network-east/sd
+#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA" group-title="ทีวีต่างประเทศ",Golf Channel USA
+https://tvpass.org/live/GolfChannel/sd
+#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed" group-title="ทีวีต่างประเทศ",Hallmark Eastern Feed
+https://tvpass.org/live/HallmarkChannelEast/sd
+#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD" group-title="ทีวีต่างประเทศ",Hallmark Family HD
+https://tvpass.org/live/HallmarkDrama/sd
+#EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD" group-title="ทีวีต่างประเทศ",Hallmark Mystery Eastern HD
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed" group-title="ทีวีต่างประเทศ",HBO Eastern Feed
+https://tvpass.org/live/HBOEast/sd
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed" group-title="ทีวีต่างประเทศ",HBO 2 Eastern Feed
+https://tvpass.org/live/HBO2East/sd
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East" group-title="ทีวีต่างประเทศ",HBO Comedy HD East
+https://tvpass.org/live/HBOComedyEast/sd
+#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed" group-title="ทีวีต่างประเทศ",HBO Family Eastern Feed
+https://tvpass.org/live/HBOFamilyEast/sd
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern" group-title="ทีวีต่างประเทศ",HBO Signature (HBO 3) Eastern
+https://tvpass.org/live/HBOSignatureEast/sd
+#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East" group-title="ทีวีต่างประเทศ",HBO Zone HD East
+https://tvpass.org/live/HBOZoneEast/sd
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed" group-title="ทีวีต่างประเทศ",HGTV USA Eastern Feed
+https://tvpass.org/live/HGTVEast/sd
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="ทีวีต่างประเทศ",History Channel US Eastern Feed
+https://tvpass.org/live/HistoryEast/sd
+#EXTINF:-1 tvg-id="hln" tvg-name="HLN" group-title="ทีวีต่างประเทศ",HLN
+https://tvpass.org/live/HLN/sd
+#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US" group-title="ทีวีต่างประเทศ",Independent Film Channel US
+https://tvpass.org/live/IFCEast/sd
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern" group-title="ทีวีต่างประเทศ",Investigation Discovery USA Eastern
+https://tvpass.org/live/InvestigationDiscoveryEast/sd
+#EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed" group-title="ทีวีต่างประเทศ",ION Eastern Feed
+https://tvpass.org/live/IONTVEast/sd
+#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East" group-title="ทีวีต่างประเทศ",Lifetime Movies East
+https://tvpass.org/live/LifetimeMoviesEast/sd
+#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed" group-title="ทีวีต่างประเทศ",Lifetime Network US Eastern Feed
+https://tvpass.org/live/LifetimeEast/sd
+#EXTINF:-1 tvg-id="logo-east" tvg-name="LOGO East" group-title="ทีวีต่างประเทศ",LOGO East
+https://tvpass.org/live/LogoEast/sd
+#EXTINF:-1 tvg-id="marquee-sports-network" tvg-name="Marquee Sports Network" group-title="ทีวีต่างประเทศ",Marquee Sports Network
+https://tvpass.org/live/marquee-sports-network/sd
+#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey" group-title="ทีวีต่างประเทศ",MeTV Toons (WJLP2) New Jersey
+https://tvpass.org/live/metv-toons/sd
+#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York" group-title="ทีวีต่างประเทศ",MeTV Wjlp New Jerseynew York
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
+#EXTINF:-1 tvg-id="midatlantic-sports-network" tvg-name="Midatlantic Sports Network" group-title="ทีวีต่างประเทศ",Midatlantic Sports Network
+https://tvpass.org/live/midatlantic-sports-network/sd
+#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network" group-title="ทีวีต่างประเทศ",MLB Network
+https://tvpass.org/live/MLBNetwork/sd
+#EXTINF:-1 tvg-id="monumental-sports-network" tvg-name="Monumental Sports Network" group-title="ทีวีต่างประเทศ",Monumental Sports Network
+https://tvpass.org/live/monumental-sports-network/sd
+#EXTINF:-1 tvg-id="moremax-eastern" tvg-name="MoreMax Eastern" group-title="ทีวีต่างประเทศ",MoreMax Eastern
+https://tvpass.org/live/MoreMaxEast/sd
+#EXTINF:-1 tvg-id="motor-trend-hd" tvg-name="Motor Trend HD" group-title="ทีวีต่างประเทศ",Motor Trend HD
+https://tvpass.org/live/Motortrend/sd
+#EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East" group-title="ทีวีต่างประเทศ",MovieMax (Max 6) East
+https://tvpass.org/live/MovieMaxEast/sd
+#EXTINF:-1 tvg-id="msg-madison-square-gardens" tvg-name="MSG Madison Square Gardens" group-title="ทีวีต่างประเทศ",MSG Madison Square Gardens
+https://tvpass.org/live/msg-madison-square-gardens/sd
+#EXTINF:-1 tvg-id="msg-plus" tvg-name="MSG Plus" group-title="ทีวีต่างประเทศ",MSG Plus
+https://tvpass.org/live/msg-plus/sd
+#EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC USA" group-title="ทีวีต่างประเทศ",MSNBC USA
+https://tvpass.org/live/MSNBC/sd
+#EXTINF:-1 tvg-id="mtv-2-east" tvg-name="MTV 2 East" group-title="ทีวีต่างประเทศ",MTV 2 East
+https://tvpass.org/live/mtv-2-east/sd
+#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed" group-title="ทีวีต่างประเทศ",MTV USA Eastern Feed
+https://tvpass.org/live/MTVEast/sd
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" group-title="ทีวีต่างประเทศ",National Geographic US Eastern
+https://tvpass.org/live/NationalGeographicEast/sd
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" group-title="ทีวีต่างประเทศ",National Geographic Wild
+https://tvpass.org/live/NationalGeographicWildEast/sd
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA" group-title="ทีวีต่างประเทศ",NBA TV USA
+https://tvpass.org/live/NBATV/sd
+#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles" group-title="ทีวีต่างประเทศ",NBC (KNBC) Los Angeles
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY" group-title="ทีวีต่างประเทศ",NBC (WNBC) New York, NY
+https://tvpass.org/live/WNBCDT1/sd
+#EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area" group-title="ทีวีต่างประเทศ",NBC Sports Bay Area
+https://tvpass.org/live/nbc-sports-bay-area/sd
+#EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston" group-title="ทีวีต่างประเทศ",NBC Sports Boston
+https://tvpass.org/live/nbc-sports-boston/sd
+#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California" group-title="ทีวีต่างประเทศ",NBC Sports California
+https://tvpass.org/live/nbc-sports-california/sd
+#EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia" group-title="ทีวีต่างประเทศ",NBC Sports Philadelphia
+https://tvpass.org/live/nbc-sports-philadelphia/sd
+#EXTINF:-1 tvg-id="new-england-sports-network" tvg-name="New England Sports Network" group-title="ทีวีต่างประเทศ",New England Sports Network
+https://tvpass.org/live/new-england-sports-network/sd
+#EXTINF:-1 tvg-id="newsmax-tv" tvg-name="NewsMax TV" group-title="ทีวีต่างประเทศ",NewsMax TV
+https://tvpass.org/live/NewsmaxTV/sd
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" group-title="ทีวีต่างประเทศ",NFL Network
+https://tvpass.org/live/NFLNetwork/sd
+#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone" group-title="ทีวีต่างประเทศ",NFL RedZone
+https://tvpass.org/live/NFLRedZone/sd
+#EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA" group-title="ทีวีต่างประเทศ",NHL Network USA
+https://tvpass.org/live/NHLNetwork/sd
+#EXTINF:-1 tvg-id="nick-jr-east" tvg-name="Nick Jr. East" group-title="ทีวีต่างประเทศ",Nick Jr. East
+https://tvpass.org/live/NickJrEast/sd
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed" group-title="ทีวีต่างประเทศ",Nickelodeon USA East Feed
+https://tvpass.org/live/NickelodeonEast/sd
+#EXTINF:-1 tvg-id="nicktoons-east" tvg-name="Nicktoons East" group-title="ทีวีต่างประเทศ",Nicktoons East
+https://tvpass.org/live/NicktoonsEast/sd
+#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern" group-title="ทีวีต่างประเทศ",Oprah Winfrey Network USA Eastern
+https://tvpass.org/live/OWNEast/sd
+#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US" group-title="ทีวีต่างประเทศ",Outdoor Channel US
+https://tvpass.org/live/OutdoorChannel/sd
+#EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed" group-title="ทีวีต่างประเทศ",Oxygen Eastern Feed
+https://tvpass.org/live/OxygenEast/sd
+#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY" group-title="ทีวีต่างประเทศ",PBS (WNET) New York, NY
+https://tvpass.org/live/WNET/sd
+#EXTINF:-1 tvg-id="reelzchannel" tvg-name="ReelzChannel" group-title="ทีวีต่างประเทศ",ReelzChannel
+https://tvpass.org/live/Reelz/sd
+#EXTINF:-1 tvg-id="science" tvg-name="Science" group-title="ทีวีต่างประเทศ",Science
+https://tvpass.org/live/Science/sd
+#EXTINF:-1 tvg-id="sec-network" tvg-name="SEC Network" group-title="ทีวีต่างประเทศ",SEC Network
+https://tvpass.org/live/SECN/sd
+#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed" group-title="ทีวีต่างประเทศ",Showtime Eastern Feed
+https://tvpass.org/live/ShowtimeEast/sd
+#EXTINF:-1 tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern" group-title="ทีวีต่างประเทศ",Showtime 2 Eastern
+https://tvpass.org/live/Showtime2East/sd
+#EXTINF:-1 tvg-id="sny-sportsnet-new-york-comcast" tvg-name="SNY Sportsnet New York Comcast" group-title="ทีวีต่างประเทศ",SNY Sportsnet New York Comcast
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
+#EXTINF:-1 tvg-id="space-city-home-network" tvg-name="Space City Home Network" group-title="ทีวีต่างประเทศ",Space City Home Network
+https://tvpass.org/live/space-city-home-network/sd
+#EXTINF:-1 tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA" group-title="ทีวีต่างประเทศ",Spectrum SportsNet LA
+https://tvpass.org/live/spectrum-sportsnet-la/sd
+#EXTINF:-1 tvg-id="spectrum-sportsnet" tvg-name="Spectrum Sportsnet Lakers" group-title="ทีวีต่างประเทศ",Spectrum Sportsnet Lakers
+https://tvpass.org/live/spectrum-sportsnet/sd
+#EXTINF:-1 tvg-id="sportsnet-east" tvg-name="Sportsnet (East)" group-title="ทีวีต่างประเทศ",Sportsnet (East)
+https://tvpass.org/live/sportsnet-east/sd
+#EXTINF:-1 tvg-id="sportsnet-360" tvg-name="Sportsnet 360" group-title="ทีวีต่างประเทศ",Sportsnet 360
+https://tvpass.org/live/sportsnet-360/sd
+#EXTINF:-1 tvg-id="sportsnet-one" tvg-name="Sportsnet One" group-title="ทีวีต่างประเทศ",Sportsnet One
+https://tvpass.org/live/sportsnet-one/sd
+#EXTINF:-1 tvg-id="sportsnet-ontario" tvg-name="Sportsnet Ontario" group-title="ทีวีต่างประเทศ",Sportsnet Ontario
+https://tvpass.org/live/sportsnet-ontario/sd
+#EXTINF:-1 tvg-id="sportsnet-pacific" tvg-name="Sportsnet Pacific" group-title="ทีวีต่างประเทศ",Sportsnet Pacific
+https://tvpass.org/live/sportsnet-pacific/sd
+#EXTINF:-1 tvg-id="sportsnet-pittsburgh" tvg-name="Sportsnet Pittsburgh" group-title="ทีวีต่างประเทศ",Sportsnet Pittsburgh
+https://tvpass.org/live/sportsnet-pittsburgh/sd
+#EXTINF:-1 tvg-id="sportsnet-west" tvg-name="Sportsnet West" group-title="ทีวีต่างประเทศ",Sportsnet West
+https://tvpass.org/live/sportsnet-west/sd
+#EXTINF:-1 tvg-id="starz-eastern" tvg-name="Starz Eastern" group-title="ทีวีต่างประเทศ",Starz Eastern
+https://tvpass.org/live/StarzEast/sd
+#EXTINF:-1 tvg-id="sundancetv-usa-east" tvg-name="SundanceTV USA East" group-title="ทีวีต่างประเทศ",SundanceTV USA East
+https://tvpass.org/live/SundanceTVEast/sd
+#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed" group-title="ทีวีต่างประเทศ",Syfy Eastern Feed
+https://tvpass.org/live/SyfyEast/sd
+#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East" group-title="ทีวีต่างประเทศ",TBS East
+https://tvpass.org/live/TBSEast/sd
+#EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern" group-title="ทีวีต่างประเทศ",TeenNick Eastern
+https://tvpass.org/live/TeenNickEast/sd
+#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed" group-title="ทีวีต่างประเทศ",Telemundo Eastern Feed
+https://tvpass.org/live/TelemundoEast/sd
+#EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel" group-title="ทีวีต่างประเทศ",The Cooking Channel
+https://tvpass.org/live/CookingChannel/sd
+#EXTINF:-1 tvg-id="the-tennis-channel" tvg-name="The Tennis Channel" group-title="ทีวีต่างประเทศ",The Tennis Channel
+https://tvpass.org/live/TennisChannel/sd
+#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel" group-title="ทีวีต่างประเทศ",The Weather Channel
+https://tvpass.org/live/TheWeatherChannel/sd
+#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern" group-title="ทีวีต่างประเทศ",TLC USA Eastern
+https://tvpass.org/live/TLCEast/sd
+#EXTINF:-1 tvg-id="tmc-us-eastern-feed" tvg-name="TMC (US) Eastern Feed" group-title="ทีวีต่างประเทศ",TMC (US) Eastern Feed
+https://tvpass.org/live/TheMovieChannelEast/sd
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed" group-title="ทีวีต่างประเทศ",TNT Eastern Feed
+https://tvpass.org/live/TNTEast/sd
+#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East" group-title="ทีวีต่างประเทศ",Travel US East
+https://tvpass.org/live/TravelChannelEast/sd
+#EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern" group-title="ทีวีต่างประเทศ",truTV USA Eastern
+https://tvpass.org/live/truTVEast/sd
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1" group-title="ทีวีต่างประเทศ",TSN1
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2" group-title="ทีวีต่างประเทศ",TSN2
+https://tvpass.org/live/tsn2/sd
+#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3" group-title="ทีวีต่างประเทศ",TSN3
+https://tvpass.org/live/tsn3/sd
+#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4" group-title="ทีวีต่างประเทศ",TSN4
+https://tvpass.org/live/tsn4/sd
+#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5" group-title="ทีวีต่างประเทศ",TSN5
+https://tvpass.org/live/tsn5/sd
+#EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA" group-title="ทีวีต่างประเทศ",Turner Classic Movies USA
+https://tvpass.org/live/TCMEast/sd
+#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern" group-title="ทีวีต่างประเทศ",TV Land Eastern
+https://tvpass.org/live/tv-land-eastern/sd
+#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One" group-title="ทีวีต่างประเทศ",TV One
+https://tvpass.org/live/TVOne/sd
+#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids" group-title="ทีวีต่างประเทศ",Universal Kids
+https://tvpass.org/live/UniversalKidsEast/sd
+#EXTINF:-1 tvg-id="univision-eastern-feed" tvg-name="Univision Eastern Feed" group-title="ทีวีต่างประเทศ",Univision Eastern Feed
+https://tvpass.org/live/UnivisionEast/sd
+#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed" group-title="ทีวีต่างประเทศ",USA Network East Feed
+https://tvpass.org/live/USANetworkEast/sd
+#EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed" group-title="ทีวีต่างประเทศ",VH1 Eastern Feed
+https://tvpass.org/live/VH1East/sd
+#EXTINF:-1 tvg-id="vice" tvg-name="VICE" group-title="ทีวีต่างประเทศ",VICE
+https://tvpass.org/live/VICETV/sd
+#EXTINF:-1 tvg-id="we-womens-entertainment-eastern" tvg-name="WE (Women's Entertainment) Eastern" group-title="ทีวีต่างประเทศ",WE (Women's Entertainment) Eastern
+https://tvpass.org/live/WeTVEast/sd
+#EXTINF:-1 tvg-id="wpix-new-york-superstation" tvg-name="WPIX New York (SUPERSTATION)" group-title="ทีวีต่างประเทศ",WPIX New York (SUPERSTATION)
+https://tvpass.org/live/WPIX/sd
+#EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network" group-title="ทีวีต่างประเทศ",Yes Network
+https://tvpass.org/live/yes-network/sd
+#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Penguins @ Nashville Predators (11/14 2:15 PM ET)" group-title="ทีวีต่างประเทศ",Pittsburgh Penguins @ Nashville Predators (11/14 2:15 PM ET)
+https://tvpass.org/live/NHLNetwork/sd
+#EXTINF:-1 tvg-id="" tvg-name="Brooklyn Nets @ Orlando Magic (11/14 7:10 PM ET)" group-title="ทีวีต่างประเทศ",Brooklyn Nets @ Orlando Magic (11/14 7:10 PM ET)
+https://tvpass.org/live/NBA24/sd
+#EXTINF:-1 tvg-id="" tvg-name="Miami Heat @ New York Knicks (11/14 7:10 PM ET)" group-title="ทีวีต่างประเทศ",Miami Heat @ New York Knicks (11/14 7:10 PM ET)
+https://tvpass.org/live/NBA10/sd
+#EXTINF:-1 tvg-id="" tvg-name="Vancouver Canucks @ Carolina Hurricanes (11/14 7:10 PM ET)" group-title="ทีวีต่างประเทศ",Vancouver Canucks @ Carolina Hurricanes (11/14 7:10 PM ET)
+https://tvpass.org/live/NHL04/sd
+#EXTINF:-1 tvg-id="" tvg-name="Clemson Tigers @ Louisville Cardinals (11/14 7:30 PM ET)" group-title="ทีวีต่างประเทศ",Clemson Tigers @ Louisville Cardinals (11/14 7:30 PM ET)
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="" tvg-name="Philadelphia 76ers @ Detroit Pistons (11/14 7:40 PM ET)" group-title="ทีวีต่างประเทศ",Philadelphia 76ers @ Detroit Pistons (11/14 7:40 PM ET)
+https://tvpass.org/live/NBA07/sd
+#EXTINF:-1 tvg-id="" tvg-name="Charlotte Hornets @ Milwaukee Bucks (11/14 8:10 PM ET)" group-title="ทีวีต่างประเทศ",Charlotte Hornets @ Milwaukee Bucks (11/14 8:10 PM ET)
+https://tvpass.org/live/NBA13/sd
+#EXTINF:-1 tvg-id="" tvg-name="Portland Trail Blazers @ Houston Rockets (11/14 8:10 PM ET)" group-title="ทีวีต่างประเทศ",Portland Trail Blazers @ Houston Rockets (11/14 8:10 PM ET)
+https://tvpass.org/live/NBA17/sd
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Lakers @ New Orleans Pelicans (11/14 8:10 PM ET)" group-title="ทีวีต่างประเทศ",Los Angeles Lakers @ New Orleans Pelicans (11/14 8:10 PM ET)
+https://tvpass.org/live/NBA12/sd
+#EXTINF:-1 tvg-id="" tvg-name="Sacramento Kings @ Minnesota Timberwolves (11/14 8:10 PM ET)" group-title="ทีวีต่างประเทศ",Sacramento Kings @ Minnesota Timberwolves (11/14 8:10 PM ET)
+https://tvpass.org/live/NBA21/sd
+#EXTINF:-1 tvg-id="" tvg-name="Philadelphia Flyers @ St Louis Blues (11/14 8:10 PM ET)" group-title="ทีวีต่างประเทศ",Philadelphia Flyers @ St Louis Blues (11/14 8:10 PM ET)
+https://tvpass.org/live/NHL21/sd
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Clippers @ Dallas Mavericks (11/14 8:40 PM ET)" group-title="ทีวีต่างประเทศ",Los Angeles Clippers @ Dallas Mavericks (11/14 8:40 PM ET)
+https://tvpass.org/live/NBA28/sd
+#EXTINF:-1 tvg-id="" tvg-name="Minnesota Golden Gophers @ Oregon Ducks (11/14 9:00 PM ET)" group-title="ทีวีต่างประเทศ",Minnesota Golden Gophers @ Oregon Ducks (11/14 9:00 PM ET)
+https://tvpass.org/live/WNYWDT1/sd
+#EXTINF:-1 tvg-id="" tvg-name="New York Islanders @ Utah Mammoth (11/14 9:10 PM ET)" group-title="ทีวีต่างประเทศ",New York Islanders @ Utah Mammoth (11/14 9:10 PM ET)
+https://tvpass.org/live/NHL09/sd
+#EXTINF:-1 tvg-id="" tvg-name="Golden State Warriors @ San Antonio Spurs (11/14 9:40 PM ET)" group-title="ทีวีต่างประเทศ",Golden State Warriors @ San Antonio Spurs (11/14 9:40 PM ET)
+https://tvpass.org/live/NBA11/sd
 
 
 
@@ -423,79 +891,7 @@ https://fl25.moveonjoy.com/CNBC/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 
 
-#EXTINF:-1,<===ช่องกีฬาทั่วไป===>
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1 group-title="Sports กีฬา",Strongman Champions League
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTINF:-1 group-title="Sports กีฬา",FIFA+
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",FIFA+
-https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports กีฬา",TVRI Sport
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",2TV Sport
-https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",LaLiga TV 2 por Movistar Plus
-http://eagle2024.xyz:80/fuegoipsat439/0sxi3j6w3w/970485
-#EXTINF:-1 group-title="Sports กีฬา",One Soccer
-http://nocable.cc:8080/2gKWFe/362900/135810
-#EXTINF:-1 group-title="Sports กีฬา",Sportdigital Fussball
-https://a1xs.vip/120001
-#EXTINF:-1 group-title="Sports กีฬา",DSports Plus
-http://blast.lat:8080/live/cmy.fredyayala/Q3GVgyJaBGEG/249532.ts
-#EXTINF:-1 group-title="Sports กีฬา",CT Sport
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",SportsTV
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",TRT SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-http://iptvde.de:8080/OsmanTokmak/fgxgthus/111498
-#EXTINF:-1 group-title="Sports กีฬา",Rai Ssport
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-#EXTINF:-1 group-title="Sports กีฬา",KTV Sport Plus
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Aspor
-http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10165
-#EXTINF:-1 group-title="Sports กีฬา",Kozoom
-https://tinyurl.com/3ted8am7
-#EXTINF:-1 group-title="Sports กีฬา",World Poker Tour
-https://tinyurl.com/ymt52m6r
-#EXTINF:-1 group-title="Sports กีฬา",FTF Sports
-https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE_Ultra.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",World of Free Sports
-https://shorturl.asia/8LUnO
-#EXTINF:-1 group-title="Sports กีฬา",Trace Sports
-https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Pac12 insider
-https://pac12-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",MAVTV
-https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",NHRA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=732
-#EXTINF:-1 group-title="Sports กีฬา",Motorsport tv
-https://eu.linear.zype.com/34713153-3597-42c0-bd0d-5023c3f60585/7823e98c-2e5f-49cf-8e73-425e237b86ff-hls4/live.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",MTRSPT 1
-https://tinyurl.com/bdhme28r
-#EXTINF:-1 group-title="Sports กีฬา",BIKE Channel
-https://cdn09.milano.nxmedge.net/bikechannel/video.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Billiard TV 🇺🇸 🟤
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Billiard TV ² 🇺🇸 🟤
-https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",Fishing TV
-https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",WIRED 2 FISH
-https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",FISHING TV
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
-#EXTINF:-1 group-title="Sports กีฬา",JUST FISHING
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
-https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
 
 
 #EXTINF:-1 ,⚽🏁🏈🎾🏌️‍♂️Special sports 1===>
@@ -673,7 +1069,6 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 
 
 
-
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/7LNt84JR/IMG-3789.png" group-title="Special sports",SuperSport Premier League
 http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=138586&extension=m3u8
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="Special sports",Now Sports 1 4k
@@ -749,40 +1144,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 
 
-#EXTINF:-1,===Boxing/Wrestling===
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
-
-#EXTINF:-1 group-title="Special sports",WWE 1
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://tvmate.icu:8080/69NpyV/884735/11645
-
-#EXTINF:-1 group-title="Special sports",|NG| WWE Channel
-http://livebox.pro/565trail724/6655447788/171934
-
-#EXTINF:-1 group-title="Special sports",MMA
-https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
-#EXTINF:-1 group-title="Special sports",MMA Junkie
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
-#EXTINF:-1 group-title="Special sports",Swerve Combat
-https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
-#EXTINF:-1 group-title="Special sports",MMA PFL
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Special sports",UFC
-https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
-#EXTINF:-1 group-title="Special sports",Fighting TV Samurai
-https://ca01.utako.moe/fighting_tv/index.m3u8
-#EXTINF:-1 group-title="Special sports",United Fight Alliance
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
-#EXTINF:-1 group-title="Special sports",Bare Knuckle tv
-https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/486.m3u8
-#EXTINF:-1 group-title="Special sports",UFC
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
-#EXTINF:-1 group-title="Special sports",ITV Deportes
-https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 group-title="Special sports",HIFIGHT
-http://49.0.64.96:8007/HIFIGHT
-#EXTINF:-1 group-title="Special sports",Fighting TV Samurai
-https://ca01.utako.moe/fighting_tv/index.m3u8
 
 
 #EXTINF:-1 ,⚽🏁🏈🎾🏌️‍♂️Special sports 2===>
@@ -897,6 +1258,44 @@ http://66.90.99.154:8278/Arena/playlist.m3u8?tid=MB4B6468719464687194&ct=20361&t
 
 #EXTINF:-1 group-title="Special sports",Arena2
 http://66.90.99.154:8278/Arena2/playlist.m3u8?tid=MEAE5406066854060668&ct=20361&tsum=304cc27fa38b36bbc26ba830334cbbc4
+
+
+#EXTINF:-1,===Boxing/Wrestling===
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
+#EXTINF:-1 group-title="Special sports",WWE 1
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://tvmate.icu:8080/69NpyV/884735/11645
+
+#EXTINF:-1 group-title="Special sports",|NG| WWE Channel
+http://livebox.pro/565trail724/6655447788/171934
+
+#EXTINF:-1 group-title="Special sports",MMA
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+#EXTINF:-1 group-title="Special sports",MMA Junkie
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
+#EXTINF:-1 group-title="Special sports",Swerve Combat
+https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
+#EXTINF:-1 group-title="Special sports",MMA PFL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Special sports",UFC
+https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+#EXTINF:-1 group-title="Special sports",Fighting TV Samurai
+https://ca01.utako.moe/fighting_tv/index.m3u8
+#EXTINF:-1 group-title="Special sports",United Fight Alliance
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+#EXTINF:-1 group-title="Special sports",Bare Knuckle tv
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/486.m3u8
+#EXTINF:-1 group-title="Special sports",UFC
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+#EXTINF:-1 group-title="Special sports",ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 group-title="Special sports",HIFIGHT
+http://49.0.64.96:8007/HIFIGHT
+#EXTINF:-1 group-title="Special sports",Fighting TV Samurai
+https://ca01.utako.moe/fighting_tv/index.m3u8
+
+
 
 #EXTINF:-1,<===🍿🍿🍿Premium entertainment===>
 http://103.114.203.129:8080/ott168/ott168/81
