@@ -3,10 +3,12 @@
 #EXTVLCOPT:network-caching=1000
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CableChannel37.th" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png" group-title="Undefined",Cable Channel 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 HD
 http://otv.to:8080/ayaaz/ayaz11/354544
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302696.ts
-
 
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="🇹🇭 THAILAND",CH5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
@@ -1300,9 +1302,11 @@ https://ca01.utako.moe/fighting_tv/index.m3u8
 #EXTINF:-1,<===🍿🍿🍿Premium entertainment===>
 http://103.114.203.129:8080/ott168/ott168/81
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", HBO HD
+
+#EXTINF:-1 tvg-id="HBO.th" tvg-name="HBO TH" tvg-logo="http://45.144.165.187:8080/images/02533372af53048a55cf973c53c4ce87.png" group-title="Entertainment บันเทิง", HBO HD
+http://103.114.203.129:8080/ott168/ott168/77
 http://45.144.165.187:8080/playid168/12345/77
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186515&extension=ts
+
 
 #EXTINF:-1 group-title="Entertainment บันเทิง", HBO HITS
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186429&extension=ts
@@ -1313,13 +1317,17 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186427&extension=
 #EXTINF:-1 group-title="Entertainment บันเทิง", HBO Signature HD
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186513&extension=ts
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", CINEMAX
+#EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="Entertainment บันเทิง", CINEMAX
+http://103.114.203.129:8080/ott168/ott168/78
 http://45.144.165.187:8080/playid168/12345/78
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", AXN
+
+#EXTINF:-1 tvg-id="1205" tvg-name="AXN" tvg-logo="http://45.144.165.187:8080/images/8886b87cdfaacd2b90e4d37d25132840.png" group-title="Entertainment บันเทิง", AXN
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
-#EXTINF:-1 group-title="Entertainment บันเทิง", Axn
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186394&extension=ts
+
+#EXTINF:-1 tvg-id="1205" tvg-name="AXN" tvg-logo="http://45.144.165.187:8080/images/8886b87cdfaacd2b90e4d37d25132840.png" group-title="Entertainment บันเทิง", Axn
+http://45.144.165.187:8080/playid/2535/75
+
 
 #EXTINF:-1 group-title="Entertainment บันเทิง", Universal
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
@@ -1340,12 +1348,13 @@ http://49.0.64.96:8007/PING
 #EXTINF:-1 group-title="Entertainment บันเทิง", MoreMAX
 http://panel.sulu1.cc:2052/travis1/travis1/88752
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", Rock-Action
+#EXTINF:-1 tvg-id="368398" tvg-name="Rock Action" tvg-logo="http://45.144.165.187:8080/images/a4a2059acd877b13c756c451ce6e3e9a.png" group-title="Entertainment บันเทิง", Rock-Action
 http://103.114.203.129:8080/ott168/ott168/81
-http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=191950&extension=ts
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", Rock-Entertainment
+
+#EXTINF:-1 tvg-id="NBT.th" tvg-name="Rock Entertainment" tvg-logo="http://45.144.165.187:8080/images/db01895bfa444e1e1bfd521ef35d90d0.jpg" group-title="Entertainment บันเทิง", Rock-Entertainment
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
+
 
 #EXTINF:-1 group-title="Entertainment บันเทิง", Premium movie
 http://45.144.165.187:8080/playid168/12345/22882
@@ -1403,25 +1412,26 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 #EXTINF:-1 group-title="Entertainment บันเทิง", KbS World
 http://mytv.dothome.co.kr/ch/catv/7.php
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", MOVIE HITS
-https://playtvthai.github.io/m3u8/movie/truehits.m3u8
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", THAI FILM
-http://45.144.165.187:8080/playid168/12345/64
+#EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="Film HD " tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="Entertainment บันเทิง",Film HD 1
+http://45.144.165.187:8080/playid168/2535/67
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", FILM 1
-http://45.144.165.187:8080/playid168/12345/67
+#EXTINF:-1 tvg-id="TrueFilm2.th" tvg-name="True Film HD2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="Entertainment บันเทิง",Film HD 2
+http://45.144.165.187:8080/playid168/2535/79
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", FILM 2
-http://45.144.165.187:8080/playid168/12345/79
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", Series
-#EXTVLCOPT:network-caching=1000
-http://live3.inwstream.com:1936/transcoder_F1/trueseries_inwiptv.stream/playlist.m3u8
-https://e109.hellotherepadawan.org/v5/BIMWq3YkONcTBqXnUiXmXw/1756836429/92e6f341c728a6e9b2f28b85333fae8d/gpzy0LattedyHmCQz7uNFg/1756847109/live/dx-origin/sd-series_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AsianHit" tvg-logo="http://45.144.165.187:8080/images/fdfcb751d560b7211e90e0a87159dd29.png" group-title="Entertainment บันเทิง",AsianHit
+https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", FILM ASIAN
-http://45.144.165.187:8080/playid168/12345/70
+#EXTINF:-1 tvg-id="TrueThaiFilm.th" tvg-name="TRUE THAI FILM" tvg-logo="http://45.144.165.187:8080/images/a4c6a4f52067abbfeba3817e7f8b9577.png"group-title="Entertainment บันเทิง" ,THAI FILM
+http://45.144.165.187:8080/playid168/2535/64
+
+#EXTINF:-1 tvg-id="TrueMovieHits.th" tvg-name="Movie Hits " tvg-logo="http://45.144.165.187:8080/images/43e6294ced1bd817a317e5d46d0ab5fd.png" group-title="Entertainment บันเทิง",Movie Hits 
+http://45.144.165.187:8080/playid168/2535/66
+
+#EXTINF:-1 tvg-id="" tvg-name="X-Zyte HD" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/01/2043f300-d79f-11ee-b9a6-6d06a62b7aad_webp_original.webp" group-title="Entertainment บันเทิง",X-Zyte HD
+http://45.144.165.187:8080/playid168/2535/63
+
 
 #EXTINF:-1 group-title="Entertainment บันเทิง", Family พากย์ไทย
 http://49.0.64.96:8007/Cartoonumi
