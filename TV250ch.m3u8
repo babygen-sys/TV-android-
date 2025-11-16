@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 group-title="Live Sport",แบตมินตัน
+https://slave01.appball.vip/hls/q3w-2jPcdoRH81kICUzaZw/1763292039/truesport7.m3u8
+
+#EXTINF:-1 group-title="Live Sport",One-1
+https://slave03.appball.vip/hls/3ph5_ivvwRN7ac1Ff_6e1Q/1763292406/ch11.m3u8
+
+#EXTINF:-1 group-title="Live Sport",Golf 
+https://slave03.appball.vip/hls/ZcGsOWZk_0SpkswyuxyYfg/1763292619/golftv.m3u8
+
+
+#EXTINF:-1 group-title="Live Sport",Live1 MotoGP
+https://slave03.appball.vip/hls/bsfUVXRgpREQbWiRHj3nlw/1763293068/spotv2.m3u8
+
+
 #EXTINF:-1,===ดิจิตอลทีวี===
 #EXTVLCOPT:network-caching=1000
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
