@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Sport",แบตมินตัน
-https://slave03.appball.vip/hls/NDSxwNIX5u8b7KD-E8dYHA/1763308152/truesport7.m3u8
-https://slave01.appball.vip/hls/q3w-2jPcdoRH81kICUzaZw/1763292039/truesport7.m3u8
-
-
-#EXTINF:-1 group-title="Live Sport",One-1
-http://119.59.118.159/live/ch31/index.m3u8
-https://slave01.appball.vip/hls/t4rHKvXWePy4pmW4ApAsPw/1763307508/ch11.m3u8
-
-
-#EXTINF:-1 group-title="Live Sport",Golf 
-https://slave01.appball.vip/hls/Vh4jYiuyda-vtPl_yIMngQ/1763308115/golftv.m3u8
-https://slave03.appball.vip/hls/ZcGsOWZk_0SpkswyuxyYfg/1763292619/golftv.m3u8
-
-
-
-#EXTINF:-1 group-title="Live Sport",Live1 MotoGP
-https://slave01.appball.vip/hls/BJtvRpUNpCs2aHOqtGy_aA/1763308042/spotv2.m3u8
-https://slave03.appball.vip/hls/bsfUVXRgpREQbWiRHj3nlw/1763293068/spotv2.m3u8
-
-
-
 #EXTINF:-1,===ดิจิตอลทีวี===
 #EXTVLCOPT:network-caching=1000
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
@@ -1294,7 +1272,6 @@ http://103.114.203.129:8080/ott168/ott168/81
 
 #EXTINF:-1 tvg-id="HBO.th" tvg-name="HBO TH" tvg-logo="http://45.144.165.187:8080/images/02533372af53048a55cf973c53c4ce87.png" group-title="Entertainment บันเทิง", HBO HD
 http://103.114.203.129:8080/ott168/ott168/77
-http://45.144.165.187:8080/playid168/12345/77
 
 
 #EXTINF:-1 group-title="Entertainment บันเทิง", HBO HITS
