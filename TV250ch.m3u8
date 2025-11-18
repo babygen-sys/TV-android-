@@ -3,11 +3,19 @@
 #EXTVLCOPT:network-caching=1000
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CableChannel37.th" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png" group-title="Undefined",Cable Channel 37
-http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302696.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.adintrend.tv/
+#EXTVLCOPT:http-reconnect=true
+
+#EXTVLCOPT:alternate-url=https://p1.cdn.vet/live/ch3/i/ch3i.m3u8
+#EXTVLCOPT:alternate-url=https://p0.cdn.vet/live/ch3/i/ch3i.m3u8
+#EXTVLCOPT:alternate-url=https://p2.cdn.vet/live/ch3/i/ch3i.m3u8
+#EXTVLCOPT:alternate-url=https://p3.cdn.vet/live/ch3/i/ch3i.m3u8
+
+https://p0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yOTU0YTY1ODc5NjI0NDg1YWQ4ZgNGM1OGU2MmMyMWRmM2Mz
+
 
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="🇹🇭 THAILAND",CH5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
@@ -66,7 +74,6 @@ http://grande99826.cdngold.me:80/play/live.php?mac=00:1A:79:81:9C:05&stream=4944
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776228&extension=ts&play_token=QH8PfjBP2G
 
 
-
 #EXTINF:-1 tvg-id="News1.th" tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png" group-title="🇹🇭 THAILAND",News 1
 https://server1.streamssl.com/stream/news1.m3u8
 
@@ -75,6 +82,8 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/63sPMnRJ/IMG-1854.png" group-title="🇹🇭 THAILAND",Cool Channel
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+#EXTINF:-1 tvg-id="CableChannel37.th" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png" group-title="Undefined",Cable Channel 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/LsTzr0jt/IMG-2585.png" group-title="🇹🇭 THAILAND",มวลชนทีวี
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/GtRYFgq8/IMG-2429.png" group-title="🇹🇭 THAILAND",Chiangrai Channel
@@ -122,7 +131,6 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 
 
 
-
 #EXTINF:-1,<===ช่องต่างประเทศ===>
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
@@ -139,8 +147,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",LaLiga TV 2 por Movistar Plus
 http://eagle2024.xyz:80/fuegoipsat439/0sxi3j6w3w/970485
-#EXTINF:-1 group-title="ทีวีต่างประเทศ",One Soccer
-http://nocable.cc:8080/2gKWFe/362900/135810
+
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",Sportdigital Fussball
 https://a1xs.vip/120001
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",DSports Plus
@@ -157,8 +164,7 @@ http://iptvde.de:8080/OsmanTokmak/fgxgthus/111498
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",KTV Sport Plus
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="ทีวีต่างประเทศ",Aspor
-http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10165
+
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",Kozoom
 https://tinyurl.com/3ted8am7
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",World Poker Tour
@@ -183,8 +189,7 @@ https://tinyurl.com/bdhme28r
 https://cdn09.milano.nxmedge.net/bikechannel/video.m3u8
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="ทีวีต่างประเทศ",Billiard TV 🇺🇸 🟤
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",Billiard TV ² 🇺🇸 🟤
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",Fishing TV
@@ -196,6 +201,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ee
 #EXTINF:-1 group-title="ทีวีต่างประเทศ",JUST FISHING
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
+
 
 
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
@@ -553,37 +559,6 @@ https://tvpass.org/live/WeTVEast/sd
 https://tvpass.org/live/WPIX/sd
 #EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network" group-title="ทีวีต่างประเทศ",Yes Network
 https://tvpass.org/live/yes-network/sd
-#EXTINF:-1 tvg-id="" tvg-name="Pittsburgh Penguins @ Nashville Predators (11/14 2:15 PM ET)" group-title="ทีวีต่างประเทศ",Pittsburgh Penguins @ Nashville Predators (11/14 2:15 PM ET)
-https://tvpass.org/live/NHLNetwork/sd
-#EXTINF:-1 tvg-id="" tvg-name="Brooklyn Nets @ Orlando Magic (11/14 7:10 PM ET)" group-title="ทีวีต่างประเทศ",Brooklyn Nets @ Orlando Magic (11/14 7:10 PM ET)
-https://tvpass.org/live/NBA24/sd
-#EXTINF:-1 tvg-id="" tvg-name="Miami Heat @ New York Knicks (11/14 7:10 PM ET)" group-title="ทีวีต่างประเทศ",Miami Heat @ New York Knicks (11/14 7:10 PM ET)
-https://tvpass.org/live/NBA10/sd
-#EXTINF:-1 tvg-id="" tvg-name="Vancouver Canucks @ Carolina Hurricanes (11/14 7:10 PM ET)" group-title="ทีวีต่างประเทศ",Vancouver Canucks @ Carolina Hurricanes (11/14 7:10 PM ET)
-https://tvpass.org/live/NHL04/sd
-#EXTINF:-1 tvg-id="" tvg-name="Clemson Tigers @ Louisville Cardinals (11/14 7:30 PM ET)" group-title="ทีวีต่างประเทศ",Clemson Tigers @ Louisville Cardinals (11/14 7:30 PM ET)
-https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="" tvg-name="Philadelphia 76ers @ Detroit Pistons (11/14 7:40 PM ET)" group-title="ทีวีต่างประเทศ",Philadelphia 76ers @ Detroit Pistons (11/14 7:40 PM ET)
-https://tvpass.org/live/NBA07/sd
-#EXTINF:-1 tvg-id="" tvg-name="Charlotte Hornets @ Milwaukee Bucks (11/14 8:10 PM ET)" group-title="ทีวีต่างประเทศ",Charlotte Hornets @ Milwaukee Bucks (11/14 8:10 PM ET)
-https://tvpass.org/live/NBA13/sd
-#EXTINF:-1 tvg-id="" tvg-name="Portland Trail Blazers @ Houston Rockets (11/14 8:10 PM ET)" group-title="ทีวีต่างประเทศ",Portland Trail Blazers @ Houston Rockets (11/14 8:10 PM ET)
-https://tvpass.org/live/NBA17/sd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Lakers @ New Orleans Pelicans (11/14 8:10 PM ET)" group-title="ทีวีต่างประเทศ",Los Angeles Lakers @ New Orleans Pelicans (11/14 8:10 PM ET)
-https://tvpass.org/live/NBA12/sd
-#EXTINF:-1 tvg-id="" tvg-name="Sacramento Kings @ Minnesota Timberwolves (11/14 8:10 PM ET)" group-title="ทีวีต่างประเทศ",Sacramento Kings @ Minnesota Timberwolves (11/14 8:10 PM ET)
-https://tvpass.org/live/NBA21/sd
-#EXTINF:-1 tvg-id="" tvg-name="Philadelphia Flyers @ St Louis Blues (11/14 8:10 PM ET)" group-title="ทีวีต่างประเทศ",Philadelphia Flyers @ St Louis Blues (11/14 8:10 PM ET)
-https://tvpass.org/live/NHL21/sd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Clippers @ Dallas Mavericks (11/14 8:40 PM ET)" group-title="ทีวีต่างประเทศ",Los Angeles Clippers @ Dallas Mavericks (11/14 8:40 PM ET)
-https://tvpass.org/live/NBA28/sd
-#EXTINF:-1 tvg-id="" tvg-name="Minnesota Golden Gophers @ Oregon Ducks (11/14 9:00 PM ET)" group-title="ทีวีต่างประเทศ",Minnesota Golden Gophers @ Oregon Ducks (11/14 9:00 PM ET)
-https://tvpass.org/live/WNYWDT1/sd
-#EXTINF:-1 tvg-id="" tvg-name="New York Islanders @ Utah Mammoth (11/14 9:10 PM ET)" group-title="ทีวีต่างประเทศ",New York Islanders @ Utah Mammoth (11/14 9:10 PM ET)
-https://tvpass.org/live/NHL09/sd
-#EXTINF:-1 tvg-id="" tvg-name="Golden State Warriors @ San Antonio Spurs (11/14 9:40 PM ET)" group-title="ทีวีต่างประเทศ",Golden State Warriors @ San Antonio Spurs (11/14 9:40 PM ET)
-https://tvpass.org/live/NBA11/sd
-
 
 
 #EXTINF:-1,<==== entertainment ====>
@@ -801,30 +776,6 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="MUSIC",Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="MUSIC",J.E.K.A. Muzzik (720p)
-https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",MUZZIK (720p)
-https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",Muzzik ELECTRO (720p)
-https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",Muzzik FLASHBACK (720p)
-https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",Muzzik MOBA (720p)
-https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",Muzzik POP STAR (720p)
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",Muzzik Rock&Roll (720p)
-https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",Muzzik SENSE (720p)
-https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",Muzzik TIKTAK (720p)
-https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",Muzzik ZZ TV (720p)
-https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",Senato TV (1080p)
-https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC",Worldwide Muzzik (720p)
-https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 
 
 #EXTINF:-1,<=== สารคดี ====>
@@ -886,12 +837,9 @@ https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
 https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 group-title="News ข่าว",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:-1 group-title="News ข่าว",CNBC World
-https://fl25.moveonjoy.com/CNBC/index.m3u8
+
 #EXTINF:-1 group-title="News ข่าว",CNBC Europe HD 
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-
-
 
 
 
@@ -902,6 +850,10 @@ https://pepsi.abntv.live/hls/4spstream.m3u8
 
 #EXTINF:-1 group-title="Special sports",🏁 F1
 http://66.90.99.154:8278/tiankongf1/playlist.m3u8?tid=MFFF3610076936100769&ct=20361&tsum=c3de2703077fe3e4f3c728f6c9ff7ac2
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/onechampionship.png", group-title="SPORT_PLUS" tvg-id="OneChampionshipTv.id" ch-number="30" tvg-name="One Championship tv"group-title="Special sports",One Championship tv
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 group-title="Special sports",4Sports
 https://pepsi.abntv.live/hls/4spstream.m3u8
@@ -950,7 +902,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
 #EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/307/437307-SNAPSHOT-l.png" group-title="Special sports", SPOTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
-#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/308/437308-SNAPSHOT-l.png" group-title="Channel Vision+", SPOTV 2
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/308/437308-SNAPSHOT-l.png" group-title="Special sports", SPOTV 2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 
@@ -1035,39 +987,11 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Sport_TV_2023.svg" group-title="Special sports", FSBL sports
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117221
 
-#EXTINF:-1 group-title="Special sports",BEIN 1
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
-
-#EXTINF:-1 group-title="Special sports",BEIN 2
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142756
-
-#EXTINF:-1 group-title="Special sports",BEIN 3
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142757
-
-#EXTINF:-1 group-title="Special sports",BEIN 4
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142758
-
-#EXTINF:-1 group-title="Special sports",BEIN 5
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142759
-
-#EXTINF:-1 group-title="Special sports",BEIN 6
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142760
-
-#EXTINF:-1 group-title="Special sports",BEIN 7
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142761
-
-#EXTINF:-1 group-title="Special sports",BEIN 8
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
-
-#EXTINF:-1 group-title="Special sports",BEIN 9
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
-
 
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/7LNt84JR/IMG-3789.png" group-title="Special sports",SuperSport Premier League
 http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=138586&extension=m3u8
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="Special sports",Now Sports 1 4k
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/118746
+
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/7LKcmbVL/IMG-4153.png" group-title="Special sports",Now Sports Premier 1
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/wMj6cfct/IMG-3777.png" group-title="Special sports",Hub Premier 1
@@ -1097,17 +1021,3 @@ http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112203.m3u8
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112202.m3u8
 #EXTINF:-1 group-title="Special sports",Now Sports 7
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112201.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Sportstar.png,sportstars HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000111/1024.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Sportstar.png,Sportstars 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Sportstar.png,Sportstars 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Sportstar.png,Sportstars 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
