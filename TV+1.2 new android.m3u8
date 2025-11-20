@@ -45,6 +45,7 @@ https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV HD
+https://ww.dooballfree.vip/live/pptv/playlist.m3u8
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1097262
 
 
@@ -1085,14 +1086,15 @@ http://103.114.203.129:8080/ott168/ott168/81
 http://103.114.203.129:8080/ott168/ott168/77
 
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", HBO HITS
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186429&extension=ts
+#EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/RFGyFdqV/IMG-4186.png", HBO hits
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776088&extension=ts&play_token=wLRkQxvm2R
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", HBO Fiamy 
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186427&extension=ts
+#EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1024px-HBO_Family_Asia_logo.svg.png", HBO family
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776089&extension=ts&play_token=NCAyfA7OHT
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", HBO Signature HD
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186513&extension=ts
+#EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/x85f9LV3/IMG-4185.png", HBO Signature 
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776119&extension=ts&play_token=OhwsdS6V74
+
 
 #EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="Entertainment บันเทิง", CINEMAX
 http://103.114.203.129:8080/ott168/ott168/78
