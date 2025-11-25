@@ -1114,79 +1114,43 @@ https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 http://45.144.165.187:8080/playid/2535/75
 
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", Universal
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTINF:-1 tvg-id="Fuck.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/k5KBRQVj/IMG-3102.png",Universal
 http://49.0.64.96:8007/H-Channel
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", IZAA MOVIE
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://49.0.64.96:8007/IZAA
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", Series
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
+#EXTINF:-1 tvg-id="Zee.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/BbcqTvHT/IMG-2990.png", Zee Nung
+https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Fuck.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/8C77gQvL/IMG-2955.png", TV Series 
 http://49.0.64.96:8007/SERIES
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", Movie
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://49.0.64.96:8007/PING
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", MoreMAX
-http://panel.sulu1.cc:2052/travis1/travis1/88752
-
-#EXTINF:-1 tvg-id="368398" tvg-name="Rock Action" tvg-logo="http://45.144.165.187:8080/images/a4a2059acd877b13c756c451ce6e3e9a.png" group-title="Entertainment บันเทิง", Rock-Action
-http://103.114.203.129:8080/ott168/ott168/81
+#EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/YqvYk5Qp/IMG-3305.png", Warner TV
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776044&extension=ts&play_token=Ntwvb0G1jw
 
 
 #EXTINF:-1 tvg-id="NBT.th" tvg-name="Rock Entertainment" tvg-logo="http://45.144.165.187:8080/images/db01895bfa444e1e1bfd521ef35d90d0.jpg" group-title="Entertainment บันเทิง", Rock-Entertainment
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
 
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", Premium movie
-http://45.144.165.187:8080/playid168/12345/22882
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", หนังพากย์ไทย
-http://49.0.64.96:8007/IZAA
-
-#EXTINF:-1 tvg-id="CCM.cn" tvg-logo="https://i.postimg.cc/MGknscth/IMG-2909.png" group-title="Entertainment บันเทิง",Celestial Classic Movie
-https://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/sDm3DKgL/IMG-3782.png" group-title="Entertainment บันเทิง",Meiya Movie
 https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="IQIYI.cn" tvg-logo="https://i.postimg.cc/y89DdqFc/IMG-2926.png" group-title="Entertainment บันเทิง",IQIYI
 https://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/bY2CWnRG/IMG-3244.png" group-title="Entertainment บันเทิง",TVN Movies
-http://grande99826.cdngold.me:80/play/live.php?mac=00:1A:79:81:9C:05&stream=659318&extension=ts&play_token=y3gyhQLEbt
-#EXTINF:-1 tvg-id="Newid.kr" tvg-logo="https://i.postimg.cc/tgZY1ck4/IMG-2189.png" group-title="Entertainment บันเทิง",KMOVIES
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+
+
 #EXTINF:-1 tvg-id="Kdrama.uk" tvg-logo="https://i.postimg.cc/90crSQ0X/IMG-2655.png" group-title="Entertainment บันเทิง",RomCom K-Drama
 https://tinyurl.com/3h2e4rtz
+
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/cCBR7Whp/IMG-3288.png" group-title="Entertainment บันเทิง",& TV
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="JKN18.th" tvg-logo="https://i.postimg.cc/t70L1xG0/IMG-4003.png" group-title="Entertainment บันเทิง",JKN 18
-https://load1.v2h-cdn.com/digitaltv/jkn/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", movies1
-#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
-http://49.0.64.96:8007/SERIES
-
-#EXTINF:-1 group-title="Entertainment บันเทิง", movies2
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://49.0.64.96:8007/IZAA
-
-#EXTINF:-1 group-title="Entertainment บันเทิง", movies3
-#EXTVLCOPT:http-user-agent=https://playid.short.gy/
-http://49.0.64.96:8007/PING
 
 #EXTINF:-1 group-title="Entertainment บันเทิง", movies4
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186493&extension=ts
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", Zee Nung
-https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
-
-#EXTINF:-1 group-title="Entertainment บันเทิง", Warner TV
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186637&extension=ts
-
-#EXTINF:-1 group-title="Entertainment บันเทิง", Paramount
-https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 
 #EXTINF:-1 group-title="Entertainment บันเทิง", VIPA
 https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
@@ -1194,8 +1158,6 @@ https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-south
 #EXTINF:-1 group-title="Entertainment บันเทิง", thrill
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", KbS World
-http://mytv.dothome.co.kr/ch/catv/7.php
 
 
 #EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="Film HD " tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="Entertainment บันเทิง",Film HD 1
@@ -1214,18 +1176,10 @@ http://45.144.165.187:8080/playid168/2535/64
 #EXTINF:-1 tvg-id="TrueMovieHits.th" tvg-name="Movie Hits " tvg-logo="http://45.144.165.187:8080/images/43e6294ced1bd817a317e5d46d0ab5fd.png" group-title="Entertainment บันเทิง",Movie Hits 
 http://45.144.165.187:8080/playid168/2535/66
 
-#EXTINF:-1 tvg-id="" tvg-name="X-Zyte HD" tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/01/2043f300-d79f-11ee-b9a6-6d06a62b7aad_webp_original.webp" group-title="Entertainment บันเทิง",X-Zyte HD
-http://45.144.165.187:8080/playid168/2535/63
-
 
 #EXTINF:-1 group-title="Entertainment บันเทิง", Family พากย์ไทย
 http://49.0.64.96:8007/Cartoonumi
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", ซีรีย์ พากย์ไทย
-http://49.0.64.96:8007/PING
-
-#EXTINF:-1 group-title="Entertainment บันเทิง", หนัง พากย์ไทย
-http://49.0.64.96:8007/IZAA
 
 #EXTINF:-1 group-title="Entertainment บันเทิง", หนังยอดเยี่ยม
 http://49.0.64.96:8007/H-Channel
@@ -1241,14 +1195,9 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
 
+
 #EXTINF:-1 tvg-id="CN.us" tvg-logo="https://i.postimg.cc/MZr3y7sp/IMG-2974.png" group-title="Cartoon การ์ตูน",Cartoon Network TH
-http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=191714&extension=m3u8&play_token=
-
-#EXTINF:-1 gtvg-id="CN.us" tvg-logo="https://i.postimg.cc/MZr3y7sp/IMG-2974.png" group-title="Cartoon การ์ตูน",Cartoon Network HD
-http://panel.sulu1.cc:2052/travis1/travis1/3227
-
-#EXTINF:-1 gtvg-id="CN.us" tvg-logo="https://i.postimg.cc/MZr3y7sp/IMG-2974.png" group-title="Cartoon การ์ตูน",Cartoon Network Japan
-https://ca01.utako.moe/cartoon_network/index.m3u8
+http://grande99826.cdngold.me:80/play/live.php?mac=00:1A:79:81:9C:05&stream=494491&extension=ts&play_token=M1VfbnbOQ8
 
 #EXTINF:-1 gtvg-id="CN.us" tvg-logo="https://i.postimg.cc/MZr3y7sp/IMG-2974.png" group-title="Cartoon การ์ตูน",Cartoon Network US
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1128
@@ -1261,6 +1210,8 @@ http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/763
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/JzMTJMz4/IMG-3549.png" group-title="Cartoon การ์ตูน",Cartoonito
 http://45.144.165.187:8080/playid168/12345/60
+http://grande99826.cdngold.me:80/play/live.php?mac=00:1A:79:81:9C:05&stream=494491&extension=ts&play_token=M1VfbnbOQ8
+
 
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/0NMWJyk9/IMG-3451.webp" group-title="Cartoon การ์ตูน",Nick Jr.
