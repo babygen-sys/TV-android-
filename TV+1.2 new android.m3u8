@@ -1009,13 +1009,13 @@ http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34638
 http://www.alhaiba.com/6V1N24N/LE49Y1F/957706
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV 2 HEVC
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1052589
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="group-title="Special sports",SPOTV 2 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV 2 HD
 http://www.alhaiba.com/6V1N24N/LE49Y1F/957732
 
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="Special sports",SPOTV2
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="Special sports",SPOTV2
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV2
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34663
 
 
@@ -1616,29 +1616,17 @@ https://de11.seetv.cc/6832/video.m3u8?token=BC28182177585B5
 http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKKIK5rl2n5meUW9b110w7T-/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664041294.png" group-title="Premium sports 1",ARENA SPORT 1
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537002&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664041294.png"group-title="Premium sports 1",ARENA SPORT 1/2
 http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKIMflboULtlEFrk2YMMT-xb/ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664041506.png"group-title="Sports กีฬา",ARENA SPORT 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664041506.png"group-title="Premium sports 1",ARENA SPORT 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537006&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664219377.png"group-title="Premium sports 1", ARENA SPORT 3
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537009&extension=ts
 http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKKIK5rl2n5meUW9b110w7T-/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664132050.png" group-title="Premium sports 1",ARENA SPORT 4
 http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKJwgvaVf5ef2xfRW1qMuTL6/ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/serbia/arena-1-premium-icon-rs.png" group-title="Premium sports 1",Arena SportPremium 1
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537029&extension=ts
-
-#EXTINF:-1  tvg-id="" tvg-logo="https://logo.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/serbia/arena-2-premium-icon-rs.png" group-title="Premium sports 1",Arena SportPremium 2
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537031&extension=ts
-
-#EXTINF:-1  tvg-id="" tvg-logo="https://logo.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/serbia/arena-3-premium-icon-rs.png" group-title="Premium sports 1",Arena SportPremium 3
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=537033&extension=ts
 
 
 #EXTINF:-1,===Now Sports===
@@ -1686,10 +1674,10 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77490&extension=t
 #EXTINF:-1 ,===Polsat Sports===
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105533
 
-#EXTINF:-1 group-title="Sports กีฬา",Polsat Sport 1
+#EXTINF:-1 group-title="Premium sports 1",Polsat Sport 1
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105530
 
-#EXTINF:-1 group-title="Sports กีฬา",Polsat Sport 1/2
+#EXTINF:-1 group-title="Premium sports 1",Polsat Sport 1/2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=14838&extension=ts&play_token=rZ559zOlnw
 
