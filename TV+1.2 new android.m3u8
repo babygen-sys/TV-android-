@@ -977,44 +977,48 @@ https://fl31.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/onechampionship.png"tvg-id="OneChampionshipTv.id" ch-number="30" tvg-name="One Championship tv"group-title="Special sports",One Championship tv
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Sport.png" group-title="group-title="Special sports",MY - W-SPORT FHD
+
+
+
+
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Sport.png"group-title="Special sports",W-SPORT FHD
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1052656
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Sport.png" group-title="group-title="Special sports",MY - W-SPORT HEVC
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Sport.png"group-title="Special sports",W-SPORT HEVC
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1052655
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Sport.png" group-title="group-title="Special sports",MY - W-SPORT HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Sport.png"group-title="Special sports",W-SPORT HD
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1052657
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="group-title="Special sports",MY - SPOTV FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV FHD
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1052591
 
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="group-title="Special sports",MY - SPOTV HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV HD
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1052592
 
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="group-title="Special sports",MY - SPOTV
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1052588
 
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="group-title="Special sports",SPOTV
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="group-title="Special sports",SPOTV 
+
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.pn"group-title="Special sports",SPOTV 
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34638
 
 
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="group-title="Special sports",MY - SPOTV 2 FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV 2 FHD
 http://www.alhaiba.com/6V1N24N/LE49Y1F/957706
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="group-title="Special sports",MY - SPOTV 2 HEVC
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV 2 HEVC
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1052589
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="group-title="Special sports",MY - SPOTV 2 HD
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="group-title="Special sports",SPOTV 2 HD
 http://www.alhaiba.com/6V1N24N/LE49Y1F/957732
 
-#EXTINF:-1 group-title="Special sports",SPOTV2
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="Special sports",SPOTV2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
-#EXTINF:-1 group-title="Special sports",SPOTV2
+
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png" group-title="Special sports",SPOTV2
 http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34663
 
 
 #EXTINF:-1 group-title="Special sports",🏁 F1
 http://66.90.99.154:8278/tiankongf1/playlist.m3u8?tid=MFFF3610076936100769&ct=20361&tsum=c3de2703077fe3e4f3c728f6c9ff7ac2
-#EXTINF:-1 group-title="Special sports",🏁 Foxsport505
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=76210&extension=ts
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Zy6ODEg.png?v=1.0.0.1" group-title="Special sports",🏀 NBA TV 1
 https://ww.dooballfree.vip/live/nba/playlist.m3u8
