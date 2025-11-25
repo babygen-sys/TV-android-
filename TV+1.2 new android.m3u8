@@ -948,11 +948,15 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:0D:A1:24&stream=45327&ext
 #EXTINF:-1 tvg-id="Barcelona.uk" tvg-logo="https://i.postimg.cc/gjyq27vk/IMG-2381.png" group-title="Special sports",Top Barça
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 
-#EXTINF:-1 group-title="Special sports",Real Madrid TV
+
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Real_Madrid_TV_logo.svg/320px-Real_Madrid_TV_logo.svg.png" group-title="Special sports",Real Madrid TV
+#EXTVLCOPT:network-caching=1000
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 group-title="Special sports",INTER TV
+
+#EXTINF:-1 tvg-id="InterTV" tvg-name="INTER TV" tvg-logo="https://seeklogo.com/images/I/inter-tv-logo-4605867372-seeklogo.com.png" group-title="Special sports",INTER TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/kGSRT6xN/IMG-4160.png" group-title="Special sports",V Sport Premier League
 
@@ -976,8 +980,6 @@ https://fl31.moveonjoy.com/USA_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/onechampionship.png"tvg-id="OneChampionshipTv.id" ch-number="30" tvg-name="One Championship tv"group-title="Special sports",One Championship tv
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-
-
 
 
 
