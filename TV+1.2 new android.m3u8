@@ -5,7 +5,9 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 HD
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1097278
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
 
 
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="🇹🇭 THAILAND",CH5 HD
@@ -16,7 +18,6 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 
 #EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://i.postimg.cc/8cpTGLZf/IMG-2397.png" group-title="🇹🇭 THAILAND",MCOT HD
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1097235
 https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBT2HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="🇹🇭 THAILAND",NBT2 HD
@@ -45,7 +46,9 @@ https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV HD
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1097262
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 
 
 #EXTINF:-1 tvg-id="One31.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png" group-title="🇹🇭 THAILAND",ONE31
@@ -78,8 +81,8 @@ https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/LsTzr0jt/IMG-2585.png" group-title="🇹🇭 THAILAND",มวลชนทีวี
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
-#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/GtRYFgq8/IMG-2429.png" group-title="🇹🇭 THAILAND",Chiangrai Channel
-http://live.thaitvstream.com/play/chiangrai/index.m3u8
+
+
 #EXTINF:-1 tvg-id="Cable.us" tvg-logo="https://i.postimg.cc/d1k9hNx8/IMG-2059.png" group-title="🇹🇭 THAILAND",LS TV
 https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/chunklist.m3u
 
@@ -2038,36 +2041,8 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/130728
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/130727
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title"Live Sport",LIVE 1
-https://keela7.com/ais6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title"Live Sport",NFL LIVE 1
 https://ww.dooballfree.vip/live/nfl/playlist.m3u8
-
-#EXTINF:-1 group-title="Live Sport",Live2
-http://145.239.5.177/556/index.m3u8
-
-#EXTINF:-1 group-title="Live Sport",Live3
-http://145.239.5.177/556/index.m3u8
-
-#EXTINF:-1 group-title="Live Sport",Live4
-http://145.239.5.177/556/index.m3u8
-
-#EXTINF:-1 group-title="Live Sport",Live5
-http://145.239.5.177/556/index.m3u8
-
-#EXTINF:-1 group-title="Live Sport",Live6
-http://145.239.5.177/556/index.m3u8
-
-#EXTINF:-1 group-title="Live Sport",Live7
-http://145.239.5.177/556/index.m3u8
-
-#EXTINF:-1 group-title="Live Sport",Live8
-http://145.239.5.177/556/index.m3u8
-
-#EXTINF:-1 group-title="Live Sport",Live9
-http://145.239.5.177/556/index.m3u8
-
-#EXTINF:-1 group-title="Live Sport",Live10
-http://145.239.5.177/556/index.m3u8
 
 
 #EXTINF:-1,<===B Live (android)
@@ -2171,4 +2146,783 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/T
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8?playbackUrlPrefix=https://%24%7BplaybackHost%7D/ais/play/origin&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=da3cb7de38a6faffcc19b25d3447265b&chunkHttps=true&tmid=B0001&tpbk=ngr4tqE362GlRZGO&rrt=1683890878&tmod=rfk&rsid=319648a8-65d4-46b7-b14f-1dd8d7854298&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=1071072db9fc74d4267cfa4d1f35a043&origin=anevia&tfa=f0-fc&tttl=1683977278
 
+
+
+#EXTINF:-1 ####### Movie2025 ########
+#EXTINF:-1 tvg-name="Last Update 19/Nov/2025" tvg-logo="https://png.pngtree.com/png-clipart/20230923/original/pngtree-vector-eps-10-of-a-ribbon-and-bell-adorned-new-update-png-image_12665130.png" group-title="Update:27.Oct.2025",Movie Update:30.Oct.2025
+https://tinyurl.com/m8rf86a2
+
+
+#EXTINF:-1 tvg-name="Ha Gom The Darkness Of The Soul (2025) ห่าก้อม" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-12.jpg" group-title="Movies",Ha Gom The Darkness Of The Soul (2025) ห่าก้อม
+https://m3u8haha.com/movie/M15473.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Oh Hi! (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-6-scaled.jpg" group-title="Movies",Oh, Hi! (2025)
+https://m3u8haha.com/movie/M15471.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="All of You (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-9.jpg" group-title="Movies",All of You (2025)
+https://m3u8haha.com/movie/M15470.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Mantis (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-11.jpg" group-title="Movies",Mantis (2025)
+https://m3u8haha.com/movie/M15467.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Opus (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-5.jpg" group-title="Movies",Opus (2025)
+https://m3u8haha.com/movie/M15469.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Bad Guys 2 (2025)  วายร้ายพันธุ์ดี 2" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-8.jpg" group-title="Movies",The Bad Guys 2 (2025)  วายร้ายพันธุ์ดี 2
+https://m3u8haha.com/movie/M15468.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Primitive War (2025) สงครามโลกล้านปี" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-10.jpg" group-title="Movies",Primitive War (2025) สงครามโลกล้านปี
+https://m3u8haha.com/movie/M15466.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Ruth & Boaz (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/4-3.jpg" group-title="Movies",Ruth & Boaz (2025) รูธและโบอาส พลังรักเยียวยาใจ
+https://m3u8haha.com/movie/M15472.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Caught Stealing (2025)" tvg-logo="https://moviesdoofree.com/wp-content/themes/pxmovie/images/nothumb.png" group-title="Movies",Caught Stealing (2025) คนเดือดขวางทางโจร
+https://m3u8haha.com/movie/M15464.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Afterburn (2025) ล่าขุมทรัพย์แดนแดดเดือด" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-9.jpg" group-title="Movies",Afterburn (2025) ล่าขุมทรัพย์แดนแดดเดือด
+https://m3u8haha.com/movie/M15463.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Prisoner of War (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-8.jpg" group-title="Movies",Prisoner of War (2025)
+https://m3u8haha.com/movie/M15462.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Splitsville (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-4.jpg" group-title="Movies",Splitsville (2025) เป็นภาพยนตร์ตลกอเมริกัน ผลงานสาวสวย ดาโกตา จอห์นสัน
+https://m3u8haha.com/movie/M15465.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Kingdom (2025) ฝ่าภารกิจเดือด" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/4-2.jpg" group-title="Movies",Kingdom (2025) ฝ่าภารกิจเดือด
+https://m3u8haha.com/movie/M15461.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="In Between (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-6.jpg" group-title="Movies",In Between (2025)
+https://m3u8haha.com/movie/M15459.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="ซ้ำวัน กับ Someone (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-7.jpg" group-title="Movies",ซ้ำวัน กับ Someone (2025)
+https://m3u8haha.com/movie/M15458.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="She Said Maybe (2025) เมื่อเธอตอบว่า…ไม่แน่" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-3.jpg" group-title="Movies",She Said Maybe (2025) เมื่อเธอตอบว่า…ไม่แน่
+https://m3u8haha.com/movie/M15460.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Paripi Koumei The Movie (2025) ขงเบ้ง เจาะเวลามาปั้นดาว" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-2.jpg" group-title="Movies",Paripi Koumei The Movie (2025) ขงเบ้ง เจาะเวลามาปั้นดาว
+https://m3u8haha.com/movie/M15456.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Nocturnal (2025)  แค้นนี้เอาให้น็อก" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-5.jpg" group-title="Movies",Nocturnal (2025)  แค้นนี้เอาให้น็อก
+https://m3u8haha.com/movie/M15455.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Shadow s Edge (2025)  แผนระห่ำ ใหญ่ฟัดเดือด" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-6-scaled.jpg" group-title="Movies",The Shadow s Edge (2025)  แผนระห่ำ ใหญ่ฟัดเดือด
+https://m3u8haha.com/movie/M15454.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Baban Baban Ban Vampire (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/4-1.jpg" group-title="Movies",Baban Baban Ban Vampire (2025)
+https://m3u8haha.com/movie/M15457.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Wrong Paris (2025) ปารีสนี้ไม่มีหอไอเฟล" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-5.jpg" group-title="Movies",The Wrong Paris (2025) ปารีสนี้ไม่มีหอไอเฟล
+https://m3u8haha.com/movie/M15452.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Saiyaara (2025) สองเราจะสู้เพื่อฝัน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-3.jpg" group-title="Movies",Saiyaara (2025) สองเราจะสู้เพื่อฝัน
+https://m3u8haha.com/movie/M15453.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Kontrabida Academy (2025) สถาบันนางร้าย" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-4.jpg" group-title="Movies",Kontrabida Academy (2025) สถาบันนางร้าย
+https://m3u8haha.com/movie/M15450.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Tehran (2025) เตหะราน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-2.jpg" group-title="Movies",Tehran (2025) เตหะราน
+https://m3u8haha.com/movie/M15451.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Fast Racing Jazz (2025) หลวงพี่แจ๊สโคตรซิ่ง" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-3.jpg" group-title="Movies",Fast Racing Jazz (2025) หลวงพี่แจ๊สโคตรซิ่ง
+https://m3u8haha.com/movie/M15449.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Conjuring-Last Rites (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-1-scaled.jpg" group-title="Movies",The Conjuring-Last Rites (2025) : คนเรียกผี พิธีกรรมครั้งสุดท้าย
+https://m3u8haha.com/movie/M15446.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Highest 2 Lowest (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-2.jpg" group-title="Movies",Highest 2 Lowest (2025)
+https://m3u8haha.com/movie/M15445.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Inspector Zende (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-1.jpg" group-title="Movies",Inspector Zende (2025)
+https://m3u8haha.com/movie/M15447.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Tomb Watcher (2025) สุสานคนเป็น" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2.jpg" group-title="Movies",Tomb Watcher (2025) สุสานคนเป็น
+https://m3u8haha.com/movie/M15443.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="A Line of Fire (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/4.jpg" group-title="Movies",A Line of Fire (2025)
+https://m3u8haha.com/movie/M15441.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Red Sonja (2025) บัลลังก์เลือด" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-scaled.jpg" group-title="Movies",Red Sonja (2025) บัลลังก์เลือด
+https://m3u8haha.com/movie/M15440.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Planet Single: Greek Adventure (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/2-7.jpg" group-title="Movies",Planet Single: Greek Adventure (2025) เกาะรักพักโสด:พจญภัยในกรีซ
+https://m3u8haha.com/movie/M15437.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Fantasy Football Ruined Our Lives (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-12.jpg" group-title="Movies",Fantasy Football Ruined Our Lives (2025) แฟนตาซีฟุตบอลพังชีวิต
+https://m3u8haha.com/movie/M15436.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Thursday Murder Club (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/2-8.jpg" group-title="Movies",The Thursday Murder Club (2025) ชมรมไขคดีฆาตกรรมวันพฤหัสฯ
+https://m3u8haha.com/movie/M15439.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Love Untangled (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-13.jpg" group-title="Movies",Love Untangled (2025) สาวผมยุ่งหัวใจว้าวุ่น
+https://m3u8haha.com/movie/M15438.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Nobody 2 (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-11.jpg" group-title="Movies",Nobody 2 (2025)
+https://m3u8haha.com/movie/M15434.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Finding Ramlee (2025) ตามหารามลี" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/2-6.jpg" group-title="Movies",Finding Ramlee (2025) ตามหารามลี
+https://m3u8haha.com/movie/M15435.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Maareesan (2025) การเดินทางไม่รู้ลืม" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/2-5.jpg" group-title="Movies",Maareesan (2025) การเดินทางไม่รู้ลืม
+https://m3u8haha.com/movie/M15432.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Eenie Meanie (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-10.jpg" group-title="Movies",Eenie Meanie (2025)
+https://m3u8haha.com/movie/M15431.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Abandoned Man (2025) ชายผู้ถูกทอดทิ้ง" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/3-7.jpg" group-title="Movies",Abandoned Man (2025) ชายผู้ถูกทอดทิ้ง
+https://m3u8haha.com/movie/M15433.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Gold Rush Gang (2025) เขาชุมทอง คะนองชุมโจร" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/4-7.jpg" group-title="Movies",Gold Rush Gang (2025) เขาชุมทอง คะนองชุมโจร
+https://m3u8haha.com/movie/M15430.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="One Hit Wonder (2025) บทเพลงนี้ไม่ลืมเธอ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/2-4.jpg" group-title="Movies",One Hit Wonder (2025) บทเพลงนี้ไม่ลืมเธอ
+https://m3u8haha.com/movie/M15428.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Fall for Me (2025) ลวงรักทรยศ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/3-6.jpg" group-title="Movies",Fall for Me (2025) ลวงรักทรยศ
+https://m3u8haha.com/movie/M15429.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Map That Leads to You (2025) จุดหมายสุดท้ายคือเธอ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-9.jpg" group-title="Movies",The Map That Leads to You (2025) จุดหมายสุดท้ายคือเธอ
+https://m3u8haha.com/movie/M15427.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Tha Rae: The Exorcist (2025)  ท่าแร่" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/2-3.jpg" group-title="Movies",Tha Rae: The Exorcist (2025)  ท่าแร่
+https://m3u8haha.com/movie/M15426.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Hallow Road (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-8.jpg" group-title="Movies",Hallow Road (2025)
+https://m3u8haha.com/movie/M15425.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Omniscient Reader: The Prophecy (2025) : อ่านชะตาวันสิ้นโลก" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/3-5.jpg" group-title="Movies",Omniscient Reader: The Prophecy (2025) : อ่านชะตาวันสิ้นโลก
+https://m3u8haha.com/movie/M15423.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Weapons (2025) : เวเพินส์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/3-4.jpg" group-title="Movies",Weapons (2025) : เวเพินส์
+https://m3u8haha.com/movie/M15419.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Sugar Mill (2025) : โรงงานผีดุ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/2-2.jpg" group-title="Movies",Sugar Mill (2025) : โรงงานผีดุ
+https://m3u8haha.com/movie/M15418.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Creation of the Gods II: Demon Force (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-5.jpg" group-title="Movies",Creation of the Gods II: Demon Force (2025) : กําเนิดเทพเจ้า ตอน มหาศึกเทพยุทธ
+https://m3u8haha.com/movie/M15417.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Under Ninja (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-6.jpg" group-title="Movies",Under Ninja (2025)
+https://m3u8haha.com/movie/M15421.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Isolated (2025) ตัดขาด" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/4-5-scaled.jpg" group-title="Movies",Isolated (2025) ตัดขาด
+https://m3u8haha.com/movie/M15420.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Last Goodbye (2025) คำลาครั้งสุดท้าย" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/2-1.jpg" group-title="Movies",The Last Goodbye (2025) คำลาครั้งสุดท้าย
+https://m3u8haha.com/movie/M15413.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Together (2025) ดูดร่างสร้างรัก" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-4.jpg" group-title="Movies",Together (2025) ดูดร่างสร้างรัก
+https://m3u8haha.com/movie/M15412.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Freakier Friday (2025) ศุกรสยอง สี่ร่างสลับรุ่น" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/3-3.jpg" group-title="Movies",Freakier Friday (2025) ศุกรสยอง สี่ร่างสลับรุ่น
+https://m3u8haha.com/movie/M15414.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Demon Slayer: Kimetsu no Yaiba Infinity Castle (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/6-scaled.jpg" group-title="Movies",Demon Slayer: Kimetsu no Yaiba Infinity Castle (2025) ดาบพิฆาตอสูร ภาคปราสาทไร้ขอบเขต
+https://m3u8haha.com/movie/M15416.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Blood Brothers: Bara Naga (2025) ภราดธเลือด" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/3-2-scaled.jpg" group-title="Movies",Blood Brothers: Bara Naga (2025) ภราดธเลือด
+https://m3u8haha.com/movie/M15409.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Halabala  (2025) ฮาลาบาลา ป่าจิตหลุด" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-3.jpg" group-title="Movies",Halabala  (2025) ฮาลาบาลา ป่าจิตหลุด
+https://m3u8haha.com/movie/M15408.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Weapons  (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/4-3.jpg" group-title="Movies",Weapons  (2025)
+https://m3u8haha.com/movie/M15411.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Thammudu (2025) น้องรัก" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-2.jpg" group-title="Movies",Thammudu (2025) น้องรัก
+https://m3u8haha.com/movie/M15407.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Pickup (2025) เดอะพิคอัพ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/4-2-scaled.jpg" group-title="Movies",The Pickup (2025) เดอะพิคอัพ
+https://m3u8haha.com/movie/M15406.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Thug Life (2025) ชีวิตอันธพาล" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/3-1-scaled.jpg" group-title="Movies",Thug Life (2025) ชีวิตอันธพาล
+https://m3u8haha.com/movie/M15405.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="My Oxford Year (2025) อ็อกซ์ฟอร์ดในฝันของสาวอเมริกัน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-1.jpg" group-title="Movies",My Oxford Year (2025) อ็อกซ์ฟอร์ดในฝันของสาวอเมริกัน
+https://m3u8haha.com/movie/M15404.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="War of the Worlds (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/4.jpg" group-title="Movies",War of the Worlds (2025)
+https://m3u8haha.com/movie/M15402.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Know What You Did Last Summer (2025)  ซัมเมอร์สยอง..ต้องหวีด" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/3.jpg" group-title="Movies",Know What You Did Last Summer (2025)  ซัมเมอร์สยอง..ต้องหวีด
+https://m3u8haha.com/movie/M15401.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Naked Gun (2025) : มือปราบปืนเปลือย" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/2.jpg" group-title="Movies",The Naked Gun (2025) : มือปราบปืนเปลือย
+https://m3u8haha.com/movie/M15400.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Stone (2025) เดอะ สโตน พระแท้ คนเก๊" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1.jpg" group-title="Movies",The Stone (2025) เดอะ สโตน พระแท้ คนเก๊
+https://m3u8haha.com/movie/M15399.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="An Honest Life (2025) ชีวิตชื่อ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/5.jpg" group-title="Movies",An Honest Life (2025) ชีวิตชื่อ
+https://m3u8haha.com/movie/M15403.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="28 Years Later (2025) : 28 ปีให้หลัง เชื้อเขมือบคน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-11.jpg" group-title="Movies",28 Years Later (2025) : 28 ปีให้หลัง เชื้อเขมือบคน
+https://m3u8haha.com/movie/M15398.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Untold (2025) ซ่อนเร้น" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-14.jpg" group-title="Movies",Untold (2025) ซ่อนเร้น
+https://m3u8haha.com/movie/M15397.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Osiris (2025) โอซิริส (ซับอังกฤษ)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-13.jpg" group-title="Movies",Osiris (2025) โอซิริส (ซับอังกฤษ)
+https://m3u8haha.com/movie/M15396.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Happy Gilmore 2 (2025) แฮปปี้ กิลมอร์ 2" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/3-5.jpg" group-title="Movies",Happy Gilmore 2 (2025) แฮปปี้ กิลมอร์ 2
+https://m3u8haha.com/movie/M15395.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Ritual (2025) : ไล่มันออกจากร่าง" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-12.jpg" group-title="Movies",The Ritual (2025) : ไล่มันออกจากร่าง
+https://m3u8haha.com/movie/M15393.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="A Normal Woman (2025) ผู้หญิงธรรมดา" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-10.jpg" group-title="Movies",A Normal Woman (2025) ผู้หญิงธรรมดา
+https://m3u8haha.com/movie/M15394.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Alarum (2025)  คู่เดือดโคตรคนระห่ำ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-9.jpg" group-title="Movies",Alarum (2025)  คู่เดือดโคตรคนระห่ำ
+https://m3u8haha.com/movie/M15392.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Almost Family (2025) กว่าจะเป็นครอบครัว" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-11.jpg" group-title="Movies",Almost Family (2025) กว่าจะเป็นครอบครัว
+https://m3u8haha.com/movie/M15391.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Wall to Wall (2025) ฝันร้าย 84 ตร ม" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-10.jpg" group-title="Movies",Wall to Wall (2025) ฝันร้าย 84 ตร ม
+https://m3u8haha.com/movie/M15390.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Fantastic Four: First Steps (2025)  เดอะ แฟนแทสติก 4 จุดเริ่มต้นปฐม" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/3-4.jpg" group-title="Movies",Fantastic Four: First Steps (2025)  เดอะ แฟนแทสติก 4 จุดเริ่มต้นปฐม
+https://m3u8haha.com/movie/M15389.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Smurfs (2025)  สเมิร์ฟส์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-9.jpg" group-title="Movies",Smurfs (2025)  สเมิร์ฟส์
+https://m3u8haha.com/movie/M15387.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Lilim (2025) ซ่อนในเงามืด" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-8.jpg" group-title="Movies",Lilim (2025) ซ่อนในเงามืด
+https://m3u8haha.com/movie/M15388.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Zombies 4: Dawn of the Vampires (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-7.jpg" group-title="Movies",Zombies 4: Dawn of the Vampires (2025)
+https://m3u8haha.com/movie/M15386.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Final Destination: Bloodlines (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-8-scaled.jpg" group-title="Movies",Final Destination: Bloodlines (2025) ไฟนอลเดสติเนชั่น ทายาทโกงตาย
+https://m3u8haha.com/movie/M15385.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Madeas Destination Wedding (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-6.jpg" group-title="Movies",Madeas Destination Wedding (2025) ป้าลุยแหลกแหกวิวาห์ป่วน
+https://m3u8haha.com/movie/M15382.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Almost Cops (2025) คู่สืบ คู่อันตราย" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-6.jpg" group-title="Movies",Almost Cops (2025) คู่สืบ คู่อันตราย
+https://m3u8haha.com/movie/M15381.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Aap Jaisa Koi (2025) ใครสักคนที่เหมือนเธอ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/3-3.jpg" group-title="Movies",Aap Jaisa Koi (2025) ใครสักคนที่เหมือนเธอ
+https://m3u8haha.com/movie/M15383.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Noisy Mansion (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-5.jpg" group-title="Movies",The Noisy Mansion (2025)
+https://m3u8haha.com/movie/M15380.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Superman (2025) ซูเปอร์แมน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/3-2.jpg" group-title="Movies",Superman (2025) ซูเปอร์แมน
+https://m3u8haha.com/movie/M15378.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="High Rollers (2025) แผนปล้นคนหักเหลี่ยม: ทะลวงกาสิโนเดือด" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-4-scaled.jpg" group-title="Movies",High Rollers (2025) แผนปล้นคนหักเหลี่ยม: ทะลวงกาสิโนเดือด
+https://m3u8haha.com/movie/M15375.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Ziam (2025) ปากกัด ตีนถีบ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-4.jpg" group-title="Movies",Ziam (2025) ปากกัด ตีนถีบ
+https://m3u8haha.com/movie/M15377.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Uppu Kappurambu (2025) สุสานอลวน เมืองอลเวง" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-3.jpg" group-title="Movies",Uppu Kappurambu (2025) สุสานอลวน เมืองอลเวง
+https://m3u8haha.com/movie/M15374.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Bring Her Back (2025) เป็นภาพยนตร์สยองขวัญเหนือธรรมชาติของออสเตรเลีย" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-3.jpg" group-title="Movies",Bring Her Back (2025) เป็นภาพยนตร์สยองขวัญเหนือธรรมชาติของออสเตรเลีย
+https://m3u8haha.com/movie/M15376.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Yadang: The Snitch (2025) : ทรชนคนสองหน้า" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/3-1.jpg" group-title="Movies",Yadang: The Snitch (2025) : ทรชนคนสองหน้า
+https://m3u8haha.com/movie/M15372.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Jurassic World: Rebirth (2025) : กำเนิดชีวิตใหม่" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-2.jpg" group-title="Movies",Jurassic World: Rebirth (2025) : กำเนิดชีวิตใหม่
+https://m3u8haha.com/movie/M15367.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Ice Road: Vengeance (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-2.jpg" group-title="Movies",Ice Road: Vengeance (2025)
+https://m3u8haha.com/movie/M15371.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Dora And The Search For Sol Dorado (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/4.jpg" group-title="Movies",Dora And The Search For Sol Dorado (2025) ดอร่ากับการผจญภัยโซลดอราโด้
+https://m3u8haha.com/movie/M15373.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="F1 The Movie (2025) F1 เดอะ มูฟวี่" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/1-10-scaled.jpg" group-title="Movies",F1 The Movie (2025) F1 เดอะ มูฟวี่
+https://m3u8haha.com/movie/M15341.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Old Guard 2 (2025) ดิ โอลด์ การ์ด 2" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/3.jpg" group-title="Movies",The Old Guard 2 (2025) ดิ โอลด์ การ์ด 2
+https://m3u8haha.com/movie/M15370.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Heads of State (2025) | ผู้นำสายบู๊กู้วิกฤต" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-1.jpg" group-title="Movies",Heads of State (2025) | ผู้นำสายบู๊กู้วิกฤต
+https://m3u8haha.com/movie/M15369.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Un-ex You (2025) จับแฟนเก่ามารักใหม่" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-1.jpg" group-title="Movies",Un-ex You (2025) จับแฟนเก่ามารักใหม่
+https://m3u8haha.com/movie/M15368.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Teachers Pet (2025) : โรบิน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2.jpg" group-title="Movies",Teachers Pet (2025) : โรบิน
+https://m3u8haha.com/movie/M15366.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Ligaw (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1.jpg" group-title="Movies",Ligaw (2025)
+https://m3u8haha.com/movie/M15365.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="How to Train Your Dragon (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/1-6.jpg" group-title="Movies",How to Train Your Dragon (2025)
+https://m3u8haha.com/movie/M15338.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="M3GAN 2.0 (2025) เมแกน 2.0" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/2-8.jpg" group-title="Movies",M3GAN 2.0 (2025) เมแกน 2.0
+https://m3u8haha.com/movie/M15364.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Clown in a Cornfield (2025) คืนวิปลาสแห่งเคตเทิลสปริงส์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/1-11.jpg" group-title="Movies",Clown in a Cornfield (2025) คืนวิปลาสแห่งเคตเทิลสปริงส์
+https://m3u8haha.com/movie/M15362.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Elio (2025) เอลิโอ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/1-9-scaled.jpg" group-title="Movies",Elio (2025) เอลิโอ
+https://m3u8haha.com/movie/M15340.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="RAID 2 (2025) เจ้าหน้าที่ระห่ำ ท้าทรชน 2" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/1-8.jpg" group-title="Movies",RAID 2 (2025) เจ้าหน้าที่ระห่ำ ท้าทรชน 2
+https://m3u8haha.com/movie/M15363.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Eternal Bond (2025) นาคบรรพ์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/1-7.jpg" group-title="Movies",Eternal Bond (2025) นาคบรรพ์
+https://m3u8haha.com/movie/M15339.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Kraken (2025) คราเคน เลื้อยสยอง" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/2-5.jpg" group-title="Movies",Kraken (2025) คราเคน เลื้อยสยอง 20,000 โยชน์
+https://m3u8haha.com/movie/M15336.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Semi-Soeter (2025) เรื่องรักกึ่งหวาน งานนี้บานปลาย" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/1-5.jpg" group-title="Movies",Semi-Soeter (2025) เรื่องรักกึ่งหวาน งานนี้บานปลาย
+https://m3u8haha.com/movie/M15334.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Third Case (2025) HIT: คดีที่สาม" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/4-3.jpg" group-title="Movies",The Third Case (2025) HIT: คดีที่สาม
+https://m3u8haha.com/movie/M15337.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Retro (2025) แค้นข้ามเวลา" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/1-4.jpg" group-title="Movies",Retro (2025) แค้นข้ามเวลา
+https://m3u8haha.com/movie/M15333.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Our Times (2025) : ข้ามเวลาของสองเรา" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/2-4.jpg" group-title="Movies",Our Times (2025) : ข้ามเวลาของสองเรา
+https://m3u8haha.com/movie/M15335.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Echo Valley (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/2-3.jpg" group-title="Movies",Echo Valley (2025)
+https://m3u8haha.com/movie/M15332.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Deep Cover (2025)  ภารกิจด้นสด ปลดล็อกสกิลรั่ว" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/1-3-scaled.jpg" group-title="Movies",Deep Cover (2025)  ภารกิจด้นสด ปลดล็อกสกิลรั่ว
+https://m3u8haha.com/movie/M15331.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Flat Girls (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/4-2.jpg" group-title="Movies",Flat Girls (2025)
+https://m3u8haha.com/movie/M15329.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Cheers to Life (2025) เชียร์ส ทู ไลฟ์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/5-2.jpg" group-title="Movies",Cheers to Life (2025) เชียร์ส ทู ไลฟ์
+https://m3u8haha.com/movie/M15330.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Mumu (2025) รักที่ไม่เอื้อนเอ่ย" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/2-2.jpg" group-title="Movies",Mumu (2025) รักที่ไม่เอื้อนเอ่ย
+https://m3u8haha.com/movie/M15327.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="K.O (2025) น็อกเอาท์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/1-2.jpg" group-title="Movies",K.O (2025) น็อกเอาท์
+https://m3u8haha.com/movie/M15326.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Uninvited (2025) แค้นไม่ได้รับเชิญ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/3-4.jpg" group-title="Movies",Uninvited (2025) แค้นไม่ได้รับเชิญ
+https://m3u8haha.com/movie/M15328.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="แต่ง…Monk (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/4-1.jpg" group-title="Movies",แต่ง…Monk (2025)
+https://m3u8haha.com/movie/M15324.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Jaat (2025) เดือดล้างอิทธิพล" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/3-3.jpg" group-title="Movies",Jaat (2025) เดือดล้างอิทธิพล
+https://m3u8haha.com/movie/M15323.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Bhool Chuk Maaf (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/2-1-scaled.jpg" group-title="Movies",Bhool Chuk Maaf (2025)
+https://m3u8haha.com/movie/M15322.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The King Of Kings (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/1-1.jpg" group-title="Movies",The King Of Kings (2025)
+https://m3u8haha.com/movie/M15320.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="STRAW (2025) ฟางเส้นสุดท้าย" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/5-1.jpg" group-title="Movies",STRAW (2025) ฟางเส้นสุดท้าย
+https://m3u8haha.com/movie/M15325.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Karate Kid: Legends (2025) คาราเต้ คิด ผนึกพลังตำนานนักสู้" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/5.jpg" group-title="Movies",Karate Kid: Legends (2025) คาราเต้ คิด ผนึกพลังตำนานนักสู้
+https://m3u8haha.com/movie/M15321.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Mountainhead 2025" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/1.jpg" group-title="Movies",Mountainhead 2025
+https://m3u8haha.com/movie/M15316.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Jack (2025) จารชนคนป่วน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/3.jpg" group-title="Movies",Jack (2025) จารชนคนป่วน
+https://m3u8haha.com/movie/M15318.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="A Widows Game (2025) กลเกมแม่ม่าย" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/2.jpg" group-title="Movies",A Widows Game (2025) กลเกมแม่ม่าย
+https://m3u8haha.com/movie/M15317.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Graduation Trip : Mallorca (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/3-12.jpg" group-title="Movies",Graduation Trip : Mallorca (2025)
+https://m3u8haha.com/movie/M15314.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Heart Knows (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/2-15.jpg" group-title="Movies",The Heart Knows (2025)
+https://m3u8haha.com/movie/M15312.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Lulu Is a Rhinoceros (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/1-17.jpg" group-title="Movies",Lulu Is a Rhinoceros (2025)
+https://m3u8haha.com/movie/M15308.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="A Widows Game (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/4-7.jpg" group-title="Movies",A Widows Game (2025)
+https://m3u8haha.com/movie/M15315.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Diplomat 2025" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/3-11.jpg" group-title="Movies",The Diplomat 2025
+https://m3u8haha.com/movie/M15310.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Catalyst 2025" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/2-14.jpg" group-title="Movies",Catalyst 2025
+https://m3u8haha.com/movie/M15309.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Going Places 2025" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/1-16.jpg" group-title="Movies",Going Places 2025
+https://m3u8haha.com/movie/M15307.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Crazy Texas 2025" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/4-6.jpg" group-title="Movies",Crazy Texas 2025
+https://m3u8haha.com/movie/M15311.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Sikandar (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/1-15.jpg" group-title="Movies",Sikandar (2025)
+https://m3u8haha.com/movie/M15306.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Thunderbolts* (2025) ธันเดอร์โบลต์ส*" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/2-13.jpg" group-title="Movies",Thunderbolts* (2025) ธันเดอร์โบลต์ส*
+https://m3u8haha.com/movie/M15305.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Devil’s Bride (2025) ชู้จากนรก" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/1-14.jpg" group-title="Movies",The Devil’s Bride (2025) ชู้จากนรก
+https://m3u8haha.com/movie/M15304.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Fountain of Youth (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/3-10.jpg" group-title="Movies",Fountain of Youth (2025)
+https://m3u8haha.com/movie/M15302.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="I Want to Be Boss (2025) ก็อยากจะเป็นบอส" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/2-12.jpg" group-title="Movies",I Want to Be Boss (2025) ก็อยากจะเป็นบอส
+https://m3u8haha.com/movie/M15301.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Vadakkan (2025) เป็นหนังแนวลี้ลับจากอินเดีย" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/1-13.jpg" group-title="Movies",Vadakkan (2025) เป็นหนังแนวลี้ลับจากอินเดีย
+https://m3u8haha.com/movie/M15300.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Off Track 2 (2025) ออฟแทร็ค 2" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/3-9.jpg" group-title="Movies",Off Track 2 (2025) ออฟแทร็ค 2
+https://m3u8haha.com/movie/M15299.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Fear Street Prom Queen (2025) ถนนอาถรรพ์: ราชินีงานพรอม" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/2-11.jpg" group-title="Movies",Fear Street Prom Queen (2025) ถนนอาถรรพ์: ราชินีงานพรอม
+https://m3u8haha.com/movie/M15298.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Lilo & Stitch (2025) ลีโล & สติทช์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/1-12.jpg" group-title="Movies",Lilo & Stitch (2025) ลีโล & สติทช์
+https://m3u8haha.com/movie/M15297.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Until Dawn (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/4-5.jpg" group-title="Movies",Until Dawn (2025)
+https://m3u8haha.com/movie/M15303.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Happy Mondays (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/2-10.jpg" group-title="Movies",Happy Mondays (2025)
+https://m3u8haha.com/movie/M15294.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Legend of Ochi (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/1-11.jpg" group-title="Movies",The Legend of Ochi (2025)
+https://m3u8haha.com/movie/M15292.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Ex Ex Lovers (2025) อดีตแฟนเก่า" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/3-8.jpg" group-title="Movies",Ex Ex Lovers (2025) อดีตแฟนเก่า
+https://m3u8haha.com/movie/M15295.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Wizard of the Emerald City (2025) พ่อมดแห่งเมืองมรกต" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/2-10.jpg" group-title="Movies",The Wizard of the Emerald City (2025) พ่อมดแห่งเมืองมรกต
+https://m3u8haha.com/movie/M15222.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Night of Deception (2025) คืนลวง" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/1-4.jpg" group-title="Movies",Night of Deception (2025) คืนลวง
+https://m3u8haha.com/movie/M15268.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Untold The Fall of Favre (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/5-7.jpg" group-title="Movies",Untold The Fall of Favre (2025)
+https://m3u8haha.com/movie/M15293.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Everyone is Going to Die (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/3-7.jpg" group-title="Movies",Everyone is Going to Die (2025)
+https://m3u8haha.com/movie/M15291.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Gangers (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/2-9.jpg" group-title="Movies",Gangers (2025)
+https://m3u8haha.com/movie/M15290.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Project MKHEXE (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/1-10.jpg" group-title="Movies",Project MKHEXE (2025)
+https://m3u8haha.com/movie/M15287.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Broke (2025) โบรค" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/3-6.jpg" group-title="Movies",Broke (2025) โบรค
+https://m3u8haha.com/movie/M15288.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Karol G (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/2-8.jpg" group-title="Movies",Karol G (2025)
+https://m3u8haha.com/movie/M15286.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Azaad (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/1-9.jpg" group-title="Movies",Azaad (2025)
+https://m3u8haha.com/movie/M15285.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="BAD INFLUENCE วัยรักอันตราย (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/4-4.jpg" group-title="Movies",BAD INFLUENCE วัยรักอันตราย (2025)
+https://m3u8haha.com/movie/M15289.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Holy Night: Demon Hunters (2025) ฅนต่อยผี" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/4-3.jpg" group-title="Movies",Holy Night: Demon Hunters (2025) ฅนต่อยผี
+https://m3u8haha.com/movie/M15273.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Summer of 69 (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/3-4.jpg" group-title="Movies",Summer of 69 (2025)
+https://m3u8haha.com/movie/M15272.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Good Bad Ugly (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/2-6.jpg" group-title="Movies",Good Bad Ugly (2025)
+https://m3u8haha.com/movie/M15271.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Night of Deception (2025) คืนลวง" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/1-6.jpg" group-title="Movies",Night of Deception (2025) คืนลวง
+https://m3u8haha.com/movie/M15268.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="A Deadly American Marriage (2025) ชีวิตคู่ถึงฆาต" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/5-2.jpg" group-title="Movies",A Deadly American Marriage (2025) ชีวิตคู่ถึงฆาต
+https://m3u8haha.com/movie/M15274.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Nonnas (2025) รักนะย่ายายจ๋า" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/1-5.jpg" group-title="Movies",Nonnas (2025) รักนะย่ายายจ๋า
+https://m3u8haha.com/movie/M15267.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Assessment (2025) ชีวิตลิขิตไม่ได้" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/2-4.jpg" group-title="Movies",The Assessment (2025) ชีวิตลิขิตไม่ได้
+https://m3u8haha.com/movie/M15269.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Bad Influence (2025) วัยรักอันตราย" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/2-5.jpg" group-title="Movies",Bad Influence (2025) วัยรักอันตราย
+https://m3u8haha.com/movie/M15270.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Drop (2025) รับคำสั่งตายไวโอเล็ต" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/2-3.jpg" group-title="Movies",Drop (2025) รับคำสั่งตายไวโอเล็ต
+https://m3u8haha.com/movie/M15265.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Seat (2025) ที่นั่งหนึ่งเดียว" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/1-3.jpg" group-title="Movies",The Seat (2025) ที่นั่งหนึ่งเดียว
+https://m3u8haha.com/movie/M15264.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Chhaava (2025) มหาราชาหัวใจสิงห์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/3-3.jpg" group-title="Movies",Chhaava (2025) มหาราชาหัวใจสิงห์
+https://m3u8haha.com/movie/M15266.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="California King (2025) แคลิฟอร์เนีย คิง" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/4-2.jpg" group-title="Movies",California King (2025) แคลิฟอร์เนีย คิง
+https://m3u8haha.com/movie/M15262.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Salvable (2025) เซฟเวเบิล" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/3-2.jpg" group-title="Movies",Salvable (2025) เซฟเวเบิล
+https://m3u8haha.com/movie/M15261.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Locked (2025) ล็อก ล่อมาตาย" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/2-2-scaled.jpg" group-title="Movies",Locked (2025) ล็อก ล่อมาตาย
+https://m3u8haha.com/movie/M15260.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Detective Chinatown 1900 (2025) แก๊งม่วนป่วนอเมริกา" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/1-2.jpg" group-title="Movies",Detective Chinatown 1900 (2025) แก๊งม่วนป่วนอเมริกา
+https://m3u8haha.com/movie/M15259.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Baby in the Basket (2025) เด็กน้อยในตะกร้า" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/5-1.jpg" group-title="Movies",The Baby in the Basket (2025) เด็กน้อยในตะกร้า
+https://m3u8haha.com/movie/M15263.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Exterritorial (2025) พลิกแผนลับลวงระทึก" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/3-1.jpg" group-title="Movies",Exterritorial (2025) พลิกแผนลับลวงระทึก
+https://m3u8haha.com/movie/M15257.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Biggest Fan (2025) แฟนพันธุ์แท้" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/2-1.jpg" group-title="Movies",The Biggest Fan (2025) แฟนพันธุ์แท้
+https://m3u8haha.com/movie/M15256.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Another Simple Favor (2025) เพื่อนหาย อย่าหา 2" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/1-1.jpg" group-title="Movies",Another Simple Favor (2025) เพื่อนหาย อย่าหา 2
+https://m3u8haha.com/movie/M15255.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Gunslingers (2025) กันสลิงเกอร์ส" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/4-1.jpg" group-title="Movies",Gunslingers (2025) กันสลิงเกอร์ส
+https://m3u8haha.com/movie/M15258.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Mob Cops (2025) ม็อบ คอปส์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/7.jpg" group-title="Movies",Mob Cops (2025) ม็อบ คอปส์
+https://m3u8haha.com/movie/M15254.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="When I’m Ready (2025) เวน ไอม เรดี้" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/6.jpg" group-title="Movies",When I’m Ready (2025) เวน ไอม เรดี้
+https://m3u8haha.com/movie/M15253.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="14 Days: Girlfriend Intlo (2025) 14 เดย์: เกิร์ลเฟรนด์ อินโน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/2.jpg" group-title="Movies",14 Days: Girlfriend Intlo (2025) 14 เดย์: เกิร์ลเฟรนด์ อินโน
+https://m3u8haha.com/movie/M15249.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="It Feeds (2025) นรกกลืนกิน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/4.jpg" group-title="Movies",It Feeds (2025) นรกกลืนกิน
+https://m3u8haha.com/movie/M15251.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Neighborhood Watch (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/5-scaled.jpg" group-title="Movies",Neighborhood Watch (2025)
+https://m3u8haha.com/movie/M15252.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Tattooist’s Son: Journey to Auschwitz (2025) เดอะ แท็ททูอิซท์ ซัน: เจอร์นี่ ทู ออชวิตซ์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/3-scaled.jpg" group-title="Movies",The Tattooist’s Son: Journey to Auschwitz (2025) เดอะ แท็ททูอิซท์ ซัน: เจอร์นี่ ทู ออชวิตซ์
+https://m3u8haha.com/movie/M15250.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Mad Square (2025) แมด สแควร์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/05/1.jpg" group-title="Movies",Mad Square (2025) แมด สแควร์
+https://m3u8haha.com/movie/M15246.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="L2: Empuraan (2025) L2: เอ็มพูราน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/2-17.jpg" group-title="Movies",L2: Empuraan (2025) L2: เอ็มพูราน
+https://m3u8haha.com/movie/M15247.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Marching Powder (2025) มาร์ชชิ่ง พาวเดอร์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/1-19.jpg" group-title="Movies",Marching Powder (2025) มาร์ชชิ่ง พาวเดอร์
+https://m3u8haha.com/movie/M15245.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Taken at a Basketball Game (2025) เทคเคน แอท อะ บาสเก็ตบอล เกม" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/3-15.jpg" group-title="Movies",Taken at a Basketball Game (2025) เทคเคน แอท อะ บาสเก็ตบอล เกม
+https://m3u8haha.com/movie/M15248.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Dog Man 2025" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/3-14.jpg" group-title="Movies",Dog Man 2025
+https://m3u8haha.com/movie/M15244.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Locked ล็อกล่อมาตาย (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/2-16-scaled.jpg" group-title="Movies",Locked ล็อกล่อมาตาย (2025)
+https://m3u8haha.com/movie/M15243.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Freaky Tales (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/1-18.jpg" group-title="Movies",Freaky Tales (2025)
+https://m3u8haha.com/movie/M15242.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Jewel Thief The Heist Begins (2025) จอมโจรอัญมณี เริ่มแผนโจรกรรม" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/1-17.jpg" group-title="Movies",Jewel Thief The Heist Begins (2025) จอมโจรอัญมณี เริ่มแผนโจรกรรม
+https://m3u8haha.com/movie/M15240.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Havoc (2025) ฝ่าหายนะครองเมือง" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/2-15.jpg" group-title="Movies",Havoc (2025) ฝ่าหายนะครองเมือง
+https://m3u8haha.com/movie/M15241.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Checkmate (2025) เช็คเมท" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/1-16.jpg" group-title="Movies",Checkmate (2025) เช็คเมท
+https://m3u8haha.com/movie/M15237.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Ash (2025) แอช" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/3-13-scaled.jpg" group-title="Movies",Ash (2025) แอช
+https://m3u8haha.com/movie/M15239.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Daveed (2025) เดวิด" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/1-15.jpg" group-title="Movies",Daveed (2025) เดวิด
+https://m3u8haha.com/movie/M15234.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Monster of Er Long Lake (2025) สัตว์ประหลาดแห่งทะเลสาบเอ๋อหลง" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/2-13.jpg" group-title="Movies",Monster of Er Long Lake (2025) สัตว์ประหลาดแห่งทะเลสาบเอ๋อหลง
+https://m3u8haha.com/movie/M15235.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Superboys of Malegaon (2025) ยอดมนุษย์แห่งมาเลเกา" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/3-12.jpg" group-title="Movies",Superboys of Malegaon (2025) ยอดมนุษย์แห่งมาเลเกา
+https://m3u8haha.com/movie/M15236.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Shadow of God (2025) ชาโดว์ ออฟ ก็อด" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/5-4.jpg" group-title="Movies",Shadow of God (2025) ชาโดว์ ออฟ ก็อด
+https://m3u8haha.com/movie/M15233.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Hitman 2 (2025) ฮิตแมน 2" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/4-8.jpg" group-title="Movies",Hitman 2 (2025) ฮิตแมน 2
+https://m3u8haha.com/movie/M15232.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Cells at Work (2025) เซลล์ขยันพันธุ์เดือด" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/2-12-scaled.jpg" group-title="Movies",Cells at Work (2025) เซลล์ขยันพันธุ์เดือด
+https://m3u8haha.com/movie/M15230.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="iHostage (2025) จับตัวประกันสนั่นเมือง" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/3-10.jpg" group-title="Movies",iHostage (2025) จับตัวประกันสนั่นเมือง
+https://m3u8haha.com/movie/M15226.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Lifeline (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/2-11.jpg" group-title="Movies",Lifeline (2025)
+https://m3u8haha.com/movie/M15225.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Sampung Utos Kay Josh (2025) ฉีกบัญญัติ แหวกศรัทธา" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/1-13.jpg" group-title="Movies",Sampung Utos Kay Josh (2025) ฉีกบัญญัติ แหวกศรัทธา
+https://m3u8haha.com/movie/M15224.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Woman in the Yard (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/3-9.jpg" group-title="Movies",The Woman in the Yard (2025)
+https://m3u8haha.com/movie/M15223.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Amateur (2025) ร้ายสมัครเล่น" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/1-12.jpg" group-title="Movies",The Amateur (2025) ร้ายสมัครเล่น
+https://m3u8haha.com/movie/M15221.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Alto Knights (2025) ดิ อัลโตไนท์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/2-9.jpg" group-title="Movies",The Alto Knights (2025) ดิ อัลโตไนท์
+https://m3u8haha.com/movie/M15219.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Pets (2025) เพ็ทส์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/1-11.jpg" group-title="Movies",Pets (2025) เพ็ทส์
+https://m3u8haha.com/movie/M15217.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Home Sweet Home: Rebirth (2025) โฮมสวีตโฮม รีเบิร์ธ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/3-8.jpg" group-title="Movies",Home Sweet Home: Rebirth (2025) โฮมสวีตโฮม รีเบิร์ธ
+https://m3u8haha.com/movie/M15220.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="A Knight’s War (2025) อะไนท์วอร์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/1-10.jpg" group-title="Movies",A Knight’s War (2025) อะไนท์วอร์
+https://m3u8haha.com/movie/M15218.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Hearts Around the Table: Josh’s Third Serving (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/4-6-scaled.jpg" group-title="Movies",Hearts Around the Table: Josh’s Third Serving (2025)
+https://m3u8haha.com/movie/M15216.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Rule Breakers (2025) รูล เบรกเกอร์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/3-7.jpg" group-title="Movies",Rule Breakers (2025) รูล เบรกเกอร์
+https://m3u8haha.com/movie/M15215.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Meet the Khumalos (2025) เปิดบ้านป่วนคูมาโล" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/2-8.jpg" group-title="Movies",Meet the Khumalos (2025) เปิดบ้านป่วนคูมาโล
+https://m3u8haha.com/movie/M15214.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Frozen Hot Boys (2025) แก๊งหิมะเดือด" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/1-9.jpg" group-title="Movies",Frozen Hot Boys (2025) แก๊งหิมะเดือด
+https://m3u8haha.com/movie/M15213.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="825 Forest Road (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/3-6-scaled.jpg" group-title="Movies",825 Forest Road (2025)
+https://m3u8haha.com/movie/M15210.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="G20 (2025) จี 20" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/2-7.jpg" group-title="Movies",G20 (2025) จี 20
+https://m3u8haha.com/movie/M15209.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Officer on Duty (2025) เจ้าหน้าที่" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/1-8.jpg" group-title="Movies",Officer on Duty (2025) เจ้าหน้าที่
+https://m3u8haha.com/movie/M15208.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Night of the Zoopocalypse (2025) ไนท์ ออฟ เดอะ ซูโปคาลิปส์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/5-2.jpg" group-title="Movies",Night of the Zoopocalypse (2025) ไนท์ ออฟ เดอะ ซูโปคาลิปส์
+https://m3u8haha.com/movie/M15212.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Culprit (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/4-4.jpg" group-title="Movies",Culprit (2025)
+https://m3u8haha.com/movie/M15206.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Becoming Led Zeppelin (2025) เลด เซพพีลิน: ดนตรีเปลี่ยนโลก" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/3-5.jpg" group-title="Movies",Becoming Led Zeppelin (2025) เลด เซพพีลิน: ดนตรีเปลี่ยนโลก
+https://m3u8haha.com/movie/M15205.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Candlewood (2025) แคนเดิลวูด" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/2-6.jpg" group-title="Movies",Candlewood (2025) แคนเดิลวูด
+https://m3u8haha.com/movie/M15204.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Dad Quest (2025) ภารกิจคุณพ่อ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/1-7.jpg" group-title="Movies",The Dad Quest (2025) ภารกิจคุณพ่อ
+https://m3u8haha.com/movie/M15203.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The World Will Tremble (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/5-1.jpg" group-title="Movies",The World Will Tremble (2025)
+https://m3u8haha.com/movie/M15207.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Fire (2025) ไฟเยอร์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/3-4.jpg" group-title="Movies",Fire (2025) ไฟเยอร์
+https://m3u8haha.com/movie/M15201.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Both Eyes Open (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/2-5.jpg" group-title="Movies",Both Eyes Open (2025)
+https://m3u8haha.com/movie/M15200.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Red Envelope (2025) ซองแดงแต่งผี" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/1-6-scaled.jpg" group-title="Movies",The Red Envelope (2025) ซองแดงแต่งผี
+https://m3u8haha.com/movie/M15195.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Holland (2025) ฮอลแลนด์ เมืองหลอนซ่อนความลับ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/4-3-scaled.jpg" group-title="Movies",Holland (2025) ฮอลแลนด์ เมืองหลอนซ่อนความลับ
+https://m3u8haha.com/movie/M15202.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Last Supper (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/3-3.jpg" group-title="Movies",The Last Supper (2025)
+https://m3u8haha.com/movie/M15198.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Alexander and the Terrible Horrible No Good Very Bad Road Trip (2025) อเล็กซานเดอร์ แอนด์ เดอะ เทอริเบิล ฮอร์ริเบิล โน กู๊ด เวรี่ แบด โร้ด ทริป" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/2-4.jpg" group-title="Movies",Alexander and the Terrible Horrible No Good Very Bad Road Trip (2025) อเล็กซานเดอร์ แอนด์ เดอะ เทอริเบิล ฮอร์ริเบิล โน กู๊ด เวรี่ แบด โร้ด ทริป
+https://m3u8haha.com/movie/M15197.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Shiver Me Timbers (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/1-5.jpg" group-title="Movies",Shiver Me Timbers (2025)
+https://m3u8haha.com/movie/M15196.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="October 8 (2025) 8 ตุลาคม" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/4-2.jpg" group-title="Movies",October 8 (2025) 8 ตุลาคม
+https://m3u8haha.com/movie/M15199.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Test (2025) เกมวัดใจ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/1-4.jpg" group-title="Movies",Test (2025) เกมวัดใจ
+https://m3u8haha.com/movie/M15191.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Actor (2025) เดอะ แอคเตอร์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/4-1.jpg" group-title="Movies",The Actor (2025) เดอะ แอคเตอร์
+https://m3u8haha.com/movie/M15194.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Black Bag (2025) ปฏิบัติการลับสองหน้า" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/3-2.jpg" group-title="Movies",Black Bag (2025) ปฏิบัติการลับสองหน้า
+https://m3u8haha.com/movie/M15193.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Fog of War (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/2-3.jpg" group-title="Movies",Fog of War (2025)
+https://m3u8haha.com/movie/M15192.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="A Minecraft Movie (2025) ไมน์คราฟต์ มูฟวี่" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/2-2-scaled.jpg" group-title="Movies",A Minecraft Movie (2025) ไมน์คราฟต์ มูฟวี่
+https://m3u8haha.com/movie/M15189.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Bleed For Past (2025) ราชานักวาด" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/1.png" group-title="Movies",Bleed For Past (2025) ราชานักวาด
+https://m3u8haha.com/movie/M15188.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="O’Dessa (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/3-1-scaled.jpg" group-title="Movies",O’Dessa (2025)
+https://m3u8haha.com/movie/M15190.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="MaXXXine (2024) แม็กซีน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/4.jpg" group-title="Movies",MaXXXine (2024) แม็กซีน
+https://m3u8haha.com/movie/M15186.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Dirty Angels (2024)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/3.jpg" group-title="Movies",Dirty Angels (2024)
+https://m3u8haha.com/movie/M15185.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Babah (2024) บาบ๋า" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/2-1.jpg" group-title="Movies",Babah (2024) บาบ๋า
+https://m3u8haha.com/movie/M15184.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="House of Sayuri (2024) บ้านผีอิหยังวะ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/1-3.jpg" group-title="Movies",House of Sayuri (2024) บ้านผีอิหยังวะ
+https://m3u8haha.com/movie/M15183.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Kalki 2898 AD (2024)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/5.jpg" group-title="Movies",Kalki 2898 AD (2024)
+https://m3u8haha.com/movie/M15187.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Promised Hearts (2025) หลักฐานสัญญาใจ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/1-1.jpg" group-title="Movies",Promised Hearts (2025) หลักฐานสัญญาใจ
+https://m3u8haha.com/movie/M15180.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Alexander and the Terrible Horrible No Good Very Bad Road Trip (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/04/1.jpg" group-title="Movies",Alexander and the Terrible Horrible No Good Very Bad Road Trip (2025)
+https://m3u8haha.com/movie/M15181.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Tyler Perry s Duplicity (2025) การหลอกลวงของไทเลอร์ เพอร์รี่" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/3-17.jpg" group-title="Movies",Tyler Perry s Duplicity (2025) การหลอกลวงของไทเลอร์ เพอร์รี่
+https://m3u8haha.com/movie/M15179.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Dragon (2025) ดราก้อน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/2-19.jpg" group-title="Movies",Dragon (2025) ดราก้อน
+https://m3u8haha.com/movie/M15178.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Holland (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/1-18-scaled.jpg" group-title="Movies",Holland (2025)
+https://m3u8haha.com/movie/M15177.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Love Me (2025) เลิฟ มี" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/2-18.jpg" group-title="Movies",Love Me (2025) เลิฟ มี
+https://m3u8haha.com/movie/M15176.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="In the Lost Lands (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/1-17-scaled.jpg" group-title="Movies",In the Lost Lands (2025)
+https://m3u8haha.com/movie/M15175.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Bloat (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/4-10.jpg" group-title="Movies",Bloat (2025)
+https://m3u8haha.com/movie/M15174.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="High Ground (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/3-16.jpg" group-title="Movies",High Ground (2025)
+https://m3u8haha.com/movie/M15173.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Devil and the Daylong Brothers (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/2-17.jpg" group-title="Movies",The Devil and the Daylong Brothers (2025)
+https://m3u8haha.com/movie/M15172.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Warden (2025) วอร์เดน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/1-16.jpg" group-title="Movies",Warden (2025) วอร์เดน
+https://m3u8haha.com/movie/M15171.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Riff Raff (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/3-15.jpg" group-title="Movies",Riff Raff (2025)
+https://m3u8haha.com/movie/M15168.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Tyler Perry’s Duplicity (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/2-16-scaled.jpg" group-title="Movies",Tyler Perry’s Duplicity (2025)
+https://m3u8haha.com/movie/M15166.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Ne Zha 2 (2025) นาจา 2" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/1-15-scaled.jpg" group-title="Movies",Ne Zha 2 (2025) นาจา 2
+https://m3u8haha.com/movie/M15165.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Snow White (2025) สโนว์ไวท์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/4-9.jpg" group-title="Movies",Snow White (2025) สโนว์ไวท์
+https://m3u8haha.com/movie/M15169.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Mystery Island: Winner Takes All (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/2-15.jpg" group-title="Movies",Mystery Island: Winner Takes All (2025)
+https://m3u8haha.com/movie/M15163.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Twister: Caught in the Storm (2025) ติดอยู่กลางพายุ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/1-14.jpg" group-title="Movies",The Twister: Caught in the Storm (2025) ติดอยู่กลางพายุ
+https://m3u8haha.com/movie/M15162.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Batman Ninja vs. Yakuza League (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/3-14.jpg" group-title="Movies",Batman Ninja vs. Yakuza League (2025)
+https://m3u8haha.com/movie/M15164.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Silent Zone (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/4-8.jpg" group-title="Movies",Silent Zone (2025)
+https://m3u8haha.com/movie/M15160.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Parenting (2025) อุต๊ะ มาป๊ะผี" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/3-13.jpg" group-title="Movies",The Parenting (2025) อุต๊ะ มาป๊ะผี
+https://m3u8haha.com/movie/M15159.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Control Freak (2025) คอนโทรลฟรีค" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/2-14.jpg" group-title="Movies",Control Freak (2025) คอนโทรลฟรีค
+https://m3u8haha.com/movie/M15158.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Borderline (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/1-13.jpg" group-title="Movies",Borderline (2025)
+https://m3u8haha.com/movie/M15157.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Adolescence (2025) วัยลน คนอันตราย" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/5-5.jpg" group-title="Movies",Adolescence (2025) วัยลน คนอันตราย
+https://m3u8haha.com/movie/M15161.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Novocaine (2025) มิสเตอร์โคตรคนทรหด" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/4-7.jpg" group-title="Movies",Novocaine (2025) มิสเตอร์โคตรคนทรหด
+https://m3u8haha.com/movie/M15156.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Uncontained (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/3-12.jpg" group-title="Movies",Uncontained (2025)
+https://m3u8haha.com/movie/M15155.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Last Breath (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/2-13.jpg" group-title="Movies",Last Breath (2025)
+https://m3u8haha.com/movie/M15154.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Bayou (2025) มฤตยูงาบ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/1-12.jpg" group-title="Movies",The Bayou (2025) มฤตยูงาบ
+https://m3u8haha.com/movie/M15153.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Emergency (2025) ฉุกเฉิน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/3-11.jpg" group-title="Movies",Emergency (2025) ฉุกเฉิน
+https://m3u8haha.com/movie/M15151.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Be Happy (2025) จังหวะฝัน วันสุขใจ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/2-12.jpg" group-title="Movies",Be Happy (2025) จังหวะฝัน วันสุขใจ
+https://m3u8haha.com/movie/M15150.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Electric State (2025) ท่องแดนจักรกล" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/3-10.jpg" group-title="Movies",The Electric State (2025) ท่องแดนจักรกล
+https://m3u8haha.com/movie/M15148.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Fire Inside (2024)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/2-11.jpg" group-title="Movies",The Fire Inside (2024)
+https://m3u8haha.com/movie/M15147.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Curse of the Seven Oceans (2024) ฅนปล่อยของ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/1-10.jpg" group-title="Movies",Curse of the Seven Oceans (2024) ฅนปล่อยของ
+https://m3u8haha.com/movie/M15146.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Golden Voice (2025) เดอะโกลเด้นวอยซ์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/2-10.jpg" group-title="Movies",The Golden Voice (2025) เดอะโกลเด้นวอยซ์
+https://m3u8haha.com/movie/M15144.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Game Changer (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/1-9.jpg" group-title="Movies",Game Changer (2025)
+https://m3u8haha.com/movie/M15143.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Woods of Ash (2025) วู้ดส์ ออฟ แอช" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/3-9-scaled.jpg" group-title="Movies",Woods of Ash (2025) วู้ดส์ ออฟ แอช
+https://m3u8haha.com/movie/M15145.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Legend of the Condor Heroes The Gallants (2025) มังกรหยก จอมยุทธ์ผู้ยิ่งใหญ่" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/2-8.jpg" group-title="Movies",The Legend of the Condor Heroes The Gallants (2025) มังกรหยก จอมยุทธ์ผู้ยิ่งใหญ่
+https://m3u8haha.com/movie/M15141.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Thandel (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/1-8.jpg" group-title="Movies",Thandel (2025)
+https://m3u8haha.com/movie/M15140.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Tiger Squad (2025) หน่วยจู่โจมพยัคฆ์เวหา" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/3-8.jpg" group-title="Movies",Tiger Squad (2025) หน่วยจู่โจมพยัคฆ์เวหา
+https://m3u8haha.com/movie/M15142.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Cold Wallet (2025) โคลด์ วอลเล็ต" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/4-5.jpg" group-title="Movies",Cold Wallet (2025) โคลด์ วอลเล็ต
+https://m3u8haha.com/movie/M15138.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Cleaner (2025) ไต่ระทึกตึกนรก" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/3-7.jpg" group-title="Movies",Cleaner (2025) ไต่ระทึกตึกนรก
+https://m3u8haha.com/movie/M15137.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Mickey 17 (2025) มิกกี้ 17" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/2-7.jpg" group-title="Movies",Mickey 17 (2025) มิกกี้ 17
+https://m3u8haha.com/movie/M15136.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Reluctant Royal (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/5-3.jpg" group-title="Movies",The Reluctant Royal (2025)
+https://m3u8haha.com/movie/M15139.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Dark Nuns (2025) ไล่มันกลับลงหลุม" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/4-4.jpg" group-title="Movies",Dark Nuns (2025) ไล่มันกลับลงหลุม
+https://m3u8haha.com/movie/M15134.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Chaos: The Manson Murders (2025) ฆาตกรรมครอบครัวแมนสัน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/3-6.jpg" group-title="Movies",Chaos: The Manson Murders (2025) ฆาตกรรมครอบครัวแมนสัน
+https://m3u8haha.com/movie/M15133.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Nadaaniyan (2025) หัวใจติดกับ รักผิดแผน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/2-6.jpg" group-title="Movies",Nadaaniyan (2025) หัวใจติดกับ รักผิดแผน
+https://m3u8haha.com/movie/M15132.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Delicious (2025) โอชะ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/1-6.jpg" group-title="Movies",Delicious (2025) โอชะ
+https://m3u8haha.com/movie/M15131.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="William Tell (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/2-5.jpg" group-title="Movies",William Tell (2025)
+https://m3u8haha.com/movie/M15129.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="VidaaMuyarchi (2025) ผู้ชายใจไม่พ่าย" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/1-5.jpg" group-title="Movies",VidaaMuyarchi (2025) ผู้ชายใจไม่พ่าย
+https://m3u8haha.com/movie/M15128.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Unbreakable Boy (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/3-5.jpg" group-title="Movies",The Unbreakable Boy (2025)
+https://m3u8haha.com/movie/M15130.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Uppercut (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/3-4.jpg" group-title="Movies",Uppercut (2025)
+https://m3u8haha.com/movie/M15126.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky Force (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/2-4.jpg" group-title="Movies",Sky Force (2025)
+https://m3u8haha.com/movie/M15125.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Royal We (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/4-3.jpg" group-title="Movies",The Royal We (2025)
+https://m3u8haha.com/movie/M15127.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Fight or Flight (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/4-2.jpg" group-title="Movies",Fight or Flight (2025)
+https://m3u8haha.com/movie/M15122.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Daaku Maharaaj (2025) ดากู มหาราช" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/3-3.jpg" group-title="Movies",Daaku Maharaaj (2025) ดากู มหาราช
+https://m3u8haha.com/movie/M15121.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Kadhalikka Neramillai (2025) ไม่มีเวลารัก" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/5-2.jpg" group-title="Movies",Kadhalikka Neramillai (2025) ไม่มีเวลารัก
+https://m3u8haha.com/movie/M15123.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="CounterStrike (2025) ฝ่านรกกองโจร" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/2-2.jpg" group-title="Movies",CounterStrike (2025) ฝ่านรกกองโจร
+https://m3u8haha.com/movie/M15117.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Squad 36 (2025) หน่วย 36 ตำรวจมือพระกาฬ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/1-2.jpg" group-title="Movies",Squad 36 (2025) หน่วย 36 ตำรวจมือพระกาฬ
+https://m3u8haha.com/movie/M15116.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="We Kill Them All (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/3-2-scaled.jpg" group-title="Movies",We Kill Them All (2025)
+https://m3u8haha.com/movie/M15118.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Monkey (2025) จ๋อจัดตาย" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/5-1.jpg" group-title="Movies",The Monkey (2025) จ๋อจัดตาย
+https://m3u8haha.com/movie/M15115.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Wrong Track (2025) เส้นทางพิสูจน์ใจ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/4.jpg" group-title="Movies",The Wrong Track (2025) เส้นทางพิสูจน์ใจ
+https://m3u8haha.com/movie/M15109.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Sosyal Climbers (2025) ตกกระไดพลอยรวย" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/3.jpg" group-title="Movies",Sosyal Climbers (2025) ตกกระไดพลอยรวย
+https://m3u8haha.com/movie/M15108.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Demon City (2025) เมืองอสูร" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/2.jpg" group-title="Movies",Demon City (2025) เมืองอสูร
+https://m3u8haha.com/movie/M15107.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Slide (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/03/5.jpg" group-title="Movies",Slide (2025)
+https://m3u8haha.com/movie/M15110.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Millers in Marriage (2025) มิลเลอร์อินแมริเอจ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/4-12-scaled.jpg" group-title="Movies",Millers in Marriage (2025) มิลเลอร์อินแมริเอจ
+https://m3u8haha.com/movie/M15104.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Miss Italia Mustn’t Die (2025) นางงามอิตาลีต้องไม่ตาย" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/3-16.jpg" group-title="Movies",Miss Italia Mustn’t Die (2025) นางงามอิตาลีต้องไม่ตาย
+https://m3u8haha.com/movie/M15103.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="A Copenhagen Love Story (2025) รักฉบับโคเปนเฮเกน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/2-17.jpg" group-title="Movies",A Copenhagen Love Story (2025) รักฉบับโคเปนเฮเกน
+https://m3u8haha.com/movie/M15102.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Cleaner (2025) ไต่ระทึกตึกนรก" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/1-18.jpg" group-title="Movies",Cleaner (2025) ไต่ระทึกตึกนรก
+https://m3u8haha.com/movie/M15101.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Popeye’s Revenge (2025) ป๊อปอายรีเวน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/5-5.jpg" group-title="Movies",Popeye’s Revenge (2025) ป๊อปอายรีเวน
+https://m3u8haha.com/movie/M15105.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Harold and the Purple Crayon (2024) แฮโรลด์กับสีเทียนมหัศจรรย์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/4-11.jpg" group-title="Movies",Harold and the Purple Crayon (2024) แฮโรลด์กับสีเทียนมหัศจรรย์
+https://m3u8haha.com/movie/M15099.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Wolf Man (2025) มนุษย์หมาป่า" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/5-4.jpg" group-title="Movies",Wolf Man (2025) มนุษย์หมาป่า
+https://m3u8haha.com/movie/M15100.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Reality Bites: A Hannah Swensen Mystery (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/3-14.jpg" group-title="Movies",Reality Bites: A Hannah Swensen Mystery (2025)
+https://m3u8haha.com/movie/M15095.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Valiant One (2025) วาเลียนท์ วัน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/2-15.jpg" group-title="Movies",Valiant One (2025) วาเลียนท์ วัน
+https://m3u8haha.com/movie/M15094.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Day the Earth Blew Up: A Looney Tunes Movie (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/1-16.jpg" group-title="Movies",The Day the Earth Blew Up: A Looney Tunes Movie (2025)
+https://m3u8haha.com/movie/M15093.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Return to Office (2025) รีเทิร์น ทู ออฟฟิศ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/1-15.jpg" group-title="Movies",Return to Office (2025) รีเทิร์น ทู ออฟฟิศ
+https://m3u8haha.com/movie/M15090.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Chasing the Wind (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/2-14.jpg" group-title="Movies",Chasing the Wind (2025)
+https://m3u8haha.com/movie/M15092.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Marked Men: Rule + Shaw (2025) มาร์ค เมน: รูล + ชอว์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/4-10.jpg" group-title="Movies",Marked Men: Rule + Shaw (2025) มาร์ค เมน: รูล + ชอว์
+https://m3u8haha.com/movie/M15088.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Simpsons: The Past and the Furious (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/3-13.jpg" group-title="Movies",The Simpsons: The Past and the Furious (2025)
+https://m3u8haha.com/movie/M15087.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Invincible Swordsman (2025) กระบี่เย้ยยุทธจักร" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/5-3.jpg" group-title="Movies",Invincible Swordsman (2025) กระบี่เย้ยยุทธจักร
+https://m3u8haha.com/movie/M15089.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Dead Thing (2025) เดอะเดดธิง" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/7.jpg" group-title="Movies",The Dead Thing (2025) เดอะเดดธิง
+https://m3u8haha.com/movie/M15083.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Mehta Boys (2025) เดอะ เมธา บอยส์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/6-scaled.jpg" group-title="Movies",The Mehta Boys (2025) เดอะ เมธา บอยส์
+https://m3u8haha.com/movie/M15082.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Love Forever (2025) รักนิรันดร" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/5-1.jpg" group-title="Movies",Love Forever (2025) รักนิรันดร
+https://m3u8haha.com/movie/M15081.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Most Beautiful Girl in the World (2025) ผู้หญิงที่สวยที่สุดในโลก" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/4-9.jpg" group-title="Movies",The Most Beautiful Girl in the World (2025) ผู้หญิงที่สวยที่สุดในโลก
+https://m3u8haha.com/movie/M15080.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Bring Them Down (2025) บริง เธม ดาวน์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/8.jpg" group-title="Movies",Bring Them Down (2025) บริง เธม ดาวน์
+https://m3u8haha.com/movie/M15084.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Dhoom Dhaam (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/4-8.jpg" group-title="Movies",Dhoom Dhaam (2025)
+https://m3u8haha.com/movie/M15076.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Umjolo There Is No Cure (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/3-11.jpg" group-title="Movies",Umjolo There Is No Cure (2025)
+https://m3u8haha.com/movie/M15075.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="My Fault London (2025) คำขอโทษ ลอนดอน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/2-11.jpg" group-title="Movies",My Fault London (2025) คำขอโทษ ลอนดอน
+https://m3u8haha.com/movie/M15074.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Death Before the Wedding (2025) ตายก่อนแต่ง" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/4-7.jpg" group-title="Movies",Death Before the Wedding (2025) ตายก่อนแต่ง
+https://m3u8haha.com/movie/M15069.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Captain America Brave New World (2025) กัปตัน อเมริกา ศึกฮีโร่จักรวาลใหม่" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/3-10.jpg" group-title="Movies",Captain America Brave New World (2025) กัปตัน อเมริกา ศึกฮีโร่จักรวาลใหม่
+https://m3u8haha.com/movie/M15068.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Honeymoon Crasher (2025) ตัวป่วนฮันนีมูน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/3-9.jpg" group-title="Movies",Honeymoon Crasher (2025) ตัวป่วนฮันนีมูน
+https://m3u8haha.com/movie/M15064.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Witcher Sirens of the Deep (2025) เดอะ วิทเชอร์ นักล่าจอมอสูร ไซเรนแห่งทะเลลึก" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/4-6.jpg" group-title="Movies",The Witcher Sirens of the Deep (2025) เดอะ วิทเชอร์ นักล่าจอมอสูร ไซเรนแห่งทะเลลึก
+https://m3u8haha.com/movie/M15065.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Piglet (2025) พิกเล็ต" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/3-8.jpg" group-title="Movies",Piglet (2025) พิกเล็ต
+https://m3u8haha.com/movie/M15059.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Heart Eyes (2025) ฮาร์ตอายส์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/4-5.jpg" group-title="Movies",Heart Eyes (2025) ฮาร์ตอายส์
+https://m3u8haha.com/movie/M15060.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Love Hurts (2025) ด้วยรักและลูกปืน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/5.jpg" group-title="Movies",Love Hurts (2025) ด้วยรักและลูกปืน
+https://m3u8haha.com/movie/M15061.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Kiff Lore Of The Ring Light (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/1-8-scaled.jpg" group-title="Movies",Kiff Lore Of The Ring Light (2025)
+https://m3u8haha.com/movie/M15055.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Fake Dad (2025) พ่อปลอมปลอม" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/2-7.jpg" group-title="Movies",Fake Dad (2025) พ่อปลอมปลอม
+https://m3u8haha.com/movie/M15057.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Devils Stay (2025) ปีศาจปรสิต" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/2-6.jpg" group-title="Movies",Devils Stay (2025) ปีศาจปรสิต
+https://m3u8haha.com/movie/M15053.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Into the Deep (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/1-7.jpg" group-title="Movies",Into the Deep (2025)
+https://m3u8haha.com/movie/M15052.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Companion (2025) คอมแพเนียน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/3-7-scaled.jpg" group-title="Movies",Companion (2025) คอมแพเนียน
+https://m3u8haha.com/movie/M15054.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Unlock (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/3-5.jpg" group-title="Movies",The Unlock (2025)
+https://m3u8haha.com/movie/M15050.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Brave the Dark (2025) เบรฟ เดอะ ดาร์ค" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/2-5.jpg" group-title="Movies",Brave the Dark (2025) เบรฟ เดอะ ดาร์ค
+https://m3u8haha.com/movie/M15049.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Plankton: The Movie (2025) แพลงก์ตอน: เดอะมูฟวี่" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/1-6.jpg" group-title="Movies",Plankton: The Movie (2025) แพลงก์ตอน: เดอะมูฟวี่
+https://m3u8haha.com/movie/M15048.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Wish You Were Here (2025) ปรารถนาเพียงเธอ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/4-3.jpg" group-title="Movies",Wish You Were Here (2025) ปรารถนาเพียงเธอ
+https://m3u8haha.com/movie/M15051.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Sniper: The Last Stand (2025) สไนเปอร์ ฝ่าวิกฤติทีมสังหาร" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/3-4.jpg" group-title="Movies",Sniper: The Last Stand (2025) สไนเปอร์ ฝ่าวิกฤติทีมสังหาร
+https://m3u8haha.com/movie/M15045.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="My Argentine Heart (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/2-4.jpg" group-title="Movies",My Argentine Heart (2025)
+https://m3u8haha.com/movie/M15044.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Sand Castle (2025) ปราสาททราย" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/4-2.jpg" group-title="Movies",The Sand Castle (2025) ปราสาททราย
+https://m3u8haha.com/movie/M15046.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="An Unexpected Valentine (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/3-3-scaled.jpg" group-title="Movies",An Unexpected Valentine (2025)
+https://m3u8haha.com/movie/M15043.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Bogota City of the Lost (2025) โบโกตา เมืองคนหลง" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/2-3.jpg" group-title="Movies",Bogota City of the Lost (2025) โบโกตา เมืองคนหลง
+https://m3u8haha.com/movie/M15040.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Sunray: Fallen Soldier (2025) ซันเรย์: ฟอลเลนโซเจอร์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/3-2-scaled.jpg" group-title="Movies",Sunray: Fallen Soldier (2025) ซันเรย์: ฟอลเลนโซเจอร์
+https://m3u8haha.com/movie/M15037.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Adventures of Jurassic Pet: Return to the Wild (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/4-1.jpg" group-title="Movies",The Adventures of Jurassic Pet: Return to the Wild (2025)
+https://m3u8haha.com/movie/M15038.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Youre Cordially Invited (2025) รักแสบซ่า วิวาห์อลเวง" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/3-scaled.jpg" group-title="Movies",Youre Cordially Invited (2025) รักแสบซ่า วิวาห์อลเวง
+https://m3u8haha.com/movie/M15030.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Luccas World (2025) โลกของลุคก้า" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/3-1.jpg" group-title="Movies",Luccas World (2025) โลกของลุคก้า
+https://m3u8haha.com/movie/M15034.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="9-11: The Day the World Stood Still (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/02/4.jpg" group-title="Movies",9-11: The Day the World Stood Still (2025)
+https://m3u8haha.com/movie/M15035.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Grafted (2025) กราฟต์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/3-15.jpg" group-title="Movies",Grafted (2025) กราฟต์
+https://m3u8haha.com/movie/M15027.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Friendly Fire (2025) เฟรนลี่ไฟร์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/2-20.jpg" group-title="Movies",Friendly Fire (2025) เฟรนลี่ไฟร์
+https://m3u8haha.com/movie/M15026.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Flight Risk (2025) นรกยึดไฟลต์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/1-21.jpg" group-title="Movies",Flight Risk (2025) นรกยึดไฟลต์
+https://m3u8haha.com/movie/M15025.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Star Trek Section 31 (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/1-19-scaled.jpg" group-title="Movies",Star Trek Section 31 (2025)
+https://m3u8haha.com/movie/M15016.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Wolf Man (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/3-12.jpg" group-title="Movies",Wolf Man (2025)
+https://m3u8haha.com/movie/M15014.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Den of Thieves 2 Pantera (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/4-9.jpg" group-title="Movies",Den of Thieves 2 Pantera (2025)
+https://m3u8haha.com/movie/M15015.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="A Complete Unknown (2025) อะ คอมพลีท อันโนวน์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/4-8.jpg" group-title="Movies",A Complete Unknown (2025) อะ คอมพลีท อันโนวน์
+https://m3u8haha.com/movie/M15011.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Man with No Past (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/3-11-scaled.jpg" group-title="Movies",Man with No Past (2025)
+https://m3u8haha.com/movie/M15010.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Undercover Party Crasher (2025) อันเดอร์ โคฟเวอร์ ปาร์ตี้แครชเชอร์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/2-16.jpg" group-title="Movies",Undercover Party Crasher (2025) อันเดอร์ โคฟเวอร์ ปาร์ตี้แครชเชอร์
+https://m3u8haha.com/movie/M15009.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Bloody Axe Wound (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/4-7.jpg" group-title="Movies",Bloody Axe Wound (2025)
+https://m3u8haha.com/movie/M15006.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Art of the Devil Beginning (2025) พนอ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/7.jpg" group-title="Movies",Art of the Devil Beginning (2025) พนอ
+https://m3u8haha.com/movie/M15005.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Henry Danger The Movie (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/2-15.jpg" group-title="Movies",Henry Danger The Movie (2025)
+https://m3u8haha.com/movie/M15004.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Alarum (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/1-16.jpg" group-title="Movies",Alarum (2025)
+https://m3u8haha.com/movie/M15003.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Damned (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/5-4.jpg" group-title="Movies",The Damned (2025)
+https://m3u8haha.com/movie/M15007.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Sons of Ecstasy (2025) หักเหลี่ยมชิงบัลลังก์ยาอี" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/4-6.jpg" group-title="Movies",Sons of Ecstasy (2025) หักเหลี่ยมชิงบัลลังก์ยาอี
+https://m3u8haha.com/movie/M15001.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Diddy: The Making of a Bad Boy (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/3-9.jpg" group-title="Movies",Diddy: The Making of a Bad Boy (2025)
+https://m3u8haha.com/movie/M15000.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The End (2025) ดิเอนด์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/5-3-scaled.jpg" group-title="Movies",The End (2025) ดิเอนด์
+https://m3u8haha.com/movie/M15002.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Laws of Man (2025) ลอวส์ ออฟ แมน" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/1-14.jpg" group-title="Movies",Laws of Man (2025) ลอวส์ ออฟ แมน
+https://m3u8haha.com/movie/M14993.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Bank of Dave 2: The Loan Ranger (2025) แบงค์ ออฟ เดฟ 2: เดอะโลนเรนเจอร์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/4-4.jpg" group-title="Movies",Bank of Dave 2: The Loan Ranger (2025) แบงค์ ออฟ เดฟ 2: เดอะโลนเรนเจอร์
+https://m3u8haha.com/movie/M14991.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Fateh (2025) ฟาเตห์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/3-7.jpg" group-title="Movies",Fateh (2025) ฟาเตห์
+https://m3u8haha.com/movie/M14990.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Gardener (2025) เดอะ การ์เดนเนอร์" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/2-12.jpg" group-title="Movies",The Gardener (2025) เดอะ การ์เดนเนอร์
+https://m3u8haha.com/movie/M14989.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Den of Thieves: Pantera (2025) โคตรนรกปล้นเหนือเมฆ แพนเธอรา" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/1-13-scaled.jpg" group-title="Movies",Den of Thieves: Pantera (2025) โคตรนรกปล้นเหนือเมฆ แพนเธอรา
+https://m3u8haha.com/movie/M14988.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="The Calendar Killer (2025) คาเลนดาร์คิลเลอร์ วันสั่งตาย" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/5-1.jpg" group-title="Movies",The Calendar Killer (2025) คาเลนดาร์คิลเลอร์ วันสั่งตาย
+https://m3u8haha.com/movie/M14992.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Love Of The Irish (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/4-3.jpg" group-title="Movies",Love Of The Irish (2025)
+https://m3u8haha.com/movie/M14986.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Azrael (2025) นรกไร้เสียง" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/3-6.jpg" group-title="Movies",Azrael (2025) นรกไร้เสียง
+https://m3u8haha.com/movie/M14985.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Hidden Face (2025) เล่ห์ ร้อน ซ่อน ชู้" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/2-11-scaled.jpg" group-title="Movies",Hidden Face (2025) เล่ห์ ร้อน ซ่อน ชู้
+https://m3u8haha.com/movie/M14984.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Drug Hunter 2 (2025) ล่าระห่ำ 2" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/1-12.jpg" group-title="Movies",Drug Hunter 2 (2025) ล่าระห่ำ 2
+https://m3u8haha.com/movie/M14983.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Don’t Die: The Man Who Wants to Live Forever (2025) ชายผู้อยากเป็นอมตะ" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/2-10.jpg" group-title="Movies",Don’t Die: The Man Who Wants to Live Forever (2025) ชายผู้อยากเป็นอมตะ
+https://m3u8haha.com/movie/M14982.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Ad Vitam (2025) ปฏิบัติการเพื่อชีวิต" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/3-4.jpg" group-title="Movies",Ad Vitam (2025) ปฏิบัติการเพื่อชีวิต
+https://m3u8haha.com/movie/M14976.mp4/playlist.m3u8
+#EXTINF:-1 tvg-name="Umjolo: My Beginning My End! (2025)" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/1-4.jpg" group-title="Movies",Umjolo: My Beginning, My End! (2025) เธอคือจุดเริ่มและจุดจบ
+https://m3u8haha.com/movie/M14964.mp4/playlist.m3u8
 
