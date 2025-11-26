@@ -1597,6 +1597,7 @@ https://de11.seetv.cc/6878/video.m3u8?token=BC28182177585B5
 http://livebox.pro/565trail724/6655447788/171947
 
 
+
 #EXTINF:-1,===Astro====
 http://b1g.uk/200/230/709252
 
@@ -1659,23 +1660,23 @@ http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112201.m3u8
 #EXTINF:-1,===Prima Sports===
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=77490&extension=ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="Sports",Prima Sport 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="Premium sports 1",Prima Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hulky116.lokix1.cfd/000/
 https://hulky116.lokix1.cfd/puk1/usergenrx0cir27aq.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049" group-title="Sports",Prima Sport 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049" group-title="Premium sports 1",Prima Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="Sports",Prima Sport 3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="Premium sports 1",Prima Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
 https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_4_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050947" group-title="Sports",Prima Sport 4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_4_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050947" group-title="Premium sports 1",Prima Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtY8Rc2n6SO5ac7An15amazpi-zbuVUz31g&s" group-title="Sports",Prima Sport 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtY8Rc2n6SO5ac7An15amazpi-zbuVUz31g&s" group-title="Premium sports 1",Prima Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
@@ -1706,6 +1707,18 @@ http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=54165&extension=t
 
 #EXTINF:-1 ,===SPORT-TV===
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84671
+
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Premium sports 1",Sportv1
+http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2525/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Premium sports 1",Sportv2
+http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2526/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Premium sports 1",Sportv3
+http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2527/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Premium sports 1",Sportv4
+http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2528/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Premium sports 1",Sportv5
+http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2529/index.m3u8
+
 
 
 
