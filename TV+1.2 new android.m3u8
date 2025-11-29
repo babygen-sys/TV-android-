@@ -762,20 +762,6 @@ http://xxip25.top:8080/7686199/9576982/47302
 #EXTINF:-1 group-title="Documentary สารคดี",History(us)
 http://xxip25.top:8080/7686199/9576982/46724
 
-#EXTINF:-1 group-title="Documentary สารคดี",Animal
-http://49.0.64.96:8007/Animal
-#EXTINF:-1 group-title="Documentary สารคดี",SCIENCE
-http://49.0.64.96:8007/WSCI
-
-#EXTINF:-1 group-title="Documentary สารคดี",CGTN 
-https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-
-#EXTINF:-1 group-title="Documentary สารคดี",RT
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-
-#EXTINF:-1 group-title="Documentary สารคดี",Smithsonian Channel
-https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
-
 
 #EXTINF:-1,<=== NEWS ===>
 https://fl25.moveonjoy.com/CNBC/index.m3u8
@@ -983,68 +969,52 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882b
 
 
 
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Sport.png"group-title="Special sports",W-SPORT FHD
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1052656
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Sport.png"group-title="Special sports",W-SPORT HEVC
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1052655
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Sport.png"group-title="Special sports",W-SPORT HD
+
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Sport.png"group-title="Special sports",W-SPORT 
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1052657
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV FHD
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1052591
 
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV HD
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1052592
 
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1052588
+
+#EXTM3U url="https://dl.dropbox.com/scl/fi/akkzw7faxqm6p12qeh6ch/1682.m3u?rlkey=s8hf6wxthcykid8s56yvsk8l3&st=xo7bvfdc&dl=0"
+
 
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.pn"group-title="Special sports",SPOTV 
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34638
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV
+https://ww.dooballfree.vip/live/spotv/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV 2 FHD
-http://www.alhaiba.com/6V1N24N/LE49Y1F/957706
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV 2 HEVC
-http://www.alhaiba.com/6V1N24N/LE49Y1F/1052589
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV 2 HD
-http://www.alhaiba.com/6V1N24N/LE49Y1F/957732
 
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV2
-http://vipboacnn.top:8080/VIP0113172679126129/51732389530751/34663
+https://ww.dooballfree.vip/live/spotv2/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png" group-title="Special sports",🏁 F1
 http://66.90.99.154:8278/tiankongf1/playlist.m3u8?tid=MFFF3610076936100769&ct=20361&tsum=c3de2703077fe3e4f3c728f6c9ff7ac2
 
+
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Zy6ODEg.png?v=1.0.0.1" group-title="Special sports",🏀 NBA TV 1
 https://ww.dooballfree.vip/live/nba/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Zy6ODEg.png?v=1.0.0.1" group-title="Special sports",🏀 NBA TV 2
-http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/212280
+
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Zy6ODEg.png?v=1.0.0.1" group-title="Special sports",🏀 NBA TV 3
-https://ww.dooballfree.vip/live/nba/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Special sports",🏈 NFL us2
+
+#EXTINF:24 group-title="Special sports",🏈 NFL 1
 https://ww.dooballfree.vip/live/nfl/playlist.m3u8
 
-#EXTINF:-1 group-title="Special sports",🏈 NFL sky
-http://tvscreen.icu:8080/1uHb2R/223922/35243
-#EXTINF:-1 group-title="Special sports",🏈 NFL dazn
-http://tvscreen.icu:8080/1uHb2R/223922/35264
-
-#EXTINF:24 group-title="Special sports",🏈 NFL
-https://ww.dooballfree.vip/live/nfl/playlist.m3u8
-
-#EXTINF:0 group-title="Special sports",🏈 NFL
+#EXTINF:0 group-title="Special sports",🏈 NFL 2
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/8054
 
-#EXTINF:24 group-title="Special sports",🏈 NFL
+#EXTINF:24 group-title="Special sports",🏈 NFL 3
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/8053
 
 
@@ -1055,11 +1025,23 @@ http://49.0.64.96:8007/TENNIS
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Special sports",🏌️‍♂️Live ! Golf Channel 1
+#EXTINF:-1 group-title="Special sports",🏌️‍♂️ Golf 1
 https://slave01.appball.vip/hls/oz3WUABaXUxE0jLumRo_kw/1764391684/golftv.m3u8
 
-#EXTINF:-1 group-title="Special sports",🏌️‍♂️Golf Channel 2
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186500&extension=ts
+#EXTINF:-1 group-title="Special sports",🏌️‍♂️ Golf 2
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117206
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special sports", satro Grandstand
+http://66.90.99.154:8278/go_assp3/playlist.m3u8?tid=MB4B1248565612485656&ct=20364&tsum=494d53f2daeba57179732f790bbc6767
+
+#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Special sports",Arena
+http://66.90.99.154:8278/Arena/playlist.m3u8?tid=MB4B6468719464687194&ct=20361&tsum=148653608817408a9edaa77d5a6e8bff
+
+#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Special sports",Arena 2
+http://66.90.99.154:8278/Arena2/playlist.m3u8?tid=MEAE5406066854060668&ct=20361&tsum=304cc27fa38b36bbc26ba830334cbbc4
 
 
 #EXTINF:-1,===Boxing/Wrestling===
@@ -1095,23 +1077,28 @@ http://49.0.64.96:8007/HIFIGHT
 http://103.114.203.129:8080/ott168/ott168/81
 
 
+
 #EXTINF:-1 tvg-id="HBO.th" tvg-name="HBO TH" tvg-logo="http://45.144.165.187:8080/images/02533372af53048a55cf973c53c4ce87.png" group-title="Entertainment บันเทิง", HBO HD
 http://103.114.203.129:8080/ott168/ott168/77
 
+#EXTINF:-1 tvg-id="HBO.th" tvg-name="HBO TH" tvg-logo="http://45.144.165.187:8080/images/02533372af53048a55cf973c53c4ce87.png" group-title="Entertainment บันเทิง", HBO 
+http://119.59.118.159/live/ch26/xxccxgd134/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/RFGyFdqV/IMG-4186.png", HBO hits
-http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776088&extension=ts&play_token=wLRkQxvm2R
+http://119.59.118.159/live/ch27/xxccxgd134/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1024px-HBO_Family_Asia_logo.svg.png", HBO family
 http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776089&extension=ts&play_token=NCAyfA7OHT
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/x85f9LV3/IMG-4185.png", HBO Signature 
-http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776119&extension=ts&play_token=OhwsdS6V74
+http://119.59.118.159/live/ch28/xxccxgd134/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="Entertainment บันเทิง", CINEMAX
-http://103.114.203.129:8080/ott168/ott168/78
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776056&extension=m3u8
+https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/CHcinemax.m3u8
 
 
 #EXTINF:-1 tvg-id="1205" tvg-name="AXN" tvg-logo="http://45.144.165.187:8080/images/8886b87cdfaacd2b90e4d37d25132840.png" group-title="Entertainment บันเทิง", AXN
@@ -1135,6 +1122,10 @@ http://49.0.64.96:8007/SERIES
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/YqvYk5Qp/IMG-3305.png", Warner TV
 http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776044&extension=ts&play_token=Ntwvb0G1jw
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment บันเทิง",Rock-action
+http://66.90.99.154:8278/Rockaction/playlist.m3u8?tid=MD2D5988342259883422&ct=20364&tsum=77792fd6bec4fe01a5be5a6156524b10
 
 
 #EXTINF:-1 tvg-id="NBT.th" tvg-name="Rock Entertainment" tvg-logo="http://45.144.165.187:8080/images/db01895bfa444e1e1bfd521ef35d90d0.jpg" group-title="Entertainment บันเทิง", Rock-Entertainment
@@ -1356,67 +1347,36 @@ http://49.0.64.96:8007/Cartoonumi
 http://66.90.99.154:8278/Natgeo/playlist.m3u8?tid=MEEE2253814622538146&ct=20364&tsum=0673fb53fcefe54035c7cff8cd51ad4a
 
 
-#EXTINF:-1 group-title="Documentary สารคดี",Discovery
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186438&extension=ts
 
-#EXTINF:-1 group-title="Documentary สารคดี",History
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186511&extension=ts
 
-#EXTINF:-1 group-title="Documentary สารคดี",Animal
-https://live.thaitvstream.com/play/thainews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Explore Wild" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="Documentary สารคดี",Explore Wild
+http://119.59.118.159/live/ch57/xxccxgd134/index.m3u8
 
-#EXTINF:-1 group-title="Documentary สารคดี",History
-http://45.144.165.187:8080/playid168/12345/48
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186511&extension=ts
+#EXTINF:-1 tvg-id="TrueExploreSci.th" tvg-name="True Explore SCI (TH)" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="Documentary สารคดี",Explore SCI (TH)
+http://119.59.118.159/live/ch56/xxccxgd134/index.m3u8
 
-#EXTINF:-1 group-title="Documentary สารคดี",X-ZYTE
-http://45.144.165.187:8080/playid168/12345/63
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Documentary สารคดี",Animal Plant
+http://66.90.99.154:8278/AnimalPlanet/playlist.m3u8?tid=MFBF2998138429981384&ct=20364&tsum=edc551ec8bc7aab9bee01fe7a373c3d6
 
-#EXTINF:-1 group-title="Documentary สารคดี",Explore Wild
-http://45.144.165.187:8080/playid168/12345/49
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186405&extension=ts
 
-#EXTINF:-1 group-title="Documentary สารคดี",Explore Life
-http://45.144.165.187:8080/playid168/12345/52
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186456&extension=ts
 
-#EXTINF:-1 group-title="Documentary สารคดี",EXPLORE SCI
-http://45.144.165.187:8080/playid168/12345/51
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186457&extension=ts
-
-#EXTINF:-1 group-title="Documentary สารคดี",Natgeo graphic
-http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=45964&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",Natgeo Wild
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=45962&extension=ts
-
-#EXTINF:-1 group-title="Documentary สารคดี",Food Network
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186468&extension=ts
-
-#EXTINF:-1 group-title="Documentary สารคดี",Asian food channel
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186384&extension=ts
-
-#EXTINF:-1 group-title="Documentary สารคดี",AFN
-http://45.144.165.187:8080/playid168/12345/41
-#EXTINF:-1 group-title="Documentary สารคดี",Food Network FHD
-http://panel.sulu1.cc:2052/travis1/travis1/3513
 #EXTINF:-1 group-title="Documentary สารคดี",Animal
 http://49.0.64.96:8007/Animal
-#EXTINF:-1 group-title="Documentary สารคดี",SCIENCE
+#EXTINF:-1 group-title="Documentary สารคดี",SCIence
 http://49.0.64.96:8007/WSCI
-#EXTINF:-1 group-title="Documentary สารคดี",ANIMAL SHOW
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186456&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",BBCLifestyle
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186399&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",TLC
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186485&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",ของดี
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186648&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",OutDoor
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186552&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",THAI NESS
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186405&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",SCi
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186457&extension=ts
+
+
+#EXTINF:-1 group-title="Documentary สารคดี",CGTN 
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+
+#EXTINF:-1 group-title="Documentary สารคดี",RT
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary สารคดี",Smithsonian Channel
+https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
+
+
+
 #EXTINF:-1 group-title="Documentary สารคดี",BBC EARTH
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000116/1024.m3u8
 #EXTINF:-1 group-title="Documentary สารคดี",LOVE NATURE
@@ -1425,14 +1385,11 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
 #EXTINF:-1 group-title="Documentary สารคดี",NHK
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000040/1024.m3u8
+
 #EXTINF:-1 group-title="Documentary สารคดี",CGTN DOCUMENTARY
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
-#EXTINF:-1 group-title="Documentary สารคดี",Xtreme Outdoor Presented by HISTORY
-https://d3t5fccwnhi5z7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uy8wco0v6aga/v1/aenetworks_skills_thrills_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 group-title="Documentary สารคดี",Natgeo graphic
-http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=45964&extension=ts
-#EXTINF:-1 group-title="Documentary สารคดี",Natgeo wild
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=45962&extension=ts
+
+
 #EXTINF:-1 group-title="Documentary สารคดี",Wired2Fish
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Documentary สารคดี",WildEarth
@@ -1440,13 +1397,13 @@ https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary สารคดี",XPLORE
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:31 group-title="Documentary สารคดี",Fashion TV Midnight
-#EXTVLCOPT:network-caching=1000
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_vidio_id_1533_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="Documentary สารคดี", Alure Channel
-http://45.144.165.187:8080/playid168/12345/10380
-#EXTINF:-1 group-title="Documentary สารคดี", RUSH Stories
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186397&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="RUSH" tvg-logo="http://45.144.165.187:8080/images/77bec7bbca0fa9c7b1de9516085fb916.png" group-title="Documentary สารคดี",RUSH
+https://monomax-bl9d80.cdn.byteark.com/fleetstream/RUSH/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALURE" tvg-logo="http://45.144.165.187:8080/images/274ad4786c3abca69fa097b85867d9a4.png" group-title="Documentary สารคดี",ALURE
+https://monomax-d1yqi0.cdn.byteark.com/fleetstream/ALURE/index.m3u8
+
+
 
 
 #EXTINF:-1,<===Premium NEWS ===>
@@ -1871,23 +1828,15 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/85385
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.196
 http://145.239.5.177/556/index.m3u8
 
-#EXTINF:-1 group-title="Premium sports 1",CANAL+ SPORT 1
-http://145.239.5.177/556/index.m3u8
-
-#EXTINF:-1 group-title="Premium sports 1",CANAL+SPORT 2
-http://145.239.5.177/556/index.m3u8
-
-#EXTINF:-1 group-title="Premium sports 1",CANAL+SPORT 3
-http://145.239.5.177/556/index.m3u8
-
-#EXTINF:-1 group-title="Premium sports 1",CANAL+SPORT 4
-http://145.239.5.177/556/index.m3u8
 
 
 
 #EXTINF:-1,📹⚽🏈🥎Live-Sports===
 http://145.239.5.177/556/index.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title"Live Sport",NFL LIVE 1
+https://ww.dooballfree.vip/live/nfl/playlist.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live กอล์ฟ 1
 https://slave01.appball.vip/hls/oz3WUABaXUxE0jLumRo_kw/1764391684/golftv.m3u8
@@ -1899,6 +1848,7 @@ https://slave01.appball.vip/hls/J8TfoPIzqBWE5CyCWh9-Qg/1764391973/truesport7.m3u
 
 #EXTINF:-1 group-title="Live Sport",Live วอลเลย์บอล 3
 https://slave03.appball.vip/hls/b0CD4-hvhOmjMXpRmfVP9w/1764392400/truesport2.m3u8
+
 
 
 
@@ -2026,9 +1976,6 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/130728
 #EXTINF:-1 tvg-id="" tvg-name="MonoMax 11 TH VIP Sports" tvg-logo="" group-title="Live Sport",M-Live 11-1
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/130727
 
-
-#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title"Live Sport",NFL LIVE 1
-https://ww.dooballfree.vip/live/nfl/playlist.m3u8
 
 
 #EXTINF:-1,<===B Live (android)
