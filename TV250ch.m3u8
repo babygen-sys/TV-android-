@@ -77,8 +77,11 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/63sPMnRJ/IMG-1854.png" group-title="🇹🇭 THAILAND",Cool Channel
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
-#EXTINF:-1 tvg-id="CableChannel37.th" tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png" group-title="Undefined",Cable Channel 37
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/t4vQNs2p/IMG-1852.png", Cable 37 
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/LsTzr0jt/IMG-2585.png" group-title="🇹🇭 THAILAND",มวลชนทีวี
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 
@@ -758,20 +761,6 @@ http://xxip25.top:8080/7686199/9576982/53695
 http://xxip25.top:8080/7686199/9576982/47302
 #EXTINF:-1 group-title="Documentary สารคดี",History(us)
 http://xxip25.top:8080/7686199/9576982/46724
-
-#EXTINF:-1 group-title="Documentary สารคดี",Animal
-http://49.0.64.96:8007/Animal
-#EXTINF:-1 group-title="Documentary สารคดี",SCIENCE
-http://49.0.64.96:8007/WSCI
-
-#EXTINF:-1 group-title="Documentary สารคดี",CGTN 
-https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-
-#EXTINF:-1 group-title="Documentary สารคดี",RT
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-
-#EXTINF:-1 group-title="Documentary สารคดี",Smithsonian Channel
-https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 
 
 #EXTINF:-1,<=== NEWS ===>
