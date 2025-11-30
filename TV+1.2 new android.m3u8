@@ -1877,40 +1877,44 @@ http://145.239.5.177/556/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title"Live Sport",NFL LIVE 
 https://ww.dooballfree.vip/live/nfl/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Sport",Live 1
-https://slave01.appball.vip/hls/iG3JPRlnFM5hMR37y_TVFQ/1764431765/truesport2.m3u8
+#EXTM3U url="https://dl.dropbox.com/scl/fi/akkzw7faxqm6p12qeh6ch/1682.m3u?rlkey=s8hf6wxthcykid8s56yvsk8l3&st=xo7bvfdc&dl=0"
 
+#EXTINF:-1 group-title="Live Sport",Live 1
+https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live 2
-https://slave03.appball.vip/hls/0I302kNQsD8fBFrUpo08Hw/1764431671/truesport3.m3u8
-
+https://ww.dooballfree.vip/live/monomax-2/playlist.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live 3
-https://slave03.appball.vip/hls/O0HaRSapU496Z982OPsxOA/1764431694/truesport5.m3u8
-
-
+https://keela7.com/monomax3/index.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live 4
-https://slave03.appball.vip/hls/_ulkmrIJpgM1I_mZZvNvpw/1764431357/trueballthai2.m3u8
+https://keela7.com/obs01/index.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live 5
-https://slave04.appball.vip/hls/JjIwxzRoSj5dNspeH0ZUCA/1764431462/trueballthai3.m3u8
-
+https://keela7.com/monomax4/index.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live 6
-https://slave05.appball.vip/hls/e5dFNGR3QpV4ZCZ6AD3K0w/1764431490/trueballthai1.m3u8
+https://keela7.com/monomax5/index.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live 7
-https://slave02.appball.vip/hls/p1FZnzhoqG0fN-OyXIXdOA/1764431526/trueballthai4.m3u8
-
+https://keela7.com/monomax6/index.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live 8
-https://slave01.appball.vip/hls/Izv58sZylUjNzx0ck0jW_g/1764431829/truesport1.m3u8
-
+https://keela7.com/monomax7/index.m3u8
 
 
 #EXTINF:-1 group-title="Live Sport",Live 9
-https://slave03.appball.vip/hls/VD_hJJcz8AkP19TR8tkEqw/1764431849/truesport2.m3u8
+https://live.keela7.com/maxsport3/index.m3u8
+
+#EXTINF:-1 group-title="Live Sport",Live 10
+http://lllllldsa1iiidsa9.funtogether.xyz:8080/live/KS56nplA4e/yljhqNUpRw/130726.ts
+
+#EXTINF:-1 group-title="Live Sport",Live 11
+https://slave03.appball.vip/hls/ieJBbJUSt9yuYqxrAVzwIA/1762214313/mono4.m3u8
+
+#EXTINF:-1 group-title="Live Sport",Live 12
+https://geogersr.itilstrem.workers.dev/https://dl.dropbox.com/scl/fi/bi7jojl98pnt6gx95cq8x/max1.m3u8?rlkey=zza3tu0e41nakonork924pxg5&st=5449oe46&dl=0
 
 
 
