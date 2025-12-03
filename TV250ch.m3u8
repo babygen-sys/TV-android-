@@ -862,16 +862,26 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200
 #EXTINF:-1 group-title="Special sports",ES: LIGA DE CAMPEONES SD
 http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165359.ts
 
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Special sports",Sportv1
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2525/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Special sports",Sportv2
+http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2526/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Special sports",Sportv3
+http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2527/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Special sports",Sportv4
+http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2528/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Special sports",Sportv5
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2529/index.m3u8
 
 
-#EXTINF:-1 group-title="Special sports",Eurosport 1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1711566124.png" group-title="Special sports",Eurosport 1
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1687464&extension=m3u8
 
-#EXTINF:-1 group-title="Special sports",Eurosport 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1711566136.png" group-title="Special sports",Eurosport 2
 http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKJ_3uU8cGAQckv2A6RfgS9Y/ts
 
 
