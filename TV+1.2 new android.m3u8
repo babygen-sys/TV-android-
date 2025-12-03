@@ -862,16 +862,26 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200
 #EXTINF:-1 group-title="Special sports",ES: LIGA DE CAMPEONES SD
 http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165359.ts
 
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Special sports",Sportv1
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2525/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Special sports",Sportv2
+http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2526/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Special sports",Sportv3
+http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2527/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Special sports",Sportv4
+http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2528/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Special sports",Sportv5
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2529/index.m3u8
 
 
-#EXTINF:-1 group-title="Special sports",Eurosport 1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1711566124.png" group-title="Special sports",Eurosport 1
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1687464&extension=m3u8
 
-#EXTINF:-1 group-title="Special sports",Eurosport 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1711566136.png" group-title="Special sports",Eurosport 2
 http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKJ_3uU8cGAQckv2A6RfgS9Y/ts
 
 
@@ -1110,30 +1120,26 @@ http://145.239.5.177/556/index.m3u8
 https://ww.dooballfree.vip/live/nfl/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Live Sport",Live 1
-http://119.59.118.159/live/ch2/xxccxgd134/index.m3u8
 
-#EXTINF:-1 group-title="Live Sport",Live 2
-http://119.59.118.159/live/ch3/xxccxgd134/index.m3u8
 
-#EXTINF:-1 group-title="Live Sport",Live 3
-http://119.59.118.159/live/ch4/xxccxgd134/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Live Sport",Live 1
+https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Live Sport",Live 2
+https://ealivefotex.com/monomax2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Live Sport",Live 3
+https://ww.dooballfree.vip/live/monomax-2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Live Sport",Live 4
+https://ealivefotex.com/maxsport3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Live Sport",Live 5
+https://ealivefotex.com/monomax3ch/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Live Sport",Live 6
+https://ealivefotex.com/monomax3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Live Sport",Live 7
+https://ealivefotex.com/monomax2ch/index.m3u8
 
-#EXTINF:-1 group-title="Live Sport",Live 4
-https://slave01.appball.vip/hls/IvBxms4wNv1suZDEdBr2EQ/1764594615/ch11.m3u8
-https://a1xs.vip/9000001
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Live Sport",Live 8
+https://ealivefotex.com/maxsport2/index.m3u8
 
-#EXTINF:-1 group-title="Live Sport",Live 5
-https://a1xs.vip/9000001
-
-#EXTINF:-1 group-title="Live Sport",Live 6
-https://a1xs.vip/9000001
-
-#EXTINF:-1 group-title="Live Sport",Live 7
-https://a1xs.vip/9000001
-
-#EXTINF:-1 group-title="Live Sport",Live 8
-https://a1xs.vip/9000001
 
 #EXTINF:-1 group-title="Live Sport",Live 9
 https://a1xs.vip/9000001
@@ -1544,19 +1550,6 @@ http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/17177.m3u8
 
 
 
-#EXTINF:-1 group-title="Premium sports 1",Espn NL 1
-#EXTVLCOPT:network-caching=1000
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/92804
-#EXTINF:-1 group-title="Premium sports 1",Espn NL 2
-#EXTVLCOPT:network-caching=1000
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/246159
-#EXTINF:-1 group-title="Premium sports 1",Espn NL 3
-#EXTVLCOPT:network-caching=1000
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/246160
-#EXTINF:-1 group-title="Premium sports 1",Espn NL 4
-#EXTVLCOPT:network-caching=1000
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/246161
-
 #EXTINF:-1 group-title="Premium sports 1",ESPN 1
 #EXTVLCOPT:network-caching=1000
 http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22002.ts
@@ -1609,6 +1602,7 @@ https://7pal.short.gy/tntspts2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/uk-btsport3hd.png" group-title="Premium sports 1",TNT SPORT3
 https://7pal.short.gy/tntspts3
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.rentm3u8.com/images/png/uk-espn.png" group-title="Premium sports 1",TNT SPORT4
 https://7pal.short.gy/tntspts4
