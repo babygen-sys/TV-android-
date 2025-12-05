@@ -838,6 +838,32 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882b
 
 
 
+#EXTINF:-1 channel-id="65ea8b928145cb0008509426" tvg-id="65ea8b928145cb0008509426" tvg-chno="2831" tvg-name="UEFA Champions League" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/colorLogoPNG.png" group-title="Special sports", UEFA Champions League
+https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/StrongmanChampions.png" group-title="Special sports",Strongman Champions League
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="DE: SPORTDIGITAL1+" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/Sportdigital1.png" group-title="Special sports", SPORTDIGITAL1+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://sonymax.org:8080/live/wNSvGOtvtx/H7FLHWMLY3/30357.m3u8
+
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH-hXbPmCxm6oCTq7l9bJwRW-CFbura9yf_w&s" group-title="Special sports",Champions TV 1 
+https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/ChampionTV1.m3u8
+
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Wkxpz20O3iAtwjthDxDweZDV1_s1kIXiMg&s" group-title="Special sports",Champions TV 2
+https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/ChampionTV2.m3u8
+
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI3q3Gp5kI9cpMuunTYNBsGQq_B-8uGjDUTw&s" group-title="Special sports",Champions TV 3
+https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/ChampionTV3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENT" tvg-logo="https://assets.pikiran-rakyat.com/crop/601x103:1308x532/1200x675/photo/2025/10/21/508607699.png" group-title="Special sports",BADMINTON TV 1
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports", ASTRO BADMINTON HD
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
 
@@ -847,6 +873,7 @@ https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports",ASTRO BADMINTONᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
+
 
 
 
