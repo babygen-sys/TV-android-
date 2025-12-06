@@ -5,10 +5,8 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
-
+http://119.59.118.159/live/ch46/xxccxgd134/index.m3u8
+https://ww.dooballfree.vip/live/ch3hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="🇹🇭 THAILAND",CH5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
@@ -10459,6 +10457,8 @@ https://m3u8haha.com/movie/M14543.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2024/09/MV5BMzI0MDAyYWItNmM5MC00ZmVmLWEwMjItMDI4YjI3ZWNmOTM0XkEyXkFqcGdeQXVyMDk5Mzc5MQ@@._V1_.jpg" ,Buddy Games Spring Awakening (2023)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://m3u8haha.com/movie/M14542.mp4/playlist.m3u8
+
+
 
 
 
