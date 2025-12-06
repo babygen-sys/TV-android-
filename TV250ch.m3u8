@@ -46,7 +46,8 @@ https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV 
 https://ww.dooballfree.vip/live/pptv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/vBd6X2MR/IMG-4474.png" group-title="🇹🇭 THAILAND",TSport 7
+https://gmmztv.v2h-cdn.com/ffef/gmmz-tsport7.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="One31.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png" group-title="🇹🇭 THAILAND",ONE31
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
@@ -726,57 +727,44 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 
 
-#EXTINF:-1,<=== สารคดี ====>
-https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+
+
+<=== สารคดี ====>
 
 #EXTINF:-1 group-title="Documentary สารคดี",Discovery Channel
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1967
+
 #EXTINF:-1 group-title="Documentary สารคดี",Discovery 
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/482
-#EXTINF:-1 group-title="Documentary สารคดี",Discovery Sci
-http://xxip25.top:8080/7686199/9576982/53695
-
-#EXTINF:-1 group-title="Documentary สารคดี",History(ca)
-http://xxip25.top:8080/7686199/9576982/47302
-#EXTINF:-1 group-title="Documentary สารคดี",History(us)
-http://xxip25.top:8080/7686199/9576982/46724
 
 
-#EXTINF:-1,<=== NEWS ===>
-https://fl25.moveonjoy.com/CNBC/index.m3u8
 
 
-#EXTINF:-1 group-title="News ข่าว",Fox News
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-#EXTINF:-1 group-title="News ข่าว",EuronNews
-https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
+<=== NEWS ===>
+
+#EXTINF:-1 group-title="News ข่าว",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 group-title="News ข่าว",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="News ข่าว",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="News ข่าว",Global News
-http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-#EXTINF:-1 group-title="News ข่าว",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
 #EXTINF:-1 group-title="News ข่าว",Boomberg News
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+
 #EXTINF:-1 group-title="News ข่าว",Rusia Today
 https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+
 #EXTINF:-1 group-title="News ข่าว",India News
 https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
+
 #EXTINF:-1 group-title="News ข่าว",BFM Business
 https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 group-title="News ข่าว",Bloomberg HT
-https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
-
-#EXTINF:-1 group-title="News ข่าว",CNBC Europe HD 
-https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 
 
 
-#EXTINF:-1,===Boxing/Wrestling===
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
+=== Boxing/Wrestling ===
+
 
 #EXTINF:-1 group-title="Special sports",WWE Channel
 
@@ -805,6 +793,7 @@ http://49.0.64.96:8007/HIFIGHT
 
 
 
+
 #EXTINF:-1 ,⚽🏁🏈🎾🏌️‍♂️Special sports 1===>
 #EXTVLCOPT:network-caching=1000
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/81359
@@ -816,26 +805,17 @@ http://66.90.99.154:8278/tiankongf1/playlist.m3u8?tid=MFFF3610076936100769&ct=20
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/onechampionship.png"tvg-id="OneChampionshipTv.id" ch-number="30" tvg-name="One Championship tv"group-title="Special sports",One Championship tv
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-
-
 #EXTINF:-1 channel-id="65ea8b928145cb0008509426" tvg-id="65ea8b928145cb0008509426" tvg-chno="2831" tvg-name="UEFA Champions League" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/colorLogoPNG.png" group-title="Special sports", UEFA Champions League
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
-
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/StrongmanChampions.png" group-title="Special sports",Strongman Champions League
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENT" tvg-logo="https://assets.pikiran-rakyat.com/crop/601x103:1308x532/1200x675/photo/2025/10/21/508607699.png" group-title="Special sports",BADMINTON 
 http://66.90.99.154:8278/go_badminton1/playlist.m3u8?tid=MC7C3275817832758178&ct=20361&tsum=c722c3df5aaa869b7d796ef922796707
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports", BADMINTON 
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
-
-
 
 #EXTINF:-1 group-title="Special sports",4Sports
 https://pepsi.abntv.live/hls/4spstream.m3u8
@@ -929,7 +909,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 
 
-
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/wMj6cfct/IMG-3777.png" group-title="Special sports",Hub Premier 1
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112231
 
@@ -956,7 +935,6 @@ https://a1xs.vip/1100044
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/L43yTJ8f/IMG-4157.png" group-title="Special sports",Hub Premier 5
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112226
-
 
 
 #EXTINF:60 group-title="Special sports",Now Sports 1
