@@ -570,17 +570,10 @@ http://49.0.64.96:8007/AMAZING
 #EXTINF:-1 group-title="Entertainment บันเทิง",Gags
 https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO+ FHD
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32934
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 2 FHD
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32930
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO XTREME FHD
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32945
+
 
 #EXTINF:-1 group-title="Entertainment บันเทิง",HBO 1 ca
 http://xxip25.top:8080/n7NX45/216258/57437
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 2 ca
-http://xxip25.top:8080/n7NX45/216258/57438
 #EXTINF:-1 group-title="Entertainment บันเทิง",HBO East us
 http://xxip25.top:8080/n7NX45/216258/46713
 #EXTINF:-1 group-title="Entertainment บันเทิง",HBO 1 us
@@ -605,15 +598,10 @@ http://49.0.64.96:8007/IZAA
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/SERIES
 
-#EXTINF:-1 group-title="Entertainment บันเทิง",TVN MOVIES
-#EXTVLCOPT:network-caching=1000
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
+
 #EXTINF:-1 group-title="Entertainment บันเทิง",HITS
 #EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
-#EXTINF:-1 group-title="Entertainment บันเทิง",HITS MOVIES
-#EXTVLCOPT:network-caching=1000
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
 
 
 
@@ -636,12 +624,6 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",NickToon
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
 
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Disney Channel
-http://xxip25.top:8080/7686199/9576982/2206
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Disney Junior 
-http://116.90.120.149:8000/play/a0b3/index.m3u8
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Disney XD
-http://xxip25.top:8080/7686199/9576982/57420
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon
 http://49.0.64.96:8007/Cartoonumi
@@ -843,51 +825,15 @@ https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/StrongmanChampions.png" group-title="Special sports",Strongman Champions League
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-id="sport1.de" tvg-name="DE: SPORTDIGITAL1+" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/Sportdigital1.png" group-title="Special sports", SPORTDIGITAL1+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://sonymax.org:8080/live/wNSvGOtvtx/H7FLHWMLY3/30357.m3u8
-
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH-hXbPmCxm6oCTq7l9bJwRW-CFbura9yf_w&s" group-title="Special sports",Champions TV 1 
-https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/ChampionTV1.m3u8
 
 
-#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Wkxpz20O3iAtwjthDxDweZDV1_s1kIXiMg&s" group-title="Special sports",Champions TV 2
-https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/ChampionTV2.m3u8
-
-
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI3q3Gp5kI9cpMuunTYNBsGQq_B-8uGjDUTw&s" group-title="Special sports",Champions TV 3
-https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/ChampionTV3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENT" tvg-logo="https://assets.pikiran-rakyat.com/crop/601x103:1308x532/1200x675/photo/2025/10/21/508607699.png" group-title="Special sports",BADMINTON TV 1
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports", ASTRO BADMINTON HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports", BADMINTON HD
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports", ASTRO BADMINTON HD
-https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts|User-Agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports",ASTRO BADMINTONᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fGqj0yU.jpg" group-title="Special sports",ASTRO ARENA BOLA 2 ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-https://zozotv.xyz:443/live/ZZA21216/zxe36880/4557.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="Special sports",ASTRO PREMIER LEAGUE 1 ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-http://line.extraott-iptv.com:88/2755789541/1300714776/153953
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h78kzeH.jpg" group-title="Special sports",ASTRO SPORTS PLUS ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://zozotv.xyz:443/live/ZZA21216/zxe36880/482.ts
 
 
 
