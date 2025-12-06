@@ -828,11 +828,11 @@ https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENT" tvg-logo="https://assets.pikiran-rakyat.com/crop/601x103:1308x532/1200x675/photo/2025/10/21/508607699.png" group-title="Special sports",BADMINTON TV 1
-https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENT" tvg-logo="https://assets.pikiran-rakyat.com/crop/601x103:1308x532/1200x675/photo/2025/10/21/508607699.png" group-title="Special sports",BADMINTON 
+http://66.90.99.154:8278/go_badminton1/playlist.m3u8?tid=MC7C3275817832758178&ct=20361&tsum=c722c3df5aaa869b7d796ef922796707
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports", BADMINTON HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports", BADMINTON 
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
 
 
