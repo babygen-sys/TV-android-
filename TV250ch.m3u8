@@ -408,21 +408,32 @@ http://66.90.99.154:8278/tiankongf1/playlist.m3u8?tid=MFFF3610076936100769&ct=20
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 
+#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA" group-title="Special sports",Golf Channel USA
+https://tvpass.org/live/GolfChannel/sd
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/StrongmanChampions.png" group-title="Special sports",Strongman Champions League
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENT" tvg-logo="https://assets.pikiran-rakyat.com/crop/601x103:1308x532/1200x675/photo/2025/10/21/508607699.png" group-title="Special sports",BADMINTON 
+#EXTINF:-1 group-title="Special sports",Horse and Country TV
+#EXTVLCOPT:network-caching=1000
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Special sports",Horse TV 
+#EXTVLCOPT:network-caching=1000
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports",BADMINTON 
 http://66.90.99.154:8278/go_badminton1/playlist.m3u8?tid=MC7C3275817832758178&ct=20361&tsum=c722c3df5aaa869b7d796ef922796707
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports", BADMINTON 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports",BADMINTON 
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
 
 
-#EXTINF:20, MLB Network 
+#EXTINF:20,MLB Network 
 #EXTVLCOPT:network-caching=1000
 http://143.244.60.30/MLB_NETWORK/index.m3u8
 
-#EXTINF:20, NFL Network 
+#EXTINF:20,NFL Network 
 #EXTVLCOPT:network-caching=1000
 http://143.244.60.30/NFL_NETWORK/index.m3u8
 
@@ -471,7 +482,6 @@ http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165359.ts
 
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Special sports",Sportv1
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2525/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Special sports",Sportv2
@@ -484,26 +494,13 @@ http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2528/index.m3u8
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2529/index.m3u8
 
 
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/jS28DWnB/IMG-3332.png" group-title="Special sports",Eurosport 1 
+http://145.239.5.177/529/index.m3u8
+ 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1711566124.png" group-title="Special sports",Eurosport 1
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1687464&extension=m3u8
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/zBrSF33z/IMG-3333.png" group-title"Special sports",Eurosport 2 
+http://145.239.5.177/530/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1711566136.png" group-title="Special sports",Eurosport 2
-http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKJ_3uU8cGAQckv2A6RfgS9Y/ts
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Sportstar.png" group-title="Special sports",sportstars 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000111/1024.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Sportstar.png" group-title="Special sports",Sportstars 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Sportstar.png" group-title="Special sports",Sportstars 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Sportstar.png" group-title="Special sports",Sportstars 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 
 
 #EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/306/437306-SNAPSHOT-l.png" group-title="Special sports", SOCCER CHANNEL
