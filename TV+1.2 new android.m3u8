@@ -373,26 +373,10 @@ https://tvpass.org/live/HBOComedyEast/sd
 https://tvpass.org/live/HBOFamilyEast/sd
 #EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern" group-title="ทีวีต่างประเทศ",HBO Signature (HBO 3) Eastern
 https://tvpass.org/live/HBOSignatureEast/sd
-#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East" group-title="ทีวีต่างประเทศ",HBO Zone HD East
-https://tvpass.org/live/HBOZoneEast/sd
-#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed" group-title="ทีวีต่างประเทศ",HGTV USA Eastern Feed
-https://tvpass.org/live/HGTVEast/sd
-#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="ทีวีต่างประเทศ",History Channel US Eastern Feed
-https://tvpass.org/live/HistoryEast/sd
-#EXTINF:-1 tvg-id="hln" tvg-name="HLN" group-title="ทีวีต่างประเทศ",HLN
-https://tvpass.org/live/HLN/sd
-#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US" group-title="ทีวีต่างประเทศ",Independent Film Channel US
-https://tvpass.org/live/IFCEast/sd
-#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern" group-title="ทีวีต่างประเทศ",Investigation Discovery USA Eastern
-https://tvpass.org/live/InvestigationDiscoveryEast/sd
-#EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed" group-title="ทีวีต่างประเทศ",ION Eastern Feed
-https://tvpass.org/live/IONTVEast/sd
-#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East" group-title="ทีวีต่างประเทศ",Lifetime Movies East
-https://tvpass.org/live/LifetimeMoviesEast/sd
-#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed" group-title="ทีวีต่างประเทศ",Lifetime Network US Eastern Feed
-https://tvpass.org/live/LifetimeEast/sd
-#EXTINF:-1 tvg-id="logo-east" tvg-name="LOGO East" group-title="ทีวีต่างประเทศ",LOGO East
-https://tvpass.org/live/LogoEast/sd
+
+
+
+
 #EXTINF:-1 tvg-id="marquee-sports-network" tvg-name="Marquee Sports Network" group-title="ทีวีต่างประเทศ",Marquee Sports Network
 https://tvpass.org/live/marquee-sports-network/sd
 #EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey" group-title="ทีวีต่างประเทศ",MeTV Toons (WJLP2) New Jersey
@@ -421,10 +405,12 @@ https://tvpass.org/live/MSNBC/sd
 https://tvpass.org/live/mtv-2-east/sd
 #EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed" group-title="ทีวีต่างประเทศ",MTV USA Eastern Feed
 https://tvpass.org/live/MTVEast/sd
-#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" group-title="ทีวีต่างประเทศ",National Geographic US Eastern
-https://tvpass.org/live/NationalGeographicEast/sd
-#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" group-title="ทีวีต่างประเทศ",National Geographic Wild
-https://tvpass.org/live/NationalGeographicWildEast/sd
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA" group-title="ทีวีต่างประเทศ",NBA TV USA
 https://tvpass.org/live/NBATV/sd
 #EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles" group-title="ทีวีต่างประเทศ",NBC (KNBC) Los Angeles
@@ -599,18 +585,19 @@ http://49.0.64.96:8007/IZAA
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/SERIES
 
-
 #EXTINF:-1 group-title="Entertainment บันเทิง",HITS
 #EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
 
 
 
-#EXTINF:-1,<=== การ์ตูน ====>
+
+#EXTINF:-1,<=== การ์ตูน ===>
 http://49.0.64.96:8007/Cartoonumi
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Boom
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+
 #EXTINF:-1 group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
@@ -619,38 +606,43 @@ http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/752
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.
 https://fl41.moveonjoy.com/NICK_JR/index.m3u8
+
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",NickToon
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
 
-
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon
 http://49.0.64.96:8007/Cartoonumi
+
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Mr.bean Cartoon
 https://amg00627-amg00627c23-samsung-th-5282.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Baby Shark TV
 https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Shaun the Sheep & Friends
 https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
+
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS TV
 https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/128/9280/9280598.png" group-title="MUSIC",==========MUSIC==========
 https://fl3.moveonjoy.com/MUSIC/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png" group-title="MUSIC",K-POP by CJ ENM
 https://jmp2.uk/stvp-US39000038W
 
-#EXTINF:-1 group-title="MUSIC",CMC
-https://cmc-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/571px-M6_logo.svg.png" group-title="MUSIC",M6
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
@@ -737,6 +729,32 @@ http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1967
 #EXTINF:-1 group-title="Documentary สารคดี",Discovery 
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/482
 
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern" group-title="Documentary สารคดี",Investigation Discovery USA Eastern
+https://tvpass.org/live/InvestigationDiscoveryEast/sd
+
+
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed" group-title="Documentary สารคดี",HGTV USA Eastern Feed
+https://tvpass.org/live/HGTVEast/sd
+
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="Documentary สารคดี",History Channel US Eastern Feed
+https://tvpass.org/live/HistoryEast/sd
+
+#EXTINF:-1 tvg-id="hln" tvg-name="HLN" group-title="Documentary สารคดี",HLN
+https://tvpass.org/live/HLN/sd
+
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" group-title="Documentary สารคดี",National Geographic US Eastern
+https://tvpass.org/live/NationalGeographicEast/sd
+
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" group-title="Documentary สารคดี",National Geographic Wild
+https://tvpass.org/live/NationalGeographicWildEast/sd
+
+
+#EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed" group-title="Documentary สารคดี",ION Eastern Feed
+https://tvpass.org/live/IONTVEast/sd
+
+#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East" group-title="Documentary สารคดี",Lifetime Movies East
+https://tvpass.org/live/LifetimeMoviesEast/sd
+
 
 
 
@@ -805,8 +823,6 @@ http://66.90.99.154:8278/tiankongf1/playlist.m3u8?tid=MFFF3610076936100769&ct=20
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/onechampionship.png"tvg-id="OneChampionshipTv.id" ch-number="30" tvg-name="One Championship tv"group-title="Special sports",One Championship tv
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 channel-id="65ea8b928145cb0008509426" tvg-id="65ea8b928145cb0008509426" tvg-chno="2831" tvg-name="UEFA Champions League" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/colorLogoPNG.png" group-title="Special sports", UEFA Champions League
-https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/StrongmanChampions.png" group-title="Special sports",Strongman Champions League
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
@@ -816,6 +832,19 @@ http://66.90.99.154:8278/go_badminton1/playlist.m3u8?tid=MC7C3275817832758178&ct
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports", BADMINTON 
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
+
+
+#EXTINF:20, MLB Network 
+#EXTVLCOPT:network-caching=1000
+http://143.244.60.30/MLB_NETWORK/index.m3u8
+
+#EXTINF:20, NFL Network 
+#EXTVLCOPT:network-caching=1000
+http://143.244.60.30/NFL_NETWORK/index.m3u8
+
+#EXTINF:-1 channel-id="65ea8b928145cb0008509426" tvg-id="65ea8b928145cb0008509426" tvg-chno="2831" tvg-name="UEFA Champions League" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/colorLogoPNG.png" group-title="Special sports", UEFA Champions League
+https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
+
 
 #EXTINF:-1 group-title="Special sports",4Sports
 https://pepsi.abntv.live/hls/4spstream.m3u8
@@ -828,6 +857,20 @@ https://a1xs.vip/700008
 
 #EXTINF:-1 group-title="Special sports",Setanta Sports 1 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+
+
+#EXTINF:81,Prima Sport 4 
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+
+
+#EXTINF:63,Prima Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:network-caching=1000
+https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Sport_TV_2023.svg" group-title="Special sports", FSBL sports
@@ -865,7 +908,7 @@ http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:cb:6d:d7&stream=1687464&e
 http://saturn.dyndns.tv:80/play/gvw1vF1saDfmlzkSQqKO7bzSE7s1XZP_XmOnTcLzsKJ_3uU8cGAQckv2A6RfgS9Y/ts
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Sportstar.png" group-title="Special sports",sportstars HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Sportstar.png" group-title="Special sports",sportstars 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000111/1024.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/akxel001/image/refs/heads/main/Sportstar.png" group-title="Special sports",Sportstars 2
