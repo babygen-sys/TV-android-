@@ -709,7 +709,11 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/a
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 
-#EXTINF:-1 tvg-id="InterTV" tvg-name="INTER TV" tvg-logo="https://seeklogo.com/images/I/inter-tv-logo-4605867372-seeklogo.com.png" group-title="Special sports",INTER TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8MCJAtZ.jpg" group-title="Special sports",MILAN TV ᴴᴰ
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/127757
+
+
+#EXTINF:-1 tvg-id="InterTV" tvg-name="INTER TV" tvg-logo="https://seeklogo.com/images/I/inter-tv-logo-4605867372-seeklogo.com.png" group-title="Special sports",INTER TV ᴴᴰ
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 
 
@@ -943,9 +947,6 @@ https://slave02.appball.vip/hls/1R_2XV3-Ws7_QZO6_J5YTQ/1765123046/vip.m3u8
 http://103.114.203.129:8080/ott168/ott168/81
 
 
-#EXTINF:-1 tvg-id="HBO.th" tvg-name="HBO TH" tvg-logo="http://45.144.165.187:8080/images/02533372af53048a55cf973c53c4ce87.png" group-title="Entertainment บันเทิง", HBO HD
-http://103.114.203.129:8080/ott168/ott168/77
-
 #EXTINF:-1 tvg-id="HBO.th" tvg-name="HBO TH" tvg-logo="http://45.144.165.187:8080/images/02533372af53048a55cf973c53c4ce87.png" group-title="Entertainment บันเทิง", HBO 
 http://119.59.118.159/live/ch26/xxccxgd134/index.m3u8
 
@@ -956,7 +957,7 @@ http://119.59.118.159/live/ch27/xxccxgd134/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1024px-HBO_Family_Asia_logo.svg.png", HBO family
-http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776089&extension=ts&play_token=NCAyfA7OHT
+http://119.59.118.159/live/ch29/xxccxgd134/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/x85f9LV3/IMG-4185.png", HBO Signature 
 http://119.59.118.159/live/ch28/xxccxgd134/index.m3u8
@@ -993,13 +994,10 @@ http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776044&exten
 http://66.90.99.154:8278/Rockaction/playlist.m3u8?tid=MD2D5988342259883422&ct=20364&tsum=77792fd6bec4fe01a5be5a6156524b10
 
 
-#EXTINF:-1 tvg-id="NBT.th" tvg-name="Rock Entertainment" tvg-logo="http://45.144.165.187:8080/images/db01895bfa444e1e1bfd521ef35d90d0.jpg" group-title="Entertainment บันเทิง", Rock-Entertainment
+#EXTINF:-1 tvg-id="NBT.th" tvg-name="Rock Entertainment" tvg-logo="http://45.144.165.187:8080/images/db01895bfa444e1e1bfd521ef35d90d0.jpg" group-title="Entertainment บันเทิง",Rock-Entertainment
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
 
 
-
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/sDm3DKgL/IMG-3782.png" group-title="Entertainment บันเทิง",Meiya Movie
-https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="IQIYI.cn" tvg-logo="https://i.postimg.cc/y89DdqFc/IMG-2926.png" group-title="Entertainment บันเทิง",IQIYI
 https://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
 
@@ -1010,34 +1008,43 @@ https://tinyurl.com/3h2e4rtz
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/cCBR7Whp/IMG-3288.png" group-title="Entertainment บันเทิง",& TV
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
-
-#EXTINF:-1 group-title="Entertainment บันเทิง", movies4
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186493&extension=ts
-
-
 #EXTINF:-1 group-title="Entertainment บันเทิง", VIPA
 https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment บันเทิง", thrill
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 
-
-
 #EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="Film HD " tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="Entertainment บันเทิง",Film HD 1
-http://45.144.165.187:8080/playid168/2535/67
+http://119.59.118.159/live/ch54/xxccxgd134/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TrueFilm2.th" tvg-name="True Film HD2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="Entertainment บันเทิง",Film HD 2
-http://45.144.165.187:8080/playid168/2535/79
+http://119.59.118.159/live/ch55/xxccxgd134/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AsianHit" tvg-logo="http://45.144.165.187:8080/images/fdfcb751d560b7211e90e0a87159dd29.png" group-title="Entertainment บันเทิง",AsianHit
 https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/index.m3u8
 
-#EXTINF:-1 tvg-id="TrueThaiFilm.th" tvg-name="TRUE THAI FILM" tvg-logo="http://45.144.165.187:8080/images/a4c6a4f52067abbfeba3817e7f8b9577.png"group-title="Entertainment บันเทิง" ,THAI FILM
-http://45.144.165.187:8080/playid168/2535/64
 
-#EXTINF:-1 tvg-id="TrueMovieHits.th" tvg-name="Movie Hits " tvg-logo="http://45.144.165.187:8080/images/43e6294ced1bd817a317e5d46d0ab5fd.png" group-title="Entertainment บันเทิง",Movie Hits 
-http://45.144.165.187:8080/playid168/2535/66
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/05dWqkcm/IMG-4087.png" group-title="Entertainment บันเทิง",True Thai Film
+http://119.59.118.159/live/ch60/xxccxgd134/index.m3u8
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/dQmt3Xjq/IMG-4243.png" group-title="Entertainment บันเทิง",True Asian More
+http://119.59.118.159/live/ch64/xxccxgd134/index.m3u8
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="Entertainment บันเทิง",True Film Asia
+http://119.59.118.159/live/ch61/xxccxgd134/index.m3u8
+
+#EXTINF:-1 tvg-id="CCM.cn" tvg-logo="https://i.postimg.cc/MGknscth/IMG-2909.png" group-title="Entertainment บันเทิง",Celestial Classic Movie
+http://119.59.118.159/live/ch62/xxccxgd134/index.m3u8
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/mZMkT7TS/IMG-4148.png" group-title="Entertainment บันเทิง",MONO29 Plus
+http://45.136.252.97:8081/app/mono29plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/J4X8T3Sm/IMG-4177.png" group-title="Entertainment บันเทิง",True Movie Hits
+http://119.59.118.159/live/ch59/xxccxgd134/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Entertainment บันเทิง", Family พากย์ไทย
