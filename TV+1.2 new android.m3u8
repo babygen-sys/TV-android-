@@ -826,9 +826,11 @@ https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
 #EXTM3U url="https://dl.dropbox.com/scl/fi/akkzw7faxqm6p12qeh6ch/1682.m3u?rlkey=s8hf6wxthcykid8s56yvsk8l3&st=xo7bvfdc&dl=0"
 
 
+#EXTINF:-1 group-title="Live Sport",Now
+https://ww.dooballfree.vip/live/tpf5/playlist.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live 1
-https://ealivefotex.com/truepremier4/tracks-v1a1/mono.ts.m3u8
+https://ww.dooballfree.vip/live/tpf4/playlist.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live 2
 https://ealivefotex.com/AISBALLTHAI1/index.m3u8
@@ -1700,40 +1702,55 @@ https://ww.dooballfree.vip/live/bein3/playlist.m3u8
 https://raw.githubusercontent.com/BeritaSelatan
 
 
-#EXTINF:-1 group-title="Live Sport",T 1
+#EXTINF:-1 tvg-id="True.th" tvg-logo="https://i.postimg.cc/nrMggm2Y/IMG-4193.png" group-title="Live Sport",True Sports 1
+http://119.59.118.159/live/ch9/xxccxgd134/index.m3u8
+
+#EXTINF:-1 tvg-id="True.th" tvg-logo="https://i.postimg.cc/nrMggm2Y/IMG-4193.png" group-title="Live Sport",True Sports สำรอง1
 https://ww.dooballfree.vip/live/tsp1/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Sport",T 1-1
+#EXTINF:-1 tvg-id="True.th" tvg-logo="https://i.postimg.cc/zXk5hCMV/IMG-4195.png" group-title="Live Sport",True Sports 2
+http://119.59.118.159/live/ch10/xxccxgd134/index.m3u8
 
+#EXTINF:-1 tvg-id="True.th" tvg-logo="https://i.postimg.cc/zXk5hCMV/IMG-4195.png" group-title="Live Sport",True Sports 2 สำรอง1
+http://45.136.252.97:8081/app/tsp2/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Sport",T 2
+#EXTINF:-1 tvg-id="True.th" tvg-logo="https://i.postimg.cc/zXk5hCMV/IMG-4195.png" group-title="Live Sport",True Sports 2 สำรอง2
 https://ww.dooballfree.vip/live/tsp2/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Sport",T 2-1
+#EXTINF:-1 tvg-id="True.th" tvg-logo="https://i.postimg.cc/J40K3mYQ/IMG-4196.png" group-title="Live Sport",True Sports 3
+http://119.59.118.159/live/ch11/xxccxgd134/index.m3u8
 
+#EXTINF:-1 tvg-id="True.th" tvg-logo="https://i.postimg.cc/J40K3mYQ/IMG-4196.png" group-title="Live Sport",True Sports 3 สำรอง1
+http://45.136.252.97:8081/app/tsp3/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Sport",T 3
+#EXTINF:-1 tvg-id="True.th" tvg-logo="https://i.postimg.cc/J40K3mYQ/IMG-4196.png" group-title="Live Sport",True Sports 3 สำรอง2
 https://ww.dooballfree.vip/live/tsp3/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Sport",T 3-1
+#EXTINF:-1 tvg-id="True.th" tvg-logo="https://i.postimg.cc/RFyfvF0K/IMG-4340.png" group-title="Live Sport",True Sports 4
+http://119.59.118.159/live/ch12/xxccxgd134/index.m3u8
 
-
-#EXTINF:-1 group-title="Live Sport",T 4
+#EXTINF:-1 tvg-id="True.th" tvg-logo="https://i.postimg.cc/RFyfvF0K/IMG-4340.png" group-title="Live Sport",True Sports 4 สำรอง
 https://ww.dooballfree.vip/live/tsp4/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Sport",T 4-1
+#EXTINF:-1 tvg-id="True.th" tvg-logo="https://i.postimg.cc/9FBwJN06/IMG-4197.png" group-title="Live Sport",True sports 5
+http://119.59.118.159/live/ch13/xxccxgd134/index.m3u8
 
+#EXTINF:-1 tvg-id="True.th" tvg-logo="https://i.postimg.cc/9FBwJN06/IMG-4197.png" group-title="Live Sport",True sports 5 สำรอง1
+http://45.136.252.97:8081/app/tsp5/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Sport",T 5
+#EXTINF:-1 tvg-id="True.th" tvg-logo="https://i.postimg.cc/9FBwJN06/IMG-4197.png" group-title="Live Sport",True sports 5 สำรอง2
 https://ww.dooballfree.vip/live/tsp5/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Sport",T 5-1
+#EXTINF:-1 tvg-id="True.th" tvg-logo="https://i.postimg.cc/bNTGwDwL/IMG-3229.png" group-title="Live Sport",True Sports 7
+http://119.59.118.159/live/ch14/xxccxgd134/index.m3u8
 
+#EXTINF:-1 tvg-id="True.th" tvg-logo="https://i.postimg.cc/bNTGwDwL/IMG-3229.png" group-title="Live Sport",True Sports 7 สำรอง1
+http://45.136.252.97:8081/app/tsp7/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Sport",T 7
+#EXTINF:-1 tvg-id="True.th" tvg-logo="https://i.postimg.cc/bNTGwDwL/IMG-3229.png" group-title="Live Sport",True Sports 7 สำรอง2
 https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Sport",T 7-1
+
 
 
 #EXTINF:-1,<===บอล(android)
