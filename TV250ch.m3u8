@@ -39,6 +39,10 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 #EXTINF:-1 tvg-id="ThairathTV32.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png" group-title="🇹🇭 THAILAND",Thairath TV
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
+#EXTINF:-1 tvg-id="ThairathTV32.th" group-title="🇹🇭 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png", Thairath TV 2
+http://filex.me:8080//live/MAS101A/MAS101AABB/302732.ts
+
+
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png" group-title="🇹🇭 THAILAND",Thai PBS
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
@@ -143,28 +147,77 @@ http://49.0.64.96:8007/AMAZING
 https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 1 ca
-http://xxip25.top:8080/n7NX45/216258/57437
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO East us
-http://xxip25.top:8080/n7NX45/216258/46713
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 1 us
-http://xxip25.top:8080/n7NX45/216258/9264
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO 2 us
-http://xxip25.top:8080/n7NX45/216258/9816
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Comedy (East) us 
-http://xxip25.top:8080/n7NX45/216258/17773
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Family (East) us
-http://xxip25.top:8080/n7NX45/216258/17772
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO SIGNATURE (East) us
-http://xxip25.top:8080/n7NX45/216258/9266
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Zone (East) us
-http://xxip25.top:8080/n7NX45/216258/9265
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO HD br
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rCOfNul.jpg" group-title="Entertainment บันเทิง",HBO ᴴᴰ
 http://xxip25.top:8080/n7NX45/216258/164950
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hQeHgDb.jpg" group-title="Entertainment บันเทิง",HBO1
+
+http://xxip25.top:8080/n7NX45/216258/9264
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hQeHgDb.jpg" group-title="Entertainment บันเทิง",HBO2
+http://xxip25.top:8080/n7NX45/216258/9816
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ERwrMoy.jpg" group-title="Entertainment บันเทิง",HBO HITS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wTFc4ns.jpg" group-title="Entertainment บันเทิง",HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO SIGNATURE us
+http://xxip25.top:8080/n7NX45/216258/9266
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9P3IEOz.jpg" group-title="Entertainment บันเทิง",HBO FAMILY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Family us
+http://xxip25.top:8080/n7NX45/216258/17772
+
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Comedy 
+http://xxip25.top:8080/n7NX45/216258/17773
+
+#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Zone us
+http://xxip25.top:8080/n7NX45/216258/9265
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vUU7vsA.jpg" group-title="Entertainment บันเทิง",CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OmMBqEP.jpg" group-title="Entertainment บันเทิง",WARNER TV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DqdXzQZ.jpg" group-title="Entertainment บันเทิง",WB FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew12.php
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Entertainment บันเทิง",IZAA MOVIE
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/IZAA
+
 #EXTINF:-1 group-title="Entertainment บันเทิง",Series
 #EXTVLCOPT:http-user-agent=ห้ามแชร์
 http://49.0.64.96:8007/SERIES
@@ -172,7 +225,6 @@ http://49.0.64.96:8007/SERIES
 #EXTINF:-1 group-title="Entertainment บันเทิง",HITS
 #EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
-
 
 
 
@@ -185,8 +237,22 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon Network
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/cn.jpg" group-title="Cartoon การ์ตูน",Cartoon Network 
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest_w209786680_qRFZS.mpd?encp=&uid=&expp=
+
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/cn.jpg" group-title="Cartoon การ์ตูน",Cartoon Network
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/752
+
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/cartoonito.jpg" group-title="Cartoon การ์ตูน",CARTOONITO
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
+
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.
 https://fl41.moveonjoy.com/NICK_JR/index.m3u8
@@ -414,13 +480,54 @@ https://tvpass.org/live/GolfChannel/sd
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/StrongmanChampions.png" group-title="Special sports",Strongman Champions League
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 group-title="Special sports",Horse and Country TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DDilbWW.jpg" group-title="Special sports",Horse and Country TV
 #EXTVLCOPT:network-caching=1000
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Special sports",Horse TV 
-#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPwZaN6.jpg" group-title="Special sports",HORSE TV
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XtWqaM9.jpg" group-title="Special sports",PREMIER SPORTS 1
+http://line.extraott-iptv.com:88/2755789541/1300714776/191694
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2KS1HA.jpg" group-title="Special sports",PREMIER SPORTS 2
+http://line.extraott-iptv.com:88/2755789541/1300714776/189891
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BAxLcEX.jpg" group-title="Special sports",GO3 SPORT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
+http://de.online24.pm/play/6709/0E5BF0B5A9755BD/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sbDy6sn.jpg" group-title="Special sports",GO3 SPORT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
+http://de.online24.pm/play/6710/0E5BF0B5A9755BD/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I1uGi27.jpg" group-title="Special sports",GO3 SPORT 3
+http://de.online24.pm/play/6711/0E5BF0B5A9755BD/video.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FuY7wEZ.jpg" group-title="Special sports",BILLIYARD TV
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bbWhcdO.jpg" group-title="Special sports",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0hBl6C.jpg" group-title="Special sports",FISHING TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AVvISbb.jpg" group-title="Special sports",JUST FISHING
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iIh6Tkb.jpg" group-title="Special sports",PGA TOUR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports",BADMINTON 
 http://66.90.99.154:8278/go_badminton1/playlist.m3u8?tid=MC7C3275817832758178&ct=20361&tsum=c722c3df5aaa869b7d796ef922796707
@@ -429,11 +536,11 @@ http://66.90.99.154:8278/go_badminton1/playlist.m3u8?tid=MC7C3275817832758178&ct
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
 
 
-#EXTINF:20,MLB Network 
+#EXTINF:20 group-title="Special sports",MLB Network 
 #EXTVLCOPT:network-caching=1000
 http://143.244.60.30/MLB_NETWORK/index.m3u8
 
-#EXTINF:20,NFL Network 
+#EXTINF:20 group-title="Special sports",NFL Network 
 #EXTVLCOPT:network-caching=1000
 http://143.244.60.30/NFL_NETWORK/index.m3u8
 
