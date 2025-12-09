@@ -139,12 +139,24 @@ file:///C:/Users/WIN10/Downloads/%3C===================%20HBO%20================
 https://shorturl.asia/jAf5V
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment บันเทิง",AMAZING
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/brt0yS2H/IMG-2953.png" group-title="Entertainment บันเทิง",Amazing Show
 http://49.0.64.96:8007/AMAZING
 
-#EXTINF:-1 group-title="Entertainment บันเทิง",Gags
+#EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/XvhXpRSc/IMG-2613.png" group-title="Entertainment บันเทิง",Gags
 https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png" group-title="Entertainment บันเทิง",IZAAMOVIE
+http://49.0.64.96:8007/IZAA
+
+#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/8C77gQvL/IMG-2955.png" group-title="Entertainment บันเทิง",Series
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/SERIES
+
+
+
+#EXTINF:-1 tvg-id="Vipa.th" tvg-logo="https://i.postimg.cc/DZjt5L9v/IMG-2681.png" group-title="Entertainment บันเทิง", VIPA
+https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rCOfNul.jpg" group-title="Entertainment บันเทิง",HBO ᴴᴰ
@@ -192,7 +204,6 @@ http://xxip25.top:8080/n7NX45/216258/17773
 #EXTINF:-1 group-title="Entertainment บันเทิง",HBO Zone us
 http://xxip25.top:8080/n7NX45/216258/9265
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vUU7vsA.jpg" group-title="Entertainment บันเทิง",CINEMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -211,21 +222,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew12.php
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
-
-
-
-#EXTINF:-1 group-title="Entertainment บันเทิง",IZAA MOVIE
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://49.0.64.96:8007/IZAA
-
-#EXTINF:-1 group-title="Entertainment บันเทิง",Series
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://49.0.64.96:8007/SERIES
-
-#EXTINF:-1 group-title="Entertainment บันเทิง",HITS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFJDWGU.jpg" group-title="Entertainment บันเทิง",HITS ᴴᴰ
 #EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJBO9Ww.jpg" group-title="Entertainment บันเทิง", thrill
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 
 
 #EXTINF:-1,<=== การ์ตูน ===>
