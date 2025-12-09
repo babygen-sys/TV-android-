@@ -826,8 +826,6 @@ http://66.90.99.154:8278/Arena2/playlist.m3u8?tid=MEAE5406066854060668&ct=20361&
 
 
 
-
-
 #EXTINF:-1,📹⚽🏈🥎Live-Sports===
 https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
 
@@ -944,6 +942,7 @@ https://slave02.appball.vip/hls/1R_2XV3-Ws7_QZO6_J5YTQ/1765123046/vip.m3u8
 
 
 
+
 #EXTINF:-1,<===🍿🍿🍿Premium entertainment===>
 http://103.114.203.129:8080/ott168/ott168/81
 
@@ -963,16 +962,14 @@ http://119.59.118.159/live/ch29/xxccxgd134/index.m3u8
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/x85f9LV3/IMG-4185.png", HBO Signature 
 http://119.59.118.159/live/ch28/xxccxgd134/index.m3u8
 
-
 #EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="Entertainment บันเทิง", CINEMAX
-https://raw.githubusercontent.com/Thep13/M3u/refs/heads/main/M3U8%202.0/CHcinemax.m3u8
-
+http://66.90.99.154:8278/cinemax_twn/playlist.m3u8?tid=MF6F9233154292331542&ct=20364&tsum=5d284b17751a98f990d7e213168b6c59
 
 #EXTINF:-1 tvg-id="1205" tvg-name="AXN" tvg-logo="http://45.144.165.187:8080/images/8886b87cdfaacd2b90e4d37d25132840.png" group-title="Entertainment บันเทิง", AXN
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 
 #EXTINF:-1 tvg-id="1205" tvg-name="AXN" tvg-logo="http://45.144.165.187:8080/images/8886b87cdfaacd2b90e4d37d25132840.png" group-title="Entertainment บันเทิง", Axn
-http://45.144.165.187:8080/playid/2535/75
+http://66.90.99.154:8278/axn_twn/playlist.m3u8?tid=MF9F7433593774335937&ct=20364&tsum=6cf2072a4217107d60eacc0676df4ce8
 
 
 #EXTINF:-1 tvg-id="Fuck.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/k5KBRQVj/IMG-3102.png",Universal
