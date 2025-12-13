@@ -786,17 +786,8 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV
-https://ww.dooballfree.vip/live/spotv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
-
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV2
-https://ww.dooballfree.vip/live/spotv2/playlist.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Zy6ODEg.png?v=1.0.0.1" group-title="Special sports",🏀 NBA TV 1
@@ -865,9 +856,6 @@ http://66.90.99.154:8278/Arena2/playlist.m3u8?tid=MEAE5406066854060668&ct=20361&
 
 
 
-
-
-
 #EXTINF:-1,📹⚽🏈🥎Live-Sports===
 https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
 
@@ -887,18 +875,29 @@ https://fl2.moveonjoy.com/ESPN/index.m3u8
 https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN2" tvg-logo="https://api.makeitso.online/images/png/epl-bein1.png" group-title="กีฬา",BEIN1
+https://ww.dooballfree.vip/live/bein1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="401335" tvg-name="BEIN 2" tvg-logo="http://45.144.165.187:8080/images/1ec83c1091e624aa0bba2f458b7297d4.png" group-title="กีฬา",BEIN 2
+https://ww.dooballfree.vip/live/bein2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="3HD" tvg-logo="https://api.makeitso.online/images/png/epl-bein3.png" group-title="กีฬา",BEIN3
+https://ww.dooballfree.vip/live/bein3/playlist.m3u
+
 
 
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/BvgLVYdF/IMG-2904.png" group-title="Live Sport",SPOTV
-http://119.59.118.159/live/ch18/xxccxgd134/index.m3u8
+https://ww.dooballfree.vip/live/spotv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/BvgLVYdF/IMG-2904.png" group-title="Live Sport",SPOTV สำรอง
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:68:6F:86&stream=1919396&extension=ts&play_token=YaDvdeNN2v
+
+
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/8cHT19md/IMG-2906.png" group-title="Live Sport",SPOTV 2
-http://119.59.118.159/live/ch19/xxccxgd134/index.m3u8
+https://ww.dooballfree.vip/live/spotv2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/8cHT19md/IMG-2906.png" group-title="Live Sport",SPOTV 2 สำรอง
 http://45.136.252.97:8081/app/spotv2/playlist.m3u8
-
-
 
 
 
