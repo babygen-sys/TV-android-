@@ -481,8 +481,7 @@ http://66.90.99.154:8278/Arena/playlist.m3u8?tid=MB4B6468719464687194&ct=20361&t
 http://66.90.99.154:8278/Arena2/playlist.m3u8?tid=MEAE5406066854060668&ct=20361&tsum=304cc27fa38b36bbc26ba830334cbbc4
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbg6RNClVzA9EouEpYVdndfdshwLFGphqLWg&s" group-title=Seagames"",Sukan TV (seagames 2025)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbg6RNClVzA9EouEpYVdndfdshwLFGphqLWg&s" group-title="Seagames",Sukan TV (seagames 2025)
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Okey_RTM.png/200px-Okey_RTM.png" group-title="Seagames",OKEY TV (seagames 2025)
@@ -497,7 +496,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 ,⚽🏁🏈🎾🏌️‍♂️Special sports 1===>
 #EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/81359
 https://pepsi.abntv.live/hls/4spstream.m3u8
 
 
@@ -605,7 +603,7 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 http://145.239.5.177/529/index.m3u8
  
 
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/zBrSF33z/IMG-3333.png" group-title"Special sports",Eurosport 2 
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/zBrSF33z/IMG-3333.png" group-title="Special sports",Eurosport 2 
 http://145.239.5.177/530/index.m3u8
 
 
@@ -648,10 +646,10 @@ http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165359.ts
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/7LNt84JR/IMG-3789.png" group-title="Special sports",SuperSport Premier League
 http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=138586&extension=m3u8
 
-#EXTINF:-1  tvg-name="Now Sports PL 1 FHD" tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-hk.png?raw=true" group-title="A1xmedia EPL" radio="false",Now Sports PL 1 FHD
+#EXTINF:-1  tvg-name="Now Sports PL 1 FHD" tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-hk.png?raw=true" group-title="Special sports" radio="false",Now Sports PL 1 FHD
 https://a1xs.vip/1100001
 
-#EXTINF:-1  tvg-name="Now Sports PL 2 FHD" tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-premier-league-2-hk.png?raw=true" group-title="A1xmedia EPL" radio="false",Now Sports PL 2 FHD
+#EXTINF:-1  tvg-name="Now Sports PL 2 FHD" tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-premier-league-2-hk.png?raw=true" group-title="Special sports" radio="false",Now Sports PL 2 FHD
 https://a1xs.vip/1100002
 
 
@@ -719,6 +717,9 @@ http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2528/index.m3u8
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2529/index.m3u8
 
 
+
+
+
 #EXTINF:-1 ,⚽🏁🏈🎾🏌️‍♂️Special sports 2===>
 #EXTVLCOPT:network-caching=1000
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSE
@@ -775,21 +776,15 @@ https://fl31.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/onechampionship.png"tvg-id="OneChampionshipTv.id" ch-number="30" tvg-name="One Championship tv"group-title="Special sports",One Championship tv
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-
-
-
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Sport.png"group-title="Special sports",W-SPORT 
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1052657
-
-
 
 #EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png" group-title="Special sports",🏁 F1
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117202
 http://66.90.99.154:8278/tiankongf1/playlist.m3u8?tid=MFFF3610076936100769&ct=20361&tsum=c3de2703077fe3e4f3c728f6c9ff7ac2
 
-#EXTINF:0,ES: DAZN F1 HD
+#EXTINF:0 group-title="Special sports",ES: DAZN F1 HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115840
-
 
 
 #EXTM3U url="https://dl.dropbox.com/scl/fi/akkzw7faxqm6p12qeh6ch/1682.m3u?rlkey=s8hf6wxthcykid8s56yvsk8l3&st=xo7bvfdc&dl=0"
@@ -825,7 +820,7 @@ https://fl31.moveonjoy.com/MLB_NETWORK/index.m3u8
 http://143.244.60.30/MLB_NETWORK/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title"Live Sport",🏈 NFL 1
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Live Sport",🏈 NFL 1
 https://ww.dooballfree.vip/live/nfl/playlist.m3u8
 
 
@@ -887,13 +882,13 @@ https://fl2.moveonjoy.com/ESPN/index.m3u8
 https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN2" tvg-logo="https://api.makeitso.online/images/png/epl-bein1.png" group-title="กีฬา",BEIN1
+#EXTINF:-1 tvg-id="" tvg-name="BEIN2" tvg-logo="https://api.makeitso.online/images/png/epl-bein1.png" group-title="Live Sport",BEIN1
 https://ww.dooballfree.vip/live/bein1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="401335" tvg-name="BEIN 2" tvg-logo="http://45.144.165.187:8080/images/1ec83c1091e624aa0bba2f458b7297d4.png" group-title="กีฬา",BEIN 2
+#EXTINF:-1 tvg-id="401335" tvg-name="BEIN 2" tvg-logo="http://45.144.165.187:8080/images/1ec83c1091e624aa0bba2f458b7297d4.png" group-title="Live Sport",BEIN2
 https://ww.dooballfree.vip/live/bein2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="3HD" tvg-logo="https://api.makeitso.online/images/png/epl-bein3.png" group-title="กีฬา",BEIN3
+#EXTINF:-1 tvg-id="" tvg-name="3HD" tvg-logo="https://api.makeitso.online/images/png/epl-bein3.png" group-title=Live Sport"",BEIN3
 https://ww.dooballfree.vip/live/bein3/playlist.m3u
 
 
