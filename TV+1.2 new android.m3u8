@@ -490,6 +490,22 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/81359
 https://pepsi.abntv.live/hls/4spstream.m3u8
 
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+https://slave02.appball.vip/hls/Jt7RJnRbxJdpfxjB8mnGpg/1765625962/truesport7.m3u8
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+https://slave03.appball.vip/hls/Mqfq21HY5faByiSRYV_Geg/1765626155/truesport2.m3u8
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+https://slave03.appball.vip/hls/MXlmxOTskEYNuPMdp67hBQ/1765626194/golftv.m3u8
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+https://videox.appball.vip/hls/MOnUwBUxyZle2KwUwJMUag/1765626223/truesport3.m3u8
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+
+
 #EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png" group-title= group-title="Special sports",🏁 F1
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117202
 http://66.90.99.154:8278/tiankongf1/playlist.m3u8?tid=MFFF3610076936100769&ct=20361&tsum=c3de2703077fe3e4f3c728f6c9ff7ac2
