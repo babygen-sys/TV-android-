@@ -451,19 +451,18 @@ http://49.0.64.96:8007/HIFIGHT
 http://49.0.64.96:8007/TOPFIGHT
 
 
-#EXTINF:-1 ▂ ▃ ▅ ▇ █ ▓ ▒ ░ SEAGAMES ░ ▒ ▓ █ ▇ ▅ ▃ ▂
-http://66.90.99.154:8278/Arena/playlist.m3u8?tid=MB4B6468719464687194&ct=20361&tsum=148653608817408a9edaa77d5a6e8bff
+#EXTINF:-1,▂ ▃ ▅ ▇ █ ▓ ▒ ░ SEAGAMES ░ ▒ ▓ █ ▇ ▅ ▃ ▂
+https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/z6b52PQW2vvq/2025/12/13/4/1/r13vrBZEea4U/media/hls/720p30/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Seagames",SEA Games live  1
-https://p0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yZGYwMTJiMzlmY2ZjM2E5NjFkOQODNhMTllMzhlMmY4ZDA1
 
 
 #EXTINF:-1 group-title="Seagames",SEA Games live  2
-https://p1.cdn.vet/live/ch11/i/ch11i.m3u8?sid=b5yZWRhMjkzYWNjOTBhNGI4ZGM5NANzNkY2I4ZDAzYmE3YjFm
 
 
 #EXTINF:-1 group-title="Seagames",SEA Games live  3
+
 
 #EXTINF:-1 group-title="Seagames",SEA Games live  4
 
