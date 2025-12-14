@@ -133,7 +133,6 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 
 
 
-
 #EXTINF:-1,<==== entertainment ====>
 file:///C:/Users/WIN10/Downloads/%3C===================%20HBO%20===================%3E
 
@@ -146,6 +145,9 @@ http://49.0.64.96:8007/AMAZING
 
 #EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/XvhXpRSc/IMG-2613.png" group-title="Entertainment บันเทิง",Gags
 https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Zee.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/BbcqTvHT/IMG-2990.png", Zee Nung
+https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png" group-title="Entertainment บันเทิง",IZAAMOVIE
 http://49.0.64.96:8007/IZAA
@@ -454,10 +456,12 @@ http://66.90.99.154:8278/Arena/playlist.m3u8?tid=MB4B6468719464687194&ct=20361&t
 
 
 #EXTINF:-1 group-title="Live Sport",SEA Games live  !!!
-https://youtu.be/4lK7Y8OSAfI.m3u8
+https://p0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yZGYwMTJiMzlmY2ZjM2E5NjFkOQODNhMTllMzhlMmY4ZDA1
+
 
 #EXTINF:-1 group-title="Live Sport",SEA Games live  !!!
-https://youtu.be/wDgx2flbkpI.m3u8
+https://p1.cdn.vet/live/ch11/i/ch11i.m3u8?sid=b5yZWRhMjkzYWNjOTBhNGI4ZGM5NANzNkY2I4ZDAzYmE3YjFm
+
 
 #EXTINF:-1 group-title="Live Sport",SEA Games live  !!!
 
