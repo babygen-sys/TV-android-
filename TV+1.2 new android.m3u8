@@ -493,18 +493,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 ,⚽🏁🏈🎾🏌️‍♂️Special sports 1===>
 #EXTVLCOPT:network-caching=1000
-https://pepsi.abntv.live/hls/4spstream.m3u8
-
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave05.appball.vip/hls/zsXjQkKbxj3bAGSjen4BUQ/1765723698/trueballthai1.m3u8
-
-
-#EXTINF:-1 group-title="Special sports",Live Now 
-https://videox.appball.vip/hls/BzhtMj87_4spYCHTTBGI6A/1765723841/trueballthai2.m3u8
-
-#EXTINF:-1 group-title="Special sports",Live Now 
-https://videox.appball.vip/hls/dl31F-puX_8U_m5DvZ_pkA/1765723923/trueballthai3.m3u8
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSE
 
 
 #EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png" group-title= group-title="Special sports",🏁 F1
@@ -711,6 +700,15 @@ http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2528/index.m3u8
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2529/index.m3u8
 
 
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+https://slave05.appball.vip/hls/zsXjQkKbxj3bAGSjen4BUQ/1765723698/trueballthai1.m3u8
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+https://videox.appball.vip/hls/BzhtMj87_4spYCHTTBGI6A/1765723841/trueballthai2.m3u8
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+https://videox.appball.vip/hls/dl31F-puX_8U_m5DvZ_pkA/1765723923/trueballthai3.m3u8
 
 
 
