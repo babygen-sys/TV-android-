@@ -456,14 +456,8 @@ https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/z6b52PQW2vvq/2025/12/13/
 
 
 #EXTINF:-1 group-title="Seagames",SEA Games live  1
-https://youtu.be/5zd3Ra7CCJQ
 
 #EXTINF:-1 group-title="Seagames",SEA Games live  2
-
-#EXTINF:-1 group-title="Seagames",SEA Games live  3
-
-
-#EXTINF:-1 group-title="Seagames",SEA Games live  4
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cF8dPdc.jpg" group-title="Seagames",SPORTSTARS 2 (seagames 2025)
@@ -506,18 +500,11 @@ https://pepsi.abntv.live/hls/4spstream.m3u8
 https://slave04.appball.vip/hls/xcV-x5hR9R359TeFVpYupg/1765709138/truesport2.m3u8
 
 
-#EXTINF:-1 group-title="Live Sport",Live Now 
+#EXTINF:-1 group-title="Special sports",Live Now 
+https://slave02.appball.vip/hls/VkfEHBrJdRI3e7YKnfgOHw/1765723302/trueballthai1.m3u8
 
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
-
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
-
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
-
-
+#EXTINF:-1 group-title="Special sports",Live Now 
+https://slave01.appball.vip/hls/9TpQuApuj8_tzjabEowkqw/1765723438/trueballthai2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png" group-title= group-title="Special sports",🏁 F1
@@ -609,7 +596,11 @@ http://145.239.5.177/529/index.m3u8
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/zBrSF33z/IMG-3333.png" group-title="Special sports",Eurosport 2 
 http://145.239.5.177/530/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/ZR75p0QB/IMG-2907.png" group-title="Special sports",ESPN
+https://fl2.moveonjoy.com/ESPN/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/fRs20D30/IMG-3713.png" group-title="Special sports",ESPN 2
+https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
 #EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/306/437306-SNAPSHOT-l.png" group-title="Special sports", SOCCER CHANNEL
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
