@@ -456,7 +456,6 @@ https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/z6b52PQW2vvq/2025/12/13/
 
 
 #EXTINF:-1 group-title="Seagames",SEA Games live  1
-https://url.in.th/AMlnF
 
 
 #EXTINF:-1 group-title="Seagames",SEA Games live  2
@@ -722,10 +721,12 @@ http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2529/index.m3u8
 
 
 
-#EXTINF:-1 ,⚽🏁🏈🎾🏌️‍♂️Special sports 2===>
+
+
+
+#EXTINF:-1 ,👑👑👑⚽🏁🏈🎾🏌️‍♂️Special sports 2===>
 #EXTVLCOPT:network-caching=1000
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSE
-
 
 #EXTINF:-1 tvg-id="Liverpool.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="Special sports",LFCTV
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/17081.m3u8
@@ -840,13 +841,13 @@ http://49.0.64.96:8007/TENNIS
 #EXTINF:-1 group-title="Special sports",🎾Tennis Channel 
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/rm8Snz6D/IMG-3614.png" group-title="Special sports",True Tennis
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/rm8Snz6D/IMG-3614.png" group-title="Special sports",🎾Tennis
 http://119.59.118.159/live/ch25/xxccxgd134/index.m3u8
 
 
 
 #EXTINF:-1 group-title="Special sports",🏌️‍♂️ Golf 1
-http://119.59.118.159/live/ch20/xxccxgd134/index.m3u8
+https://slave01.appball.vip/hls/PQzw8BLcQtC-zvqezJ_QQw/1765706019/golftv.m3u8
 
 #EXTINF:-1 group-title="Special sports",🏌️‍♂️ Golf 2
 #EXTVLCOPT:network-caching=1000
@@ -854,7 +855,7 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special sports", Asatro Grandstand
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special sports",Asatro Grandstand
 http://66.90.99.154:8278/go_assp3/playlist.m3u8?tid=MB4B1248565612485656&ct=20364&tsum=494d53f2daeba57179732f790bbc6767
 
 #EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Special sports",Arena
@@ -865,7 +866,9 @@ http://66.90.99.154:8278/Arena2/playlist.m3u8?tid=MEAE5406066854060668&ct=20361&
 
 
 
-#EXTINF:-1,📹⚽🏈🥎Live-Sports===
+
+
+#EXTINF:-1,👑👑👑⚽🏈🥎Live-Sports===
 https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
 
 
