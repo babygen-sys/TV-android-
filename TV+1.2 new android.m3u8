@@ -133,7 +133,6 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 
 
 
-
 #EXTINF:-1,<==== entertainment ====>
 file:///C:/Users/WIN10/Downloads/%3C===================%20HBO%20===================%3E
 
@@ -146,6 +145,9 @@ http://49.0.64.96:8007/AMAZING
 
 #EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/XvhXpRSc/IMG-2613.png" group-title="Entertainment บันเทิง",Gags
 https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Zee.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/BbcqTvHT/IMG-2990.png", Zee Nung
+https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png" group-title="Entertainment บันเทิง",IZAAMOVIE
 http://49.0.64.96:8007/IZAA
@@ -454,10 +456,12 @@ http://66.90.99.154:8278/Arena/playlist.m3u8?tid=MB4B6468719464687194&ct=20361&t
 
 
 #EXTINF:-1 group-title="Live Sport",SEA Games live  !!!
-https://youtu.be/4lK7Y8OSAfI.m3u8
+https://p0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yZGYwMTJiMzlmY2ZjM2E5NjFkOQODNhMTllMzhlMmY4ZDA1
+
 
 #EXTINF:-1 group-title="Live Sport",SEA Games live  !!!
-https://youtu.be/wDgx2flbkpI.m3u8
+https://p1.cdn.vet/live/ch11/i/ch11i.m3u8?sid=b5yZWRhMjkzYWNjOTBhNGI4ZGM5NANzNkY2I4ZDAzYmE3YjFm
+
 
 #EXTINF:-1 group-title="Live Sport",SEA Games live  !!!
 
@@ -1451,7 +1455,7 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 
 
 
-#EXTINF:-1,<===🍿🍿🍿Premium entertainment===>
+#EXTINF:-1,<👑👑👑🍿🍿🍿entertainment===>
 http://103.114.203.129:8080/ott168/ott168/81
 
 
@@ -1483,10 +1487,6 @@ http://66.90.99.154:8278/axn_twn/playlist.m3u8?tid=MF9F7433593774335937&ct=20364
 
 #EXTINF:-1 tvg-id="Fuck.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/k5KBRQVj/IMG-3102.png",Universal
 http://49.0.64.96:8007/H-Channel
-
-
-#EXTINF:-1 tvg-id="Zee.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/BbcqTvHT/IMG-2990.png", Zee Nung
-https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Fuck.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/8C77gQvL/IMG-2955.png", TV Series 
@@ -1762,8 +1762,6 @@ http://119.59.118.159/live/ch66/xxccxgd134/index.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="True Explore Wild" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="Documentary สารคดี",Explore Wild
 http://119.59.118.159/live/ch57/xxccxgd134/index.m3u8
 
@@ -1868,8 +1866,6 @@ https://fl25.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 group-title="News ข่าว",CNBC Europe HD 
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-
-
 
 
 
