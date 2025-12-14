@@ -9,6 +9,7 @@ https://ww.dooballfree.vip/live/ch3hd/playlist.m3u8
 http://119.59.118.159/live/ch46/xxccxgd134/index.m3u8
 https://smt.go-iptv.ggff.net/smart.php?id=ch3_pat&token=Goiptv
 
+
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="🇹🇭 THAILAND",CH5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.postimg.cc/8kMvzGt1/IMG-2393.png" group-title="🇹🇭 THAILAND",CH7 HD
@@ -710,6 +711,20 @@ https://videox.appball.vip/hls/BzhtMj87_4spYCHTTBGI6A/1765723841/trueballthai2.m
 #EXTINF:-1 group-title="Live Sport",Live Now 
 https://videox.appball.vip/hls/dl31F-puX_8U_m5DvZ_pkA/1765723923/trueballthai3.m3u8
 
+#EXTINF:-1 group-title="Live Sport",Live Now 
+https://slave03.appball.vip/hls/ltAtdPyHJtFrgCPM_-B2LA/1765733149/vip.m3u8
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+https://slave01.appball.vip/hls/sJsNLqCCcWhdToFizPFL8Q/1765734068/mono5-1960.ts
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+https://slave03.appball.vip/hls/deC-qp5yL8ZlktaigQsjdw/1765733267/vip.m3u8
+
+
 
 
 #EXTINF:-1 ,👑👑👑⚽🏁🏈🎾🏌️‍♂️Special sports 2===>
@@ -868,15 +883,6 @@ https://fl7.moveonjoy.com/FOX_SPORTS_2/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave05.appball.vip/hls/zsXjQkKbxj3bAGSjen4BUQ/1765723698/trueballthai1.m3u8
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
-https://videox.appball.vip/hls/BzhtMj87_4spYCHTTBGI6A/1765723841/trueballthai2.m3u8
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
-https://videox.appball.vip/hls/dl31F-puX_8U_m5DvZ_pkA/1765723923/trueballthai3.m3u8
-
 #EXTINF:-1 group-title="Live Sport",Live Now
  
 #EXTINF:-1 group-title="Live Sport",Live Now
@@ -967,54 +973,56 @@ https://ww.dooballfree.vip/live/playsportsfootball10/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="test1.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 1
+#EXTINF:-1 tvg-id="test1.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130734.m3u8
 
-#EXTINF:-1 tvg-id="test1.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 1 สำรอง
+#EXTINF:-1 tvg-id="test1.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:68:6F:86&stream=1660493&extension=ts&play_token=sEujCxQQZx
 
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 2
+#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 
 http://45.136.252.97:8081/app/monomax-2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 2 สำรอง
+#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130724
+
+#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 
 https://ealivefotex.com/monomax2ch/index.m3u8
 
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 2 สำรอง
-https://ealivefotex.com/maxsport2/index.m3u8
 
-
-
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 3
+#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 
 https://ealivefotex.com/monomax3/index.m3u8
 
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 3 สำรอง
+#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 
+https://ealivefotex.com/maxsport2/index.m3u8
+
+#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 
 http://45.136.252.97:8081/app/monomax-3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 4
+#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:68:6F:86&stream=1660490&extension=ts&play_token=XUZ6hg0V6W
 
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 4 สำรอง
+#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 
 https://ww.dooballfree.vip/live/monomax-4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 5
+#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 
 https://ealivefotex.com/maxsport5/index.m3u8
 
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 5 สำรอง
+#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:68:6F:86&stream=1660489&extension=ts&play_token=LJpULELFjM
 
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 5 สำรอง
+#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 
 https://ww.dooballfree.vip/live/monomax-5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 6
+#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 
 http://45.136.252.97:8081/app/monomax-6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 6 สำรอง
+#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 
 https://ww.dooballfree.vip/live/monomax-6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 7
+#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 
 https://ww.dooballfree.vip/live/monomax-7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 7 สำรอง
+#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="Live Sport",Monomax 
 http://45.136.252.97:8081/app/monomax-7/playlist.m3u8
 
 
@@ -1137,11 +1145,8 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/
 
 
 
-
 #EXTINF:-1,👑👑👑<===Premium sports===>
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extension=ts&play_token=n1KBSwudMQ
-
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/ca-tsn1.png" group-title="Premium sports 1",TSN1
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/17181.m3u8
@@ -1502,17 +1507,14 @@ http://103.114.203.129:8080/ott168/ott168/81
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776086&extension=m3u8
 http://119.59.118.159/live/ch26/xxccxgd134/index.m3u8
 
-
-
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/RFGyFdqV/IMG-4186.png", HBO hits
 http://119.59.118.159/live/ch27/xxccxgd134/index.m3u8
-
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1024px-HBO_Family_Asia_logo.svg.png", HBO family
 http://119.59.118.159/live/ch29/xxccxgd134/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/x85f9LV3/IMG-4185.png", HBO Signature 
-http://119.59.118.159/live/ch28/xxccxgd134/index.m3u8
+https://smt.go-iptv.ggff.net/smart.php?id=Hbosignature&token=Goiptv
 
 #EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="Entertainment บันเทิง", CINEMAX
 http://66.90.99.154:8278/cinemax_twn/playlist.m3u8?tid=MF6F9233154292331542&ct=20364&tsum=5d284b17751a98f990d7e213168b6c59
@@ -1610,12 +1612,8 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/Wz7qzMTG/IMG-2061.png" group-title="Cartoon การ์ตูน",Boomerang Cartoon
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="CN.us" tvg-logo="https://i.postimg.cc/MZr3y7sp/IMG-2974.png" group-title="Cartoon การ์ตูน",Cartoon Network
+https://smt.go-iptv.ggff.net/smart.php?id=Cn&token=Goiptv
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:68:6F:86&stream=30556&extension=ts&play_token=kdlMk470xR
 
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png" group-title="Cartoon การ์ตูน",Cartoon
