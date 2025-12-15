@@ -456,7 +456,8 @@ http://49.0.64.96:8007/TOPFIGHT
 https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/z6b52PQW2vvq/2025/12/13/4/1/r13vrBZEea4U/media/hls/720p30/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Seagames",SEA Games live  1
+#EXTINF:-1 group-title="Seagames",SEA Games live วอลเล่บอล 1
+https://slave04.appball.vip/hls/CNPr6OPUccmWTwnyZm-K-A/1765810659/pptv.m3u8
 
 #EXTINF:-1 group-title="Seagames",SEA Games live  2
 
@@ -702,34 +703,6 @@ http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2529/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave05.appball.vip/hls/zsXjQkKbxj3bAGSjen4BUQ/1765723698/trueballthai1.m3u8
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
-https://videox.appball.vip/hls/BzhtMj87_4spYCHTTBGI6A/1765723841/trueballthai2.m3u8
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
-https://videox.appball.vip/hls/dl31F-puX_8U_m5DvZ_pkA/1765723923/trueballthai3.m3u8
-
-
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
-https://videox.appball.vip/hls/0ibGBpTUe2x2iDFoG_PLnQ/1765734521/vip.m3u8
-
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave01.appball.vip/hls/dgmCw_xm7t_11fZtu_KNVA/1765734600/mono5.m3u8
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
-https://videox.appball.vip/hls/pVJacWvw2Iz_fEFZXPDhaA/1765734627/mono6.m3u8
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
-https://videox.appball.vip/hls/yzzOl0JAZSEEy-l5P0JeaA/1765734649/mono7.m3u8
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave04.appball.vip/hls/xGPMGusfh1pRWQsebdqwBQ/1765734671/vip.m3u8
-
-
 
 
 
@@ -797,9 +770,6 @@ http://66.90.99.154:8278/tiankongf1/playlist.m3u8?tid=MFFF3610076936100769&ct=20
 
 #EXTINF:0 group-title="Special sports",ES: DAZN F1 HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115840
-
-
-#EXTM3U url="https://dl.dropbox.com/scl/fi/akkzw7faxqm6p12qeh6ch/1682.m3u?rlkey=s8hf6wxthcykid8s56yvsk8l3&st=xo7bvfdc&dl=0"
 
 
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SPOTV.png"group-title="Special sports",SPOTV
@@ -873,28 +843,21 @@ http://66.90.99.154:8278/Arena/playlist.m3u8?tid=MB4B6468719464687194&ct=20361&t
 #EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Special sports",Arena 2
 http://66.90.99.154:8278/Arena2/playlist.m3u8?tid=MEAE5406066854060668&ct=20361&tsum=304cc27fa38b36bbc26ba830334cbbc4
 
+#EXTINF:-1 tvg-id="Foxsports.us" tvg-logo="https://i.postimg.cc/zv9BSgXw/IMG-2104.png" group-title="Special sports",Fox Sports 1
+https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Foxsports.us" tvg-logo="https://i.postimg.cc/dVR1rDMd/IMG-2105.png" group-title="Special sports",Fox Sports 2
+https://fl7.moveonjoy.com/FOX_SPORTS_2/index.m3u8
+
+
+
+
 
 
 #EXTINF:-1,👑👑👑⚽🏈🥎Live-Sports===
 https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-id="Foxsports.us" tvg-logo="https://i.postimg.cc/zv9BSgXw/IMG-2104.png" group-title="Live Sport",Fox Sports 1
-https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
-
-#EXTINF:-1 tvg-id="Foxsports.us" tvg-logo="https://i.postimg.cc/dVR1rDMd/IMG-2105.png" group-title="Live Sport",Fox Sports 2
-https://fl7.moveonjoy.com/FOX_SPORTS_2/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Live Sport",Live Now
- 
-#EXTINF:-1 group-title="Live Sport",Live Now
- 
-#EXTINF:-1 group-title="Live Sport",Live Now
- 
 #EXTINF:-1 group-title="Live Sport",Live Now 
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
@@ -903,6 +866,13 @@ https://fl7.moveonjoy.com/FOX_SPORTS_2/index.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
 
+#EXTINF:-1 group-title="Live Sport",Live Now 
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN2" tvg-logo="https://api.makeitso.online/images/png/epl-bein1.png" group-title="Live Sport",BEIN1
