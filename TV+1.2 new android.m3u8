@@ -134,8 +134,10 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 
 
 
-#EXTINF:-1,<==== entertainment ====>
-file:///C:/Users/WIN10/Downloads/%3C===================%20HBO%20===================%3E
+
+
+<==== entertainment ====>
+
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/hvsjcMx3/IMG-3443.png" group-title="Entertainment บันเทิง",Mr.Bean Classic
 https://shorturl.asia/jAf5V
@@ -160,36 +162,25 @@ http://49.0.64.96:8007/SERIES
 #EXTINF:-1 tvg-id="Vipa.th" tvg-logo="https://i.postimg.cc/DZjt5L9v/IMG-2681.png" group-title="Entertainment บันเทิง",VIPA
 https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rCOfNul.jpg" group-title="Entertainment บันเทิง",HBO ᴴᴰ
-http://xxip25.top:8080/n7NX45/216258/164950
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hQeHgDb.jpg" group-title="Entertainment บันเทิง",HBO1
-
-http://xxip25.top:8080/n7NX45/216258/9264
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hQeHgDb.jpg" group-title="Entertainment บันเทิง",HBO2
-http://xxip25.top:8080/n7NX45/216258/9816
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ERwrMoy.jpg" group-title="Entertainment บันเทิง",HBO HITS
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
-https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wTFc4ns.jpg" group-title="Entertainment บันเทิง",HBO SIGNATURE
-http://xxip25.top:8080/n7NX45/216258/9266
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79f8g.png" group-title="Entertainment บันเทิง",HBO
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79nwv.png" group-title="Entertainment บันเทิง",HBO Hits
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbohits/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79otR.png" group-title="Entertainment บันเทิง",HBO Family
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79IMN.png" group-title="Entertainment บันเทิง",HBO Signature
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbosignature/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png" group-title="Entertainment บันเทิง",Cinemax
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/cinemax/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9P3IEOz.jpg" group-title="Entertainment บันเทิง",HBO FAMILY
-http://xxip25.top:8080/n7NX45/216258/17772
-
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Comedy 
-http://xxip25.top:8080/n7NX45/216258/17773
-
-#EXTINF:-1 group-title="Entertainment บันเทิง",HBO Zone 
-http://xxip25.top:8080/n7NX45/216258/9265
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vUU7vsA.jpg" group-title="Entertainment บันเทิง",CINEMAX
@@ -214,8 +205,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 
 
 
-#EXTINF:-1,<=== การ์ตูน ===>
-http://49.0.64.96:8007/Cartoonumi
+
+
+<==== การ์ตูน ====>
+
 
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/zDCqL8v7/IMG-2635.png" group-title="Cartoon การ์ตูน",Boom
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
@@ -228,10 +221,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest_w209786680_qRFZS.mpd?encp=&uid=&expp=
-
-
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/cn.jpg" group-title="Cartoon การ์ตูน",Cartoon Network
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/752
 
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/cartoonito.jpg" group-title="Cartoon การ์ตูน",CARTOONITO
@@ -252,8 +241,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon
 http://49.0.64.96:8007/Cartoonumi
 
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Mr.bean Cartoon
-https://amg00627-amg00627c23-samsung-th-5282.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
@@ -273,8 +260,101 @@ https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/128/9280/9280598.png" group-title="MUSIC",==========MUSIC==========
-https://fl3.moveonjoy.com/MUSIC/index.m3u8
+
+
+<=== Documentary สารคดี ====>
+
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary สารคดี",Discovery Channel (US) 
+https://tvpass.org/live/DiscoveryChannelEast/sd
+
+
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary สารคดี",Discovery Channel
+http://103.66.62.83:8000/play/a030/index.m3u8
+
+
+#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel" group-title="Documentary สารคดี",Discovery Family 
+https://tvpass.org/live/DiscoveryFamily/sd
+
+#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel" group-title="Documentary สารคดี",Discovery Life 
+https://tvpass.org/live/DiscoveryLife/sd
+
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East" group-title="Documentary สารคดี",Animal Planet US 
+https://tvpass.org/live/AnimalPlanetEast/sd
+
+#EXTINF:-1  group-title="Documentary สารคดี",ANIMAL PLANET
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+
+
+#EXTINF:-1  group-title="Documentary สารคดี",HGTV 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://i.mjh.nz/.r/discovery-hgtv.m3u8
+
+
+#EXTINF:-1, group-title="Documentary สารคดี",HISTORY 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern" group-title="Documentary สารคดี",Investigation Discovery USA Eastern
+https://tvpass.org/live/InvestigationDiscoveryEast/sd
+
+
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed" group-title="Documentary สารคดี",HGTV USA Eastern Feed
+https://tvpass.org/live/HGTVEast/sd
+
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="Documentary สารคดี",History Channel US Eastern Feed
+https://tvpass.org/live/HistoryEast/sd
+
+#EXTINF:-1 tvg-id="hln" tvg-name="HLN" group-title="Documentary สารคดี",HLN
+https://tvpass.org/live/HLN/sd
+
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" group-title="Documentary สารคดี",National Geographic US Eastern
+https://tvpass.org/live/NationalGeographicEast/sd
+
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" group-title="Documentary สารคดี",National Geographic Wild
+https://tvpass.org/live/NationalGeographicWildEast/sd
+
+
+
+
+
+
+<==== NEWS ====>
+
+#EXTINF:-1 group-title="News ข่าว",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Boomberg News
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Rusia Today
+https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",India News
+https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",BFM Business
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+
+
+
+
+
+
+
+
+<==== MV-MUSIC ====>
+
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png" group-title="MUSIC",K-POP by CJ ENM
 https://jmp2.uk/stvp-US39000038W
@@ -357,70 +437,9 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 
 
 
-<=== สารคดี ====>
-
-#EXTINF:-1 group-title="Documentary สารคดี",Discovery Channel
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1967
-
-#EXTINF:-1 group-title="Documentary สารคดี",Discovery 
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/482
-
-#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern" group-title="Documentary สารคดี",Investigation Discovery USA Eastern
-https://tvpass.org/live/InvestigationDiscoveryEast/sd
 
 
-#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed" group-title="Documentary สารคดี",HGTV USA Eastern Feed
-https://tvpass.org/live/HGTVEast/sd
-
-#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="Documentary สารคดี",History Channel US Eastern Feed
-https://tvpass.org/live/HistoryEast/sd
-
-#EXTINF:-1 tvg-id="hln" tvg-name="HLN" group-title="Documentary สารคดี",HLN
-https://tvpass.org/live/HLN/sd
-
-#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" group-title="Documentary สารคดี",National Geographic US Eastern
-https://tvpass.org/live/NationalGeographicEast/sd
-
-#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" group-title="Documentary สารคดี",National Geographic Wild
-https://tvpass.org/live/NationalGeographicWildEast/sd
-
-
-#EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed" group-title="Documentary สารคดี",ION Eastern Feed
-https://tvpass.org/live/IONTVEast/sd
-
-#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East" group-title="Documentary สารคดี",Lifetime Movies East
-https://tvpass.org/live/LifetimeMoviesEast/sd
-
-
-
-
-<=== NEWS ===>
-
-#EXTINF:-1 group-title="News ข่าว",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#EXTINF:-1 group-title="News ข่าว",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-#EXTINF:-1 group-title="News ข่าว",Boomberg News
-https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
-
-#EXTINF:-1 group-title="News ข่าว",Rusia Today
-https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
-
-#EXTINF:-1 group-title="News ข่าว",India News
-https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
-
-#EXTINF:-1 group-title="News ข่าว",BFM Business
-https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
-
-
-
-
-
-#EXTINF:-1 <=== Boxing/Wrestling ===>
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
-
+<=== Boxing/Wrestling ===>
 
 #EXTINF:-1 group-title="Special sports",WWE Channel
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -450,6 +469,11 @@ http://49.0.64.96:8007/HIFIGHT
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/yYhn4sBc/IMG-4381.png" group-title="Special sports",Top Fight
 http://49.0.64.96:8007/TOPFIGHT
+
+
+
+
+
 
 
 #EXTINF:-1,▂ ▃ ▅ ▇ █ ▓ ▒ ░ SEAGAMES ░ ▒ ▓ █ ▇ ▅ ▃ ▂
@@ -510,9 +534,6 @@ https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png" group-title="Special sports",Hi Sport
 http://49.0.64.96:8007/HiSports
 
-#EXTINF:-1 group-title="Special sports",SKY SPORTS RACING (Horse) 
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/11549
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDilbWW.jpg" group-title="Special sports",Horse and Country TV
@@ -701,7 +722,6 @@ http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2529/index.m3u8
 
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
-https://videox.appball.vip/hls/_qJhKbeX_euTAn-awci7Iw/1765828969/mono2.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
 
@@ -1894,10 +1914,13 @@ https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 
 
 
-#EXTINF:-1 ####### Movie ########
-https://tinyurl.com/m8rf86a2
+#EXTINF:-1 👑👑👑🍿🍿🍿####### Movie ########
 
-#EXTM3U
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/12/1-5.jpg" ,นครสัตว์มหาสนุก 2 (Zootopia 2)
+https://main.24playerhd.com/m3u8/3e26cd0b1d958a8731828a80/3e26cd0b1d958a8731828a80438.m3u8
+
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/5-4.jpg" ,Jingle Bell Heist (2025) โจรกรรมจิงเกิลเบล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://m3u8haha.com/movie/M15571.mp4/playlist.m3u8
