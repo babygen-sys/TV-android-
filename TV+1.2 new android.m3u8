@@ -5,9 +5,9 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 HD
-https://ww.dooballfree.vip/live/ch3hd/playlist.m3u8
-http://119.59.118.159/live/ch46/xxccxgd134/index.m3u8
 https://smt.go-iptv.ggff.net/smart.php?id=ch3_pat&token=Goiptv
+https://ww.dooballfree.vip/live/ch3hd/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="🇹🇭 THAILAND",CH5 HD
@@ -1520,10 +1520,15 @@ http://103.114.203.129:8080/ott168/ott168/81
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776086&extension=m3u8
 http://119.59.118.159/live/ch26/xxccxgd134/index.m3u8
 
+
+
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/RFGyFdqV/IMG-4186.png", HBO hits
+https://smt.go-iptv.ggff.net/smart.php?id=Hbohitshd&token=Goiptv
 http://119.59.118.159/live/ch27/xxccxgd134/index.m3u8
 
+
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1024px-HBO_Family_Asia_logo.svg.png", HBO family
+https://smt.go-iptv.ggff.net/smart.php?id=Hbofamily&token=Goiptv
 http://119.59.118.159/live/ch29/xxccxgd134/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/x85f9LV3/IMG-4185.png", HBO Signature 
