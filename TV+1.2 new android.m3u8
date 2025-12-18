@@ -587,13 +587,13 @@ http://145.239.5.177/530/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/ZR75p0QB/IMG-2907.png" group-title="Special sports",ESPN
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/ZR75p0QB/IMG-2907.png" group-title="Special sports",ESPN 1
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/503
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/fRs20D30/IMG-3713.png" group-title="Special sports",ESPN 2
 https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/227dacbe84acf0df2b21279e1f75d2c2.png" group-title="Special sports"ESPN 3 
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/227dacbe84acf0df2b21279e1f75d2c2.png" group-title="Special sports",ESPN 3 
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/505
 
 
