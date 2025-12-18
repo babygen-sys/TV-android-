@@ -440,9 +440,46 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 
 
 
+#EXTINF:-1,▂ ▃ ▅ ▇ █ ▓ ▒ ░ SEAGAMES ░ ▒ ▓ █ ▇ ▅ ▃ ▂
+https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/z6b52PQW2vvq/2025/12/13/4/1/r13vrBZEea4U/media/hls/720p30/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Seagames",SEA Games live  1
+
+#EXTINF:-1 group-title="Seagames",SEA Games live  2
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cF8dPdc.jpg" group-title="Seagames",SPORTSTARS 2 (seagames 2025)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars4.jpg" group-title="Seagames",SPORTSTARS 4 (seagames 2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
+
+#EXTINF:-1 tvg-id="SS4" tvg-logo="https://i.imgur.com/qUYLcS8.png" group-title="Seagames",Sportstars 4 (seagames 2025)สำรอง
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/index.m3u8
+
+#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Seagames",Arena1 (seagames 2025)
+http://66.90.99.154:8278/Arena/playlist.m3u8?tid=MB4B6468719464687194&ct=20361&tsum=148653608817408a9edaa77d5a6e8bff
+
+#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Seagames",Arena 2 (seagames 2025)
+http://66.90.99.154:8278/Arena2/playlist.m3u8?tid=MEAE5406066854060668&ct=20361&tsum=304cc27fa38b36bbc26ba830334cbbc4
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbg6RNClVzA9EouEpYVdndfdshwLFGphqLWg&s" group-title="Seagames",Sukan TV (seagames 2025)
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Okey_RTM.png/200px-Okey_RTM.png" group-title="Seagames",OKEY TV (seagames 2025)
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+
+
+
+
+
 <=== Boxing/Wrestling ===>
 
-#EXTINF:-1 group-title="Special sports",WWE Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1315px-WWE_Network_logo.svg.png" group-title="Special sports",WWE Channel
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://tvmate.icu:8080/69NpyV/884735/11645
 
@@ -476,46 +513,6 @@ http://49.0.64.96:8007/TOPFIGHT
 
 
 
-
-#EXTINF:-1,▂ ▃ ▅ ▇ █ ▓ ▒ ░ SEAGAMES ░ ▒ ▓ █ ▇ ▅ ▃ ▂
-https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/z6b52PQW2vvq/2025/12/13/4/1/r13vrBZEea4U/media/hls/720p30/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Seagames",SEA Games live  1
-
-#EXTINF:-1 group-title="Seagames",SEA Games live  2
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cF8dPdc.jpg" group-title="Seagames",SPORTSTARS 2 (seagames 2025)
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
-
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars4.jpg" group-title="Seagames",SPORTSTARS 4 (seagames 2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
-
-#EXTINF:-1 tvg-id="SS4" tvg-logo="https://i.imgur.com/qUYLcS8.png" group-title="Seagames",Sportstars 4 (seagames 2025)สำรอง
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/index.m3u8
-
-#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Seagames",Arena1 (seagames 2025)
-http://66.90.99.154:8278/Arena/playlist.m3u8?tid=MB4B6468719464687194&ct=20361&tsum=148653608817408a9edaa77d5a6e8bff
-
-#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Seagames",Arena 2 (seagames 2025)
-http://66.90.99.154:8278/Arena2/playlist.m3u8?tid=MEAE5406066854060668&ct=20361&tsum=304cc27fa38b36bbc26ba830334cbbc4
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbg6RNClVzA9EouEpYVdndfdshwLFGphqLWg&s" group-title="Seagames",Sukan TV (seagames 2025)
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Okey_RTM.png/200px-Okey_RTM.png" group-title="Seagames",OKEY TV (seagames 2025)
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RCTI13Tahun.png" group-title="Seagames",RCTI HD (seagames 2025)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Seagames",GTV (seagames 2025)
-
-
-
-
 #EXTINF:-1 ,⚽🏁🏈🎾🏌️‍♂️Special sports 1===>
 #EXTVLCOPT:network-caching=1000
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSE
@@ -536,6 +533,9 @@ https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
 http://49.0.64.96:8007/HiSports
 
 
+#EXTINF:-1 tvg-logo="https://www.africanbettingclan.com/media/kunena/attachments/796/A01099FA-C989-43B4-B25C-78FEC4C9F10C.jpeg" group-title="Special sports",Racing 240
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/111948
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDilbWW.jpg" group-title="Special sports",Horse and Country TV
 #EXTVLCOPT:network-caching=1000
@@ -544,26 +544,6 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPwZaN6.jpg" group-title="Special sports",HORSE TV
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XtWqaM9.jpg" group-title="Special sports",PREMIER SPORTS 1
-http://line.extraott-iptv.com:88/2755789541/1300714776/191694
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2KS1HA.jpg" group-title="Special sports",PREMIER SPORTS 2
-http://line.extraott-iptv.com:88/2755789541/1300714776/189891
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BAxLcEX.jpg" group-title="Special sports",GO3 SPORT 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
-http://de.online24.pm/play/6709/0E5BF0B5A9755BD/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sbDy6sn.jpg" group-title="Special sports",GO3 SPORT 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
-http://de.online24.pm/play/6710/0E5BF0B5A9755BD/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I1uGi27.jpg" group-title="Special sports",GO3 SPORT 3
-http://de.online24.pm/play/6711/0E5BF0B5A9755BD/video.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FuY7wEZ.jpg" group-title="Special sports",BILLIYARD TV
@@ -599,22 +579,24 @@ https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 
-
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/jS28DWnB/IMG-3332.png" group-title="Special sports",Eurosport 1 
 http://145.239.5.177/529/index.m3u8
  
-
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/zBrSF33z/IMG-3333.png" group-title="Special sports",Eurosport 2 
 http://145.239.5.177/530/index.m3u8
 
+
+
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/ZR75p0QB/IMG-2907.png" group-title="Special sports",ESPN
-https://fl2.moveonjoy.com/ESPN/index.m3u8
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/503
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/fRs20D30/IMG-3713.png" group-title="Special sports",ESPN 2
 https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
-#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/306/437306-SNAPSHOT-l.png" group-title="Special sports", SOCCER CHANNEL
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/227dacbe84acf0df2b21279e1f75d2c2.png" group-title="Special sports"ESPN 3 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/505
+
+
 
 #EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/307/437307-SNAPSHOT-l.png" group-title="Special sports", SPOTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
