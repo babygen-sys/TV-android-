@@ -230,18 +230,21 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest_w20978668
 https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
 
 
+
+
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.
 https://fl41.moveonjoy.com/NICK_JR/index.m3u8
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
+
+
 #EXTINF:-1 group-title="Cartoon การ์ตูน",NickToon
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
 
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Cartoon
+#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png" group-title="Cartoon การ์ตูน",Cartoon
 http://49.0.64.96:8007/Cartoonumi
-
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
@@ -252,11 +255,8 @@ https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Shaun the Sheep & Friends
 https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
 
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Moonbug
+#EXTINF:-1 tvg-id="Moonbug.us" tvg-logo="https://i.postimg.cc/qvTvttzq/IMG-2049.png" group-title="Cartoon การ์ตูน",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Cartoon การ์ตูน",KIDS TV
-https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 
 
 
@@ -264,6 +264,14 @@ https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 
 
 <=== Documentary สารคดี ====>
+
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Pet Collective1
+https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",PetClub TV2
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary สารคดี",Discovery Channel (US) 
 https://tvpass.org/live/DiscoveryChannelEast/sd
@@ -477,7 +485,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 
 
-<=== Boxing/Wrestling ===>
+
+#EXTINF:-1,<=== Boxing/Wrestling ===>
+http://tvmate.icu:8080/69NpyV/884735/11645
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1315px-WWE_Network_logo.svg.png" group-title="Special sports",WWE Channel
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
