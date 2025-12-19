@@ -1539,6 +1539,8 @@ http://66.90.99.154:8278/axn_twn/playlist.m3u8?tid=MF9F7433593774335937&ct=20364
 #EXTINF:-1 tvg-id="Fuck.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/k5KBRQVj/IMG-3102.png",Universal
 http://49.0.64.96:8007/H-Channel
 
+#EXTINF:-1 tvg-id="CH8.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/RFVxDzJm/IMG-1839.png", Ch 8 Thailand 
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
 
 #EXTINF:-1 tvg-id="Fuck.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/8C77gQvL/IMG-2955.png", TV Series 
 http://49.0.64.96:8007/SERIES
