@@ -266,40 +266,29 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 <=== Documentary สารคดี ====>
 
 
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Pet Collective1
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="Documentary สารคดี",XPLORE
+https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="Documentary สารคดี",Pet Collective1
 https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 group-title="Cartoon การ์ตูน",PetClub TV2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="Documentary สารคดี",PetClub TV2
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary สารคดี",Discovery Channel (US) 
 https://tvpass.org/live/DiscoveryChannelEast/sd
 
-
 #EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary สารคดี",Discovery Channel
 http://103.66.62.83:8000/play/a030/index.m3u8
-
-
-#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel" group-title="Documentary สารคดี",Discovery Family 
-https://tvpass.org/live/DiscoveryFamily/sd
-
-#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel" group-title="Documentary สารคดี",Discovery Life 
-https://tvpass.org/live/DiscoveryLife/sd
-
-#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East" group-title="Documentary สารคดี",Animal Planet US 
-https://tvpass.org/live/AnimalPlanetEast/sd
 
 #EXTINF:-1  group-title="Documentary สารคดี",ANIMAL PLANET
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
-
 #EXTINF:-1  group-title="Documentary สารคดี",HGTV 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://i.mjh.nz/.r/discovery-hgtv.m3u8
-
 
 #EXTINF:-1, group-title="Documentary สารคดี",HISTORY 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -307,28 +296,22 @@ https://i.mjh.nz/.r/discovery-hgtv.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern" group-title="Documentary สารคดี",Investigation Discovery USA Eastern
-https://tvpass.org/live/InvestigationDiscoveryEast/sd
-
-
 #EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed" group-title="Documentary สารคดี",HGTV USA Eastern Feed
 https://tvpass.org/live/HGTVEast/sd
 
-#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="Documentary สารคดี",History Channel US Eastern Feed
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="Documentary สารคดี",History Channel 
 https://tvpass.org/live/HistoryEast/sd
 
 #EXTINF:-1 tvg-id="hln" tvg-name="HLN" group-title="Documentary สารคดี",HLN
 https://tvpass.org/live/HLN/sd
 
-#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" group-title="Documentary สารคดี",National Geographic US Eastern
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" group-title="Documentary สารคดี",National Geographic 
 https://tvpass.org/live/NationalGeographicEast/sd
 
-#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" group-title="Documentary สารคดี",National Geographic Wild
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" group-title="Documentary สารคดี",National Wild
 https://tvpass.org/live/NationalGeographicWildEast/sd
+
+
 
 
 
