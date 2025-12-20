@@ -43,7 +43,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
 #EXTINF:-1 tvg-id="ThairathTV32.th" group-title="🇹🇭 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png",Thairath TV 2
-http://45.136.252.97:8081/app/thairathtv/playlist.m3u8
+https://p0.cdn.vet/live/ch39/i/ch39i.m3u8?sid=b5yZWMwNWVkZTg2MmRhYzgwMmVhMQNzgxMWZlMjkzNzgwNjg3
 
 
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png" group-title="🇹🇭 THAILAND",Thai PBS
@@ -54,16 +54,16 @@ https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 https://ww.dooballfree.vip/live/pptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV สำรอง
-https://p1.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yODM2MzRhMmM0MjNhODA0ZmVhMQODgzNTk4NjQwMjAyODEy
+https://p1.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yN2Q0YmU1NTE1ZTZhMTBmZjUzOAMWI5ZDFjODZkMTE1MzNi
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://p1.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yODM2MzRhMmM0MjNhODA0ZmVhMQODgzNTk4NjQwMjAyODEy
+https://p1.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yN2Q0YmU1NTE1ZTZhMTBmZjUzOAMWI5ZDFjODZkMTE1MzNi
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://p1.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yODM2MzRhMmM0MjNhODA0ZmVhMQODgzNTk4NjQwMjAyODEy
+https://p1.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yN2Q0YmU1NTE1ZTZhMTBmZjUzOAMWI5ZDFjODZkMTE1MzNi
 
 
 
