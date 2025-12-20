@@ -450,7 +450,6 @@ https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/z6b52PQW2vvq/2025/12/13/
 
 
 #EXTINF:-1 group-title="Seagames",SEA Games live  1
-https://slave03.appball.vip/hls/5RmBXrvc4war_imO7qfQCQ/1766074808/pptv.m3u8
 
 #EXTINF:-1 group-title="Seagames",SEA Games live  2
 
@@ -713,11 +712,14 @@ http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2528/index.m3u8
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2529/index.m3u8
 
 
+
 #EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave01.appball.vip/hls/KoI5JMUoifkIvXZKAzKe0w/1766131753/golftv.m3u8
+https://slave04.appball.vip/hls/I_EgLcqcf4uX5rQbJhG3IQ/1766203881/golftv.m3u8
 
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
+
+
 
 
 
@@ -879,6 +881,19 @@ https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
+https://slave04.appball.vip/hls/DXjHtBpdKsQdDlxZV6Pejw/1766204609/truesport7.m3u8
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+https://slave03.appball.vip/hls/BwoaW8BAMUwvzuid3fJvoA/1766204667/truesport2.m3u8
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+https://slave01.appball.vip/hls/F5m5C445QLes2Tq7lBWq3w/1766204705/truesport3.m3u8
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+https://slave01.appball.vip/hls/voDDPz8THkVt9rkg0dwFXQ/1766204743/truesport5.m3u8
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+https://slave03.appball.vip/hls/ce1vrlI3kVNKVWZOf7HVQg/1766204761/truesport3.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
 
@@ -890,13 +905,8 @@ https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
 
-#EXTINF:-1 group-title="Live Sport",Live Now 
 
-#EXTINF:-1 group-title="Live Sport",Live Now 
 
-#EXTINF:-1 group-title="Live Sport",Live Now 
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN2" tvg-logo="https://api.makeitso.online/images/png/epl-bein1.png" group-title="Live Sport",BEIN1
