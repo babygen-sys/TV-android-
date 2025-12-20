@@ -712,6 +712,29 @@ http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2528/index.m3u8
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2529/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",Sony TEN 1 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98861
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",Sony TEN 2 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98862
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",Sony TEN 3 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98863
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",Sony TEN 5 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98870
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",STAR SPORTS 1
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98864
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",STAR SPORTS 2 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98865
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports,STAR SPORTS 1 HINDI 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98866
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",STAR SPORTS SELECT 1 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98867
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",START SPORTS SELECT 2 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
+
+
+
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
 https://slave04.appball.vip/hls/I_EgLcqcf4uX5rQbJhG3IQ/1766203881/golftv.m3u8
