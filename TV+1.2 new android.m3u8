@@ -884,7 +884,8 @@ http://119.59.118.159/live/ch25/xxccxgd134/index.m3u8
 
 
 #EXTINF:-1 group-title="Special sports",🏌️‍♂️ Golf 1
-https://slave01.appball.vip/hls/PQzw8BLcQtC-zvqezJ_QQw/1765706019/golftv.m3u8
+https://slave04.appball.vip/hls/jmk7BrvYCNNDOidh41n6kA/1766324814/golftv.m3u8
+
 
 #EXTINF:-1 group-title="Special sports",🏌️‍♂️ Golf 2
 #EXTVLCOPT:network-caching=1000
@@ -916,7 +917,7 @@ https://fl7.moveonjoy.com/FOX_SPORTS_2/index.m3u8
 https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave03.appball.vip/hls/B99WqpxBTRZZF_-5o4DL3Q/1766309477/truesport7.m3u8
+https://slave04.appball.vip/hls/DURbM_oFDId8ifLuWCIPnA/1766324898/truesport7.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
 https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
@@ -925,18 +926,28 @@ https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
 https://slave05.appball.vip/hls/tkVJRSYHTIm6PQ0MMIQhUw/1766309722/truesport2.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
+https://slave02.appball.vip/hls/upOT_ObvMGhpUc2_1tdH1A/1766324927/truesport2.m3u8
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+https://videox.appball.vip/hls/vBSuJY1IadUP8mZWm-YdlQ/1766325126/epl4.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
+https://slave05.appball.vip/hls/9yN5zWveCVLTDU4voLRL9Q/1766325003/bein1.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
+https://slave02.appball.vip/hls/3Dp1dC_Ov2UYit1aZSHmKg/1766325047/bein3.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
+https://slave03.appball.vip/hls/ateyNT--TlULO0_47yTMog/1766325249/trueballthai2.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
+https://slave05.appball.vip/hls/PCRvuGBoGqyw8tDbuGKMSA/1766325307/trueballthai3.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
+https://slave02.appball.vip/hls/ckP9MH0qPbSihn4H6aOnxQ/1766325328/trueballthai1.m3u8
+
 
 
 
