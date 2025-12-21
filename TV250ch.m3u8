@@ -540,6 +540,11 @@ https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png" group-title="Special sports",Hi Sport
 http://49.0.64.96:8007/HiSports
 
+#EXTINF:-1 tvg-id="FanDuelRacing.us@SD" tvg-logo="" group-title="Special sports",FanDuel Racing
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
+
+#EXTINF:-1 tvg-id="FanDuelTV.us@SD" tvg-logo="" group-title="Special sports",FanDuel TV 
+https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.africanbettingclan.com/media/kunena/attachments/796/A01099FA-C989-43B4-B25C-78FEC4C9F10C.jpeg" group-title="Special sports",Racing 240
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/111948
@@ -737,7 +742,7 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
 
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave04.appball.vip/hls/I_EgLcqcf4uX5rQbJhG3IQ/1766203881/golftv.m3u8
+https://slave05.appball.vip/hls/-XdWMQxtdwDrFdWOv-A4BQ/1766288467/golftv.m3u8
 
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
