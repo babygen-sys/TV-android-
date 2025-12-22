@@ -42,10 +42,6 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 #EXTINF:-1 tvg-id="ThairathTV32.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png" group-title="🇹🇭 THAILAND",Thairath TV
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
-#EXTINF:-1 tvg-id="ThairathTV32.th" group-title="🇹🇭 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png",Thairath TV 2
-https://p0.cdn.vet/live/ch39/i/ch39i.m3u8?sid=b5yZWMwNWVkZTg2MmRhYzgwMmVhMQNzgxMWZlMjkzNzgwNjg3
-
-
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png" group-title="🇹🇭 THAILAND",Thai PBS
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
@@ -53,17 +49,7 @@ https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV 
 https://ww.dooballfree.vip/live/pptv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV สำรอง
-https://p1.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yN2Q0YmU1NTE1ZTZhMTBmZjUzOAMWI5ZDFjODZkMTE1MzNi
 
-#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV สำรอง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://p1.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yN2Q0YmU1NTE1ZTZhMTBmZjUzOAMWI5ZDFjODZkMTE1MzNi
-
-#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV สำรอง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
-https://p1.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yN2Q0YmU1NTE1ZTZhMTBmZjUzOAMWI5ZDFjODZkMTE1MzNi
 
 
 
@@ -84,9 +70,7 @@ https://global-media.sooplive.com/live/workpoint/master.m3u8
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 
 #EXTINF:-1 tvg-id="TNN.th" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png" group-title="🇹🇭 THAILAND",TNN 16
-http://grande99826.cdngold.me:80/play/live.php?mac=00:1A:79:81:9C:05&stream=494474&extension=ts&play_token=hqw1IrwPP0
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776228&extension=ts&play_token=QH8PfjBP2G
-
 
 #EXTINF:-1 tvg-id="News1.th" tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png" group-title="🇹🇭 THAILAND",News 1
 https://server1.streamssl.com/stream/news1.m3u8
@@ -353,6 +337,54 @@ https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
 https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
 
 
+#EXTINF:-1 group-title="News ข่าว",BBC news
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",CNN 
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",CNN 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w951390649_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Fox Weather
+https://247wlive.foxweather.com/stream/index_1280x720.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Fox News
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",EuronNews
+https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+
+#EXTINF:-1 group-title="News ข่าว",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Global News
+http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+
+#EXTINF:-1 group-title="News ข่าว",BFM Business
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Bloomberg HT
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",CNBC World
+https://fl25.moveonjoy.com/CNBC/index.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",CNBC Europe HD 
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+
 
 
 
@@ -487,6 +519,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 http://tvmate.icu:8080/69NpyV/884735/11645
 
 
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/VNyKZNHJ/IMG-3062.png" group-title="Special sports",WWE
+http://fortv.cc:8080/0n8u9R/169324/11645
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1315px-WWE_Network_logo.svg.png" group-title="Special sports",WWE Channel
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://tvmate.icu:8080/69NpyV/884735/11645
@@ -500,8 +535,12 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 group-title="Special sports",MMA PFL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Special sports",UFC
+#EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://i.postimg.cc/X7yvj7SP/IMG-2153.webp" group-title="Special sports",UFC
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+
+#EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://i.postimg.cc/X7yvj7SP/IMG-2153.webp" group-title="Special sports",UFC
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Special sports",United Fight Alliance
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
@@ -512,9 +551,12 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/486.m3u8
 #EXTINF:-1 group-title="Special sports",HIFIGHT
 http://49.0.64.96:8007/HIFIGHT
 
-
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/yYhn4sBc/IMG-4381.png" group-title="Special sports",Top Fight
 http://49.0.64.96:8007/TOPFIGHT
+
+#EXTINF:-1 tvg-id="BareKnuckle.us" tvg-logo="https://i.postimg.cc/8kF13fSc/IMG-2577.png" group-title="Special sports",Bare Knuckle tv
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/486.m3u8
+
 
 
 
@@ -565,6 +607,14 @@ https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bbWhcdO.jpg" group-title="Special sports",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/rsWxqwrs/IMG-3472.png" group-title="Special sports",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/PfRN1hKX/IMG-3555.png" group-title="Special sports",4Sports
+https://pepsi.abntv.live/hls/4spstream.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0hBl6C.jpg" group-title="Special sports",FISHING TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
@@ -623,10 +673,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/308/437308-SNAPSHOT-l.png" group-title="Special sports", SPOTV 2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
-
-
-#EXTINF:-1 group-title="Special sports",4Sports
-https://pepsi.abntv.live/hls/4spstream.m3u8
 
 
 #EXTINF:-1 channel-id="65ea8b928145cb0008509426" tvg-id="65ea8b928145cb0008509426" tvg-chno="2831" tvg-name="UEFA Champions League" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/colorLogoPNG.png" group-title="Special sports", UEFA Champions League
@@ -712,16 +758,14 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 group-title="Special sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 9 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Special sports",Sportv1
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2525/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Special sports",Sportv2
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2526/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Special sports",Sportv3
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2527/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Special sports",Sportv4
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2528/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Special sports",Sportv5
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2529/index.m3u8
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/X7xLFvv7/IMG-3227.png" group-title="Special sports",Sport-tv 1
+http://fortv.cc:8080/0n8u9R/169324/167742
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/G2kdPyxJ/IMG-3119.png" group-title="Special sports",Sport-tv 2
+https://stream1.freetv.fun/sport-tv2-1.ctv
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/2jcXc594/IMG-3121.png" group-title="Special sports",Sport-tv 3
+http://fortv.cc:8080/0n8u9R/169324/167744
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/QtN0SLp4/IMG-3123.png" group-title="Special sports",Sport-tv 4
+https://stream1.freetv.fun/sport-tv4-1.ctv
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",Sony TEN 1 
@@ -746,16 +790,12 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98867
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
 
 
-
-
 #EXTINF:-1 group-title="Live Sport",Live Now 
 https://slave01.appball.vip/hls/knRTGMCys-h5HAaDx3hGeg/1766342692/vip.m3u8
 
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
 https://slave01.appball.vip/hls/XeEr_NLbPUGVEXa7hTy2qg/1766343111/bein1.m3u8
-
-
 
 
 
@@ -1316,25 +1356,30 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1,===Max Sports===
 https://de11.seetv.cc/6878/video.m3u8?token=BC28182177585B5
 
-#EXTINF:-1 group-title="Premium sports 1",Max Sport 1
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/nrBDVfPZ/IMG-3537.png" group-title="Premium sports 1",Max Sport 1
 https://de11.seetv.cc/6875/video.m3u8?token=BC28182177585B5
-#EXTINF:-1 group-title="Premium sports 1",Max Sport 2
-https://de11.seetv.cc/6876/video.m3u8?token=BC28182177585B5
-#EXTINF:-1 group-title="Premium sports 1",Max Sport 3
-https://de11.seetv.cc/6877/video.m3u8?token=BC28182177585B5
-#EXTINF:-1 group-title="Premium sports 1",Max Sport 4
-https://de11.seetv.cc/6878/video.m3u8?token=BC28182177585B5
 
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/W1n0Jjb1/IMG-3536.png" group-title="Premium sports 1",Max Sport 2
+https://de11.seetv.cc/6876/video.m3u8?token=BC28182177585B5
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/wBMRymGw/IMG-3538.png" group-title="Premium sports 1",Max Sport 3
+https://de11.seetv.cc/6877/video.m3u8?token=BC28182177585B5
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/SxNJ39km/IMG-3539.png" group-title="Premium sports 1",Max Sport 4
+https://de11.seetv.cc/6878/video.m3u8?token=BC28182177585B5
 
 #EXTINF:-1,===Diema Sports===
 https://de11.seetv.cc/6832/video.m3u8?token=BC28182177585B5
 
-#EXTINF:-1 group-title="Premium sports 1",Diema Sport 1
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/MKjRhH5h/IMG-3890.png" group-title="Premium sports 1",Diema Sport 1
 https://de11.seetv.cc/6830/video.m3u8?token=BC28182177585B5
-#EXTINF:-1 group-title="Premium sports 1",Diema Sport 2
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/FKGJjLFJ/IMG-3891.png" group-title="Premium sports 1",Diema Sport 2
 https://de11.seetv.cc/6831/video.m3u8?token=BC28182177585B5
-#EXTINF:-1 group-title="Premium sports 1",Diema Sport 3
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/CKvswtqt/IMG-3892.png" group-title="Premium sports 1",Diema Sport 3
 https://de11.seetv.cc/6832/video.m3u8?token=BC28182177585B5
+
 
 
 #EXTINF:-1,===Prima Sports===
@@ -1368,21 +1413,21 @@ https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
 
 
 
-
 #EXTINF:-1 ,===Polsat Sports===
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105533
 
-#EXTINF:-1 group-title="Premium sports 1",Polsat Sport 1
+#EXTINF:-1 tvg-id="sports.uk" tvg-logo="https://i.postimg.cc/ZR5JYVst/IMG-3346.png" group-title="Premium sports 1",Polsat Sport 1
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105530
 
-#EXTINF:-1 group-title="Premium sports 1",Polsat Sport 1
+#EXTINF:-1 tvg-id="sports.uk" tvg-logo="https://i.postimg.cc/ZR5JYVst/IMG-3346.png" group-title="Premium sports 1",Polsat Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=14838&extension=ts&play_token=rZ559zOlnw
 
-#EXTINF:-1 group-title="Premium sports 1",Polsat Sport 2
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/Yq8pmcgG/IMG-3348.png" group-title="Premium sports 1",Polsat Sport 2
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105533
 
-#EXTINF:-1 group-title="Premium sports 1",Polsat Sport 3
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/nz1ZZcSc/IMG-3361.png" group-title="Premium sports 1",Polsat Sport 3
 http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105531
 
 #EXTINF:-1 group-title="Premium sports 1",Polsat PREMIUM 2
@@ -1393,17 +1438,34 @@ http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=54165&extension=t
 
 
 
+
 #EXTINF:-1 ,===SPORT-TV===
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84671
 
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Premium sports 1",Sportv1
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2525/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/X7xLFvv7/IMG-3227.png" group-title="Premium sports 1",Sport-tv 1
+http://fortv.cc:8080/0n8u9R/169324/167742
+
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Premium sports 1",Sportv2
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2526/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/G2kdPyxJ/IMG-3119.png" group-title="Premium sports 1",Sport-tv 2
+https://stream1.freetv.fun/sport-tv2-1.ctv
+
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Premium sports 1",Sportv3
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2527/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/2jcXc594/IMG-3121.png" group-title="Premium sports 1",Sport-tv 3
+http://fortv.cc:8080/0n8u9R/169324/167744
+
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Premium sports 1",Sportv4
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2528/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/QtN0SLp4/IMG-3123.png" group-title="Premium sports 1",Sport-tv 4
+https://stream1.freetv.fun/sport-tv4-1.ctv
+
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Premium sports 1",Sportv5
 http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2529/index.m3u8
 
@@ -1854,66 +1916,9 @@ https://monomax-d1yqi0.cdn.byteark.com/fleetstream/ALURE/index.m3u8
 
 
 
-#EXTINF:-1,<=== NEWS ===>
-https://fl25.moveonjoy.com/CNBC/index.m3u8
-
-#EXTINF:-1 group-title="News ข่าว",BBC news
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
-
-#EXTINF:-1 group-title="News ข่าว",CNN 
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 group-title="News ข่าว",CNN 
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w951390649_b384000_sleng.m3u8
-
-#EXTINF:-1 group-title="News ข่าว",CBS News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-
-#EXTINF:-1 group-title="News ข่าว",Fox Weather
-https://247wlive.foxweather.com/stream/index_1280x720.m3u8
-
-#EXTINF:-1 group-title="News ข่าว",Fox News
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-
-#EXTINF:-1 group-title="News ข่าว",EuronNews
-https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
-
-#EXTINF:-1 group-title="News ข่าว",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-
-#EXTINF:-1 group-title="News ข่าว",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 group-title="News ข่าว",Global News
-http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-
-#EXTINF:-1 group-title="News ข่าว",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-
-#EXTINF:-1 group-title="News ข่าว",BFM Business
-https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
-
-#EXTINF:-1 group-title="News ข่าว",Bloomberg HT
-https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
-
-#EXTINF:-1 group-title="News ข่าว",CNBC World
-https://fl25.moveonjoy.com/CNBC/index.m3u8
-
-#EXTINF:-1 group-title="News ข่าว",CNBC Europe HD 
-https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-
-
-
-
-
 
 
 #EXTINF:-1 👑👑👑🍿🍿🍿####### Movie ########
-
-
 
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2025/12/Murder-in-Monaco-2025-%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%83%E0%B8%99%E0%B9%82%E0%B8%A1%E0%B8%99%E0%B8%B2%E0%B9%82%E0%B8%81-187x269.png" ,Murder in Monaco (2025) ฆาตกรรมในโมนาโก
