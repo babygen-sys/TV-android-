@@ -4,12 +4,12 @@
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 
-https://smt.go-iptv.ggff.net/smart.php?id=ch3_pat&token=Goiptv
 
-#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 สำรอง
+#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 
 https://ww.dooballfree.vip/live/ch3hd/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 สำรอง
+https://smt.go-iptv.ggff.net/smart.php?id=ch3_pat&token=Goiptv
 
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="🇹🇭 THAILAND",CH5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
@@ -31,10 +31,19 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/play
 https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NBT.th" tvg-logo="https://i.postimg.cc/5t2GfnJV/IMG-2405.png" group-title="🇹🇭 THAILAND",NBT 11 ภาคใต้
 https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Mono 29.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/29.png" group-title="🇹🇭 THAILAND",Mono 29 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 #EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="🇹🇭 THAILAND",MONO29 (หนังพากย์ไทย)
 https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 #EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="🇹🇭 THAILAND",MONO29 (หนัง Soundtrack บรรยายไทย)
 https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Amarin_TV_HD_34_Logo.svg/2560px-Amarin_TV_HD_34_Logo.svg.png" group-title="🇹🇭 THAILAND",Amarin TV
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
@@ -53,8 +62,13 @@ http://119.59.118.159/live/ch78/Mariogogo007/index.m3u8
 #EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/vBd6X2MR/IMG-4474.png" group-title="🇹🇭 THAILAND",TSport 7 สำรอง
 https://gmmztv.v2h-cdn.com/ffef/gmmz-tsport7.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="One31.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png" group-title="🇹🇭 THAILAND",ONE31
-https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+
+#EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="🇹🇭 THAILAND",TRUE4U
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 
 
 #EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png" group-title="🇹🇭 THAILAND",GMM25
@@ -783,7 +797,7 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
 
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave04.appball.vip/hls/WwJ4GbdQ9uXuuLooo17AsQ/1766590234/truesport7.m3u8
+https://slave04.appball.vip/hls/7LNzG3qdkhnRfGYryL55yA/1766784715/mono2.m3u8
 
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
@@ -937,16 +951,13 @@ https://ww.dooballfree.vip/live/tpf4/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave01.appball.vip/hls/66UK2TGOPRPG4yUzE4glRw/1766590126/trueballthai2.m3u8
+https://slave04.appball.vip/hls/7LNzG3qdkhnRfGYryL55yA/1766784715/mono2.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave02.appball.vip/hls/jm0shnGo-L7lF0De1uPaoQ/1766590193/trueballthai1.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave02.appball.vip/hls/RxQ084sx3bhMLOaDgdcJfw/1766590213/trueballthai3.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave04.appball.vip/hls/WwJ4GbdQ9uXuuLooo17AsQ/1766590234/truesport7.m3u8
 
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
@@ -982,7 +993,7 @@ http://119.59.118.159/live/ch18/Mariogogo007/index.m3u8
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/BvgLVYdF/IMG-2904.png" group-title="Live Sport",SPOTV สำรอง
 https://ww.dooballfree.vip/live/spotv/playlist.m3u8
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/BvgLVYdF/IMG-2904.png" group-title="Live Sport",SPOTV สำรอง
-http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:68:6F:86&stream=1919396&extension=ts&play_token=YaDvdeNN2v
+
 
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/8cHT19md/IMG-2906.png" group-title="Live Sport",SPOTV 2
 http://119.59.118.159/live/ch19/Mariogogo007/index.m3u8
