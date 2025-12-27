@@ -797,7 +797,6 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
 
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave04.appball.vip/hls/7LNzG3qdkhnRfGYryL55yA/1766784715/mono2.m3u8
 
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
@@ -945,20 +944,15 @@ https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Karabao Cup
 https://ealivefotex.com/monomax3/index.m3u8
+
 #EXTINF:-1 group-title="Live Sport",Football 4
 https://ww.dooballfree.vip/live/tpf4/playlist.m3u8
 
-
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave04.appball.vip/hls/7LNzG3qdkhnRfGYryL55yA/1766784715/mono2.m3u8
+#EXTINF:-1 group-title="Live Sport",Football 5
+https://ww.dooballfree.vip/live/tpf5/playlist.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
-
+http://79.127.138.223:443/47/tracks-v1a1/mono.ts.m3u8?token=31893cce33ca0ff10a5647114ba1547c
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
 
@@ -972,18 +966,15 @@ https://slave04.appball.vip/hls/7LNzG3qdkhnRfGYryL55yA/1766784715/mono2.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN2" tvg-logo="https://api.makeitso.online/images/png/epl-bein1.png" group-title="Live Sport",BEIN1
+#EXTINF:-1 group-title="Live Sport",Live Now 
 https://ww.dooballfree.vip/live/bein1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="401335" tvg-name="BEIN 2" tvg-logo="http://45.144.165.187:8080/images/1ec83c1091e624aa0bba2f458b7297d4.png" group-title="Live Sport",BEIN2
+#EXTINF:-1 group-title="Live Sport",Live Now 
 https://ww.dooballfree.vip/live/bein2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="3HD" tvg-logo="https://api.makeitso.online/images/png/epl-bein3.png" group-title=Live Sport"",BEIN3
+#EXTINF:-1 group-title="Live Sport",Live Now 
 https://ww.dooballfree.vip/live/bein3/playlist.m3u
+
 
 
 
