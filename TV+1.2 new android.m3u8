@@ -496,33 +496,21 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/z6b52PQW2vvq/2025/12/13/4/1/r13vrBZEea4U/media/hls/720p30/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Seagames",SEA Games live  1
-
-#EXTINF:-1 group-title="Seagames",SEA Games live  2
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cF8dPdc.jpg" group-title="Seagames",SPORTSTARS 2 (seagames 2025)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars4.jpg" group-title="Seagames",SPORTSTARS 4 (seagames 2025)
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars4.jpg" group-title="Seagames",SPORTSTARS 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 
-#EXTINF:-1 tvg-id="SS4" tvg-logo="https://i.imgur.com/qUYLcS8.png" group-title="Seagames",Sportstars 4 (seagames 2025)สำรอง
+#EXTINF:-1 tvg-id="SS4" tvg-logo="https://i.imgur.com/qUYLcS8.png" group-title="Seagames",Sportstars 4 สำรอง
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/index.m3u8
 
-#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Seagames",Arena1 (seagames 2025)
+#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Seagames",Arena 1
 http://66.90.99.154:8278/Arena/playlist.m3u8?tid=MB4B6468719464687194&ct=20361&tsum=148653608817408a9edaa77d5a6e8bff
 
-#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Seagames",Arena 2 (seagames 2025)
+#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Seagames",Arena 2
 http://66.90.99.154:8278/Arena2/playlist.m3u8?tid=MEAE5406066854060668&ct=20361&tsum=304cc27fa38b36bbc26ba830334cbbc4
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbg6RNClVzA9EouEpYVdndfdshwLFGphqLWg&s" group-title="Seagames",Sukan TV (seagames 2025)
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Okey_RTM.png/200px-Okey_RTM.png" group-title="Seagames",OKEY TV (seagames 2025)
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 
 
@@ -600,8 +588,6 @@ http://49.0.64.96:8007/HiSports
 #EXTINF:-1 tvg-id="FanDuelRacing.us@SD" tvg-logo="" group-title="Special sports",FanDuel Racing
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 
-#EXTINF:-1 tvg-id="FanDuelTV.us@SD" tvg-logo="" group-title="Special sports",FanDuel TV 
-https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.africanbettingclan.com/media/kunena/attachments/796/A01099FA-C989-43B4-B25C-78FEC4C9F10C.jpeg" group-title="Special sports",Racing 240
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/111948
@@ -623,9 +609,6 @@ https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bbWhcdO.jpg" group-title="Special sports",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/rsWxqwrs/IMG-3472.png" group-title="Special sports",TVRI Sport
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/PfRN1hKX/IMG-3555.png" group-title="Special sports",4Sports
 https://pepsi.abntv.live/hls/4spstream.m3u8
@@ -649,6 +632,10 @@ http://66.90.99.154:8278/go_badminton1/playlist.m3u8?tid=MC7C3275817832758178&ct
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports",BADMINTON 
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/rsWxqwrs/IMG-3472.png" group-title="Special sports",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
 
 #EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="https://api.makeitso.online/images/png/my-astro-epl2.png" group-title="Special sports",Astro EPL 3
 http://66.90.99.154:8278/go_assp3/playlist.m3u8?tid=MB3B1676208416762084&ct=20361&tsum=fa16fb18b448b79ae637d066bf01e3e3
@@ -797,11 +784,9 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
 
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave03.appball.vip/hls/buA4qHBxXthIPm1Liml_Yg/1766947076/vip.m3u8
 
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave05.appball.vip/hls/HUZmy82fGiViCtiZw7S5uA/1766947169/vip.m3u8
 
 
 
@@ -946,27 +931,22 @@ https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave02.appball.vip/hls/w-trC1dgHypbelPbXW0qDg/1766944139/vip.m3u8
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave01.appball.vip/hls/7Kgl_lc45lD5uTyov4dJGw/1766944250/mono4.m3u8
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave03.appball.vip/hls/W2rtrn9fdK1kOJizwsJxJw/1766944277/vip.m3u8
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave05.appball.vip/hls/2RS6yikrbIeEtSraXGjzfw/1766934109/trueballthai7.m3u8
-
-#EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave01.appball.vip/hls/oJ8gitgWkuQ2UYLG9mVD4g/1766944388/epl4.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
-https://slave02.appball.vip/hls/1EbXS6Kw-2Nv7fhtuNlOuw/1766937110/trueballthai9.m3u8
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
 
 
+#EXTINF:-1 group-title="Live Sport",Live Now 
+https://ealivefotex.com/monomax3/index.m3u8
 
+#EXTINF:-1 group-title="Live Sport",Live Now 
+http://45.144.165.187:8080/playid168/2535/22881
+
+#EXTINF:-1 group-title="Live Sport",Live Now 
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130724
 
 
 #EXTINF:-1 group-title="Live Sport",Live Now 
@@ -980,9 +960,7 @@ https://ww.dooballfree.vip/live/bein3/playlist.m3u
 
 
 
-
 #EXTINF:-1 group-title="Live Sport",Karabao Cup
-https://ealivefotex.com/monomax3/index.m3u8
 
 #EXTINF:-1 group-title="Live Sport",Football 4
 https://ww.dooballfree.vip/live/tpf4/playlist.m3u8
@@ -1208,10 +1186,8 @@ http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extens
 
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/wMj6cfct/IMG-3777.png" group-title="Premium sports 1",Hub Premier 1 
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
 
 #EXTINF:-1  tvg-name="Hub Premier 2 FHD" tvg-id="Hub.Premier.2.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-title="Premium sports 1",Hub Premier 2 
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148159
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/NfVgmxyM/IMG-3779.png" group-title="Premium sports 1",Hub Premier 3 
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148160
@@ -1243,15 +1219,14 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148168
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/ca-tsn1.png" group-title="Premium sports 1",TSN1
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/17181.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/ca-tsn2.png" group-title="Premium sports 1",TSN2
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/17180.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/ca-tsn3.png" group-title="Premium sports 1",TSN3
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/17179.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/ca-tsn4.png" group-title="Premium sports 1",TSN4
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/17178.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/ca-tsn5.png" group-title="Premium sports 1",TSN5
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/17177.m3u8
 
 
 
@@ -1278,16 +1253,14 @@ http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
 #EXTINF:-1,=== DAZN ===
 
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Premium sports 1",Dazn1
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2531/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Premium sports 1",Dazn2
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2532/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Premium sports 1",Dazn3
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2533/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Premium sports 1",Dazn4
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2534/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Premium sports 1",Dazn5
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2535/index.m3u8
 
 
 
@@ -1443,32 +1416,23 @@ http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=54165&extension=t
 #EXTINF:-1 ,===SPORT-TV===
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84671
 
-#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Premium sports 1",Sportv1
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2525/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/X7xLFvv7/IMG-3227.png" group-title="Premium sports 1",Sport-tv 1
 http://fortv.cc:8080/0n8u9R/169324/167742
 
-#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Premium sports 1",Sportv2
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2526/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/G2kdPyxJ/IMG-3119.png" group-title="Premium sports 1",Sport-tv 2
 https://stream1.freetv.fun/sport-tv2-1.ctv
 
-#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Premium sports 1",Sportv3
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2527/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/2jcXc594/IMG-3121.png" group-title="Premium sports 1",Sport-tv 3
 http://fortv.cc:8080/0n8u9R/169324/167744
 
-#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Premium sports 1",Sportv4
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2528/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/QtN0SLp4/IMG-3123.png" group-title="Premium sports 1",Sport-tv 4
 https://stream1.freetv.fun/sport-tv4-1.ctv
 
-#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Premium sports 1",Sportv5
-http://kuh5nj4q.rostelekom.xyz/iptv/V3BYBR9CA33TA6R7VFNLKV87/2529/index.m3u8
+
 
 
 
@@ -1631,15 +1595,20 @@ http://119.59.118.159/live/ch29/Mariogogo007/index.m3u8
 http://119.59.118.159/live/ch28/Mariogogo007/index.m3u8
 
 
+
 #EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="Entertainment บันเทิง", CINEMAX
-http://66.90.99.154:8278/cinemax_twn/playlist.m3u8?tid=MF6F9233154292331542&ct=20364&tsum=5d284b17751a98f990d7e213168b6c59
+http://45.144.165.187:8080/playid168/2535/78
 
 
 #EXTINF:-1 tvg-id="1205" tvg-name="AXN" tvg-logo="http://45.144.165.187:8080/images/8886b87cdfaacd2b90e4d37d25132840.png" group-title="Entertainment บันเทิง", AXN
+http://45.144.165.187:8080/playid168/2535/75
+
+
+#EXTINF:-1 tvg-id="1205" tvg-name="AXN" tvg-logo="http://45.144.165.187:8080/images/8886b87cdfaacd2b90e4d37d25132840.png" group-title="Entertainment บันเทิง", axn
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 
-#EXTINF:-1 tvg-id="1205" tvg-name="AXN" tvg-logo="http://45.144.165.187:8080/images/8886b87cdfaacd2b90e4d37d25132840.png" group-title="Entertainment บันเทิง", Axn
-http://66.90.99.154:8278/axn_twn/playlist.m3u8?tid=MF9F7433593774335937&ct=20364&tsum=6cf2072a4217107d60eacc0676df4ce8
+
+
 
 
 #EXTINF:-1 tvg-id="Fuck.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/k5KBRQVj/IMG-3102.png",Universal
