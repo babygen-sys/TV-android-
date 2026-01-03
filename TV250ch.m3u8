@@ -172,6 +172,10 @@ https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m
 #EXTINF:-1 tvg-id="Zee.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/BbcqTvHT/IMG-2990.png", Zee Nung
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
 
+#EXTINF:-1 group-title="Entertainment บันเทิง",18 movie 
+http://119.59.118.159/live/ch80/Mariogogo007/index.m3u8
+
+
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png" group-title="Entertainment บันเทิง",IZAAMOVIE
 http://49.0.64.96:8007/IZAA
 
