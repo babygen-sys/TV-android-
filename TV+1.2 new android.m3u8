@@ -995,6 +995,9 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:68:6F:86&stream=941567&exte
 
 
 #EXTINF:-1 group-title="Live Now !",Live 
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776161&extension=m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live 
 http://45.144.165.187:8080/playid168/2535/22881
 
 #EXTINF:-1 group-title="Live Now !",Live 
@@ -1251,6 +1254,54 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/
 #EXTINF:-1 group-title="Live Now !",Play8
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8
+
+
+#EXTINF:-1 ,>>>>>>  ช่องทดสอบระบบ  <<<<<<
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776280&extension=m3u8
+
+
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776280&extension=m3u8
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776281&extension=m3u8
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776282&extension=m3u8
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776283&extension=m3u8
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776284&extension=m3u8
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776285&extension=m3u8
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776286&extension=m3u8
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776287&extension=m3u8
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776288&extension=m3u8
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776289&extension=m3u8
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776290&extension=m3u8
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776291&extension=m3u8
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776292&extension=m3u8
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776293&extension=m3u8
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776294&extension=m3u8
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776295&extension=m3u8
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776296&extension=m3u8
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776297&extension=m3u8
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776298&extension=m3u8
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776299&extension=m3u8
+#EXTINF:-1 group-title="Live Now !",ทดสอบระบบ
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776300&extension=m3u8
 
 
 
@@ -1672,6 +1723,7 @@ http://119.59.118.159/live/ch28/Mariogogo007/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="Entertainment บันเทิง", CINEMAX
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776056&extension=m3u8
 http://45.144.165.187:8080/playid168/2535/78
 
 
@@ -1697,7 +1749,7 @@ http://49.0.64.96:8007/SERIES
 
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/YqvYk5Qp/IMG-3305.png", Warner TV
-http://dream4ktv.net:80/play/live.php?mac=00:1A:79:50:d7:43&stream=1776044&extension=ts&play_token=Ntwvb0G1jw
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776240&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png" group-title="Entertainment บันเทิง",FuckIDMovie
@@ -1705,7 +1757,7 @@ http://49.0.64.96:8007/PING
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment บันเทิง",Rock-action
-http://66.90.99.154:8278/Rockaction/playlist.m3u8?tid=MD2D5988342259883422&ct=20364&tsum=77792fd6bec4fe01a5be5a6156524b10
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776183&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="NBT.th" tvg-name="Rock Entertainment" tvg-logo="http://45.144.165.187:8080/images/db01895bfa444e1e1bfd521ef35d90d0.jpg" group-title="Entertainment บันเทิง",Rock-Entertainment
@@ -1772,7 +1824,17 @@ http://119.59.118.159/live/ch65/Mariogogo007/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CN.us" tvg-logo="https://i.postimg.cc/MZr3y7sp/IMG-2974.png" group-title="Cartoon การ์ตูน",Cartoon Network
-http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:68:6F:86&stream=30556&extension=ts&play_token=kdlMk470xR
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776026&extension=m3u8
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/0NMWJyk9/IMG-3451.webp" group-title="Cartoon การ์ตูน",Nick Jr.
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776242&extension=m3u8
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/0NMWJyk9/IMG-3451.webp" group-title="Cartoon การ์ตูน",Nick Jr.
+https://fl31.moveonjoy.com/NICK_JR/index.m3u8
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/0NMWJyk9/IMG-3451.webp" group-title="Cartoon การ์ตูน",Nickelodeon
+http://66.90.99.154:8278/Nickelodeon/playlist.m3u8?tid=MC4C5313507053135070&ct=20364&tsum=7ed5c516f7530f58ede76358ef563490
+
 
 #EXTINF:-1 tvg-id="Disney.us" tvg-logo="https://i.postimg.cc/L5pDYP1C/IMG-2139.png" group-title="Cartoon การ์ตูน",Disney Channel
 https://fl31.moveonjoy.com/DISNEY/index.m3u8
@@ -1782,12 +1844,6 @@ https://fl61.moveonjoy.com/DISNEY_JR/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.us" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/8e/Disney_XD_-_2015.svg.png" group-title="Cartoon การ์ตูน",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/0NMWJyk9/IMG-3451.webp" group-title="Cartoon การ์ตูน",Nick Jr.
-https://fl31.moveonjoy.com/NICK_JR/index.m3u8
-
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/0NMWJyk9/IMG-3451.webp" group-title="Cartoon การ์ตูน",Nickelodeon
-http://66.90.99.154:8278/Nickelodeon/playlist.m3u8?tid=MC4C5313507053135070&ct=20364&tsum=7ed5c516f7530f58ede76358ef563490
 
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/MGhQMRqs/IMG-3760.png" group-title="Cartoon การ์ตูน",TOM & JERRY
