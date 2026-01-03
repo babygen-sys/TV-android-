@@ -71,6 +71,11 @@ https://gmmztv.v2h-cdn.com/ffef/gmmz-tsport7.stream/playlist.m3u8
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 
 
+#EXTINF:-1 group-title="🇹🇭 THAILAND",ONE31 HD
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+
+
 #EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png" group-title="🇹🇭 THAILAND",GMM25
 https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/bdfd964c7fa447a8811f2a3c4ed3ef1c/playlist_ssaiM.m3u8
 
@@ -290,7 +295,7 @@ https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="Documentary สารคดี",PetClub TV2
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary สารคดี",Discovery Channel (US) 
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary สารคดี",Discovery Channel US
 https://tvpass.org/live/DiscoveryChannelEast/sd
 
 #EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary สารคดี",Discovery Channel
@@ -331,6 +336,7 @@ https://tvpass.org/live/NationalGeographicWildEast/sd
 
 
 
+
 <==== NEWS ====>
 
 #EXTINF:-1 group-title="News ข่าว",DW English
@@ -351,14 +357,13 @@ https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
 #EXTINF:-1 group-title="News ข่าว",BFM Business
 https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
 
-
 #EXTINF:-1 group-title="News ข่าว",BBC news
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
 
 #EXTINF:-1 group-title="News ข่าว",CNN 
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 group-title="News ข่าว",CNN 
+#EXTINF:-1 group-title="News ข่าว",CNN indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w951390649_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="News ข่าว",CBS News
@@ -377,25 +382,17 @@ https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
 #EXTINF:-1 group-title="News ข่าว",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-
 #EXTINF:-1 group-title="News ข่าว",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 group-title="News ข่าว",Global News
 http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
-#EXTINF:-1 group-title="News ข่าว",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-
 #EXTINF:-1 group-title="News ข่าว",BFM Business
 https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
 
 #EXTINF:-1 group-title="News ข่าว",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
-
-#EXTINF:-1 group-title="News ข่าว",CNBC World
-https://fl25.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 group-title="News ข่าว",CNBC Europe HD 
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
@@ -492,42 +489,17 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 
 
 
-#EXTINF:-1,▂ ▃ ▅ ▇ █ ▓ ▒ ░ SEAGAMES ░ ▒ ▓ █ ▇ ▅ ▃ ▂
-https://stream.kick.com/0f3cb0ebce7/ivs/v1/196233775518/z6b52PQW2vvq/2025/12/13/4/1/r13vrBZEea4U/media/hls/720p30/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cF8dPdc.jpg" group-title="Seagames",SPORTSTARS 2 (seagames 2025)
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
-
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars4.jpg" group-title="Seagames",SPORTSTARS 4 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
-
-#EXTINF:-1 tvg-id="SS4" tvg-logo="https://i.imgur.com/qUYLcS8.png" group-title="Seagames",Sportstars 4 สำรอง
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/index.m3u8
-
-#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Seagames",Arena 1
-http://66.90.99.154:8278/Arena/playlist.m3u8?tid=MB4B6468719464687194&ct=20361&tsum=148653608817408a9edaa77d5a6e8bff
-
-#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Seagames",Arena 2
-http://66.90.99.154:8278/Arena2/playlist.m3u8?tid=MEAE5406066854060668&ct=20361&tsum=304cc27fa38b36bbc26ba830334cbbc4
-
-
-
-
-
-
-
-#EXTINF:-1,<=== Boxing/Wrestling ===>
+#EXTINF:-1,🦾🦾🤼‍♂️🤼‍♂️ Boxing/Wrestling ====
 http://tvmate.icu:8080/69NpyV/884735/11645
 
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/VNyKZNHJ/IMG-3062.png" group-title="Special sports",WWE
 http://fortv.cc:8080/0n8u9R/169324/11645
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1315px-WWE_Network_logo.svg.png" group-title="Special sports",WWE Channel
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://tvmate.icu:8080/69NpyV/884735/11645
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/yYhn4sBc/IMG-4381.png" group-title="Special sports",Top Fight
+http://49.0.64.96:8007/TOPFIGHT
+
 
 #EXTINF:-1 group-title="Special sports",MMA Junkie
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
@@ -538,24 +510,15 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 group-title="Special sports",MMA PFL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://i.postimg.cc/X7yvj7SP/IMG-2153.webp" group-title="Special sports",UFC
-https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
 
 #EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://i.postimg.cc/X7yvj7SP/IMG-2153.webp" group-title="Special sports",UFC
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Special sports",United Fight Alliance
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 
-#EXTINF:-1 group-title="Special sports",Bare Knuckle tv
-https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/486.m3u8
-
 #EXTINF:-1 group-title="Special sports",HIFIGHT
 http://49.0.64.96:8007/HIFIGHT
-
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/yYhn4sBc/IMG-4381.png" group-title="Special sports",Top Fight
-http://49.0.64.96:8007/TOPFIGHT
 
 #EXTINF:-1 tvg-id="BareKnuckle.us" tvg-logo="https://i.postimg.cc/8kF13fSc/IMG-2577.png" group-title="Special sports",Bare Knuckle tv
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/486.m3u8
@@ -637,6 +600,22 @@ https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cF8dPdc.jpg" group-title="Special sports",SPORTSTARS 2 
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars4.jpg" group-title="Special sports",SPORTSTARS 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
+
+#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Special sports",Arena 1
+http://66.90.99.154:8278/Arena/playlist.m3u8?tid=MB4B6468719464687194&ct=20361&tsum=148653608817408a9edaa77d5a6e8bff
+
+#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Special sports",Arena 2
+http://66.90.99.154:8278/Arena2/playlist.m3u8?tid=MEAE5406066854060668&ct=20361&tsum=304cc27fa38b36bbc26ba830334cbbc4
+
+
+
+
 #EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="https://api.makeitso.online/images/png/my-astro-epl2.png" group-title="Special sports",Astro EPL 3
 http://66.90.99.154:8278/go_assp3/playlist.m3u8?tid=MB3B1676208416762084&ct=20361&tsum=fa16fb18b448b79ae637d066bf01e3e3
 
@@ -646,7 +625,77 @@ http://66.90.99.154:8278/go_assp3/playlist.m3u8?tid=MB9B4541992145419921&ct=2036
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstvtr.jpg" group-title="Special sports",SPORTS TV TURKEY
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.us" tvg-logo="https://i.postimg.cc/d14MK3D5/IMG-2486.png" group-title="Special sports",NBA
+
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA" group-title="Special sports",NBA TV USA
+https://tvpass.org/live/NBATV/sd
+
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" group-title="Special sports",NFL Network
+https://tvpass.org/live/NFLNetwork/sd
+
+#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone" group-title="Special sports",NFL RedZone
+https://tvpass.org/live/NFLRedZone/sd
+
+#EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA" group-title="Special sports",NHL Network USA
+https://tvpass.org/live/NHLNetwork/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana" group-title="Special sports",Fanduel Sports Indiana
+https://tvpass.org/live/fanduel-sports-indiana/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit" group-title="Special sports",Fanduel Sports Network Detroit
+https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida" group-title="Special sports",Fanduel Sports Network Florida
+https://tvpass.org/live/fanduel-sports-network-florida/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" tvg-name="Fanduel Sports Network Great Lakes" group-title="Special sports",Fanduel Sports Network Great Lakes
+https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-north" tvg-name="Fanduel Sports Network North" group-title="Special sports",Fanduel Sports Network North
+https://tvpass.org/live/fanduel-sports-network-north/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-ohio-cleveland" tvg-name="Fanduel Sports Network Ohio Cleveland" group-title="Special sports",Fanduel Sports Network Ohio Cleveland
+https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-oklahoma" tvg-name="Fanduel Sports Network Oklahoma" group-title="Special sports",Fanduel Sports Network Oklahoma
+https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-san-diego" tvg-name="Fanduel Sports Network San Diego" group-title="Special sports",Fanduel Sports Network San Diego
+https://tvpass.org/live/fanduel-sports-network-san-diego/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-socal" tvg-name="Fanduel Sports Network Socal" group-title="Special sports",Fanduel Sports Network Socal
+https://tvpass.org/live/fanduel-sports-network-socal/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-south-carolinas" tvg-name="Fanduel Sports Network South Carolinas" group-title="Special sports",Fanduel Sports Network South Carolinas
+https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee" group-title="Special sports",Fanduel Sports Network South Tennessee
+https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West" group-title="Special sports",Fanduel Sports Network West
+https://tvpass.org/live/fanduel-sports-network-west/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin" group-title="Special sports",Fanduel Sports Network Wisconsin
+https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-georgia" tvg-name="Fanduel Sports Southeast Georgia" group-title="Special sports",Fanduel Sports Southeast Georgia
+https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-north-carolina" tvg-name="Fanduel Sports Southeast North Carolina" group-title="Special sports",Fanduel Sports Southeast North Carolina
+https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-south-carolina" tvg-name="Fanduel Sports Southeast South Carolina" group-title="Special sports",Fanduel Sports Southeast South Carolina
+https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-name="Fanduel Sports Southeast Tennessee Nashville" group-title="Special sports",Fanduel Sports Southeast Tennessee Nashville
+https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd
+
+#EXTINF:-1 tvg-id="bally-sports-sun" tvg-name="Fanduel Sports Sun" group-title="Special sports",Fanduel Sports Sun
+https://tvpass.org/live/fanduel-sports-sun/sd
+
+#EXTINF:-1 tvg-id="fanduel-sports-tennessee-east" tvg-name="Fanduel Sports Tennessee East" group-title="Special sports",Fanduel Sports Tennessee East
+https://tvpass.org/live/fanduel-sports-tennessee-east/sd
+
+
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/jS28DWnB/IMG-3332.png" group-title="Special sports",Eurosport 1 
 http://145.239.5.177/529/index.m3u8
@@ -671,16 +720,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/308/437308-SNAPSHOT-l.png" group-title="Special sports", SPOTV 2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
-
 #EXTINF:-1 channel-id="65ea8b928145cb0008509426" tvg-id="65ea8b928145cb0008509426" tvg-chno="2831" tvg-name="UEFA Champions League" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/colorLogoPNG.png" group-title="Special sports", UEFA Champions League
 https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
-
-
-#EXTINF:-1 group-title="Special sports",Sky Sport Premier
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117203
-
-#EXTINF:-1  tvg-name="Sky Sport PL NZ" tvg-id="SKY.Sport.8.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-8-nz.png?raw=true" group-title="Special sports" radio="false",Sky Sport PL NZ
-https://a1xs.vip/700008
 
 #EXTINF:-1 group-title="Special sports",Setanta Sports 1 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
@@ -689,9 +730,6 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Sport_TV_2023.svg" group-title="Special sports", FSBL sports
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117221
 
-
-#EXTINF:-1 group-title="Special sports",ES: LIGA DE CAMPEONES SD
-http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165359.ts
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/7LNt84JR/IMG-3789.png" group-title="Special sports",SuperSport Premier League
 http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=138586&extension=m3u8
@@ -714,6 +752,8 @@ https://a1xs.vip/1100002
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/L43yTJ8f/IMG-4157.png" group-title="Special sports",Hub Premier 5
 
 
+#EXTINF:-1 group-title="Special sports",ES: LIGA DE CAMPEONES SD
+http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165359.ts
 
 #EXTINF:-1 group-title="Special sports",BEiN SPORT HABER HD
 #EXTVLCOPT:network-caching=1000
@@ -783,7 +823,7 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98867
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
 
 
-#EXTINF:-1 group-title="Live Sport",Live Now 
+#EXTINF:-1 group-title="Live Now !",Live Now 
 
 
-#EXTINF:-1 group-title="Live Sport",Live Now 
+#EXTINF:-1 group-title="Live Now !",Live Now 
