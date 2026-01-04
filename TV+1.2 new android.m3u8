@@ -1008,6 +1008,9 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:68:6F:86&stream=941567&exte
 https://ealivefotex.com/monomax3/index.m3u8
 
 #EXTINF:-1 group-title="Live Now !",Live 
+https://ealivefotex.com/maxsport5/index.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live 
 http://119.59.118.159/live/ch1/Mariogogo007/index.m3u8
 
 #EXTINF:-1 group-title="Live Now !",Live 
