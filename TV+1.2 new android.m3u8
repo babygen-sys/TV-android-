@@ -362,6 +362,7 @@ https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
 https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
 
 #EXTINF:-1 group-title="News ข่าว",BBC news
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000026/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
 
 #EXTINF:-1 group-title="News ข่าว",CNN 
@@ -594,18 +595,28 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa2
 #EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA" group-title="Special sports",Golf Channel USA
 https://tvpass.org/live/GolfChannel/sd
 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports",BADMINTON 
 http://66.90.99.154:8278/go_badminton1/playlist.m3u8?tid=MC7C3275817832758178&ct=20361&tsum=c722c3df5aaa869b7d796ef922796707
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports",BADMINTON 
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
 
+
+
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/rsWxqwrs/IMG-3472.png" group-title="Special sports",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars.jpg" group-title="Special sports",SPORTSTARS 
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000134/1024.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cF8dPdc.jpg" group-title="Special sports",SPORTSTARS 2 
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars3.jpg" group-title="Special sports",SPORTSTARS 3
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars4.jpg" group-title="Special sports",SPORTSTARS 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -804,11 +815,11 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/X7xLFvv7/IMG-3227.png" group-title="Special sports",Sport-tv 1
 http://fortv.cc:8080/0n8u9R/169324/167742
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/G2kdPyxJ/IMG-3119.png" group-title="Special sports",Sport-tv 2
-https://stream1.freetv.fun/sport-tv2-1.ctv
+http://fortv.cc:8080/0n8u9R/169324/167743
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/2jcXc594/IMG-3121.png" group-title="Special sports",Sport-tv 3
 http://fortv.cc:8080/0n8u9R/169324/167744
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/QtN0SLp4/IMG-3123.png" group-title="Special sports",Sport-tv 4
-https://stream1.freetv.fun/sport-tv4-1.ctv
+http://fortv.cc:8080/0n8u9R/169324/167745
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",Sony TEN 1 
@@ -834,20 +845,10 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
 
 
 #EXTINF:-1 group-title="Live Now !",Live Now 
-https://videox.appball.vip/hls/Itm1yD2zoo-C3Veq_QcuoQ/1767552284/mono2.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live Now 
-https://slave01.appball.vip/hls/eGIyEvKlKsp2ELT0Hvd1UA/1767552313/vip.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live Now 
-https://videox.appball.vip/hls/A2mENff00WpOFQwHX1ra2g/1767552335/mono5.m3u8
 
 
-#EXTINF:-1 group-title="Live Now !",Live Now 
-https://slave01.appball.vip/hls/JWqJRyY6JrEWmyf09kAbqw/1767552355/mono6.m3u8
 
-#EXTINF:-1 group-title="Live Now !",Live Now 
-https://slave05.appball.vip/hls/5YmsgOoPaPV3H9vNOIB6Fw/1767552380/vip.m3u8
+
 
 
 
@@ -861,7 +862,7 @@ http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/17081.m3u8
 
 #EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="Special sports",MUTV
 http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/53717
-https://ww.dooballfree.vip/live/mutv/playlist.m3u8
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/17081.m3u8
 
 #EXTINF:-1 tvg-id="Chelsea.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/768px-Chelsea_FC.svg.png" group-title="Special sports",CHELSEA TV
 
@@ -925,13 +926,13 @@ https://tvpass.org/live/NBATV/sd
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Zy6ODEg.png?v=1.0.0.1" group-title="Special sports",🏀 NBA TV 
-https://ww.dooballfree.vip/live/nba/playlist.m3u8
+http://49.0.64.96:8007/NBA
 
 
 #EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://i.postimg.cc/s2qD7bRx/IMG-2227.png" group-title="Special sports",MLB Network
 https://fl31.moveonjoy.com/MLB_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png" group-title="Special sports",MLB Network 
+#EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://i.postimg.cc/s2qD7bRx/IMG-2227.png" group-title="Special sports",MLB Network
 #EXTVLCOPT:network-caching=1000
 http://143.244.60.30/MLB_NETWORK/index.m3u8
 
@@ -940,11 +941,8 @@ http://143.244.60.30/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NFL.us" tvg-logo="https://i.postimg.cc/L8QYk7xP/IMG-2245.webp" group-title="Special sports",🏈 NFL 
 https://fl61.moveonjoy.com/NFL_NETWORK/index.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="https://dooballs.co/link.gif" group-title="Special sports",🏈 NFL 
+#EXTINF:-1 tvg-id="NFL.us" tvg-logo="https://i.postimg.cc/L8QYk7xP/IMG-2245.webp" group-title="Special sports",🏈 NFL 
 http://143.244.60.30/NFL_NETWORK/index.m3u8
-
-
 
 
 #EXTINF:-1 group-title="Special sports",🎾 Tennis TV
@@ -964,16 +962,6 @@ http://119.59.118.159/live/ch20/Mariogogo007/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117206
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Special sports",Asatro Grandstand
-http://66.90.99.154:8278/go_assp3/playlist.m3u8?tid=MB4B1248565612485656&ct=20364&tsum=494d53f2daeba57179732f790bbc6767
-
-#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Special sports",Arena
-http://66.90.99.154:8278/Arena/playlist.m3u8?tid=MB4B6468719464687194&ct=20361&tsum=148653608817408a9edaa77d5a6e8bff
-
-#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Special sports",Arena 2
-http://66.90.99.154:8278/Arena2/playlist.m3u8?tid=MEAE5406066854060668&ct=20361&tsum=304cc27fa38b36bbc26ba830334cbbc4
 
 #EXTINF:-1 tvg-id="Foxsports.us" tvg-logo="https://i.postimg.cc/zv9BSgXw/IMG-2104.png" group-title="Special sports",Fox Sports 1
 https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
