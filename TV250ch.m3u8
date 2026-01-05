@@ -6,10 +6,8 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 
-https://ww.dooballfree.vip/live/ch3hd/playlist.m3u8
+http://119.59.118.159/live/ch46/Mariogogo007/index.m3u8
 
-#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 สำรอง
-https://smt.go-iptv.ggff.net/smart.php?id=ch3_pat&token=Goiptv
 
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="🇹🇭 THAILAND",CH5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
@@ -653,62 +651,59 @@ https://tvpass.org/live/NFLRedZone/sd
 #EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA" group-title="Special sports",NHL Network USA
 https://tvpass.org/live/NHLNetwork/sd
 
-#EXTINF:-1 tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana" group-title="Special sports",Fanduel Sports Indiana
-https://tvpass.org/live/fanduel-sports-indiana/sd
 
-#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit" group-title="Special sports",Fanduel Sports Network Detroit
-https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
 
-#EXTINF:-1 tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida" group-title="Special sports",Fanduel Sports Network Florida
-https://tvpass.org/live/fanduel-sports-network-florida/sd
 
-#EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" tvg-name="Fanduel Sports Network Great Lakes" group-title="Special sports",Fanduel Sports Network Great Lakes
-https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
 
-#EXTINF:-1 tvg-id="fanduel-sports-network-north" tvg-name="Fanduel Sports Network North" group-title="Special sports",Fanduel Sports Network North
-https://tvpass.org/live/fanduel-sports-network-north/sd
+#EXTINF:-1 group-title="Special sports",ARENA SPORT 1 PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112126
 
-#EXTINF:-1 tvg-id="fanduel-sports-network-ohio-cleveland" tvg-name="Fanduel Sports Network Ohio Cleveland" group-title="Special sports",Fanduel Sports Network Ohio Cleveland
-https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd
+#EXTINF:-1 group-title="Special sports",ARENA SPORT 1 PREMIUM   (L2)
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112127
+#EXTINF:-1 group-title="Special sports",ARENA SPORT 2 PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112128
+#EXTINF:-1 group-title="Special sports",ARENA SPORT 2 PREMIUM   (L2)
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112129
+#EXTINF:-1 group-title="Special sports",ARENA SPORT 3 PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112130
+#EXTINF:-1 group-title="Special sports",ARENA SPORT 3 PREMIUM   (L2)
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112131
 
-#EXTINF:-1 tvg-id="fanduel-sports-network-oklahoma" tvg-name="Fanduel Sports Network Oklahoma" group-title="Special sports",Fanduel Sports Network Oklahoma
-https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
+#EXTINF:-1 group-title="Special sports",ARENA SPORT 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112132
+#EXTINF:-1 group-title="Special sports",ARENA SPORT 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112133
+#EXTINF:-1 group-title="Special sports",ARENA SPORT 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112134
+#EXTINF:-1 group-title="Special sports",ARENA SPORT 4 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112135
+#EXTINF:-1 group-title="Special sports",ARENA SPORT 5 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112136
+#EXTINF:-1 group-title="Special sports",ARENA SPORT 6 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112137
+#EXTINF:-1 group-title="Special sports",ARENA SPORT 7 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112138
+#EXTINF:-1 group-title="Special sports",ARENA SPORT 8 FHD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112139
+#EXTINF:-1 group-title="Special sports",ARENA SPORT  1x2 HD
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112140
 
-#EXTINF:-1 tvg-id="fanduel-sports-network-san-diego" tvg-name="Fanduel Sports Network San Diego" group-title="Special sports",Fanduel Sports Network San Diego
-https://tvpass.org/live/fanduel-sports-network-san-diego/sd
 
-#EXTINF:-1 tvg-id="fanduel-sports-network-socal" tvg-name="Fanduel Sports Network Socal" group-title="Special sports",Fanduel Sports Network Socal
-https://tvpass.org/live/fanduel-sports-network-socal/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-network-south-carolinas" tvg-name="Fanduel Sports Network South Carolinas" group-title="Special sports",Fanduel Sports Network South Carolinas
-https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee" group-title="Special sports",Fanduel Sports Network South Tennessee
-https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West" group-title="Special sports",Fanduel Sports Network West
-https://tvpass.org/live/fanduel-sports-network-west/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin" group-title="Special sports",Fanduel Sports Network Wisconsin
-https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-georgia" tvg-name="Fanduel Sports Southeast Georgia" group-title="Special sports",Fanduel Sports Southeast Georgia
-https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-north-carolina" tvg-name="Fanduel Sports Southeast North Carolina" group-title="Special sports",Fanduel Sports Southeast North Carolina
-https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-south-carolina" tvg-name="Fanduel Sports Southeast South Carolina" group-title="Special sports",Fanduel Sports Southeast South Carolina
-https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-name="Fanduel Sports Southeast Tennessee Nashville" group-title="Special sports",Fanduel Sports Southeast Tennessee Nashville
-https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd
-
-#EXTINF:-1 tvg-id="bally-sports-sun" tvg-name="Fanduel Sports Sun" group-title="Special sports",Fanduel Sports Sun
-https://tvpass.org/live/fanduel-sports-sun/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-tennessee-east" tvg-name="Fanduel Sports Tennessee East" group-title="Special sports",Fanduel Sports Tennessee East
-https://tvpass.org/live/fanduel-sports-tennessee-east/sd
 
 
 
