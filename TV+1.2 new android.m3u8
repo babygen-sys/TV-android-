@@ -620,20 +620,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 
-#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Special sports",Arena 1
-http://66.90.99.154:8278/Arena/playlist.m3u8?tid=MB4B6468719464687194&ct=20361&tsum=148653608817408a9edaa77d5a6e8bff
-
-#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="http://45.144.165.187:8080/images/410fa335b59ecb5fdb4313ee79a07897.png" group-title="Special sports",Arena 2
-http://66.90.99.154:8278/Arena2/playlist.m3u8?tid=MEAE5406066854060668&ct=20361&tsum=304cc27fa38b36bbc26ba830334cbbc4
-
-
-
-
-#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="https://api.makeitso.online/images/png/my-astro-epl2.png" group-title="Special sports",Astro EPL 3
-http://66.90.99.154:8278/go_assp3/playlist.m3u8?tid=MB3B1676208416762084&ct=20361&tsum=fa16fb18b448b79ae637d066bf01e3e3
-
-#EXTINF:-1 tvg-id="397397" tvg-name="Astro EPL 2" tvg-logo="https://api.makeitso.online/images/png/my-astro-epl3.png" group-title="Special sports",Astro EPL 3
-http://66.90.99.154:8278/go_assp3/playlist.m3u8?tid=MB9B4541992145419921&ct=20361&tsum=5da45c64568fe306aff937e521cee75a
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstvtr.jpg" group-title="Special sports",SPORTS TV TURKEY
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
@@ -880,6 +866,12 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882b
 
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/Sport.png"group-title="Special sports",W-SPORT 
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1052657
+
+
+
+#EXTINF:-1 cuid="1527" tvg-name="FORMULA 1 Channel" tvg-id="65c69ee3d77d450008c80438" tvg-logo="https://images.pluto.tv/channels/65c69ee3d77d450008c80438/colorLogoPNG.png"group-title="Special sports",FORMULA 1 Channel
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c69ee3d77d450008c80438/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
 
 #EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png" group-title="Special sports",🏁 F1
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117202
@@ -1357,6 +1349,47 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/
 
 #EXTINF:-1,👑👑👑<===Premium sports===>
 http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extension=ts&play_token=n1KBSwudMQ
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/Ch-AstroArena.jpg" group-title="Premium sports 1",Astro Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://link.zozotv.xyz:443/live/ZZA21216/zxe36880/154.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/Ch-AstroArena2.jpg" group-title="Premium sports 1",Astro Arena 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#https://link.zozotv.xyz:443/live/ZZA21216/zxe36880/400.ts
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/Ch-AstroArenaBola.jpg" group-title="Premium sports 1",Astro Arena Bola
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://link.zozotv.xyz:443/live/ZZA21216/zxe36880/791.ts
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/Ch-AstroArenaBola2.jpg" group-title="Premium sports 1",Astro Arena Bola 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://link.zozotv.xyz:443/live/ZZA21216/zxe36880/4557.ts
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/10/Ch-AstroPremierLeague.jpg" group-title="Premium sports 1",Astro Premier League 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://link.zozotv.xyz:443/live/ZZA21216/zxe36880/156.ts
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/10/Ch-AstroPremierLeague2.jpg" group-title="Premium sports 1",Astro Premier League 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://link.zozotv.xyz:443/live/ZZA21216/zxe36880/157.ts
+
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/10/Ch-AstroBadminton.jpg" group-title="Premium sports 1",Astro Badminton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://link.zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/10/Ch-AstroSportsPlus.jpg" group-title="Premium sports 1",Astro Sports Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://link.zozotv.xyz:443/live/ZZA21216/zxe36880/482.ts
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/10/Ch-AstroGrandstand.jpg" group-title="Premium sports 1",Astro Grandstand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://link.zozotv.xyz:443/live/ZZA21216/zxe36880/570.ts
+
+
+
 
 
 
