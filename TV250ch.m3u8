@@ -235,7 +235,6 @@ http://66.90.99.154:8278/TVN/playlist.m3u8?tid=MF9F7266326972663269&ct=20364&tsu
 
 <==== การ์ตูน ====>
 
-
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/zDCqL8v7/IMG-2635.png" group-title="Cartoon การ์ตูน",Boom
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 https://edge2a.v2h-cdn.com/boom-boom/boomerang.stream/chunklist_w294072949.m3u8
@@ -243,27 +242,24 @@ https://edge2a.v2h-cdn.com/boom-boom/boomerang.stream/chunklist_w294072949.m3u8
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/Wz7qzMTG/IMG-2061.png" group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Dreemworld
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
+
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/cn.jpg" group-title="Cartoon การ์ตูน",Cartoon Network 
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest_w209786680_qRFZS.mpd?encp=&uid=&expp=
-
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/cartoonito.jpg" group-title="Cartoon การ์ตูน",CARTOONITO
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
 
-
-
-
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nick Jr.
 https://fl41.moveonjoy.com/NICK_JR/index.m3u8
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-
-
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",NickToon
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
@@ -596,17 +592,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa2
 #EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA" group-title="Special sports",Golf Channel USA
 https://tvpass.org/live/GolfChannel/sd
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports",BADMINTON 
-http://66.90.99.154:8278/go_badminton1/playlist.m3u8?tid=MC7C3275817832758178&ct=20361&tsum=c722c3df5aaa869b7d796ef922796707
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports",BADMINTON 
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
-
-
-
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/rsWxqwrs/IMG-3472.png" group-title="Special sports",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
@@ -809,4 +796,4 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98867
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
 
 
-#EXTINF:-1 group-title="Live Now !",Live Now
+#EXTINF:-1 group-title="Live Now !",Live Now 
