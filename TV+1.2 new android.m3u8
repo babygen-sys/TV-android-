@@ -981,7 +981,65 @@ http://119.59.118.159/live/ch16/Mariogogo007/index.m3u8
 #EXTINF:-1 group-title="Live Now !",Live 
 http://119.59.118.159/live/ch17/Mariogogo007/index.m3u8
 
-=======================================================
+#EXTINF:-1,=====================================
+https://a1xs.vip/1100002
+
+
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ
+https://a1xs.vip/1100002
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 1 
+https://a1xs.vip/1100001
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 1 
+http://79.127.138.218:443/767/mpegts?token=71e80aa1e3858351e5cf768076069055
+
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 1
+https://a1xs.vip/1100041
+
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 2
+https://a1xs.vip/1100042
+
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 2
+http://79.127.138.223:443/47/tracks-v1a1/mono.ts.m3u8?token=31893cce33ca0ff10a5647114ba1547c
+
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 2
+http://79.127.138.223:443/47/tracks-v1a1/mono.ts.m3u8?token=31893cce33ca0ff10a5647114ba1547c
+
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 3
+https://a1xs.vip/1100043
+
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 4
+https://a1xs.vip/1100044
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 1
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130734
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 1 สำรอง
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776145&extension=m3u8
+
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 2
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130724
+
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 2 สำรอง
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130723
+
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 2 สำรอง
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776145&extension=m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/monomax3ch/index.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/monomax6ch/index.m3u8
+
+
+
+
 #EXTINF:-1,พรีเมี่ยร์ 1
 #EXTINF:-1 group-title="Live Now !",Live 
 http://119.59.118.159/live/ch1/Mariogogo007/index.m3u8
