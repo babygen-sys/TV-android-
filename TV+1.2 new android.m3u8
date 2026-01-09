@@ -54,7 +54,7 @@ https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV 
 http://119.59.118.159/live/ch48/Mariogogo007/index.m3u8
-https://ww.dooballfree.vip/live/pptv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV 
 https://ww.dooballfree.vip/live/pptv/playlist.m3u8
@@ -1025,15 +1025,10 @@ https://a1xs.vip/1100044
 #EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 1
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130734
 #EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 1 สำรอง
-#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 1 สำรอง
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776145&extension=m3u8
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776145&extension=m3u8
 
 #EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 2
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130724
-
-#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 2 สำรอง
-http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130723
 #EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 2 สำรอง
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130723
 
@@ -1046,39 +1041,44 @@ https://ealivefotex.com/monomax6ch/index.m3u8
 
 
 
+================================================
+
+
+
+
+#EXTINF:-1 group-title="Live Now !",Live 
+http://119.59.118.159/live/ch34/Mariogogo007/index.m3u8
 #EXTINF:-1,พรีเมี่ยร์ 1 Mariogogo007
 #EXTINF:-1 group-title="Live Now !",Live 
 http://119.59.118.159/live/ch1/Mariogogo007/index.m3u8
-http://119.59.118.159/live/ch31/Mariogogo007/index.m3u8
 
 #EXTINF:-1 group-title="Live Now !",Live 
 http://119.59.118.159/live/ch2/Mariogogo007/index.m3u8
-http://119.59.118.159/live/ch32/Mariogogo007/index.m3u8
-
 
 #EXTINF:-1 group-title="Live Now !",Live 
 http://119.59.118.159/live/ch3/Mariogogo007/index.m3u8
-http://119.59.118.159/live/ch33/Mariogogo007/index.m3u8
+
 
 #EXTINF:-1 group-title="Live Now !",Live 
-http://119.59.118.159/live/ch4/Mariogogo007/index.m3u8
-http://119.59.118.159/live/ch34/Mariogogo007/index.m3u8
+http://119.59.118.159/live/ch4/Mariogogo007/inde
 
 #EXTINF:-1 group-title="Live Now !",Live 
 http://119.59.118.159/live/ch5/Mariogogo007/index.m3u8
-http://119.59.118.159/live/ch35/Mariogogo007/index.m3u8
+
 
 #EXTINF:-1 group-title="Live Now !",Live 
 http://119.59.118.159/live/ch6/Mariogogo007/index.m3u8
-http://119.59.118.159/live/ch36/Mariogogo007/index.m3u8
+
 
 #EXTINF:-1 group-title="Live Now !",Live 
 http://119.59.118.159/live/ch7/Mariogogo007/index.m3u8
-http://119.59.118.159/live/ch37/Mariogogo007/index.m3u8
+
 
 #EXTINF:-1 group-title="Live Now !",Live 
 http://119.59.118.159/live/ch8/Mariogogo007/index.m3u8
-http://119.59.118.159/live/ch38/Mariogogo007/index.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Live Now !",================================================
 https://a1xs.vip/1100002
@@ -1115,6 +1115,85 @@ http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/418
 http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/371
 #EXTINF:-1 group-title="Live Now !",FR: CANAL+ FOOT
 http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/369
+
+
+
+
+================================================
+
+
+#EXTINF:-1 group-title="Live Now !",รักเมืองไทย 
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
+
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ww.dooballfree.vip/live/playsportsfootball1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ww.dooballfree.vip/live/playsportsfootball2/playlist.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ww.dooballfree.vip/live/playsportsfootball3/playlist.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ww.dooballfree.vip/live/playsportsfootball4/playlist.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ww.dooballfree.vip/live/playsportsfootball5/playlist.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ww.dooballfree.vip/live/playsportsfootball6/playlist.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ww.dooballfree.vip/live/playsportsfootball7/playlist.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ww.dooballfree.vip/live/playsportsfootball8/playlist.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ww.dooballfree.vip/live/playsportsfootball9/playlist.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ww.dooballfree.vip/live/playsportsfootbal20/playlist.m3u8
+
+
+=================================================
+
+#EXTINF:-1 group-title="Live Now !",รักเมืองไทย 2 สำรอง
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
+
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/AISBALLTHAI1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/AISBALLTHAI2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/AISBALLTHAI3/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/AISBALLTHAI4/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/AISBALLTHAI5/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/AISBALLTHAI6/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/AISBALLTHAI7/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/AISBALLTHAI8/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/AISBALLTHAI9/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/AISBALLTHAI10/tracks-v1a1/mono.ts.m3u8
+
+
 
 
 
@@ -1175,6 +1254,80 @@ http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130730
 
 #EXTINF:-1 group-title="Live Now !",เซิฟเวอร์ 2
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
+
+
+
+
+==================================================
+
+
+#EXTINF:-1 group-title="Live Now !",ไทย 2-2 ทดสอบ
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
+
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/AISBALLTHAI1/index.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/AISBALLTHAI2/index.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/AISBALLTHAI3/index.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/AISBALLTHAI4/index.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/AISBALLTHAI5/index.m3u8
+
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/AISBALLTHAI6/index.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/AISBALLTHAI7/index.m3u8
+
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/AISBALLTHAI8/index.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/AISBALLTHAI9/index.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Live
+https://ealivefotex.com/AISBALLTHAI10/index.m3u8
+
+
+
+=================================================
+
+#EXTINF:-1 group-title="Live Now !",ไทย 2-3 ทดสอบ
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
+
+
+#EXTINF:-1 group-title="Live Now !",Live 
+http://119.59.118.159/live/ch31/Mariogogo007/index.m3u8
+#EXTINF:-1 group-title="Live Now !",Live 
+http://119.59.118.159/live/ch32/Mariogogo007/index.m3u8
+#EXTINF:-1 group-title="Live Now !",Live 
+http://119.59.118.159/live/ch33/Mariogogo007/index.m3u8
+#EXTINF:-1 group-title="Live Now !",Live 
+http://119.59.118.159/live/ch34/Mariogogo007/index.m3u8
+#EXTINF:-1 group-title="Live Now !",Live 
+http://119.59.118.159/live/ch35/Mariogogo007/index.m3u8
+#EXTINF:-1 group-title="Live Now !",Live 
+http://119.59.118.159/live/ch36/Mariogogo007/index.m3u8
+#EXTINF:-1 group-title="Live Now !",Live 
+http://119.59.118.159/live/ch37/Mariogogo007/index.m3u8
+#EXTINF:-1 group-title="Live Now !",Live 
+http://119.59.118.159/live/ch38/Mariogogo007/index.m3u8
+
+
+
+=================================================
+
+
+
 
 
 #EXTINF:-1 group-title="Live Now !",Live 
@@ -1243,118 +1396,10 @@ http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776300&e
 
 
 
-#EXTINF:-1 group-title="Live Now !",เซิฟเวอร์ 2-1 ทดสอบ
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
 
 
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI1/tracks-v1a1/mono.ts.m3u8
+================================================
 
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI2/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI3/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI4/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI5/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI6/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI7/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI8/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI9/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI10/tracks-v1a1/mono.ts.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="Live Now !",เซิฟเวอร์ 2-2 ทดสอบ
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
-
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI1/index.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI2/index.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI3/index.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI4/index.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI5/index.m3u8
-
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI6/index.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI7/index.m3u8
-
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI8/index.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI9/index.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI10/index.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="Live Now !",เซิฟเวอร์ 2-3 ทดสอบ
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
-
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ww.dooballfree.vip/live/playsportsfootball1/playlist.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ww.dooballfree.vip/live/playsportsfootball2/playlist.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ww.dooballfree.vip/live/playsportsfootball3/playlist.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ww.dooballfree.vip/live/playsportsfootball4/playlist.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ww.dooballfree.vip/live/playsportsfootball5/playlist.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ww.dooballfree.vip/live/playsportsfootball6/playlist.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ww.dooballfree.vip/live/playsportsfootball7/playlist.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ww.dooballfree.vip/live/playsportsfootball8/playlist.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ww.dooballfree.vip/live/playsportsfootball9/playlist.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ww.dooballfree.vip/live/playsportsfootball10/playlist.m3u8
 
 
 
