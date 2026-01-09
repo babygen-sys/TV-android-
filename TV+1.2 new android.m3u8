@@ -874,8 +874,8 @@ http://sonymax.org:8080/krounbarnasfhj/U7Y1U48QCG/434512
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://static.wikia.nocookie.net/internationalbroadcasts/images/1/1b/Premier_League_logo.png" group-title="Special sports",PREMIER LEAGUE TV
 http://sonymax.org:8080/krounbarnasfhj/U7Y1U48QCG/505778
 
-#EXTINF:-1 tvg-id="USAnetwork.us" tvg-logo="https://i.postimg.cc/Wpqrjwwy/IMG-4330.png" group-title="Special sports",TNT Sports 1 (Event)
-
+#EXTINF:-1 group-title="Premium sports 1" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| ASTRO BADMINTON 
+http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1080432
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/onechampionship.png"tvg-id="OneChampionshipTv.id" ch-number="30" tvg-name="One Championship tv"group-title="Special sports",One Championship tv
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
