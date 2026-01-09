@@ -604,7 +604,8 @@ https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
 
 
 #EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA" group-title="Special sports",NBA TV USA
-https://tvpass.org/live/NBATV/sd
+http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/195
+
 
 #EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" group-title="Special sports",NFL Network
 https://tvpass.org/live/NFLNetwork/sd
@@ -904,7 +905,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Zy6ODEg.png?v=1.0.0.1" group-title="Special sports",🏀 NBA TV 
-https://tvpass.org/live/NBATV/sd
+http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/195
 
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Zy6ODEg.png?v=1.0.0.1" group-title="Special sports",🏀 NBA TV 
@@ -943,12 +944,18 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 http://119.59.118.159/live/ch25/Mariogogo007/index.m3u8
 
 
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/15jYD3rs/IMG-3595.png" group-title="Special sports",🏌️‍♂️Golf Channel
-http://119.59.118.159/live/ch20/Mariogogo007/index.m3u8
-
-#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA" group-title="Special sports",🏌️‍♂️Golf 2
+#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA" group-title="Special sports",🏌️‍♂️Sky sport Golf
 #EXTVLCOPT:network-caching=1000
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117206
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/15jYD3rs/IMG-3595.png" group-title="Special sports",🏌️‍♂️Golf Channel US
+http://177.234.230.206:8011/play/a0ih/index.m3u8
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/15jYD3rs/IMG-3595.png" group-title="Special sports",🏌️‍♂️Golf Channel TH
+https://ww.dooballfree.vip/live/golfchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/15jYD3rs/IMG-3595.png" group-title="Special sports",🏌️‍♂️Golf Channel TH สำรอง
+http://119.59.118.159/live/ch20/Mariogogo007/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Foxsports.us" tvg-logo="https://i.postimg.cc/zv9BSgXw/IMG-2104.png" group-title="Special sports",Fox Sports 1
@@ -1018,6 +1025,8 @@ https://a1xs.vip/1100044
 #EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 1
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130734
 #EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 1 สำรอง
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 1 สำรอง
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776145&extension=m3u8
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776145&extension=m3u8
 
 #EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 2
@@ -1025,9 +1034,9 @@ http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130724
 
 #EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 2 สำรอง
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130723
-
 #EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 2 สำรอง
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776145&extension=m3u8
+http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130723
+
 
 #EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 3
 https://ealivefotex.com/monomax3ch/index.m3u8
@@ -1100,63 +1109,12 @@ http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130730
 https://a1xs.vip/1100002
 
 
-
-
-#EXTINF:-1 group-title="Live Now !",PL: CANAL+ SPORT
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/876
-#EXTINF:-1 group-title="Live Now !",PL: CANAL+ SPORT 2
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/877
-#EXTINF:-1 group-title="Live Now !",PL: CANAL+ SPORT 3
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/878
-#EXTINF:-1 group-title="Live Now !",PL: CANAL+ SPORT 4
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/879
-#EXTINF:-1 group-title="Live Now !",PL: CANAL+ SPORT 5
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/889
-
 #EXTINF:-1 group-title="Live Now !",FR: CANAL+
 http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/418
 #EXTINF:-1 group-title="Live Now !",FR: CANAL+ SPORT
 http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/371
 #EXTINF:-1 group-title="Live Now !",FR: CANAL+ FOOT
 http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/369
-#EXTINF:-1 group-title="Live Now !",FR: CANAL+ LIVE 1
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/128997
-#EXTINF:-1 group-title="Live Now !",FR: CANAL+ LIVE 2
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/128998
-#EXTINF:-1 group-title="Live Now !",FR: CANAL+ LIVE 3
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/128999
-#EXTINF:-1 group-title="Live Now !",FR: CANAL+ LIVE 4
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129000
-#EXTINF:-1 group-title="Live Now !",FR: CANAL+ LIVE 5
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129001
-#EXTINF:-1 group-title="Live Now !",FR: CANAL+ LIVE 6
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129002
-#EXTINF:-1 group-title="Live Now !",FR: CANAL+ LIVE 7
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129003
-#EXTINF:-1 group-title="Live Now !",FR: CANAL+ LIVE 8
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129004
-#EXTINF:-1 group-title="Live Now !",FR: CANAL+ LIVE 9
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129005
-#EXTINF:-1 group-title="Live Now !",FR: CANAL+ LIVE 10
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129006
-#EXTINF:-1 group-title="Live Now !",FR: CANAL+ LIVE 11
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129007
-#EXTINF:-1 group-title="Live Now !",FR: CANAL+ LIVE 12
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129008
-#EXTINF:-1 group-title="Live Now !",FR: CANAL+ LIVE 13
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129009
-#EXTINF:-1 group-title="Live Now !",FR: CANAL+ LIVE 14
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129010
-#EXTINF:-1 group-title="Live Now !",FR: CANAL+ LIVE 15
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129011
-#EXTINF:-1 group-title="Live Now !",FR: CANAL+ LIVE 16
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129012
-#EXTINF:-1 group-title="Live Now !",FR: CANAL+ LIVE 17
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129013
-#EXTINF:-1 group-title="Live Now !",FR: CANAL+ LIVE 18
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129014
-#EXTINF:-1 group-title="Live Now !",FR: CANAL+ LIVE 19
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129015
 
 
 
@@ -2048,15 +2006,13 @@ http://103.114.203.129:8080/ott168/ott168/81
 
 
 #EXTINF:-1 tvg-id="HBO.th" tvg-name="HBO TH" tvg-logo="http://45.144.165.187:8080/images/02533372af53048a55cf973c53c4ce87.png" group-title="Entertainment บันเทิง", HBO 
-http://119.59.118.159/live/ch26/Mariogogo007/index.m3u8
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776094&extension=m3u8
-
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776086&extension=m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/RFGyFdqV/IMG-4186.png", HBO hits
-http://119.59.118.159/live/ch27/Mariogogo007/index.m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776088&extension=m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1024px-HBO_Family_Asia_logo.svg.png", HBO family
-http://119.59.118.159/live/ch29/Mariogogo007/index.m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776089&extension=m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/x85f9LV3/IMG-4185.png", HBO Signature 
 http://119.59.118.159/live/ch28/Mariogogo007/index.m3u8
@@ -2074,9 +2030,6 @@ http://45.144.165.187:8080/playid168/2535/75
 
 #EXTINF:-1 tvg-id="1205" tvg-name="AXN" tvg-logo="http://45.144.165.187:8080/images/8886b87cdfaacd2b90e4d37d25132840.png" group-title="Entertainment บันเทิง", axn
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
-
-
-
 
 
 #EXTINF:-1 tvg-id="Fuck.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/k5KBRQVj/IMG-3102.png",Universal
