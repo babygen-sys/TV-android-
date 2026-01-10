@@ -1271,10 +1271,10 @@ https://ealivefotex.com/AISBALLTHAI10/index.m3u8
 
 
 
-
-
 #EXTINF:-1 group-title="Live Now !",Football 3
 https://ww.dooballfree.vip/live/tpf3\playlist.m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776163&extension=m3u8
+
 #EXTINF:-1 group-title="Live Now !",Football 4
 https://ww.dooballfree.vip/live/tpf4/playlist.m3u8
 #EXTINF:-1 group-title="Live Now !",Football 5
@@ -2093,14 +2093,21 @@ http://119.59.118.159/live/ch55/Mariogogo007/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AsianHit" tvg-logo="http://45.144.165.187:8080/images/fdfcb751d560b7211e90e0a87159dd29.png" group-title="Entertainment บันเทิง",Asian Hit
 https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/index.m3u8
 
+
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/05dWqkcm/IMG-4087.png" group-title="Entertainment บันเทิง",True Thai Film
 http://119.59.118.159/live/ch60/Mariogogo007/index.m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776240&extension=m3u8
+
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/dQmt3Xjq/IMG-4243.png" group-title="Entertainment บันเทิง",True Asian More
 http://119.59.118.159/live/ch64/Mariogogo007/index.m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776170&extension=m3u8
+
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="Entertainment บันเทิง",True Film Asia
 http://119.59.118.159/live/ch61/Mariogogo007/index.m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776137&extension=m3u8
+
 
 #EXTINF:-1 tvg-id="CCM.cn" tvg-logo="https://i.postimg.cc/MGknscth/IMG-2909.png" group-title="Entertainment บันเทิง",Celestial Classic Movie
 http://119.59.118.159/live/ch62/Mariogogo007/index.m3u8
@@ -2130,9 +2137,13 @@ http://119.59.118.159/live/ch65/Mariogogo007/index.m3u8
 
 #EXTINF:-1 tvg-id="CN.us" tvg-logo="https://i.postimg.cc/MZr3y7sp/IMG-2974.png" group-title="Cartoon การ์ตูน",Cartoon Network
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776230&extension=m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776242&extension=m3u8
+
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/0NMWJyk9/IMG-3451.webp" group-title="Cartoon การ์ตูน",Nick Jr.
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776122&extension=m3u8
 https://fl31.moveonjoy.com/NICK_JR/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Disney.us" tvg-logo="https://i.postimg.cc/L5pDYP1C/IMG-2139.png" group-title="Cartoon การ์ตูน",Disney Channel
 https://fl31.moveonjoy.com/DISNEY/index.m3u8
@@ -2239,6 +2250,7 @@ http://119.59.118.159/live/ch50/xxccxgd134/index.m3u8
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/qBC8sLmT/IMG-4533.png" group-title="Documentary สารคดี",True X-Zyte
 http://119.59.118.159/live/ch66/Mariogogo007/index.m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776247&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="True Explore Wild" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="Documentary สารคดี",Explore Wild
