@@ -54,7 +54,7 @@ https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV 
 http://119.59.118.159/live/ch48/Mariogogo007/index.m3u8
-https://ww.dooballfree.vip/live/pptv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV 
 https://ww.dooballfree.vip/live/pptv/playlist.m3u8
@@ -498,8 +498,7 @@ http://tvmate.icu:8080/69NpyV/884735/11645
 
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/VNyKZNHJ/IMG-3062.png" group-title="Special sports",WWE
-http://fortv.cc:8080/0n8u9R/169324/11645
-
+https://a1xs.vip/1100020
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/yYhn4sBc/IMG-4381.png" group-title="Special sports",Top Fight
 http://49.0.64.96:8007/TOPFIGHT
@@ -546,8 +545,12 @@ http://66.90.99.154:8278/tiankongf1/playlist.m3u8?tid=MFFF3610076936100769&ct=20
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 
+#EXTINF:-1 group-title="Special sports",RMC SPORT 1
+http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/154
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/StrongmanChampions.png" group-title="Special sports",Strongman Champions League
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
+
 
 #EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png" group-title="Special sports",Hi Sport
 http://49.0.64.96:8007/HiSports
@@ -577,10 +580,6 @@ https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/PfRN1hKX/IMG-3555.png" group-title="Special sports",4Sports
-https://pepsi.abntv.live/hls/4spstream.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0hBl6C.jpg" group-title="Special sports",FISHING TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
 
@@ -599,7 +598,13 @@ https://tvpass.org/live/GolfChannel/sd
 http://177.234.230.206:8011/play/a0ih/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports",BADMINTON 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports",BADMINTON ASTRO 
+http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1080432
+
+#EXTINF:-1 group-title="Special sports",BADMINTON star sport 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98867
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports",BADMINTON (K)
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
 
 
@@ -625,7 +630,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars.jpg" group-title="Special sports",SPORTSTARS 
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000134/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cF8dPdc.jpg" group-title="Special sports",SPORTSTARS 2 
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars2.jpg" group-title="Special sports",SPORTSTARS 2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars3.jpg" group-title="Special sports",SPORTSTARS 3
@@ -669,9 +674,6 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112140
 
 
-
-
-
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/jS28DWnB/IMG-3332.png" group-title="Special sports",Eurosport 1 
 http://145.239.5.177/529/index.m3u8
  
@@ -696,40 +698,37 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 
-
-
-#EXTINF:-1 channel-id="65ea8b928145cb0008509426" tvg-id="65ea8b928145cb0008509426" tvg-chno="2831" tvg-name="UEFA Champions League" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/colorLogoPNG.png" group-title="Special sports", UEFA Champions League
-https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Sport_TV_2023.svg" group-title="Special sports", FSBL sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Sport_TV_2023.svg" group-title="Special sports",SPORTDIGITAL EDGE 
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117221
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117222
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Sport_TV_2023.svg" group-title="Special sports",SPORTDIGITAL FSBL
+http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/431
+
+
+
 
 #EXTINF:-1 group-title="Special sports",Peacock Premier League TV
 https://a1xs.vip/1100021
 
-
 #EXTINF:-1 group-title="Special sports",SPORTITALIA
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/1101
-#EXTINF:-1 group-title="Special sports",SPORTDIGITAL
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/431
-#EXTINF:-1 group-title="Special sports",4 SPORTS
+
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/PfRN1hKX/IMG-3555.png" group-title="Special sports",4 Sports
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/1073
+https://pepsi.abntv.live/hls/4spstream.m3u8
+
+
 #EXTINF:-1 group-title="Special sports",TRT SPORT
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/991
 #EXTINF:-1 group-title="Special sports",CANAL+ SPORT
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/127
 #EXTINF:-1 group-title="Special sports",CANAL 11
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/135
-#EXTINF:-1 group-title="Special sports",RMC SPORT 1
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/154
 
 
 #EXTINF:-1 group-title="Special sports",Setanta Sports 1 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-
-
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/7LNt84JR/IMG-3789.png" group-title="Special sports",SuperSport Premier League
-http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=138586&extension=m3u8
 
 #EXTINF:-1  tvg-name="Now Sports PL 1 FHD" tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-hk.png?raw=true" group-title="Special sports" radio="false",Now Sports PL 1 FHD
 https://a1xs.vip/1100001
