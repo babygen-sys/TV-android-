@@ -970,6 +970,11 @@ https://fl7.moveonjoy.com/FOX_SPORTS_2/index.m3u8
 #EXTINF:-1,▂ ▃ ▅ ▇ █ ▓ ▒ ░ Live-NOW! ░ ▒ ▓ █ ▇ ▅ ▃ ▂
 https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
 
+#EXTINF:-1 group-title="Live Now !",NFL
+
+https://slave03.appball.vip/hls/1zo64zjtzQP0iFJXYqnlAg/1768206343/ch11.m3u8
+
+
 #EXTINF:-1 group-title="Live Now !",ต่างประเทศ
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
 
@@ -2048,20 +2053,11 @@ http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776089&exte
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/x85f9LV3/IMG-4185.png", HBO Signature 
 http://119.59.118.159/live/ch28/Mariogogo007/index.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="Entertainment บันเทิง", CINEMAX
-http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776056&extension=m3u8
-http://45.144.165.187:8080/playid168/2535/78
-
+http://49.0.64.96:8007/CINEMAX
 
 #EXTINF:-1 tvg-id="1205" tvg-name="AXN" tvg-logo="http://45.144.165.187:8080/images/8886b87cdfaacd2b90e4d37d25132840.png" group-title="Entertainment บันเทิง", AXN
-http://45.144.165.187:8080/playid168/2535/75
-
-
-#EXTINF:-1 tvg-id="1205" tvg-name="AXN" tvg-logo="http://45.144.165.187:8080/images/8886b87cdfaacd2b90e4d37d25132840.png" group-title="Entertainment บันเทิง", axn
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
-
 
 #EXTINF:-1 tvg-id="Fuck.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/k5KBRQVj/IMG-3102.png",Universal
 http://49.0.64.96:8007/H-Channel
