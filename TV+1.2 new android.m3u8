@@ -714,6 +714,20 @@ http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/991
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/127
 
 
+
+
+#EXTINF:0 tvg-rec="0",Setanta Sports+ HD UA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/31757/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Setanta Sports+ UA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/31756/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Setanta Sports UA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/31754/index.m3u8
+
 #EXTINF:-1 group-title="Special sports",Setanta Sports 1 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
@@ -823,12 +837,12 @@ https://starsportshindiii.pages.dev/index.m3u8
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
 
 
-#EXTINF:-1 group-title="Live Now !",LIVE !
-https://youtu.be/SI27aQ8DWrI
 
 #EXTINF:-1 group-title="Live Now !",LIVE !
-https://slave03.appball.vip/hls/HreqV_auamZTovdYsOJQxw/1768317320/ch11.m3u8
+https://ealivefotex.com/monomax3ch/index.m3u8
 
+#EXTINF:-1 group-title="Live Now !",LIVE !
+https://ealivefotex.com/maxsport3/index.m3u8
 
 #EXTINF:-1 group-title="Live Now !",LIVE !
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115463
@@ -988,10 +1002,6 @@ https://fl7.moveonjoy.com/FOX_SPORTS_2/index.m3u8
 
 #EXTINF:-1,▂ ▃ ▅ ▇ █ ▓ ▒ ░ Live-NOW! ░ ▒ ▓ █ ▇ ▅ ▃ ▂
 https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Live Now !",LIVE !
-https://slave03.appball.vip/hls/W0iuY8sDxH1ePc4Ux8N2qA/1768281426/ch11.m3u8
 
 
 
@@ -1814,28 +1824,29 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 https://de11.seetv.cc/6878/video.m3u8?token=BC28182177585B5
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/nrBDVfPZ/IMG-3537.png" group-title="Premium sports 1",Max Sport 1
-https://de11.seetv.cc/6875/video.m3u8?token=BC28182177585B5
+http://85.11.144.9:50999/6
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/W1n0Jjb1/IMG-3536.png" group-title="Premium sports 1",Max Sport 2
-https://de11.seetv.cc/6876/video.m3u8?token=BC28182177585B5
+http:\\85.11.144.9:50999\7
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/wBMRymGw/IMG-3538.png" group-title="Premium sports 1",Max Sport 3
-https://de11.seetv.cc/6877/video.m3u8?token=BC28182177585B5
+http:\\85.11.144.9:50999\8
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/SxNJ39km/IMG-3539.png" group-title="Premium sports 1",Max Sport 4
-https://de11.seetv.cc/6878/video.m3u8?token=BC28182177585B5
+http:\\85.11.144.9:50999\9
+
 
 #EXTINF:-1,===Diema Sports===
 https://de11.seetv.cc/6832/video.m3u8?token=BC28182177585B5
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/MKjRhH5h/IMG-3890.png" group-title="Premium sports 1",Diema Sport 1
-https://de11.seetv.cc/6830/video.m3u8?token=BC28182177585B5
+http://85.11.144.9:50999/1
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/FKGJjLFJ/IMG-3891.png" group-title="Premium sports 1",Diema Sport 2
-https://de11.seetv.cc/6831/video.m3u8?token=BC28182177585B5
+http:\\85.11.144.9:50999\2
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/CKvswtqt/IMG-3892.png" group-title="Premium sports 1",Diema Sport 3
-https://de11.seetv.cc/6832/video.m3u8?token=BC28182177585B5
+http:\\85.11.144.9:50999\3
 
 
 
