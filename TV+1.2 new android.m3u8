@@ -821,13 +821,14 @@ https://starsportshindiii.pages.dev/index.m3u8
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
 
 
-#EXTINF:-1 group-title="Live Now !",Live Now 
+#EXTINF:-1 group-title="Live Now !",LIVE !
+http://85.11.144.9:50999/9
 
 
 
 
 
-
+================================================
 
 
 #EXTINF:-1 ,👑👑👑⚽🏁🏈🎾🏌️‍♂️Special sports 2===>
@@ -970,9 +971,10 @@ https://fl7.moveonjoy.com/FOX_SPORTS_2/index.m3u8
 #EXTINF:-1,▂ ▃ ▅ ▇ █ ▓ ▒ ░ Live-NOW! ░ ▒ ▓ █ ▇ ▅ ▃ ▂
 https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Now !",NFL
 
-https://slave03.appball.vip/hls/1zo64zjtzQP0iFJXYqnlAg/1768206343/ch11.m3u8
+#EXTINF:-1 group-title="Live Now !",LIVE !
+https://slave03.appball.vip/hls/W0iuY8sDxH1ePc4Ux8N2qA/1768281426/ch11.m3u8
+
 
 
 #EXTINF:-1 group-title="Live Now !",ต่างประเทศ
@@ -2051,7 +2053,8 @@ http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776088&exte
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776089&extension=m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/x85f9LV3/IMG-4185.png", HBO Signature 
-http://119.59.118.159/live/ch28/Mariogogo007/index.m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776092&extension=m3u8
+
 
 #EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="Entertainment บันเทิง", CINEMAX
 http://49.0.64.96:8007/CINEMAX
