@@ -583,9 +583,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ee
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iIh6Tkb.jpg" group-title="Special sports",PGA TOUR
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA" group-title="Special sports",Golf Channel USA
 https://tvpass.org/live/GolfChannel/sd
 
@@ -594,15 +591,13 @@ https://tvpass.org/live/GolfChannel/sd
 http://177.234.230.206:8011/play/a0ih/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports",BADMINTON ASTRO 
+#EXTINF:-1 tvg-id=" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/10/Ch-AstroBadminton.jpg" group-title="Premium sports 1",MY| Astro Badminton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://link.zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/10/Ch-AstroBadminton.jpg" ,MY| ASTRO BADMINTON 2
 http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1080432
 
-#EXTINF:-1 group-title="Special sports",BADMINTON star sport 
-https://starsportshindiii.pages.dev/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qOH3x4Q.jpg" group-title="Special sports",BADMINTON (K)
-https://zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
 
 
 #EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA" group-title="Special sports",NBA TV USA
@@ -611,9 +606,6 @@ http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/195
 
 #EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" group-title="Special sports",NFL Network
 https://tvpass.org/live/NFLNetwork/sd
-
-#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone" group-title="Special sports",NFL RedZone
-https://tvpass.org/live/NFLRedZone/sd
 
 #EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA" group-title="Special sports",NHL Network USA
 https://tvpass.org/live/NHLNetwork/sd
@@ -697,10 +689,9 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Sport_TV_2023.svg" group-title="Special sports",SPORTDIGITAL EDGE 
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117221
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117222
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Sport_TV_2023.svg" group-title="Special sports",SPORTDIGITAL FSBL
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/431
-
 
 
 
@@ -724,8 +715,19 @@ http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/127
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/135
 
 
+
+#EXTINF:-1 group-title="Special sports"tvg-rec="0",Setanta Sports+ HD UA
+http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/31757/index.m3u8
+
+#EXTINF:-1 group-title="Special sports"tvg-rec="0",Setanta Sports+ UA
+http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/31756/index.m3u8
+
+#EXTINF:-1 group-title="Special sports"tvg-rec="0",Setanta Sports UA
+http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/31754/index.m3u8
+
 #EXTINF:-1 group-title="Special sports",Setanta Sports 1 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+
 
 #EXTINF:-1  tvg-name="Now Sports PL 1 FHD" tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-hk.png?raw=true" group-title="Special sports" radio="false",Now Sports PL 1 FHD
 https://a1xs.vip/1100001
@@ -915,15 +917,15 @@ http://49.0.64.96:8007/NBA
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Zy6ODEg.png?v=1.0.0.1" group-title="Special sports",🏀 NBA TV 
 https://ww.dooballfree.vip/live/nba/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="NFL.us" tvg-logo="https://i.postimg.cc/L8QYk7xP/IMG-2245.webp" group-title="Special sports",🏈 NFL 
+http://143.244.60.30/NFL_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="NFL.us" tvg-logo="https://i.postimg.cc/L8QYk7xP/IMG-2245.webp" group-title="Special sports",🏈 NFL
 https://ww.dooballfree.vip/live/nfl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NFL.us" tvg-logo="https://i.postimg.cc/L8QYk7xP/IMG-2245.webp" group-title="Special sports",🏈 NFL 
 https://fl61.moveonjoy.com/NFL_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="NFL.us" tvg-logo="https://i.postimg.cc/L8QYk7xP/IMG-2245.webp" group-title="Special sports",🏈 NFL 
-http://143.244.60.30/NFL_NETWORK/index.m3u8
-
 
 #EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://i.postimg.cc/s2qD7bRx/IMG-2227.png" group-title="Special sports",MLB Network
 https://ww.dooballfree.vip/live/mlb/playlist.m3u8
@@ -935,14 +937,15 @@ https://fl31.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://143.244.60.30/MLB_NETWORK/index.m3u8
 
+
 #EXTINF:-1 group-title="Special sports",🎾 Tennis TV
 http://49.0.64.96:8007/TENNIS
 
 #EXTINF:-1 group-title="Special sports",🎾Tennis Channel 
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/rm8Snz6D/IMG-3614.png" group-title="Special sports",🎾True Tennis
-http://119.59.118.159/live/ch25/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/rm8Snz6D/IMG-3614.png" group-title="Special sports",🎾Tennis
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776208&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA" group-title="Special sports",🏌️‍♂️Sky sport Golf
@@ -984,8 +987,8 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 group-title="Live Now !",บีอิน 1 
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111898
 #EXTINF:-1 group-title="Live Now !",บีอิน 2
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111901
-#EXTINF:-1 group-title="Live Now !",บีอิน3
+http://5.252.33.34:88/live/559684668698871/559684668698871/5196.m3u8
+#EXTINF:-1 group-title="Live Now !",บีอิน 3
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111903
 
 
@@ -997,16 +1000,18 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000134/1024.m3u8
 https://raw.githubusercontent.com/quuen2024/EmyLie/refs/heads/queen/Voli.m3u8
 
 #EXTINF:-1 group-title="Live Now !",Volleyball 2
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Volleyball 3 
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Volleyball 4
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130730
 
-#EXTINF:-1 group-title="Live Now !",Volleyball 5
+#EXTINF:-1 group-title="Live Now !",Volleyball 3
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776162&extension=m3u8
+
+
+#EXTINF:-1 group-title="Live Now !",Volleyball 4
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Volleyball 5 
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
+
 
 #EXTINF:-1 group-title="Live Now !",Volleyball 6
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000134/1024.m3u8
@@ -1014,49 +1019,49 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000134/1024.m3u8
 #EXTINF:-1,=====================================
 https://a1xs.vip/1100002
 
-#EXTINF:-1 group-title="Live Now !",อังกฤษ
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ
 https://a1xs.vip/1100002
-#EXTINF:-1 group-title="Live Now !",อังกฤษ 1 
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 1 
 https://a1xs.vip/1100001
-#EXTINF:-1 group-title="Live Now !",อังกฤษ 1 
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 1 
 http://79.127.138.218:443/767/mpegts?token=71e80aa1e3858351e5cf768076069055
 
-#EXTINF:-1 group-title="Live Now !",อังกฤษ 1
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 1
 https://a1xs.vip/1100041
 
-#EXTINF:-1 group-title="Live Now !",อังกฤษ 2
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 2
 https://a1xs.vip/1100042
 
-#EXTINF:-1 group-title="Live Now !",อังกฤษ 2
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 2
 http://79.127.138.223:443/47/tracks-v1a1/mono.ts.m3u8?token=31893cce33ca0ff10a5647114ba1547c
 
-#EXTINF:-1 group-title="Live Now !",อังกฤษ 2
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 2
 http://79.127.138.223:443/47/tracks-v1a1/mono.ts.m3u8?token=31893cce33ca0ff10a5647114ba1547c
 
-#EXTINF:-1 group-title="Live Now !",อังกฤษ 3
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 3
 https://a1xs.vip/1100043
 
-#EXTINF:-1 group-title="Live Now !",อังกฤษ 4
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 4
 https://a1xs.vip/1100044
 
 
 
 
 
-#EXTINF:-1 group-title="Live Now !",อังกฤษ 1
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 1
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130734
-#EXTINF:-1 group-title="Live Now !",อังกฤษ 1 
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 1 
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776145&extension=m3u8
 
-#EXTINF:-1 group-title="Live Now !",อังกฤษ 2
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 2
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130724
-#EXTINF:-1 group-title="Live Now !",อังกฤษ 2 
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 2 
 http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130723
 
-#EXTINF:-1 group-title="Live Now !",อังกฤษ 3
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 3
 https://ealivefotex.com/monomax3ch/index.m3u8
 
-#EXTINF:-1 group-title="Live Now !",อังกฤษ 6
+#EXTINF:-1 group-title="Live Now !",บอลอังกฤษ 6
 https://ealivefotex.com/monomax6ch/index.m3u8
 
 
@@ -1153,7 +1158,7 @@ http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/369
 ================================================
 
 
-#EXTINF:-1 group-title="Live Now !",ไทย 1
+#EXTINF:-1 group-title="Live Now !",ฟุตบอล 1
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
 
 
@@ -1190,7 +1195,7 @@ https://ww.dooballfree.vip/live/playsportsfootbal20/playlist.m3u8
 
 =================================================
 
-#EXTINF:-1 group-title="Live Now !",ไทย 2 
+#EXTINF:-1 group-title="Live Now !",ฟุตบอล 2 
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
 
 
@@ -1239,7 +1244,7 @@ https://a1xs.vip/1100002
 ================================================
 
 
-#EXTINF:-1 group-title="Live Now !",ไทย 3
+#EXTINF:-1 group-title="Live Now !",ฟุตบอล 3
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
 
 
@@ -1430,12 +1435,14 @@ http://mag.tivi-ott.net/play/live.php?mac=00:1A:79:BD:95:55&stream=830217&extens
 #EXTINF:-1 group-title="Premium sports 1" tvg-logo="https://lo1.in/MALAY/flag.png" ,✦●✦| SPORTS |✦●✦
 http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/35420
 
-#EXTINF:-1 group-title="Premium sports 1" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| ASTRO BADMINTON 
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1080432
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/10/Ch-AstroBadminton.jpg" group-title="Premium sports 1",Astro Badminton
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/10/Ch-AstroBadminton.jpg" group-title="Premium sports 1",MY| Astro Badminton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://link.zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
+
+#EXTINF:-1 tvg-id=" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/10/Ch-AstroBadminton.jpg" ,MY| ASTRO BADMINTON 2
+http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1080432
 
 #EXTINF:-1 group-title="Premium sports 1" tvg-logo="https://lo1.in/MALAY/astroar.png" tvg-id="astroarena.my" ,MY| ASTRO ARENA HD
 http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/34436
