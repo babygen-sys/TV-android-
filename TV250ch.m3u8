@@ -819,3 +819,10 @@ https://starsportshindiii.pages.dev/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",START SPORTS SELECT 2 
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
+
+
+
+#EXTINF:-1 group-title="Live Now !",LIVE !
+http://85.11.144.9:50999/9
+
+
