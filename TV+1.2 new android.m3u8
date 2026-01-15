@@ -50,6 +50,10 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 #EXTINF:-1 tvg-id="ThairathTV32.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png" group-title="🇹🇭 THAILAND",Thairath TV
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
+#EXTINF:-1 tvg-id="ThairathTV32.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png" group-title="🇹🇭 THAILAND",Thairath TV
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302732.ts
+
+
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png" group-title="🇹🇭 THAILAND",Thai PBS
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
@@ -57,11 +61,12 @@ https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 https://ww.dooballfree.vip/live/pptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV 
-http://119.59.118.159/live/ch48/Mariogogo007/index.m3u8
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302726.ts
+
 
 #EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/vBd6X2MR/IMG-4474.png" group-title="🇹🇭 THAILAND",TSport 7
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776194&extension=m3u8
-http://119.59.118.159/live/ch78/Mariogogo007/index.m3u8
+
 #EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/vBd6X2MR/IMG-4474.png" group-title="🇹🇭 THAILAND",TSport 7 สำรอง
 https://gmmztv.v2h-cdn.com/ffef/gmmz-tsport7.stream/playlist.m3u8
 
@@ -203,12 +208,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbosignature/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png" group-title="Entertainment บันเทิง",Cinemax
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/cinemax/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vUU7vsA.jpg" group-title="Entertainment บันเทิง",CINEMAX
-
+http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34572
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OmMBqEP.jpg" group-title="Entertainment บันเทิง",WARNER TV
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776240&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DqdXzQZ.jpg" group-title="Entertainment บันเทิง",WB FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -498,20 +501,19 @@ http://tvmate.icu:8080/69NpyV/884735/11645
 
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/VNyKZNHJ/IMG-3062.png" group-title="Special sports",WWE
-https://a1xs.vip/1100020
+http://filex.me:8080//live/MAS101A/MAS101AABB/316938.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="Special sports",Fighting TV Samurai (JPN)
+https://nl.utako.moe/fighting_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/yYhn4sBc/IMG-4381.png" group-title="Special sports",Top Fight
 http://49.0.64.96:8007/TOPFIGHT
-
 
 #EXTINF:-1 group-title="Special sports",MMA Junkie
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
 
 #EXTINF:-1 group-title="Special sports",Swerve Combat
 https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
-
-#EXTINF:-1 group-title="Special sports",MMA PFL
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 #EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://i.postimg.cc/X7yvj7SP/IMG-2153.webp" group-title="Special sports",UFC
@@ -616,12 +618,20 @@ https://tvpass.org/live/NHLNetwork/sd
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/rsWxqwrs/IMG-3472.png" group-title="Special sports",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Special sports",SOCCER CHANEL (ID)
+http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165923.ts
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars.jpg" group-title="Special sports",SPORTSTARS 
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000134/1024.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Special sports",SPORTSTARS FHD
+http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165866.ts
+
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars2.jpg" group-title="Special sports",SPORTSTARS 2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Special sports",SPORTSTARS 2 FHD
+http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165865.ts
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstars3.jpg" group-title="Special sports",SPORTSTARS 3
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
@@ -695,10 +705,6 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/431
 
 
-
-#EXTINF:-1 group-title="Special sports",Peacock Premier League TV
-https://a1xs.vip/1100021
-
 #EXTINF:-1 group-title="Special sports",SPORTITALIA
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/1101
 
@@ -715,18 +721,13 @@ http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/991
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/127
 
 
-
-
-#EXTINF:0 tvg-rec="0",Setanta Sports+ HD UA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-rec="0",Setanta Sports+ HD UA
 http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/31757/index.m3u8
 
-#EXTINF:0 tvg-rec="0",Setanta Sports+ UA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-rec="0",Setanta Sports+ UA
 http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/31756/index.m3u8
 
-#EXTINF:0 tvg-rec="0",Setanta Sports UA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-rec="0",Setanta Sports UA
 http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/31754/index.m3u8
 
 #EXTINF:-1 group-title="Special sports",Setanta Sports 1 Georgia
@@ -850,7 +851,6 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 
 #EXTINF:-1 group-title="Live Now !",LIVE !
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115464
-
 
 
 
@@ -1324,21 +1324,19 @@ https://ww.dooballfree.vip/live/tpf5/playlist.m3u8
 
 
 
-
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/BvgLVYdF/IMG-2904.png" group-title="Live Now !",SPOTV
-http://119.59.118.159/live/ch18/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/spotv.jpg" group-title="SPORTS",SPOTV 
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/BvgLVYdF/IMG-2904.png" group-title="Live Now !",SPOTV สำรอง
 https://ww.dooballfree.vip/live/spotv/playlist.m3u8
-#EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/BvgLVYdF/IMG-2904.png" group-title="Live Now !",SPOTV สำรอง
-
 
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/8cHT19md/IMG-2906.png" group-title="Live Now !",SPOTV 2
-http://119.59.118.159/live/ch19/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/spotv2.jpg" group-title="SPORTS",SPOTV 2 
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/8cHT19md/IMG-2906.png" group-title="Live Now !",SPOTV 2 สำรอง
 https://ww.dooballfree.vip/live/spotv2/playlist.m3u8
-#EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/8cHT19md/IMG-2906.png" group-title="Live Now !",SPOTV 2 สำรอง
-
-
 
 
 #EXTINF:-1 tvg-id="Bein.us" tvg-logo="https://i.postimg.cc/FsRkm6B3/IMG-3115.png" group-title="Live Now !",Bein Sports 1
@@ -1582,6 +1580,15 @@ http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/22478
 #EXTINF:-1 group-title="Premium sports 1" tvg-logo="https://lo1.in/pol/fcl.png" tvg-id="fightklub.pl" ,PL| FIGHT KLUB FHD
 http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/22479
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="Premium sports 1",J Sport 1 (JPN)
+https://nl.utako.moe/js1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="Premium sports 1",J Sport 2 (JPN)
+https://nl.utako.moe/js2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="Premium sports 1",J Sport 3 (JPN)
+https://nl.utako.moe/js3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="Premium sports 1",J Sport 4 (JPN)
+https://nl.utako.moe/js4/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/Ch-AstroArena.jpg" group-title="Premium sports 1",Astro Arena
