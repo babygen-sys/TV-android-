@@ -861,8 +861,6 @@ https://ww.dooballfree.vip/live/btsport1/playlist.m3u8
 #EXTINF:-1 group-title="Live Now !",LIVE !
 https://ww.dooballfree.vip/live/btsport2/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Now !",LIVE !
-https://ealivefotex.com/monomax3ch/index.m3u8
 
 #EXTINF:-1 group-title="Live Now !",LIVE !
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115463
@@ -886,7 +884,7 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSE
 
 #EXTINF:-1 tvg-id="Liverpool.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="Special sports",LFCTV
-https://ww.dooballfree.vip/live/lfctv\playlist.m3u8
+https://ww.dooballfree.vip/live/lfctv/playlist.m3u8
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/17081.m3u8
 
 #EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="Special sports",MUTV
@@ -915,19 +913,8 @@ https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/kGSRT6xN/IMG-4160.png" group-title="Special sports",V Sport Premier League
 
-
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://static.wikia.nocookie.net/internationalbroadcasts/images/1/1b/Premier_League_logo.png" group-title="Special sports,PREMIER LEAGUE TV
-
 #EXTINF:-1 group-title="Special sports",La liga Inside
 https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
-
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/kGSRT6xN/IMG-4160.png" group-title="Special sports",V Sport Premier League
-http://sonymax.org:8080/krounbarnasfhj/U7Y1U48QCG/434512
-
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://static.wikia.nocookie.net/internationalbroadcasts/images/1/1b/Premier_League_logo.png" group-title="Special sports",PREMIER LEAGUE TV
-http://sonymax.org:8080/krounbarnasfhj/U7Y1U48QCG/505778
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/onechampionship.png"tvg-id="OneChampionshipTv.id" ch-number="30" tvg-name="One Championship tv"group-title="Special sports",One Championship tv
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
@@ -1049,13 +1036,6 @@ http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/34633
 http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/7625
 #EXTINF:-1 group-title="Live Now !",บีอิน 3
 http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/4303
-
-
-
-
-
-
-
 
 
 
@@ -1353,9 +1333,13 @@ https://ealivefotex.com/AISBALLTHAI10/index.m3u8
 
 
 
+
+
 ================================================
 ================================================
 ================================================
+
+
 
 #EXTINF:-1 group-title="Live Now !",Football 3
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776163&extension=m3u8
@@ -1376,6 +1360,12 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/BvgLVYdF/IMG-2904.png" group-title="Live Now !",SPOTV สำรอง
 https://ww.dooballfree.vip/live/spotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/BvgLVYdF/IMG-2904.png" group-title="Live Now !",SPOTV สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/SPOTV01_720p/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/8cHT19md/IMG-2906.png" group-title="Live Now !",SPOTV 2
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/spotv2.jpg" group-title=""Live Now !",SPOTV 2 
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
@@ -1383,27 +1373,48 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/8cHT19md/IMG-2906.png" group-title="Live Now !",SPOTV 2 สำรอง
 https://ww.dooballfree.vip/live/spotv2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.postimg.cc/8cHT19md/IMG-2906.png" group-title="Live Now !",SPOTV 2 สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/SPOTV02_720p/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="Bein.us" tvg-logo="https://i.postimg.cc/FsRkm6B3/IMG-3115.png" group-title="Live Now !",Bein Sports 1
 https://ww.dooballfree.vip/live/bein1/playlist.m3u8
 #EXTINF:-1 tvg-id="Bein.us" tvg-logo="https://i.postimg.cc/FsRkm6B3/IMG-3115.png" group-title="Live Now !",Bein Sports 1 สำรอง
-http://119.59.118.159/live/ch15/Mariogogo007/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/02_epl1_720p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Bein.us" tvg-logo="https://i.postimg.cc/Mp0SL6mD/IMG-3087.png" group-title="Live Now !",Bein Sports 2
 https://ww.dooballfree.vip/live/bein2/playlist.m3u8
 #EXTINF:-1 tvg-id="Bein.us" tvg-logo="https://i.postimg.cc/Mp0SL6mD/IMG-3087.png" group-title="Live Now !",Bein Sports 2 สำรอง
-http://119.59.118.159/live/ch16/Mariogogo007/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Bein.us" tvg-logo="https://i.postimg.cc/Dy9vDYk2/IMG-3090.png" group-title="Live Now !",Bein Sports 3
 https://ww.dooballfree.vip/live/bein3/playlist.m3u8
 #EXTINF:-1 tvg-id="Bein.us" tvg-logo="https://i.postimg.cc/Dy9vDYk2/IMG-3090.png" group-title="Live Now !",Bein Sports 3 สำรอง
-http://119.59.118.159/live/ch17/Mariogogo007/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8
+
+
 
 
 
 
 #EXTINF:-1 group-title="Live Now !",Sports 1
-http://119.59.118.159/live/ch9/Mariogogo007/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/02_sport1_720p/playlist.m3u8
+
 #EXTINF:-1 group-title="Live Now !",Sports 1 สำรอง 1
 https://ww.dooballfree.vip/live/tsp1/playlist.m3u8
 #EXTINF:-1 group-title="Live Now !",Sports 1 สำรอง 2
@@ -1411,7 +1422,9 @@ http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776197&exte
 
 
 #EXTINF:-1 group-title="Live Now !",Sports 2
-http://119.59.118.159/live/ch10/Mariogogo007/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/02_sport2_720p/playlist.m3u8
 #EXTINF:-1 group-title="Live Now !",Sports 2 สำรอง 1
 https://ww.dooballfree.vip/live/tsp2/playlist.m3u8
 #EXTINF:-1 group-title="Live Now !",Sports 2  สำรอง 2
@@ -1419,7 +1432,9 @@ http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776198&exte
 
 
 #EXTINF:-1 group-title="Live Now !",Sports 3
-http://119.59.118.159/live/ch11/Mariogogo007/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/02_sport3_720p/playlist.m3u8
 #EXTINF:-1 group-title="Live Now !",Sports 3 สำรอง 1
 https://ww.dooballfree.vip/live/tsp3/playlist.m3u8
 #EXTINF:-1 group-title="Live Now !",Sports 3 สำรอง 2
@@ -1427,13 +1442,17 @@ http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776199&exte
 
 
 #EXTINF:-1 group-title="Live Now !",Sports 4
-http://119.59.118.159/live/ch12/Mariogogo007/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/02_sport4_720p/playlist.m3u8
 #EXTINF:-1 group-title="Live Now !",Sports 4 สำรอง 1
 https://ww.dooballfree.vip/live/tsp4/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Live Now !",sports 5
-http://119.59.118.159/live/ch13/Mariogogo007/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/02_sport5_720p/playlist.m3u8
 #EXTINF:-1 group-title="Live Now !",sports 5 สำรอง 1
 https://ww.dooballfree.vip/live/tsp5/playlist.m3u8
 #EXTINF:-1 group-title="Live Now !",Sports 5 สำรอง 2
@@ -1441,7 +1460,9 @@ http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776201&exte
 
 
 #EXTINF:-1 group-title="Live Now !",Sports 7
-http://119.59.118.159/live/ch14/Mariogogo007/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/02_sport7_720p/playlist.m3u8
 #EXTINF:-1 group-title="Live Now !",Sports 7 สำรอง 1
 https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
 #EXTINF:-1 group-title="Live Now !",Sports 7 สำรอง 2
@@ -2419,8 +2440,20 @@ http://49.0.64.96:8007/H-Channel
 
 
 
-
 #EXTM3U
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.img08.xyz/assets/movie_poster/d/d29febac385dcc2cae15fc6f2d5d34b8.jpg" ,(2026)Anaconda 
+https://movie01.oneplayer.online:11231/api/video/Storage00%2FN73El13%2FN73El13_720.mp4
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.img08.xyz/assets/movie_poster/8/809630e30bca04f4cf4f24b0c96b7621.jpg" ,(2026)ตี๋เหรินเจี๋ยมายาตำหนักสวรรค์ [พากย์ไทย]
+https://movie03.oneplayer.online:11231/api/video/Storage02%2F178.175.135.160%2Fhome%2Fhls_file_storage%2FNY1rJkO%2Ffile_720.mp4
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.img07.xyz/assets/movie_poster/e/e905ec2c08f22466077a96fafa723c08.jpg" ,(2026) นากรักมาก ม๊ากมาก
+https://movie05.oneplayer.online:11231/api/cached-video/RBXwB5t/RBXwB5t_720p.mp4
+
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/12/1-6.jpg" ,Wake Up Dead Man: A Knives Out Mystery (2025) ฆาตกรรมหรรษา ใครฆ่าคนบาป
 https://m3u8haha.com/movie/M15591.mp4/playlist.m3u8
 
