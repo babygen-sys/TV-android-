@@ -6,7 +6,10 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776006&extension=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/02_3HD_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 
 https://ww.dooballfree.vip/live/ch3hd/playlist.m3u8
 
@@ -185,9 +188,8 @@ https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m
 #EXTINF:-1 tvg-id="Zee.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/BbcqTvHT/IMG-2990.png", Zee Nung
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment บันเทิง",18 movie 
-http://119.59.118.159/live/ch80/Mariogogo007/index.m3u8
-
+#EXTINF:-1 tvg-id="CH8.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/RFVxDzJm/IMG-1839.png", Ch 8 Thailand 
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
 
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png" group-title="Entertainment บันเทิง",IZAAMOVIE
 http://49.0.64.96:8007/IZAA
@@ -197,7 +199,8 @@ http://49.0.64.96:8007/IZAA
 http://49.0.64.96:8007/SERIES
 
 #EXTINF:-1 tvg-id="Vipa.th" tvg-logo="https://i.postimg.cc/DZjt5L9v/IMG-2681.png" group-title="Entertainment บันเทิง",VIPA
-https://url.in.th/UnkSl
+https://tinyurl.com/yktektyy
+https://fastly.live.brightcove.com/1846248737588002042/ap-southeast-1/6075037809001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoibzRoaGc2LmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjA3NTAzNzgwOTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDc1MDM3ODA5MDAxIl0sImp0aSI6IjE4NDYyNDg3Mzc1ODgwMDIwNDIifQ.HbjGHxGv87ivAdsCtAdEDjj2SVCfRnCUMYWn2fCkVPY/playlist-hls.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79f8g.png" group-title="Entertainment บันเทิง",HBO
@@ -2175,8 +2178,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #EXTINF:-1 tvg-id="Fuck.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/k5KBRQVj/IMG-3102.png",Universal
 http://49.0.64.96:8007/H-Channel
 
-#EXTINF:-1 tvg-id="CH8.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/RFVxDzJm/IMG-1839.png", Ch 8 Thailand 
-https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
 
 #EXTINF:-1 tvg-id="Fuck.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/8C77gQvL/IMG-2955.png", TV Series 
 http://49.0.64.96:8007/SERIES
@@ -2435,12 +2436,48 @@ https://monomax-d1yqi0.cdn.byteark.com/fleetstream/ALURE/index.m3u8
 
 
 
+
+#EXTM3U
+
 #EXTINF:-1,🍿🍿🍿####### Movie ########
 http://49.0.64.96:8007/H-Channel
 
 
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/The-RIP-2026-%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B8%9B%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%84%E0%B8%99-187x269.png " ,The Rip (2026) เงินบาปกระชากคน
+https://main.24playerhd.com/newplaylist/3544b8b0cd26e525a7a11027/3544b8b0cd26e525a7a11027.m3u8
 
-#EXTM3U
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/Nuremberg-2025-187x269.png " ,Nuremberg (2025)
+https://main.24playerhd.com/m3u8/6b62f3305960248d26984c60/6b62f3305960248d26984c60168.m3u8
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2026/01/Memori-2025-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%88%E0%B8%B3-187x269.png" ,Memori (2025) ความทรงจำ
+https://main.24playerhd.com/m3u8/85483952326983d1bc839add/85483952326983d1bc839add168.m3u8
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.img10.xyz/assets/movie_poster/3/3d7914e11f4bad21d5de5772e01e6877.jpg " ,ผีพารวย (2024)
+https://movie08.oneplayer.online:11231/api/video/Storage11%2F178.175.142.172%2Fhome%2Fhls_file_storage%2FrTXdJdg%2Ffile_720.mp4
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.img10.xyz/assets/movie_poster/0/02f31d9c87a41402cbc7895c32f1d4b7.jpg " ,Haunting of Mount Gede (2025) คำสาปแห่งเขาเกเด
+https://movie04.oneplayer.online:11231/api/video/Storage06%2F178.175.136.85%2Fhome%2Fhls_file_storage%2F2gezI6H%2Ffile_720.mp4
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.img08.xyz/assets/movie_poster/1/1fdecb9eea82ef7b1a682d45e5a2c0c7.jpg " ,โดราเอมอน เดอะมูฟวี่ 44 เรื่องราวในโลกภาพวาดของโนบิตะ พากย์ไทยโรง
+https://movie03.oneplayer.online:11231/api/cached-video/vJDf0Te/vJDf0Te_720p.mp4
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.img07.xyz/assets/movie_poster/7/7688ffbd7d48fe8e683bbc461ee2a79d.jpg " ,เรื่องผีสาป พากย์ไทยโรง
+https://movie01.oneplayer.online:11231/api/cached-video/XynePp5/XynePp5_720p.mp4
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.img10.xyz/assets/movie_poster/6/674746153ec23ed51f05e75ea571bdb9.jpg " ,Greenland 2 Migration (2026) - ฝ่าชะตา โลกาวินาศ [ไทยโรง]
+https://movie07.oneplayer.online:11231/api/cached-video/pKO3YCl/pKO3YCl_720p.mp4
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.img08.xyz/assets/movie_poster/8/82df6c6af8a3dd2a5582963c50bf562f.jpg " ,The Housemaid (2025) - ความลับแม่บ้านร้าย [ไทยโรง]
+https://movie02.oneplayer.online:11231/api/cached-video/YSyUbzl/YSyUbzl_720p.mp4
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.img08.xyz/assets/movie_poster/d/d29febac385dcc2cae15fc6f2d5d34b8.jpg" ,(2026)Anaconda 
 https://movie01.oneplayer.online:11231/api/video/Storage00%2FN73El13%2FN73El13_720.mp4
@@ -10888,47 +10925,5 @@ https://m3u8haha.com/movie/M14543.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2024/09/MV5BMzI0MDAyYWItNmM5MC00ZmVmLWEwMjItMDI4YjI3ZWNmOTM0XkEyXkFqcGdeQXVyMDk5Mzc5MQ@@._V1_.jpg" ,Buddy Games Spring Awakening (2023)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://m3u8haha.com/movie/M14542.mp4/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 ####### Series ########
-https://tinyurl.com/m8rf86a2
-
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.24-hdmovie.com/wp-content/uploads/2024/03/The-Believers-2024-%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8-187x269.jpg" group-title="ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 (2025) Netflix - 320HD",ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 (2025) Netflix - 320HD - ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 Season 1 EP 1
-#EXTVLCOPT:http-referrer=https://320hds.com/
-https://sddre03.oklive-2.xyz/api/files/641c88fbc80493971b6c6e1b3436d98a/master.txt
-
-#EXTINF:-1 tvg-logo="https://320hds.com/wp-content/uploads/2025/11/6.20-1.jpg" group-title="ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 (2025) Netflix - 320HD",ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 (2025) Netflix - 320HD - ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 Season 1 EP 2
-#EXTVLCOPT:http-referrer=https://320hds.com/
-https://servcdn2.cumpon1.com/api/files/564942b1a738b3b2a04cb11ae094c735/master.txt
-
-#EXTINF:-1 tvg-logo="https://320hds.com/wp-content/uploads/2025/11/6.20-1.jpg" group-title="ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 (2025) Netflix - 320HD",ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 (2025) Netflix - 320HD - ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 Season 1 EP 3
-#EXTVLCOPT:http-referrer=https://320hds.com/
-https://servcdn2.cumpon1.com/api/files/4e5b0b8a02439a27cc22e9f9b7a556a3/master.txt
-
-#EXTINF:-1 tvg-logo="https://320hds.com/wp-content/uploads/2025/11/6.20-1.jpg" group-title="ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 (2025) Netflix - 320HD",ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 (2025) Netflix - 320HD - ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 Season 1 EP 4
-#EXTVLCOPT:http-referrer=https://320hds.com/
-https://servcdn2.cumpon1.com/api/files/a9fb1a787a9cc6b969daa32e093f1ac3/master.txt
-
-#EXTINF:-1 tvg-logo="https://320hds.com/wp-content/uploads/2025/11/6.20-1.jpg" group-title="ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 (2025) Netflix - 320HD",ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 (2025) Netflix - 320HD - ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 Season 1 EP 5
-#EXTVLCOPT:http-referrer=https://320hds.com/
-https://servcdn2.cumpon1.com/api/files/1adbf4a4caff225610fd3024d3a2c821/master.txt
-
-#EXTINF:-1 tvg-logo="https://320hds.com/wp-content/uploads/2025/11/6.20-1.jpg" group-title="ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 (2025) Netflix - 320HD",ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 (2025) Netflix - 320HD - ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 Season 1 EP 6
-#EXTVLCOPT:http-referrer=https://320hds.com/
-https://servcdn2.cumpon1.com/api/files/a6fff74aeddbd98a6c16dbe23469529d/master.txt
-
-#EXTINF:-1 tvg-logo="https://320hds.com/wp-content/uploads/2025/11/6.20-1.jpg" group-title="ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 (2025) Netflix - 320HD",ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 (2025) Netflix - 320HD - ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 Season 1 EP 7
-#EXTVLCOPT:http-referrer=https://320hds.com/
-https://servcdn2.cumpon1.com/api/files/2cdc7dc32b3cdf41087f53b12973f706/master.txt
-
-#EXTINF:-1 tvg-logo="https://320hds.com/wp-content/uploads/2025/11/6.20-1.jpg" group-title="ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 (2025) Netflix - 320HD",ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 (2025) Netflix - 320HD - ดูซีรี่ย์ สาธุ ซีซั่น 2 The Believers 2 Season 1 EP 8
-#EXTVLCOPT:http-referrer=https://320hds.com/
-https://servcdn2.cumpon1.com/api/files/fab722a116c07160a6b6bcb67a78b77c/master.txt
-
 
 
