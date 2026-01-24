@@ -191,7 +191,7 @@ https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-id="CH8.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/RFVxDzJm/IMG-1839.png", Ch 8 Thailand 
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
 
-#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png" group-title="Entertainment บันเทิง",IZAAMOVIE
+#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png" group-title="Entertainment บันเทิง",MOVIE 
 http://49.0.64.96:8007/IZAA
 
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/8C77gQvL/IMG-2955.png" group-title="Entertainment บันเทิง",Series
@@ -200,7 +200,6 @@ http://49.0.64.96:8007/SERIES
 
 #EXTINF:-1 tvg-id="Vipa.th" tvg-logo="https://i.postimg.cc/DZjt5L9v/IMG-2681.png" group-title="Entertainment บันเทิง",VIPA
 https://tinyurl.com/yktektyy
-https://fastly.live.brightcove.com/1846248737588002042/ap-southeast-1/6075037809001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoibzRoaGc2LmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjA3NTAzNzgwOTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDc1MDM3ODA5MDAxIl0sImp0aSI6IjE4NDYyNDg3Mzc1ODgwMDIwNDIifQ.HbjGHxGv87ivAdsCtAdEDjj2SVCfRnCUMYWn2fCkVPY/playlist-hls.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79f8g.png" group-title="Entertainment บันเทิง",HBO
@@ -214,6 +213,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79IMN.png" group-title="Entertainment บันเทิง",HBO Signature
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbosignature/manifest.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png" group-title="Entertainment บันเทิง",Cinemax
 http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34572
@@ -231,14 +232,11 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 #EXTVLCOPT:network-caching=1000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IFJDWGU.jpg" group-title="Entertainment บันเทิง",HITS MOVIEs
-http://66.90.99.154:8278/Hitsmovie/playlist.m3u8?tid=MA1A9603668296036682&ct=20364&tsum=1119b3d05ef4966ee0f5910f3084c11c
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJBO9Ww.jpg" group-title="Entertainment บันเทิง", thrill
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 
-#EXTINF:-1 group-title="Entertainment บันเทิง",TVN
-http://66.90.99.154:8278/TVN/playlist.m3u8?tid=MF9F7266326972663269&ct=20364&tsum=0abc5dbe241029feb040c0d6309d3c75
+
 
 
 
@@ -309,11 +307,9 @@ https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="Documentary สารคดี",PetClub TV2
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary สารคดี",Discovery Channel US
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary สารคดี",Discovery Channel 
 https://tvpass.org/live/DiscoveryChannelEast/sd
 
-#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary สารคดี",Discovery Channel
-http://103.66.62.83:8000/play/a030/index.m3u8
 
 #EXTINF:-1  group-title="Documentary สารคดี",ANIMAL PLANET
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -330,14 +326,8 @@ https://i.mjh.nz/.r/discovery-hgtv.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
 
-#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed" group-title="Documentary สารคดี",HGTV USA Eastern Feed
-https://tvpass.org/live/HGTVEast/sd
-
 #EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="Documentary สารคดี",History Channel 
 https://tvpass.org/live/HistoryEast/sd
-
-#EXTINF:-1 tvg-id="hln" tvg-name="HLN" group-title="Documentary สารคดี",HLN
-https://tvpass.org/live/HLN/sd
 
 #EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" group-title="Documentary สารคดี",National Geographic 
 https://tvpass.org/live/NationalGeographicEast/sd
@@ -549,7 +539,6 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSE
 
 #EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png" group-title= group-title="Special sports",🏁 F1
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117202
-http://66.90.99.154:8278/tiankongf1/playlist.m3u8?tid=MFFF3610076936100769&ct=20361&tsum=c3de2703077fe3e4f3c728f6c9ff7ac2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/onechampionship.png"tvg-id="OneChampionshipTv.id" ch-number="30" tvg-name="One Championship tv"group-title="Special sports",One Championship tv
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
@@ -602,14 +591,8 @@ https://tvpass.org/live/GolfChannel/sd
 http://177.234.230.206:8011/play/a0ih/index.m3u8
 
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/10/Ch-AstroBadminton.jpg" group-title="Premium sports 1",MY| Astro Badminton
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://link.zozotv.xyz:443/live/ZZA21216/zxe36880/155.ts
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/10/Ch-AstroBadminton.jpg" ,MY| ASTRO BADMINTON 2
-http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/1080432
-
-#EXTINF:-1 tvg-id=" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/10/Ch-AstroBadminton.jpg" ,MY| ASTRO G
+#EXTINF:-1 tvg-id=" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/10/Ch-AstroBadminton.jpg" ,MY| ASTRO Grandstand
 http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34533
 
 #EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA" group-title="Special sports",NBA TV USA
@@ -717,15 +700,9 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Sport_TV_2023.svg" group-title="Special sports",SPORTDIGITAL FSBL
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/431
 
-
-#EXTINF:-1 group-title="Special sports",SPORTITALIA
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/1101
-
-
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/PfRN1hKX/IMG-3555.png" group-title="Special sports",4 Sports
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/1073
 https://pepsi.abntv.live/hls/4spstream.m3u8
-
 
 #EXTINF:-1 group-title="Special sports",TRT SPORT
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/991
@@ -776,8 +753,6 @@ https://a1xs.vip/1100002
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/L43yTJ8f/IMG-4157.png" group-title="Special sports",Hub Premier 5
 
 
-#EXTINF:-1 group-title="Special sports",ES: LIGA DE CAMPEONES SD
-http://twbc3p54.upmdd.xyz:80/play/687033878/538012839/165359.ts
 
 #EXTINF:-1 group-title="Special sports",BEiN SPORT HABER HD
 #EXTVLCOPT:network-caching=1000
@@ -850,7 +825,6 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98867
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",START SPORTS SELECT 2 
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
-
 
 
 
