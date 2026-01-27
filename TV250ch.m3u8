@@ -60,12 +60,14 @@ http://ip96.uk:8080//live/H645668DH/7565848DHY/302732.ts
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png" group-title="🇹🇭 THAILAND",Thai PBS
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/02_PPTVHD_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV 
 https://ww.dooballfree.vip/live/pptv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV 
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302726.ts
-
 
 #EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/vBd6X2MR/IMG-4474.png" group-title="🇹🇭 THAILAND",TSport 7
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776194&extension=m3u8
@@ -97,11 +99,8 @@ https://global-media.sooplive.com/live/workpoint/master.m3u8
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 
 
-#EXTINF:-1 tvg-id="TNN.th" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png" group-title="🇹🇭 THAILAND",TNN 16
-http://119.59.118.159/live/ch79/Mariogogo007/index.m3u8
+#EXTINF:-1 tvg-id="TNN.th" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png" group-title="🇹🇭 THAILAND",TNN 16 
 
-#EXTINF:-1 tvg-id="TNN.th" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png" group-title="🇹🇭 THAILAND",TNN 16 สำรอง
-http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776228&extension=ts&play_token=QH8PfjBP2G
 
 #EXTINF:-1 tvg-id="News1.th" tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png" group-title="🇹🇭 THAILAND",News 1
 https://server1.streamssl.com/stream/news1.m3u8
@@ -246,8 +245,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 <==== การ์ตูน ====>
 
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/zDCqL8v7/IMG-2635.png" group-title="Cartoon การ์ตูน",Boom
-https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-https://edge2a.v2h-cdn.com/boom-boom/boomerang.stream/chunklist_w294072949.m3u8
+https://edge2a.v2h-cdn.com/boom-boom/boomerang.stream/chunklist_w1344938397.m3u8
+
 
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/Wz7qzMTG/IMG-2061.png" group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
@@ -308,8 +307,10 @@ https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary สารคดี",Discovery Channel 
-https://tvpass.org/live/DiscoveryChannelEast/sd
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98872
 
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary สารคดี",Discovery Life
+https://fl31.moveonjoy.com/DISCOVERY_LIFE/playlist.m3u8
 
 #EXTINF:-1  group-title="Documentary สารคดี",ANIMAL PLANET
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -845,6 +846,3 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 group-title="Live Now !",LIVE !
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115464
 
-
-#EXTINF:-1 group-title="Live Now !",LIVE !
-https://love.tivov68423.workers.dev/lx-origin/th-aismax03_480/chunks.m3u8?fbclid=IwY2xjawPi-PVleHRuA2FlbQIxMABicmlkETFFcnBJWk53ZUhXSG9iTm1oc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnWS7Ah2fHXvD19PbnBO3yObt25VO7e7rAws-yCwHf0o54IqFKgQIoiAWabm_aem_XlK9nmAY831plPc44oJecg
