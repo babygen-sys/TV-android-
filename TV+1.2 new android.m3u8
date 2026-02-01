@@ -100,9 +100,8 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 
 
 #EXTINF:-1 tvg-id="TNN.th" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png" group-title="🇹🇭 THAILAND",TNN 16 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela4.live/
-https://live2.stream.liveplayback.net/dookeela/tnn/chunks.m3u8
+
+
 
 #EXTINF:-1 tvg-id="News1.th" tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png" group-title="🇹🇭 THAILAND",News 1
 https://server1.streamssl.com/stream/news1.m3u8
@@ -1426,6 +1425,8 @@ https://ww.dooballfree.vip/live/tsp4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4431/02_sport5_720p/playlist.m3u8
 #EXTINF:-1 group-title="Live Now !",sports 5 สำรอง 1
+https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport5_720/playlist.m3u8
+#EXTINF:-1 group-title="Live Now !",sports 5 สำรอง 2
 https://ww.dooballfree.vip/live/tsp5/playlist.m3u8
 
 
@@ -1434,13 +1435,17 @@ https://ww.dooballfree.vip/live/tsp5/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4431/02_sport7_720p/playlist.m3u8
 #EXTINF:-1 group-title="Live Now !",Sports 7 สำรอง 1
+https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport7_720/playlist.m3u8
+#EXTINF:-1 group-title="Live Now !",Sports 7 สำรอง 2
 https://ww.dooballfree.vip/live/tsp7/playlist.m3u8
+
+
+
+
 
 
 #EXTINF:-1,<===บอล(เฉพาะ android)===>
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186533&extension=ts
-
-
 
 #EXTINF:-1 group-title="Live Now !",Play1 
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
@@ -1919,9 +1924,6 @@ http://my.bianet.es.vip.hk:80///dDs/741433
 
 
 #EXTINF:-1 tvg-id="HBO.th" tvg-name="HBO TH" tvg-logo="http://45.144.165.187:8080/images/02533372af53048a55cf973c53c4ce87.png" group-title="Entertainment บันเทิง", HBO HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela4.live/
-https://live2.stream.liveplayback.net/dookeela/hbo/chunks.m3u8
 http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34571
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/RFGyFdqV/IMG-4186.png", HBO hits
@@ -1929,27 +1931,22 @@ http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34571
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 https://live2.stream.liveplayback.net/dookeela/hbo-hits/chunks.m3u8
 
+
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1024px-HBO_Family_Asia_logo.svg.png", HBO family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela4.live/
-https://live2.stream.liveplayback.net/dookeela/hbo-family/chunks.m3u8
+
+
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/x85f9LV3/IMG-4185.png", HBO Signature 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela4.live/
-https://live2.stream.liveplayback.net/dookeela/hbo-signature/chunks.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="Entertainment บันเทิง", CINEMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela4.live/
-https://live2.stream.liveplayback.net/dookeela/cinemax/chunks.m3u8
 http://49.0.64.96:8007/CINEMAX
 
+
 #EXTINF:-1 tvg-id="1205" tvg-name="AXN" tvg-logo="http://45.144.165.187:8080/images/8886b87cdfaacd2b90e4d37d25132840.png" group-title="Entertainment บันเทิง", AXN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela4.live/
-https://dkl-o53d.cdn.akamaiz.com/dookeela/axn/chunks.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="Fuck.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/k5KBRQVj/IMG-3102.png",Universal
 http://49.0.64.96:8007/H-Channel
@@ -1985,11 +1982,11 @@ https://tinyurl.com/3h2e4rtz
 http://119.59.118.159/live/ch63/Mariogogo007/index.m3u8
 
 #EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="Film HD " tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="Entertainment บันเทิง",True Film 1
-http://119.59.118.159/live/ch54/Mariogogo007/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="TrueFilm2.th" tvg-name="True Film HD2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="Entertainment บันเทิง",True Film 2
-http://119.59.118.159/live/ch55/Mariogogo007/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AsianHit" tvg-logo="http://45.144.165.187:8080/images/fdfcb751d560b7211e90e0a87159dd29.png" group-title="Entertainment บันเทิง",Asian Hit
