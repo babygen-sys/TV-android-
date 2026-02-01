@@ -3,12 +3,6 @@
 #EXTVLCOPT:network-caching=1000
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
-#EXTINF:-1,ช่องทดสอบ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela4.live/
-https://dkl-o53d.cdn.akamaiz.com/dookeela/hbo/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -879,3 +873,10 @@ http://mediaportal.link:80/babic_vladimir/xUFtahvD1J/9262
 http://mediaportal.link:80/babic_vladimir/xUFtahvD1J/9263
 #EXTINF:-1 group-title="Live Now !",LIVE Bein 10
 http://mediaportal.link:80/babic_vladimir/xUFtahvD1J/9264
+
+
+
+#EXTINF:-1,ทดสอบ 1-2-69
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/hbo/playlist.m3u8
