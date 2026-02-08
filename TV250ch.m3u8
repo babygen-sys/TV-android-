@@ -532,6 +532,19 @@ https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
 http://49.0.64.96:8007/HiSports
 
 
+#EXTINF:-1 group-title="Special sports",RACING MAG
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
+
+#EXTINF:-1 group-title="Special sports",RACING
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
+
+#EXTINF:-1 group-title="Special sports",SKY SPORTS RACING
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/1676
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/5527
+
+#EXTINF:-1 group-title="Special sports",RACING.LIVE
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/25038
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDilbWW.jpg" group-title="Special sports",Horse and Country TV
 #EXTVLCOPT:network-caching=1000
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
