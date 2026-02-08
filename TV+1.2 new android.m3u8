@@ -705,6 +705,28 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98867
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Special sports",SG| HUB SPORTS 1 HD
+http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941573
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Special sports",SG| HUB SPORTS 2 HD
+http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941572
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Special sports",SG| HUB SPORTS 3 HD
+http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941571
+
+
+
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="Special sports",SG| BEINSPORTS HD
+http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941569
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="Special sports",SG| BEINSPORTS 2 HD
+http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941568
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="Special sports",SG| BEINSPORTS 3 HD
+http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941567
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="Special sports",SG| BEINSPORTS 4 HD
+http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941566
+#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="Special sports",SG| BEINSPORTS 5 HD
+http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941565
+
+
+
 #EXTINF:-1 group-title="Live Now !",LIVE Bein 1
 http://mediaportal.link:80/babic_vladimir/xUFtahvD1J/9255
 #EXTINF:-1 group-title="Live Now !",LIVE Bein 2
@@ -728,7 +750,11 @@ http://mediaportal.link:80/babic_vladimir/xUFtahvD1J/9264
 
 
 
+
+
+
 ================================================
+
 
 
 
@@ -746,10 +772,6 @@ http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/17081.m3u8
 https://www.livedoomovies.com:4431/02_MUTV_720p/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-id="Chelsea.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/768px-Chelsea_FC.svg.png" group-title="Special sports",CHELSEA TV
-
-
 #EXTINF:-1 tvg-id="Barcelona.uk" tvg-logo="https://i.postimg.cc/gjyq27vk/IMG-2381.png" group-title="Special sports",Top Barça
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 
@@ -757,10 +779,6 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5GaQcvncK3h-LvMI_qsjLiCjdfW4o7rNkYw&s" group-title="Special sports",Real Madrid TV
 #EXTVLCOPT:network-caching=1000
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8MCJAtZ.jpg" group-title="Special sports",MILAN TV ᴴᴰ
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/127757
 
 
 #EXTINF:-1 tvg-id="InterTV" tvg-name="INTER TV" tvg-logo="https://seeklogo.com/images/I/inter-tv-logo-4605867372-seeklogo.com.png" group-title="Special sports",INTER TV ᴴᴰ
@@ -786,7 +804,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c69ee3d77d450008c80
 
 #EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png" group-title="Special sports",🏁 F1
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117202
-http://66.90.99.154:8278/tiankongf1/playlist.m3u8?tid=MFFF3610076936100769&ct=20361&tsum=c3de2703077fe3e4f3c728f6c9ff7ac2
+
 
 #EXTINF:0 group-title="Special sports",ES: DAZN F1 HD
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115840
@@ -820,17 +838,12 @@ http://143.244.60.30/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NFL.us" tvg-logo="https://i.postimg.cc/L8QYk7xP/IMG-2245.webp" group-title="Special sports",🏈 NFL
 https://ww.dooballfree.vip/live/nfl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NFL.us" tvg-logo="https://i.postimg.cc/L8QYk7xP/IMG-2245.webp" group-title="Special sports",🏈 NFL 
-https://fl61.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://i.postimg.cc/s2qD7bRx/IMG-2227.png" group-title="Special sports",MLB Network
 https://ww.dooballfree.vip/live/mlb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://i.postimg.cc/s2qD7bRx/IMG-2227.png" group-title="Special sports",MLB Network
 https://fl31.moveonjoy.com/MLB_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="MLB.us" tvg-logo="https://i.postimg.cc/s2qD7bRx/IMG-2227.png" group-title="Special sports",MLB Network
-#EXTVLCOPT:network-caching=1000
 http://143.244.60.30/MLB_NETWORK/index.m3u8
 
 
@@ -841,22 +854,27 @@ http://49.0.64.96:8007/TENNIS
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/rm8Snz6D/IMG-3614.png" group-title="Special sports",🎾Tennis
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776208&extension=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/02_TennisHD_720p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA" group-title="Special sports",🏌️‍♂️Sky sport Golf
 #EXTVLCOPT:network-caching=1000
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117206
 
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/15jYD3rs/IMG-3595.png" group-title="Special sports",🏌️‍♂️Golf Channel US
-http://177.234.230.206:8011/play/a0ih/index.m3u8
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/15jYD3rs/IMG-3595.png" group-title="Special sports",🏌️‍♂️Golf Channel 
 http://49.0.64.96:8007/GOLF
 
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/15jYD3rs/IMG-3595.png"group-title="Special sports",🏌️‍♂️Golf Channel TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/02_GOLFHD_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/15jYD3rs/IMG-3595.png" group-title="Special sports",🏌️‍♂️Golf Channel TH
 https://ww.dooballfree.vip/live/golfchannel/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="Foxsports.us" tvg-logo="https://i.postimg.cc/zv9BSgXw/IMG-2104.png" group-title="Special sports",Fox Sports 1
@@ -876,90 +894,103 @@ http://line.smartfr.xyz:80/UHKYAJHH/KJKS37G8/32161
 https://raw.githubusercontent.com/quuen2024/EmyLie/refs/heads/queen/Voli.m3u8
 
 #EXTINF:-1 group-title="Live Now !",Volleyball 2
-http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130730
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000134/1024.m3u8
 
 #EXTINF:-1 group-title="Live Now !",Volleyball 3
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776162&extension=m3u8
-
-
-#EXTINF:-1 group-title="Live Now !",Volleyball 4
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
 
-#EXTINF:-1 group-title="Live Now !",Volleyball 5 
+#EXTINF:-1 group-title="Live Now !",Volleyball 4
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
+
+#EXTINF:-1 group-title="Live Now !",Volleyball 5 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130727
 
 
 #EXTINF:-1 group-title="Live Now !",Volleyball 6
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000134/1024.m3u8
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130728
+
+#EXTINF:-1 group-title="Live Now !",Volleyball 7
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130729
+
+#EXTINF:-1 group-title="Live Now !",Volleyball 8
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130730
+
+#EXTINF:-1 group-title="Live Now !",Volleyball 9
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130708
+
+#EXTINF:-1 group-title="Live Now !",Volleyball 10
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130709
+
+
+
+=============================================
+
+#EXTINF:-1 group-title="Live Now !",SHOPEE
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130753
+#EXTINF:-1 group-title="Live Now !",SHOPEE
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130754
+
+
 
 
 #EXTINF:-1 group-title="Live Now !",==================================== 
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
 
 #EXTINF:-1 group-title="Live Now !",BEIN SPORT LIVE HD 
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
-
-
-#EXTINF:-1 group-title="Live Now !#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
 https://www.livedoomovies.com:4431/02_epl1_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Now !",LIVE
+#EXTINF:-1 group-title="Live Now !,LIVE B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+https://www.livedoomovies.com:4431/02_epl1_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Live Now !",LIVE B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Now !",LIVE
+#EXTINF:-1 group-title="Live Now !",LIVE B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Now !",LIVE
+#EXTINF:-1 group-title="Live Now !",LIVE B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://www.livedoomovies.com:4431/02_epl4_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Now !",LIVE
+#EXTINF:-1 group-title="Live Now !",LIVE B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://www.livedoomovies.com:4431/02_epl5_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Now !",LIVE
+#EXTINF:-1 group-title="Live Now !",LIVE B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://www.livedoomovies.com:4431/02_epl6_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Now !",LIVE
+#EXTINF:-1 group-title="Live Now !",LIVE B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://www.livedoomovies.com:4431/02_epl7_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Now !",LIVE
+#EXTINF:-1 group-title="Live Now !",LIVE B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://www.livedoomovies.com:4431/02_epl8_720p/playlist.m3u8
 
 
 
-#EXTINF:-1  group-title="Live Now !",=====================================
-https://a1xs.vip/1100002
+
+#EXTINF:-1 group-title="Live Now !",==================================== 
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
+
+#EXTINF:-1 group-title="Live Now !",MAX SPORTS
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130731
+
+#EXTINF:-1 group-title="Live Now !",LIVE M
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130731
+#EXTINF:-1 group-title="Live Now !",LIVE M 
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130732
+#EXTINF:-1 group-title="Live Now !",LIVE M
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130723
+#EXTINF:-1 group-title="Live Now !",LIVE M
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130725
 
 
-#EXTINF:-1 group-title="Live Now !",>> บอลนอก <<
-http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130734
-
-#EXTINF:-1 group-title="Live Now !",Live 
-http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130734
-
-#EXTINF:-1 group-title="Live Now !",LIVE
-http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130724
-#EXTINF:-1 group-title="Live Now !",LIVE 
-http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/130723
-
-#EXTINF:-1 group-title="Live Now !",LIVE
-https://ealivefotex.com/monomax3ch/index.m3u8
-#EXTINF:-1 group-title="Live Now !",LIVE
-https://ealivefotex.com/monomax4ch/index.m3u8
-#EXTINF:-1 group-title="Live Now !",LIVE
-https://ealivefotex.com/monomax5ch/index.m3u8
-#EXTINF:-1 group-title="Live Now !",LIVE
-https://ealivefotex.com/monomax6ch/index.m3u8
-#EXTINF:-1 group-title="Live Now !",LIVE
-https://ealivefotex.com/monomax7ch/index.m3u8
-#EXTINF:-1 group-title="Live Now !",LIVE
-https://ealivefotex.com/monomax8ch/index.m3u8
 
 
 
@@ -967,70 +998,43 @@ https://ealivefotex.com/monomax8ch/index.m3u8
 https://a1xs.vip/1100002
 
 
-#EXTINF:-1 group-title="Live Now !",>> บอลนอก สำรอง 1 <<
+#EXTINF:-1 group-title="Live Now !",>> สำรอง <<
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
 
 
 
-#EXTINF:-1 group-title="Live Now !",Live 
+#EXTINF:-1 group-title="Live Now !",Live M
 https://ww.dooballfree.vip/live/monomax-1/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Now !",Live 
+#EXTINF:-1 group-title="Live Now !",Live M
 https://ww.dooballfree.vip/live/monomax-2/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Now !",Live 
+#EXTINF:-1 group-title="Live Now !",Live M
 https://ww.dooballfree.vip/live/monomax-3/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Now !",Live 
+#EXTINF:-1 group-title="Live Now !",Live M
 https://ww.dooballfree.vip/live/monomax-4/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Now !",Live 
+#EXTINF:-1 group-title="Live Now !",Live M
 https://ww.dooballfree.vip/live/monomax-5/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Now !",Live 
+#EXTINF:-1 group-title="Live Now !",Live M
 https://ww.dooballfree.vip/live/monomax-6/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Now !",Live
+#EXTINF:-1 group-title="Live Now !",Live M
 https://ww.dooballfree.vip/live/monomax-7/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Now !",Live 
+#EXTINF:-1 group-title="Live Now !",Live M
 https://ww.dooballfree.vip/live/monomax-8/playlist.m3u8
 
 
 
-#EXTINF:-1  group-title="Live Now !",=====================================
-https://a1xs.vip/1100002
-
-
-#EXTINF:-1 group-title="Live Now !",>> บอลนอก สำรอง 2 <<
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
-
-
-#EXTINF:-1 group-title="Live Now !",Live 
-https://ealivefotex.com/maxsport1/index.m3u8
-#EXTINF:-1 group-title="Live Now !",Live 
-https://ealivefotex.com/maxsport2/index.m3u8
-#EXTINF:-1 group-title="Live Now !",Live 
-https://ealivefotex.com/maxsport3/index.m3u8
-#EXTINF:-1 group-title="Live Now !",Live 
-https://ealivefotex.com/maxsport4/index.m3u8
-#EXTINF:-1 group-title="Live Now !",Live 
-https://ealivefotex.com/maxsport5/index.m3u8
-#EXTINF:-1 group-title="Live Now !",Live 
-https://ealivefotex.com/maxsport6/index.m3u8
-#EXTINF:-1 group-title="Live Now !",Live 
-https://ealivefotex.com/maxsport7/index.m3u8
-#EXTINF:-1 group-title="Live Now !",Live 
-https://ealivefotex.com/maxsport8/index.m3u8
-#EXTINF:-1 group-title="Live Now !",Live 
-https://ealivefotex.com/maxsport9/index.m3u8
-#EXTINF:-1 group-title="Live Now !",Live 
-https://ealivefotex.com/maxsport10/index.m3u8
-
-
 
 #EXTINF:-1  group-title="Live Now !",=====================================
 https://a1xs.vip/1100002
+
+#EXTINF:-1 group-title="Live Now !",CANAL SPORTS
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/369
 
 
 #EXTINF:-1 group-title="Live Now !",FR: CANAL+
@@ -1042,127 +1046,27 @@ http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/369
 
 
 
-#EXTINF:-1  group-title="Live Now !",=====================================
+
+
+#EXTINF:-1  group-title="Live Now !",==============================================
 https://a1xs.vip/1100002
 
-
-#EXTINF:-1 group-title="Live Now !",>> ฟุตบอล <<
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
-
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI1/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI2/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI3/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI4/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI5/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI6/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI7/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI8/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI9/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI10/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Live Now !",LIVE PLAY
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130743
 
 
-#EXTINF:-1  group-title="Live Now !",=====================================
-https://a1xs.vip/1100002
+#EXTINF:-1 group-title="Live Now !",LIVE P
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130743
 
 
-#EXTINF:-1 group-title="Live Now !",>> ฟุตบอล สำรอง 1 <<
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
-
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI1/index.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI2/index.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI3/index.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI4/index.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI5/index.m3u8
-
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI6/index.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI7/index.m3u8
-
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI8/index.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI9/index.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ealivefotex.com/AISBALLTHAI10/index.m3u8
+#EXTINF:-1 group-title="Live Now !",LIVE P
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130758
 
 
 
-#EXTINF:-1  group-title="Live Now !",=====================================
-https://a1xs.vip/1100002
 
 
-#EXTINF:-1 group-title="Live Now !",>> ฟุตบอล สำรอง 2 <<
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ww.dooballfree.vip/live/playsportsfootball1/playlist.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ww.dooballfree.vip/live/playsportsfootball2/playlist.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ww.dooballfree.vip/live/playsportsfootball3/playlist.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ww.dooballfree.vip/live/playsportsfootball4/playlist.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ww.dooballfree.vip/live/playsportsfootball5/playlist.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ww.dooballfree.vip/live/playsportsfootball6/playlist.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ww.dooballfree.vip/live/playsportsfootball7/playlist.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ww.dooballfree.vip/live/playsportsfootball8/playlist.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ww.dooballfree.vip/live/playsportsfootball9/playlist.m3u8
-
-#EXTINF:-1 group-title="Live Now !",Live
-https://ww.dooballfree.vip/live/playsportsfootbal20/playlist.m3u8
-
-
-
-#EXTINF:-1  group-title="Live Now !",=====================================
+#EXTINF:-1  group-title="Live Now !",============================================
 https://a1xs.vip/1100002
 
 #EXTINF:-1 group-title="Live Now !",Football 3
@@ -1469,53 +1373,7 @@ https://7pal.short.gy/tntspts3
 https://7pal.short.gy/tntspts4
 
 
-#EXTINF:-1,===ARENA SPORT PREMIUM===
-
-
-#EXTINF:-1 group-title="Premium sports 1",SR: ARENA SPORT 1 PREMIUM
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112126
-
-#EXTINF:-1 group-title="Premium sports 1",SR: ARENA SPORT 1 PREMIUM   (L2)
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112127
-
-#EXTINF:-1 group-title="Premium sports 1",SR: ARENA SPORT 2 PREMIUM
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112128
-
-#EXTINF:-1 group-title="Premium sports 1",SR: ARENA SPORT 2 PREMIUM   (L2)
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112129
-
-#EXTINF:-1 group-title="Premium sports 1",SR: ARENA SPORT 3 PREMIUM
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112130
-
-#EXTINF:-1 group-title="Premium sports 1",SR: ARENA SPORT 3 PREMIUM   (L2)
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112131
-
-#EXTINF:-1 group-title="Premium sports 1",SR: ARENA SPORT 1 FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112132
-
-#EXTINF:-1 group-title="Premium sports 1",SR: ARENA SPORT 2 HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112133
-#EXTINF: group-title="Premium sports 1"0,SR: ARENA SPORT 3 FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112134
-
-#EXTINF:-1 group-title="Premium sports 1",SR: ARENA SPORT 4 FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112135
-
-#EXTINF:-1 group-title="Premium sports 1",SR: ARENA SPORT 5 FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112136
-
-#EXTINF:-1 group-title="Premium sports 1",SR: ARENA SPORT 6 FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112137
-
-#EXTINF:-1 group-title="Premium sports 1",SR: ARENA SPORT 7 FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112138
-
-#EXTINF:-1 group-title="Premium sports 1",SR: ARENA SPORT 8 FHD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112139
-
-#EXTINF:-1 group-title="Premium sports 1",SR: ARENA SPORT  1x2 HD
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112140
-
+===========================================
 
 
 #EXTINF:-1,===Max Sports===
@@ -1582,172 +1440,7 @@ https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
 
 
 
-#EXTINF:-1 ,===Polsat Sports===
-http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105533
-
-#EXTINF:-1 tvg-id="sports.uk" tvg-logo="https://i.postimg.cc/ZR5JYVst/IMG-3346.png" group-title="Premium sports 1",Polsat Sport 1
-http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105530
-
-#EXTINF:-1 tvg-id="sports.uk" tvg-logo="https://i.postimg.cc/ZR5JYVst/IMG-3346.png" group-title="Premium sports 1",Polsat Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=14838&extension=ts&play_token=rZ559zOlnw
-
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/Yq8pmcgG/IMG-3348.png" group-title="Premium sports 1",Polsat Sport 2
-http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105533
-
-
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/nz1ZZcSc/IMG-3361.png" group-title="Premium sports 1",Polsat Sport 3
-http://bocian.io:8880/7869-00-3/NzkwMTk2MTI3/105531
-
-#EXTINF:-1 group-title="Premium sports 1",Polsat PREMIUM 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://v3tv.live:80/play/live.php?mac=00:1A:79:27:82:95&stream=54165&extension=ts&play_token=DgdOW3zpRD
-
-
-
-
-
-
-#EXTINF:-1 ,===SKY_SPORTS===
-http://fortv.cc:8080/live/q8KuDU/354945/45940.ts
-https://raw.githubusercontent.com/quuen2024/llgnews/queen/===========================================================================SKY_SPORT+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-
-#EXTINF:-1 group-title="Premium sports 1",Sky Sport tennis
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115479
-
-
-#EXTINF:-1 group-title="Premium sports 1",DE: SKY SPORT BUNDESLIGA 1 FHD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117181
-
-#EXTINF:-1 group-title="Premium sports 1",DE: SKY SPORT BUNDESLIGA 2 FHD (SPIELZEIT)
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117182
-#EXTINF:-1 group-title="Premium sports 1",DE: SKY SPORT BUNDESLIGA 3 FHD (SPIELZEIT)
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117183
-#EXTINF:-1 group-title="Premium sports 1",DE: SKY SPORT BUNDESLIGA 4 FHD (SPIELZEIT)
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117184
-#EXTINF:-1 group-title="Premium sports 1",DE: SKY SPORT BUNDESLIGA 5 FHD (SPIELZEIT)
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117185
-#EXTINF:-1 group-title="Premium sports 1",DE: SKY SPORT BUNDESLIGA 6 FHD (SPIELZEIT)
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117186
-
-
-#EXTINF:-1 group-title="Premium sports 1",DE: SKY SPORT NEWS FHD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117200
-#EXTINF:-1 group-title="Premium sports 1",DE: SKY SPORT TOP EVENT FHD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117201
-#EXTINF:-1 group-title="Premium sports 1",DE: SKY SPORT F1 FHD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117202
-
-
-#EXTINF:-1 group-title="Premium sports 1",DE: SKY SPORT PREMIER LEAGUE FHD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117203
-#EXTINF:-1 group-title="Premium sports 1",DE: SKY SPORT MIX FHD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117204
-#EXTINF:-1 group-title="Premium sports 1",DE: SKY SPORT TENNIS FHD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117205
-#EXTINF:-1 group-title="Premium sports 1",DE: SKY SPORT GOLF FHD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117206
-
-
-#EXTINF:-1 group-title="Premium sports 1",DE: SKY SPORT 4 FHD (SPIELZEIT)
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117207
-#EXTINF:-1 group-title="Premium sports 1",DE: SKY SPORT 5 FHD (SPIELZEIT)
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117208
-#EXTINF:-1 group-title="Premium sports 1",DE: SKY SPORT 6 FHD (SPIELZEIT)
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117209
-#EXTINF:-1 group-title="Premium sports 1",DE: SKY SPORT 7 FHD (SPIELZEIT)
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117210
-#EXTINF:-1 group-title="Premium sports 1",DE: SKY SPORT 8 FHD (SPIELZEIT)
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117211
-
-
-
-#EXTINF:-1 group-title="Premium sports 1",UK: SKY SPORTS MAIN EVENTS HD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115463
-#EXTINF:-1 group-title="Premium sports 1",UK: SKY SPORTS MAIN EVENTS SD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115464
-
-#EXTINF:-1 group-title="Premium sports 1",UK: SKY SPORTS ACTION HD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115477
-#EXTINF:-1 group-title="Premium sports 1",UK: SKY SPORTS ACTION SD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115478
-#EXTINF:-1 group-title="Premium sports 1",UK: SKY SPORTS ARENA HD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115479
-#EXTINF:-1 group-title="Premium sports 1",UK: SKY SPORTS ARENA SD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115480
-#EXTINF:-1 group-title="Premium sports 1",UK: SKY SPORTS CRICKET HD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115481
-#EXTINF:-1 group-title="Premium sports 1",UK: SKY SPORTS CRICKET SD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115482
-#EXTINF:-1 group-title="Premium sports 1",UK: SKY SPORTS FOOTBALL HD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115483
-#EXTINF:-1 group-title="Premium sports 1",UK: SKY SPORTS FOOTBALL SD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115484
-#EXTINF:-1 group-title="Premium sports 1",UK: SKY SPORTS GOLF HD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115485
-#EXTINF:-1 group-title="Premium sports 1",UK: SKY SPORTS GOLF SD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115486
-#EXTINF:-1 group-title="Premium sports 1",UK: SKY SPORTS MIX HD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115487
-#EXTINF:-1 group-title="Premium sports 1",UK: SKY SPORTS MIX SD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115488
-
-
-
-#EXTINF:-1 group-title="Premium sports 1",UK: SKY SPORTS PREMIER LEAGUE  HD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115491
-#EXTINF:-1 group-title="Premium sports 1",UK: SKY SPORTS PREMIER LEAGUE  SD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115492
-
-#EXTINF:-1 group-title="Premium sports 1",UK: SKY SPORTS RACING SD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115493
-
-#EXTINF:-1 group-title="Premium sports 1",UK: SKY SPORTS darts
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115494
-
-
-
-
-
+============================================
 
 
 #EXTINF:-1,<👑👑👑🍿🍿🍿entertainment===>
