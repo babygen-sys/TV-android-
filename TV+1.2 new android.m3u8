@@ -10,8 +10,7 @@ https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4431/02_3HD_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 
-https://ww.dooballfree.vip/live/ch3hd/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="🇹🇭 THAILAND",CH5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
@@ -53,9 +52,6 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 #EXTINF:-1 tvg-id="ThairathTV32.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png" group-title="🇹🇭 THAILAND",Thairath TV
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
-#EXTINF:-1 tvg-id="ThairathTV32.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png" group-title="🇹🇭 THAILAND",Thairath TV
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302732.ts
-
 
 #EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png" group-title="🇹🇭 THAILAND",Thai PBS
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
@@ -66,15 +62,8 @@ https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4431/02_PPTVHD_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV 
-https://ww.dooballfree.vip/live/pptv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/vBd6X2MR/IMG-4474.png" group-title="🇹🇭 THAILAND",TSport 7
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776194&extension=m3u8
-
 #EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/vBd6X2MR/IMG-4474.png" group-title="🇹🇭 THAILAND",TSport 7 สำรอง
 https://gmmztv.v2h-cdn.com/ffef/gmmz-tsport7.stream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="🇹🇭 THAILAND",TRUE4U
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -109,12 +98,12 @@ https://server1.streamssl.com/stream/news1.m3u8
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/qMJ7ff5h/IMG-3145.png" group-title="🇹🇭 THAILAND",Top News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
-#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/63sPMnRJ/IMG-1854.png" group-title="🇹🇭 THAILAND",Cool Channel
-https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 
+
+#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/63sPMnRJ/IMG-1854.png" group-title="🇹🇭 THAILAND",Cool Channel
 
 #EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/GtRYFgq8/IMG-2429.png", Chiangrai Channel 
-http://live.thaitvstream.com/play/chiangrai/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/t4vQNs2p/IMG-1852.png", Cable 37 
@@ -168,9 +157,6 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 
 
 
-
-
-
 <==== entertainment ====>
 
 
@@ -206,13 +192,12 @@ https://tinyurl.com/yktektyy
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79nwv.png" group-title="Entertainment บันเทิง",HBO Hits
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbohits/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79otR.png" group-title="Entertainment บันเทิง",HBO Family
 https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79IMN.png" group-title="Entertainment บันเทิง",HBO Signature
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbosignature/manifest.mpd
 
 
 
@@ -220,7 +205,7 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbosignature/manifest.mpd
 http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34572
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OmMBqEP.jpg" group-title="Entertainment บันเทิง",WARNER TV
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776240&extension=m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DqdXzQZ.jpg" group-title="Entertainment บันเทิง",WB FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -240,9 +225,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 
 
 
-
-
-
 <==== การ์ตูน ====>
 
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/zDCqL8v7/IMG-2635.png" group-title="Cartoon การ์ตูน",Boom
@@ -250,16 +232,13 @@ https://edge2a.v2h-cdn.com/boom-boom/boomerang.stream/chunklist_w1344938397.m3u8
 
 
 #EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/Wz7qzMTG/IMG-2061.png" group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
-https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 
 
 #EXTINF:-1 tvg-id="Dreamworks.us" tvg-logo="https://i.postimg.cc/xCPHdrVt/IMG-2929.png" group-title="Cartoon การ์ตูน",Dreemworld
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/cn.jpg" group-title="Cartoon การ์ตูน",Cartoon Network 
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest_w209786680_qRFZS.mpd?encp=&uid=&expp=
+
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/cartoonito.jpg" group-title="Cartoon การ์ตูน",CARTOONITO
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -292,11 +271,7 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 
 
-
-
-
 <=== Documentary สารคดี ====>
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="Documentary สารคดี",XPLORE
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
@@ -336,6 +311,13 @@ https://tvpass.org/live/NationalGeographicEast/sd
 
 #EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" group-title="Documentary สารคดี",National Wild
 https://tvpass.org/live/NationalGeographicWildEast/sd
+
+
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary สารคดี",Discovery Life
+
+
+#EXTINF:-1 group-title="Documentary สารคดี,LOVE NATURE
+http://103.229.254.25:7001/play/a0eu/index.m3u8
 
 
 
@@ -410,15 +392,15 @@ https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 
 
 
+
 <==== MV-MUSIC ====>
 
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png" group-title="MUSIC",K-POP by CJ ENM
 https://jmp2.uk/stvp-US39000038W
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/571px-M6_logo.svg.png" group-title="MUSIC",M6
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993046/400x225.jpg?type=channelTile" group-title="MUSIC",Movie Music By Stingray
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png" group-title="MUSIC",XITE 80s Flashback
 https://jmp2.uk/stvp-USBB320000647
@@ -436,8 +418,7 @@ https://jmp2.uk/stvp-USBB2300004KV
 https://jmp2.uk/stvp-GBBD1900009UD
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="MUSIC",Vevo '90s & '00s
 https://jmp2.uk/stvp-GBBC2100002HP
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20241112T001845SQUARE.png" group-title="MUSIC",Vevo 2K
-https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="MUSIC",Vevo Hip Hop & R&B
 https://jmp2.uk/stvp-GBBD2300001C0
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" group-title="MUSIC",Vevo Pop
@@ -449,8 +430,8 @@ https://jmp2.uk/stvp-USBD3000145P
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="MUSIC",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993046/400x225.jpg?type=channelTile" group-title="MUSIC",Movie Music By Stingray
-https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="MUSIC",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20250121T101157SQUARE.png" group-title="MUSIC",Stingray Easy Listening
@@ -496,6 +477,7 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 
 
 
+
 #EXTINF:-1,🦾🦾🤼‍♂️🤼‍♂️ Boxing/Wrestling ====
 http://tvmate.icu:8080/69NpyV/884735/11645
 
@@ -509,18 +491,11 @@ https://nl.utako.moe/fighting_tv/index.m3u8
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/yYhn4sBc/IMG-4381.png" group-title="Special sports",Top Fight
 http://49.0.64.96:8007/TOPFIGHT
 
-#EXTINF:-1 group-title="Special sports",MMA Junkie
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
-
 #EXTINF:-1 group-title="Special sports",Swerve Combat
 https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
 
-
 #EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://i.postimg.cc/X7yvj7SP/IMG-2153.webp" group-title="Special sports",UFC
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
-
-#EXTINF:-1 group-title="Special sports",United Fight Alliance
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 
 #EXTINF:-1 group-title="Special sports",HIFIGHT
 http://49.0.64.96:8007/HIFIGHT
@@ -557,10 +532,6 @@ https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
 http://49.0.64.96:8007/HiSports
 
 
-#EXTINF:-1 tvg-logo="https://www.africanbettingclan.com/media/kunena/attachments/796/A01099FA-C989-43B4-B25C-78FEC4C9F10C.jpeg" group-title="Special sports",Racing 240
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/111948
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDilbWW.jpg" group-title="Special sports",Horse and Country TV
 #EXTVLCOPT:network-caching=1000
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
@@ -590,7 +561,6 @@ https://tvpass.org/live/GolfChannel/sd
 
 
 #EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA" group-title="Special sports",Golf Channel
-http://177.234.230.206:8011/play/a0ih/index.m3u8
 
 
 
@@ -610,7 +580,7 @@ https://tvpass.org/live/NHLNetwork/sd
 
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/rsWxqwrs/IMG-3472.png" group-title="Special sports",TVRI Sport
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Special sports",SOCCER CHANEL (ID)
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165923.ts
@@ -638,38 +608,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165863.ts
 
 
-
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstvtr.jpg" group-title="Special sports",SPORTS TV TURKEY
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
-
-#EXTINF:-1 group-title="Special sports",ARENA SPORT 1 FHD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112132
-#EXTINF:-1 group-title="Special sports",ARENA SPORT 2 FHD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112133
-#EXTINF:-1 group-title="Special sports",ARENA SPORT 3 FHD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112134
-#EXTINF:-1 group-title="Special sports",ARENA SPORT 4 FHD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112135
-#EXTINF:-1 group-title="Special sports",ARENA SPORT 5 FHD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112136
-#EXTINF:-1 group-title="Special sports",ARENA SPORT 6 FHD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112137
-#EXTINF:-1 group-title="Special sports",ARENA SPORT 7 FHD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112138
-#EXTINF:-1 group-title="Special sports",ARENA SPORT 8 FHD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112139
-#EXTINF:-1 group-title="Special sports",ARENA SPORT  1x2 HD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/112140
 
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/jS28DWnB/IMG-3332.png" group-title="Special sports",Eurosport 1 
@@ -713,28 +653,8 @@ http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/991
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/127
 
 
-#EXTINF:-1 tvg-rec="0",Setanta Sports+ HD UA
-http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/31757/index.m3u8
-
-#EXTINF:-1 tvg-rec="0",Setanta Sports+ UA
-http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/31756/index.m3u8
-
-#EXTINF:-1 tvg-rec="0",Setanta Sports UA
-http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/31754/index.m3u8
-
 #EXTINF:-1 group-title="Special sports",Setanta Sports 1 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-
-
-#EXTINF:-1 group-title="Special sports",UK: Sky Sports Main Event
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115463
-#EXTINF:-1 group-title="Special sports",UK: Sky Sports Main Event
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115464
-
-#EXTINF:-1 group-title="Special sports",UK: SKY SPORTS FOOTBALL 
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115483
-#EXTINF:-1 group-title="Special sports",UK: SKY SPORTS FOOTBALL 
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115484
 
 
 #EXTINF:-1  tvg-name="Now Sports PL 1 FHD" tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-hk.png?raw=true" group-title="Special sports" radio="false",Now Sports PL 1 FHD
@@ -756,50 +676,6 @@ https://a1xs.vip/1100002
 
 
 
-#EXTINF:-1 group-title="Special sports",BEiN SPORT HABER HD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
-
-#EXTINF:-1 group-title="Special sports",BEIN SPORTS MAX 1 HD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111909
-
-#EXTINF:-1 group-title="Special sports",BEIN SPORTS MAX 2 HD
-#EXTVLCOPT:network-caching=1000
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111911
-
-#EXTINF:-1 group-title="Special sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 1 
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111898
-
-#EXTINF:-1 group-title="Special sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 2 
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111901
-
-#EXTINF:-1 group-title="Special sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 3 
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111903
-
-#EXTINF:-1 group-title="Special sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 4 
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111905
-
-#EXTINF:-1 group-title="Special sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 5 
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111907
-
-#EXTINF:-1 group-title="Special sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 6 
-
-#EXTINF:-1 group-title="Special sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 7 
-
-#EXTINF:-1 group-title="Special sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 8 
-
-#EXTINF:-1 group-title="Special sports" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png", BEIN 9 
-
-
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/X7xLFvv7/IMG-3227.png" group-title="Special sports",Sport-tv 1
-http://fortv.cc:8080/0n8u9R/169324/167742
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/G2kdPyxJ/IMG-3119.png" group-title="Special sports",Sport-tv 2
-http://fortv.cc:8080/0n8u9R/169324/167743
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/2jcXc594/IMG-3121.png" group-title="Special sports",Sport-tv 3
-http://fortv.cc:8080/0n8u9R/169324/167744
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/QtN0SLp4/IMG-3123.png" group-title="Special sports",Sport-tv 4
-http://fortv.cc:8080/0n8u9R/169324/167745
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",Sony TEN 1 
@@ -829,30 +705,6 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98867
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
 
 
-
-#EXTINF:-1 group-title="Live Now !",LIVE  !
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115464
-
-#EXTINF:-1 group-title="Live Now !",LIVE !
-https://ww.dooballfree.vip/live/btsport1/playlist.m3u8
-#EXTINF:-1 group-title="Live Now !",LIVE !
-https://ww.dooballfree.vip/live/btsport2/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="Live Now !",LIVE !
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://www.livedoomovies.com:4431/INTER_CANAL+SPORTS1HD_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Live Now !",LIVE !
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://www.livedoomovies.com:4431/INTER_CANAL+SPORTS2HD_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Live Now !",LIVE !
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://www.livedoomovies.com:4431/INTER_CANAL+SPORTS2HD_720p/chunklist.m3u8
-
-
 #EXTINF:-1 group-title="Live Now !",LIVE Bein 1
 http://mediaportal.link:80/babic_vladimir/xUFtahvD1J/9255
 #EXTINF:-1 group-title="Live Now !",LIVE Bein 2
@@ -874,6 +726,8 @@ http://mediaportal.link:80/babic_vladimir/xUFtahvD1J/9263
 #EXTINF:-1 group-title="Live Now !",LIVE Bein 10
 http://mediaportal.link:80/babic_vladimir/xUFtahvD1J/9264
 
+
+
 ================================================
 
 
@@ -885,7 +739,7 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSE
 
 #EXTINF:-1 tvg-id="Liverpool.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="Special sports",LFCTV
 https://ww.dooballfree.vip/live/lfctv/playlist.m3u8
-
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/17081.m3u8
 
 #EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="Special sports",MUTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -2037,7 +1891,8 @@ https://underwire-unwell.duckaluck.org/v3/0zIgqfVtvdZf86P6eqTLxQ/1769490057/9a39
 
 
 #EXTINF:-1 tvg-id="CN.us" tvg-logo="https://i.postimg.cc/MZr3y7sp/IMG-2974.png" group-title="Cartoon การ์ตูน",Cartoon Network
-https://underwire-unwell.duckaluck.org/v3/NtvG2IskikKNF8WUSj39QQ/1769490157/9a392a0bf16435b27c38aee902282618/3Xhko3afZocMkgCUPeTWkg/1769511737/live/lx-origin/sd-cartoonnetwork_720/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+http://grande99826.cdngold.me:80/play/live.php?mac=00:1A:79:81:9C:05&stream=494491&extension=ts&play_token=M1VfbnbOQ8
 
 
 
