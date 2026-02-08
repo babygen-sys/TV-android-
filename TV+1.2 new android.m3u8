@@ -718,25 +718,25 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98867
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Special sports",SG| HUB SPORTS 1 HD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941573
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Special sports",SG| HUB SPORTS 2 HD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941572
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Special sports",SG| HUB SPORTS 3 HD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941571
+
+#EXTINF:-1 group-title="Special sports",Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34531
+
+#EXTINF:-1 group-title="Special sports",Premier league 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34535
 
 
+#EXTINF:-1 group-title="Special sports",Premier league 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34534
 
-#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="Special sports",SG| BEINSPORTS HD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941569
-#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="Special sports",SG| BEINSPORTS 2 HD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941568
-#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="Special sports",SG| BEINSPORTS 3 HD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941567
-#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="Special sports",SG| BEINSPORTS 4 HD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941566
-#EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="Special sports",SG| BEINSPORTS 5 HD
-http://line.senpay23.com:80/play/live.php?mac=00:1A:79:F0:11:85&extension=ts&stream=941565
+
+#EXTINF:-1 group-title="Special sports",Grandstand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34533
+
 
 
 
