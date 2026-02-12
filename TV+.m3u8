@@ -1,0 +1,472 @@
+#EXTM3U
+#EXTINF:-1,===ดิจิตอลทีวี===
+#EXTVLCOPT:network-caching=1000
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/02_3HD_720p/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png" group-title="🇹🇭 THAILAND",CH5 HD
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 tvg-id="BBTVChannel7.th" tvg-logo="https://i.postimg.cc/8kMvzGt1/IMG-2393.png" group-title="🇹🇭 THAILAND",CH7 HD
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+#EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://i.postimg.cc/8z5sMgBf/IMG-2395.png" group-title="🇹🇭 THAILAND",Ch8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://i.postimg.cc/8cpTGLZf/IMG-2397.png" group-title="🇹🇭 THAILAND",MCOT HD
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBT2HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="🇹🇭 THAILAND",NBT2 HD
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NBT.th" tvg-logo="https://i.postimg.cc/nLfbZvzV/IMG-2399.png" group-title="🇹🇭 THAILAND",NBT 11 ภาคเหนือ
+https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NBT.th" tvg-logo="https://i.postimg.cc/xTN4CcBX/IMG-2401.png" group-title="🇹🇭 THAILAND",NBT 11 ภาคอีสาน
+https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NBT.th" tvg-logo="https://i.postimg.cc/fTY1CVC6/IMG-2403.png" group-title="🇹🇭 THAILAND",NBT 11 ภาคกลาง
+https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NBT.th" tvg-logo="https://i.postimg.cc/5t2GfnJV/IMG-2405.png" group-title="🇹🇭 THAILAND",NBT 11 ภาคใต้
+https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Mono 29.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/29.png" group-title="🇹🇭 THAILAND",Mono 29 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="🇹🇭 THAILAND",MONO29 (หนังพากย์ไทย)
+https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
+#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="🇹🇭 THAILAND",MONO29 (หนัง Soundtrack บรรยายไทย)
+https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Amarin_TV_HD_34_Logo.svg/2560px-Amarin_TV_HD_34_Logo.svg.png" group-title="🇹🇭 THAILAND",Amarin TV
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+
+#EXTINF:-1 tvg-id="ThairathTV32.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png" group-title="🇹🇭 THAILAND",Thairath TV
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+
+#EXTINF:-1 tvg-id="ThaiPBS3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png" group-title="🇹🇭 THAILAND",Thai PBS
+https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="PPTVHD36.th" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png" group-title="🇹🇭 THAILAND",PPTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/02_PPTVHD_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/vBd6X2MR/IMG-4474.png" group-title="🇹🇭 THAILAND",TSport 7 สำรอง
+https://gmmztv.v2h-cdn.com/ffef/gmmz-tsport7.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="🇹🇭 THAILAND",TRUE4U
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
+
+
+#EXTINF:-1 group-title="🇹🇭 THAILAND",ONE31 HD
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+
+
+#EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png" group-title="🇹🇭 THAILAND",GMM25
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/bdfd964c7fa447a8811f2a3c4ed3ef1c/playlist_ssaiM.m3u8
+
+#EXTINF:-1 tvg-id="Workpoint23.th" tvg-logo="https://i.postimg.cc/WzT9cJHK/IMG-2565.png" group-title="🇹🇭 THAILAND",Workpoint TV
+https://global-media.sooplive.com/live/workpoint/master.m3u8
+
+#EXTINF:-1 tvg-id="NationTV.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png" group-title="🇹🇭 THAILAND",Nation TV
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
+
+
+#EXTINF:-1 tvg-id="TNN.th" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png" group-title="🇹🇭 THAILAND",TNN 16 
+
+
+
+#EXTINF:-1 tvg-id="News1.th" tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png" group-title="🇹🇭 THAILAND",News 1
+https://server1.streamssl.com/stream/news1.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/qMJ7ff5h/IMG-3145.png" group-title="🇹🇭 THAILAND",Top News
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/63sPMnRJ/IMG-1854.png" group-title="🇹🇭 THAILAND",Cool Channel
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/GtRYFgq8/IMG-2429.png", Chiangrai Channel 
+
+
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/t4vQNs2p/IMG-1852.png", Cable 37 
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/LsTzr0jt/IMG-2585.png" group-title="🇹🇭 THAILAND",มวลชนทีวี
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Cable.us" tvg-logo="https://i.postimg.cc/d1k9hNx8/IMG-2059.png" group-title="🇹🇭 THAILAND",LS TV
+https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/chunklist.m3u
+
+#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/fLYkGVG6/IMG-2587.png" group-title="🇹🇭 THAILAND",Rama Channel
+https://ramach.ddns.net/live/ramalive/index.m3u8
+#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/65j5TRMw/IMG-1869.png" group-title="🇹🇭 THAILAND",ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Rchannel.th" tvg-logo="https://i.postimg.cc/qBwcfM7K/IMG-2841.png" group-title="🇹🇭 THAILAND",R-Channel
+http://180.180.243.239/streams/3/hls
+
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/mkbSf47L/IMG-1917.png" group-title="🇹🇭 THAILAND",DLTV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/XvRdfCLB/IMG-1916.png" group-title="🇹🇭 THAILAND",DLTV 2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/KzjwMC98/IMG-1918.png" group-title="🇹🇭 THAILAND",DLTV 3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/SRFK1LYC/IMG-1919.png" group-title="🇹🇭 THAILAND",DLTV 4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/15VHqysd/IMG-1920.png" group-title="🇹🇭 THAILAND",DLTV 5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/3w8mnhQY/IMG-1921.png" group-title="🇹🇭 THAILAND",DLTV 6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/VLtTnx8K/IMG-1922.png" group-title="🇹🇭 THAILAND",DLTV 7
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/pT9kxjVs/IMG-1923.png" group-title="🇹🇭 THAILAND",DLTV 8
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/FFy3Sp6j/IMG-1924.png" group-title="🇹🇭 THAILAND",DLTV 9
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/43cmgNkz/IMG-1925.png" group-title="🇹🇭 THAILAND",DLTV 10
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/DZ2FM22f/IMG-1926.png" group-title="🇹🇭 THAILAND",DLTV 11
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/1zRsWmRm/IMG-1927.png" group-title="🇹🇭 THAILAND",DLTV 12
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/Gh0RWJ3S/IMG-1928.png" group-title="🇹🇭 THAILAND",DLTV 13
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/vTYrT6GR/IMG-1929.png" group-title="🇹🇭 THAILAND",DLTV 14
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+#EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/MHfWy961/IMG-1930.png" group-title="🇹🇭 THAILAND",DLTV 15
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+
+
+<==== entertainment ====>
+
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/hvsjcMx3/IMG-3443.png" group-title="Entertainment บันเทิง",Mr.Bean Classic
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+https://shorturl.asia/jAf5V
+
+
+#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/brt0yS2H/IMG-2953.png" group-title="Entertainment บันเทิง",Amazing Show
+http://49.0.64.96:8007/AMAZING
+
+#EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/XvhXpRSc/IMG-2613.png" group-title="Entertainment บันเทิง",Gags
+https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Zee.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/BbcqTvHT/IMG-2990.png", Zee Nung
+https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CH8.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/RFVxDzJm/IMG-1839.png", Ch 8 Thailand 
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
+
+#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png" group-title="Entertainment บันเทิง",MOVIE 
+http://49.0.64.96:8007/IZAA
+
+#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/8C77gQvL/IMG-2955.png" group-title="Entertainment บันเทิง",Series
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/SERIES
+
+#EXTINF:-1 tvg-id="Vipa.th" tvg-logo="https://i.postimg.cc/DZjt5L9v/IMG-2681.png" group-title="Entertainment บันเทิง",VIPA
+https://tinyurl.com/yktektyy
+
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79f8g.png" group-title="Entertainment บันเทิง",HBO
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79nwv.png" group-title="Entertainment บันเทิง",HBO Hits
+
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79otR.png" group-title="Entertainment บันเทิง",HBO Family
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79IMN.png" group-title="Entertainment บันเทิง",HBO Signature
+
+
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png" group-title="Entertainment บันเทิง",Cinemax
+http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34572
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OmMBqEP.jpg" group-title="Entertainment บันเทิง",WARNER TV
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DqdXzQZ.jpg" group-title="Entertainment บันเทิง",WB FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew12.php
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFJDWGU.jpg" group-title="Entertainment บันเทิง",HITS ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJBO9Ww.jpg" group-title="Entertainment บันเทิง", thrill
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
+
+
+
+
+
+<==== การ์ตูน ====>
+
+#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/zDCqL8v7/IMG-2635.png" group-title="Cartoon การ์ตูน",Boom
+https://edge2a.v2h-cdn.com/boom-boom/boomerang.stream/chunklist_w1344938397.m3u8
+
+
+#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/Wz7qzMTG/IMG-2061.png" group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
+
+
+#EXTINF:-1 tvg-id="Dreamworks.us" tvg-logo="https://i.postimg.cc/xCPHdrVt/IMG-2929.png" group-title="Cartoon การ์ตูน",Dreemworld
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/cn.jpg" group-title="Cartoon การ์ตูน",Cartoon Network 
+
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/cartoonito.jpg" group-title="Cartoon การ์ตูน",CARTOONITO
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/0NMWJyk9/IMG-3451.webp" group-title="Cartoon การ์ตูน",Nick Jr.
+https://fl41.moveonjoy.com/NICK_JR/index.m3u8
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",NickToon
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
+
+#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png" group-title="Cartoon การ์ตูน",Cartoon
+http://49.0.64.96:8007/Cartoonumi
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Zoomoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Baby Shark TV
+https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Shaun the Sheep & Friends
+https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
+
+#EXTINF:-1 tvg-id="Moonbug.us" tvg-logo="https://i.postimg.cc/qvTvttzq/IMG-2049.png" group-title="Cartoon การ์ตูน",Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+
+
+<=== Documentary สารคดี ====>
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="Documentary สารคดี",XPLORE
+https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="Documentary สารคดี",Pet Collective1
+https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="Documentary สารคดี",PetClub TV2
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary สารคดี",Discovery Channel 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98872
+
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary สารคดี",Discovery Life
+https://fl31.moveonjoy.com/DISCOVERY_LIFE/playlist.m3u8
+
+#EXTINF:-1  group-title="Documentary สารคดี",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+http://179.63.6.15:8002/play/a02p
+
+#EXTINF:-1  group-title="Documentary สารคดี",HGTV 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://i.mjh.nz/.r/discovery-hgtv.m3u8
+
+#EXTINF:-1, group-title="Documentary สารคดี",HISTORY 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
+
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="Documentary สารคดี",History Channel 
+https://tvpass.org/live/HistoryEast/sd
+
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" group-title="Documentary สารคดี",National Geographic 
+https://tvpass.org/live/NationalGeographicEast/sd
+
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" group-title="Documentary สารคดี",National Wild
+https://tvpass.org/live/NationalGeographicWildEast/sd
+
+
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary สารคดี",Discovery Life
+
+
+#EXTINF:-1 group-title="Documentary สารคดี,LOVE NATURE
+http://103.229.254.25:7001/play/a0eu/index.m3u8
+
+
+
+
+
+
+
+<==== NEWS ====>
+
+#EXTINF:-1 group-title="News ข่าว",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Boomberg News
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Rusia Today
+https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",India News
+https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",BFM Business
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",BBC news
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000026/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",CNN 
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",CNN indo
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w951390649_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Fox Weather
+https://247wlive.foxweather.com/stream/index_1280x720.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Fox News
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",EuronNews
+https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Global News
+http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",BFM Business
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",Bloomberg HT
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+
+#EXTINF:-1 group-title="News ข่าว",CNBC Europe HD 
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+
+
+
+
+
+
+
+
+<==== MV-MUSIC ====>
+
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png" group-title="MUSIC",K-POP by CJ ENM
+https://jmp2.uk/stvp-US39000038W
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993046/400x225.jpg?type=channelTile" group-title="MUSIC",Movie Music By Stingray
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png" group-title="MUSIC",XITE 80s Flashback
+https://jmp2.uk/stvp-USBB320000647
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png" group-title="MUSIC",XITE 90s Throwback
+https://jmp2.uk/stvp-USBB3200007AK
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20250121T101057SQUARE.png" group-title="MUSIC",XITE Celebrates
+https://jmp2.uk/stvp-USBD350003932
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" group-title="MUSIC",XITE Hits
+https://jmp2.uk/stvp-USBD3300004RH
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="MUSIC",XITE Rock x Metal
+https://jmp2.uk/stvp-USBB2300004KV
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="MUSIC",Vevo '70s & '80s
+https://jmp2.uk/stvp-GBBD1900009UD
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="MUSIC",Vevo '90s & '00s
+https://jmp2.uk/stvp-GBBC2100002HP
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="MUSIC",Vevo Hip Hop & R&B
+https://jmp2.uk/stvp-GBBD2300001C0
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" group-title="MUSIC",Vevo Pop
+https://jmp2.uk/stvp-GBBC19000017V
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20250602T231528SQUARE.png" group-title="MUSIC",Vevo Rock
+https://jmp2.uk/stvp-USBD3000145P
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="MUSIC",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="MUSIC",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="MUSIC",Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20250121T101157SQUARE.png" group-title="MUSIC",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="MUSIC",Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="MUSIC",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xVVKH8.png" group-title="MUSIC",Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="MUSIC",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title="MUSIC",Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="MUSIC",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="MUSIC",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="MUSIC",Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="MUSIC",Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="MUSIC",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20250121T101219SQUARE.png" group-title="MUSIC",Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="MUSIC",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="MUSIC",Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ywAN923.png" group-title="MUSIC",Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="MUSIC",Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="MUSIC",Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="MUSIC",Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
