@@ -1913,7 +1913,16 @@ https://monomax-d1yqi0.cdn.byteark.com/fleetstream/ALURE/index.m3u8
 http://49.0.64.96:8007/H-Channel
 
 
-#EXTINF:-1 group-title="Movie"https://www.123hdtv.com/wp-content/uploads/2026/01/The-Real-Monkey-King-2026-300x450.png" ,The Real Monkey King (2026) คาถารัตเกล้าแห่งภูผาไร้อารยะ
+
+#EXTINF:-1 group-title="Movie" tvg-logo=https://www.imgx03.xyz/assets/movie_poster/7/74a7782a1d98ac85ccdb89d81c8de6d0.jpg" ,Exit 8 (2025) - ทางออกหมายเลข 8 ภาพมาสเตอร์ [ไทยโรง][ซับไทย]
+https://movie06.oneplayer.online:11231/api/video/Storage00%2FGXAYMiM%2FGXAYMiM_720.mp4
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo=https://www.imgx04.xyz/assets/movie_poster/7/76654e6a7b4f418cfbfc04344cd0a7df.jpg" ,ธี่หยด 3
+https://statics-02.duckduckcdn.com/ae710ee8-0681-507f-ad90-877f85f9b3fb/videos/1080p.m3u8
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo= https://www.123hdtv.com/wp-content/uploads/2026/01/The-Real-Monkey-King-2026-300x450.png" ,The Real Monkey King (2026) คาถารัตเกล้าแห่งภูผาไร้อารยะ
 https://main.24playerhd.com/newplaylist/391e9635963394c78a767ed0/391e9635963394c78a767ed0438.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2024/05/Deaw-Special-Super-Soft-Power-2024.jpg " ,Deaw Still Alive (2026) เดี่ยว สตีล อะไลฟ์
