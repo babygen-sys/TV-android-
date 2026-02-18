@@ -3,6 +3,8 @@
 #EXTVLCOPT:network-caching=1000
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
+#EXTINF:-1,ช่อง3 เทส
+http://203.146.252.216:2043/live/ch3hd.stream/chunks.m3u8?nimblesessionid=200417560&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDI2IDQ6MDc6MzYgQU0maGFzaF92YWx1ZT1pRkE3dFVSeGhnc1FEbW5CQS80RWtnPT0mdmFsaWRtaW51dGVzPTEwJmlkPW5rMDAxMXh4eHgxNzcxMzg3NjU2
 
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 
@@ -470,3 +472,44 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="MUSIC",Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+
+
+
+
+
+=========================================================
+
+
+
+
+
+#EXTINF:-1,🦾🦾🤼‍♂️🤼‍♂️ Boxing/Wrestling ====
+http://tvmate.icu:8080/69NpyV/884735/11645
+
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/VNyKZNHJ/IMG-3062.png" group-title="Special sports",WWE
+http://filex.me:8080//live/MAS101A/MAS101AABB/316938.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="Special sports",Fighting TV Samurai (JPN)
+https://nl.utako.moe/fighting_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/yYhn4sBc/IMG-4381.png" group-title="Special sports",Top Fight
+http://49.0.64.96:8007/TOPFIGHT
+
+#EXTINF:-1 group-title="Special sports",Swerve Combat
+https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
+
+#EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://i.postimg.cc/X7yvj7SP/IMG-2153.webp" group-title="Special sports",UFC
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
+#EXTINF:-1 group-title="Special sports",HIFIGHT
+http://49.0.64.96:8007/HIFIGHT
+
+#EXTINF:-1 tvg-id="BareKnuckle.us" tvg-logo="https://i.postimg.cc/8kF13fSc/IMG-2577.png" group-title="Special sports",Bare Knuckle tv
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/486.m3u8
+
+
+
+
+
+==========================================================
