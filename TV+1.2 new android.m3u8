@@ -3,6 +3,8 @@
 #EXTVLCOPT:network-caching=1000
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
+#EXTINF:-1,ช่อง3 เทส
+http://203.146.252.216:2043/live/ch3hd.stream/chunks.m3u8?nimblesessionid=200417560&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDI2IDQ6MDc6MzYgQU0maGFzaF92YWx1ZT1pRkE3dFVSeGhnc1FEbW5CQS80RWtnPT0mdmFsaWRtaW51dGVzPTEwJmlkPW5rMDAxMXh4eHgxNzcxMzg3NjU2
 
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 
@@ -518,7 +520,7 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSE
 
 
 #EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png" group-title= group-title="Special sports",🏁 F1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/4FTLMRQB8QAYPKMP33UUURAQ/19027/index.m3u8
+http://176.65.146.147:9981/stream/channelid/1156959236?profile=pass
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/onechampionship.png"tvg-id="OneChampionshipTv.id" ch-number="30" tvg-name="One Championship tv"group-title="Special sports",One Championship tv
@@ -729,6 +731,10 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
 #EXTINF:-1 group-title="Special sports",Grandstand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 http://31.43.191.125:8080/VIP013631728492140108/e2cb574703b1/34533
+
+#EXTINF:-1 group-title="Special sports",Sky Sport Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+http://176.65.146.147:9981/stream/channelid/325835343?profile=pass
 
 
 
