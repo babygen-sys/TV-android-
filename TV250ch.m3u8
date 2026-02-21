@@ -606,7 +606,12 @@ http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165867.ts
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165868.ts
 
 #EXTINF:-1 group-title="Special sports",CANAL+ SPORT 360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/370
+
+#EXTINF:-1 group-title="Special sports",CANAL+ SPORT 360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/132374
 
 #EXTINF:-1 group-title="Special sports",TNT SPORTS 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
