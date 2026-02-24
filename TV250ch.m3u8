@@ -678,44 +678,31 @@ https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
 
-#EXTINF:-1 group-title="Special sports",DAZN 1 DE
+
+#EXTINF:-1 group-title="Special sports",SPORT TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/332
+http://144.217.181.165/1gy6y6yhfgf/index.m3u8
+#EXTINF:-1 group-title="Special sports",SPORT TV 2
 
-#EXTINF:-1 group-title="Special sports",DAZN 2 DE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/333
+http://144.217.181.165/2vg567yhf54y/index.m3u8
+#EXTINF:-1 group-title="Special sports",SPORT TV 3
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://144.217.181.165/3vgyy7te4/index.m3u8
+#EXTINF:-1 group-title="Special sports",SPORT TV 4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Sport_TV_2023.svg" group-title="Special sports",SPORTDIGITAL FSBL
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/431
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://144.217.181.165/4v64rfy76t/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SPORTDIGITAL_FUSSBALL_HD.png" group-title="Special sports",DE: SPORTDIGITAL FUSSBALL
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135463
-
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SPORTDIGITAL_EDGE.png" group-title="Special sports",DE: SPORTDIGITAL EDGE
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135461
-
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SPORTDIGITAL_FUSSBALL_2_HD.png" group-title"Special sports",DE: SPORTDIGITAL FUSSBALL 2
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135462
-
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SPORTDIGITAL_SCOORE_FAST.png" group-title="Special sports",DE: SPORTDIGITAL SCOORE FAST
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135464
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/germany/new/SPORTDIGITAL1_HD.png" group-title="Special sports",DE: SPORTDIGITAL1+
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135465
+#EXTINF:-1 group-title="Special sports",SPORT TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://144.217.181.165/5rft56rhy7543/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/PfRN1hKX/IMG-3555.png" group-title="Special sports",4 Sports
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/1073
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/PfRN1hKX/IMG-3555.png" group-title="Special sports",4 Sports
 https://pepsi.abntv.live/hls/4spstream.m3u8
-
-#EXTINF:-1 group-title="Special sports",TRT SPORT
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/991
-
-#EXTINF:-1 group-title="Special sports",CANAL+ SPORT
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/127
 
 
 #EXTINF:-1 group-title="Special sports",Setanta Sports 1 Georgia
