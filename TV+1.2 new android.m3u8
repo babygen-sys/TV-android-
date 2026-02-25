@@ -625,9 +625,7 @@ https://love.baxen43035.workers.dev/lx-origin/my-spotv2_720/chunks.m3u8
 #EXTINF:-1 group-title="Special sports",TNT SPORTS 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://ww.dooballfree.vip/live/btsport1/playlist.m3u8
-#EXTINF:-1 group-title="Special sports",TNT SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/317
+
 #EXTINF:-1 group-title="Special sports",TNT Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://7pal.short.gy/tntspts1
@@ -635,26 +633,21 @@ https://7pal.short.gy/tntspts1
 #EXTINF:-1 group-title="Special sports",TNT SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://ww.dooballfree.vip/live/btsport2/playlist.m3u8
-#EXTINF:-1 group-title="Special sports",TNT SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/318
+
 #EXTINF:-1 group-title="Special sports",TNT Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://7pal.short.gy/tntspts2
 
 #EXTINF:-1 group-title="Special sports",TNT SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/319
-#EXTINF:-1 group-title="Special sports",TNT Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://7pal.short.gy/tntspts3
 
 #EXTINF:-1 group-title="Special sports",TNT SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/320
+https://7pal.short.gy/tntspts4
+
 #EXTINF:-1 group-title="Special sports",TNT Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://7pal.short.gy/tntspts4
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="Special sports",Prima Sport 1
