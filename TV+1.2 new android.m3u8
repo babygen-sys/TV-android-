@@ -603,6 +603,12 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/505
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/370
 
+
+#EXTINF:-1 group-title="Special sports",FOX sport 506
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://love.dewos65393.workers.dev/lx-origin/au-fox506_720/chunks.m3u8
+
+
 #EXTINF:-1 group-title="Special sports",Trans7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
@@ -621,24 +627,29 @@ http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165868.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://love.baxen43035.workers.dev/lx-origin/my-spotv2_720/chunks.m3u8
 
-
-#EXTINF:-1 group-title="Special sports",TNT SPORTS 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://ww.dooballfree.vip/live/btsport1/playlist.m3u8
-
-#EXTINF:-1 group-title="Special sports",TNT Sport 1
+#EXTINF:-1 group-title="Special sports",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://love.hamafola.workers.dev/lx-origin/uk-btsport1hd_720/chunks.m3u8
+#EXTINF:-1 group-title="Special sports",TNT Sport 1 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="Special sports",TNT Sport 1 สำรอง
+https://ww.dooballfree.vip/live/btsport1/playlist.m3u8
 
 #EXTINF:-1 group-title="Special sports",TNT SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://ww.dooballfree.vip/live/btsport2/playlist.m3u8
-
-#EXTINF:-1 group-title="Special sports",TNT Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://love.hamafola.workers.dev/lx-origin/uk-btsport2hd_720/chunks.m3u8
+#EXTINF:-1 group-title="Special sports",TNT Sport 2 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="Special sports",TNT Sport 2 สำรอง
+https://ww.dooballfree.vip/live/btsport2/playlist.m3u8
 
 #EXTINF:-1 group-title="Special sports",TNT SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://love.hamafola.workers.dev/lx-origin/uk-btsport3hd_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Special sports",TNT Sport สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://7pal.short.gy/tntspts3
 
@@ -646,8 +657,9 @@ https://7pal.short.gy/tntspts3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://7pal.short.gy/tntspts4
 
-#EXTINF:-1 group-title="Special sports",TNT Sport 4
+#EXTINF:-1 group-title="Special sports",TNT Sport 4 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="Special sports",Prima Sport 1
@@ -1719,8 +1731,8 @@ http://49.0.64.96:8007/Cartoonumi
 #EXTINF:-1 group-title="Entertainment บันเทิง", หนังยอดเยี่ยม
 http://49.0.64.96:8007/H-Channel
 
-
-
+#EXTINF:-1 group-title="Entertainment บันเทิง", Mono29MusicStation
+https://monomax-ye61nx.cdn.byteark.com/fleetstream/Mono29MusicStation/index.m3u8
 
 
 #EXTINF:-1,🤓🤓🤓Premium การ์ตูน ====>
@@ -1898,9 +1910,6 @@ https://monomax-bl9d80.cdn.byteark.com/fleetstream/RUSH/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ALURE" tvg-logo="http://45.144.165.187:8080/images/274ad4786c3abca69fa097b85867d9a4.png" group-title="Documentary สารคดี",ALURE
 https://monomax-d1yqi0.cdn.byteark.com/fleetstream/ALURE/index.m3u8
-
-
-
 
 
 
