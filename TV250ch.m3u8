@@ -599,10 +599,15 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/505
 
 ==========================================================
 
-
 #EXTINF:-1 group-title="Special sports",CANAL+ SPORT 360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/370
+
+
+#EXTINF:-1 group-title="Special sports",FOX sport 506
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://love.dewos65393.workers.dev/lx-origin/au-fox506_720/chunks.m3u8
+
 
 #EXTINF:-1 group-title="Special sports",Trans7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -622,24 +627,29 @@ http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165868.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://love.baxen43035.workers.dev/lx-origin/my-spotv2_720/chunks.m3u8
 
-
-#EXTINF:-1 group-title="Special sports",TNT SPORTS 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://ww.dooballfree.vip/live/btsport1/playlist.m3u8
-
-#EXTINF:-1 group-title="Special sports",TNT Sport 1
+#EXTINF:-1 group-title="Special sports",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://love.hamafola.workers.dev/lx-origin/uk-btsport1hd_720/chunks.m3u8
+#EXTINF:-1 group-title="Special sports",TNT Sport 1 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="Special sports",TNT Sport 1 สำรอง
+https://ww.dooballfree.vip/live/btsport1/playlist.m3u8
 
 #EXTINF:-1 group-title="Special sports",TNT SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://ww.dooballfree.vip/live/btsport2/playlist.m3u8
-
-#EXTINF:-1 group-title="Special sports",TNT Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://love.hamafola.workers.dev/lx-origin/uk-btsport2hd_720/chunks.m3u8
+#EXTINF:-1 group-title="Special sports",TNT Sport 2 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="Special sports",TNT Sport 2 สำรอง
+https://ww.dooballfree.vip/live/btsport2/playlist.m3u8
 
 #EXTINF:-1 group-title="Special sports",TNT SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://love.hamafola.workers.dev/lx-origin/uk-btsport3hd_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Special sports",TNT Sport สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://7pal.short.gy/tntspts3
 
@@ -647,7 +657,7 @@ https://7pal.short.gy/tntspts3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://7pal.short.gy/tntspts4
 
-#EXTINF:-1 group-title="Special sports",TNT Sport 4
+#EXTINF:-1 group-title="Special sports",TNT Sport 4 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
 
