@@ -553,6 +553,10 @@ https://tvpass.org/live/GolfChannel/sd
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/GOLF.png" group-title="Special sports",FR: GOLF+
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/624
 
+#EXTINF:-1 group-title="Ziggo Sports NL",SKY Sports Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://love.idhqxc0nl4.workers.dev/vx-origin/uk-skysports-golf_720/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA" group-title="Special sports",NBA TV USA
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/195
@@ -564,22 +568,14 @@ https://tvpass.org/live/NFLNetwork/sd
 #EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA" group-title="Special sports",NHL Network USA
 https://tvpass.org/live/NHLNetwork/sd
 
-
-
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/rsWxqwrs/IMG-3472.png" group-title="Special sports",TVRI Sport
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Special sports",SOCCER CHANEL 
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165923.ts
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstvtr.jpg" group-title="Special sports",SPORTS TV TURKEY
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
 
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/jS28DWnB/IMG-3332.png" group-title="Special sports",Eurosport 1 
 http://145.239.5.177/529/index.m3u8
