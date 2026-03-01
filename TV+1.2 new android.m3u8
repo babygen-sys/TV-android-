@@ -191,7 +191,8 @@ https://tinyurl.com/yktektyy
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79f8g.png" group-title="Entertainment บันเทิง",HBO
-https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
+http://flussictv.ddns.net:9091/HBO_EN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79nwv.png" group-title="Entertainment บันเทิง",HBO Hits
 
@@ -200,13 +201,15 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79IMN.png" group-title="Entertainment บันเทิง",HBO Signature
 
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png" group-title="Entertainment บันเทิง",Cinemax
-http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34572
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
+http://flussictv.ddns.net:9091/Cinemax_EN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DqdXzQZ.jpg" group-title="Entertainment บันเทิง",WB FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew12.php
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+
 
 
 
@@ -1493,18 +1496,27 @@ http://my.bianet.es.vip.hk:80///dDs/741433
 
 
 
+
 #EXTINF:-1 tvg-id="HBO.th" tvg-name="HBO TH" tvg-logo="http://45.144.165.187:8080/images/02533372af53048a55cf973c53c4ce87.png" group-title="Entertainment บันเทิง", HBO HD
-http://vipbhbiss.top:8080/VIP012171027704956/f7eb91dc3c1e/34571
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
+http://flussictv.ddns.net:9091/HBO_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="Entertainment บันเทิง", CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
+http://flussictv.ddns.net:9091/HBO_CINEMAX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Entertainment บันเทิง",Fox FX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
+http://flussictv.ddns.net:9091/Fox_FX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Entertainment บันเทิง",5 Star Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
+http://flussictv.ddns.net:9091/5STARMAX/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/RFGyFdqV/IMG-4186.png", HBO hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela4.live/
-https://live2.stream.liveplayback.net/dookeela/hbo-hits/chunks.m3u8
-
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1024px-HBO_Family_Asia_logo.svg.png", HBO family
-
-
 
 #EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/x85f9LV3/IMG-4185.png", HBO Signature 
 
