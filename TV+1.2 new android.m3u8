@@ -61,20 +61,17 @@ https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4431/02_PPTVHD_720p/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/vBd6X2MR/IMG-4474.png" group-title="🇹🇭 THAILAND",TSport 7 สำรอง
-https://gmmztv.v2h-cdn.com/ffef/gmmz-tsport7.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/vBd6X2MR/IMG-4474.png" group-title="🇹🇭 THAILAND",TSport 7 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://love.af4d1ygjfa.workers.dev/lx-origin/sd-tsports_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="🇹🇭 THAILAND",TRUE4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4431/02_TRUE4U_480p/playlist.m3u8?_t=1771564522983
-#EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="🇹🇭 THAILAND",TRUE4U
-https://d10bgskew2a68h.cloudfront.net/lx-origin/91/BixnvmU5YLVvAJnjkBXvsw/062c67be653960b56f0099e39015efb3/1771575860/sd-24u_480/chunks.m3u8
-
-
+#EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="🇹🇭 THAILAND",TRUE4U สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://love.dahobe7598.workers.dev/lx-origin/sd-24u_480/chunks.m3u8
 
 
 
