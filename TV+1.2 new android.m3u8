@@ -1484,8 +1484,6 @@ http://my.bianet.es.vip.hk:80///dDs/741432
 http://my.bianet.es.vip.hk:80///dDs/741433
 
 
-
-
 #EXTINF:-1 tvg-id="HBO.th" tvg-name="HBO TH" tvg-logo="http://45.144.165.187:8080/images/02533372af53048a55cf973c53c4ce87.png" group-title="Entertainment บันเทิง",HBO HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 http://flussictv.ddns.net:9091/HBOHD/tracks-v1a1/mono.m3u8
@@ -1494,9 +1492,24 @@ http://flussictv.ddns.net:9091/HBOHD/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 http://flussictv.ddns.net:9091/HBO_CINEMAX/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="Entertainment บันเทิง",CINEMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
+
+
+#EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="Entertainment บันเทิง",CINEMAX เทสระบบ 1
+
 http://49.0.64.96:8007/CINEMAX
+
+#EXTINF:-1,Cinemax เทสระบบ 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+http://49.0.64.96:8007/CINEMAX
+
+#EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="Entertainment บันเทิง",CINEMAX เทสระบบ 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+http://49.0.64.96:8007/CINEMAX|User-Agent=Dalvik/2.1.0 (Linux; U; Android 10)
+
+#EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="Entertainment บันเทิง",CINEMAX  เทสระบบ 4
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+http://49.0.64.96:8007/CINEMAX|User-Agent=IPTVSmartersPlayer
+
 
 #EXTINF:-1 group-title="Entertainment บันเทิง",Fox FX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
