@@ -215,19 +215,9 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
 <==== การ์ตูน ====>
 
-#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/zDCqL8v7/IMG-2635.png" group-title="Cartoon การ์ตูน",Boom
-https://lb-live-m.sky-cdn.com/mv/boomerang.m3u8?expires=1771938936&uta=G7aUMk9Yx-SOayhoUtFCQg
-
-
-#EXTINF:-1 tvg-id="Cable.th" tvg-logo="https://i.postimg.cc/Wz7qzMTG/IMG-2061.png" group-title="Cartoon การ์ตูน",BC Boomerang Cartoon
-
 #EXTINF:-1 group-title="Cartoon การ์ตูน",TOM & JERRY
 #EXTVLCOPT:network-caching=1000
 http://xxip9.top:8080/live/Jamesmcmillan%40att.net/Jamesmcmillan%402023/125635.ts
-
-
-#EXTINF:-1 tvg-id="Dreamworks.us" tvg-logo="https://i.postimg.cc/xCPHdrVt/IMG-2929.png" group-title="Cartoon การ์ตูน",Dreemworld
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/cn.jpg" group-title="Cartoon การ์ตูน",Cartoon Network 
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1052437
@@ -237,14 +227,10 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/1052437
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
 
-
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/0NMWJyk9/IMG-3451.webp" group-title="Cartoon การ์ตูน",Nick Jr.
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-
-#EXTINF:-1 group-title="Cartoon การ์ตูน",NickToon
-
 
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png" group-title="Cartoon การ์ตูน",Cartoon
 http://49.0.64.96:8007/Cartoonumi
@@ -260,6 +246,9 @@ https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
 
 #EXTINF:-1 tvg-id="Moonbug.us" tvg-logo="https://i.postimg.cc/qvTvttzq/IMG-2049.png" group-title="Cartoon การ์ตูน",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+
+
 
 
 
@@ -1499,7 +1488,7 @@ http://my.bianet.es.vip.hk:80///dDs/741433
 
 #EXTINF:-1 tvg-id="HBO.th" tvg-name="HBO TH" tvg-logo="http://45.144.165.187:8080/images/02533372af53048a55cf973c53c4ce87.png" group-title="Entertainment บันเทิง",HBO HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/HBO_HD/tracks-v1a1/mono.m3u8
+http://flussictv.ddns.net:9091/HBOHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="Entertainment บันเทิง",CINEMAX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
@@ -1609,8 +1598,30 @@ https://monomax-ye61nx.cdn.byteark.com/fleetstream/Mono29MusicStation/index.m3u8
 #EXTINF:-1,🤓🤓🤓Premium การ์ตูน ====>
 http://49.0.64.96:8007/Cartoonumi
 
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Dreemworld
+#EXTINF:-1 tvg-id="Bean.us" tvg-logo="https://i.postimg.cc/Ls6Z8Zhf/IMG-2441.png" group-title="Cartoon การ์ตูน",Mr.bean Cartoon
+https://amg00627-amg00627c23-samsung-th-5282.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Cartoon การ์ตูน",True Spark Play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
+http://flussictv.ddns.net:9091/True-sparkplay-TH/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cartoon การ์ตูน",ZooMoo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
+http://flussictv.ddns.net:9091/Zoomoo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Disney.us" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/8e/Disney_XD_-_2015.svg.png" group-title="Cartoon การ์ตูน",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-id="Toonami.us" tvg-logo="https://i.postimg.cc/XYpy8Bn8/IMG-2046.webp" group-title="Cartoon การ์ตูน",Toonami
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png" group-title="Cartoon การ์ตูน",Cartoonumi
+http://49.0.64.96:8007/Cartoonumi
+
+
+
+
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Dreemworld
 
 #EXTINF:-1 tvg-id="CN.us" tvg-logo="https://i.postimg.cc/MZr3y7sp/IMG-2974.png" group-title="Cartoon การ์ตูน",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
@@ -1624,20 +1635,6 @@ http://49.0.64.96:8007/Cartoonumi
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/MGhQMRqs/IMG-3760.png" group-title="Cartoon การ์ตูน",TOM & JERRY
 
 
-
-
-
-#EXTINF:-1 tvg-id="Disney.us" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/8e/Disney_XD_-_2015.svg.png" group-title="Cartoon การ์ตูน",Disney XD
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-
-#EXTINF:-1 tvg-id="Bean.us" tvg-logo="https://i.postimg.cc/Ls6Z8Zhf/IMG-2441.png" group-title="Cartoon การ์ตูน",Mr.bean Cartoon
-https://amg00627-amg00627c23-samsung-th-5282.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Toonami.us" tvg-logo="https://i.postimg.cc/XYpy8Bn8/IMG-2046.webp" group-title="Cartoon การ์ตูน",Toonami
-http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png" group-title="Cartoon การ์ตูน",Cartoonumi
-http://49.0.64.96:8007/Cartoonumi
 
 
 
