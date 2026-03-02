@@ -1506,6 +1506,7 @@ http://flussictv.ddns.net:9091/HBO_HD/tracks-v1a1/mono.m3u8
 http://flussictv.ddns.net:9091/HBO_CINEMAX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="Entertainment บันเทิง",CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
 http://49.0.64.96:8007/CINEMAX
 
 #EXTINF:-1 group-title="Entertainment บันเทิง",Fox FX
