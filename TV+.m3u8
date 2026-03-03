@@ -66,14 +66,11 @@ https://www.livedoomovies.com:4431/02_PPTVHD_720p/playlist.m3u8
 https://love.af4d1ygjfa.workers.dev/lx-origin/sd-tsports_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="🇹🇭 THAILAND",TRUE4U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4431/02_TRUE4U_480p/playlist.m3u8?_t=1771564522983
-#EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="🇹🇭 THAILAND",TRUE4U สำรอง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://love.dahobe7598.workers.dev/lx-origin/sd-24u_480/chunks.m3u8
+https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 
-
+#EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="🇹🇭 THAILAND",TRUE4U
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+http://flussictv.ddns.net:9091/True4U_digital/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="🇹🇭 THAILAND",ONE31 HD
 #EXTVLCOPT:network-caching=1000
@@ -90,9 +87,9 @@ https://global-media.sooplive.com/live/workpoint/master.m3u8
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 
 
-#EXTINF:-1 tvg-id="TNN.th" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png" group-title="🇹🇭 THAILAND",TNN 16 
-
-
+#EXTINF:-1 tvg-id="TNN.th" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png" group-title="🇹🇭 THAILAND",TNN 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://love.dahobe7598.workers.dev/lx-origin/sd-tnn24_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="News1.th" tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png" group-title="🇹🇭 THAILAND",News 1
 https://server1.streamssl.com/stream/news1.m3u8
@@ -223,11 +220,11 @@ http://xxip9.top:8080/live/Jamesmcmillan%40att.net/Jamesmcmillan%402023/125635.t
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1052437
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/cartoonito.jpg" group-title="Cartoon การ์ตูน",CARTOONITO
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
+
+
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/0NMWJyk9/IMG-3451.webp" group-title="Cartoon การ์ตูน",Nick Jr.
+
 
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
@@ -266,9 +263,14 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-sam
 #EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary สารคดี",Discovery Channel 
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98872
 
-#EXTINF:-1  group-title="Documentary สารคดี",ANIMAL PLANET
+#EXTINF:-1  group-title="Documentary สารคดี",ANIMAL PLANET 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 http://179.63.6.15:8002/play/a02p
+
+#EXTINF:-1  group-title="Documentary สารคดี",ANIMAL PLANET 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+http://202.169.224.202:8800/udp/239.9.1.7:1234
+
 
 #EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="Documentary สารคดี",History Channel 
 https://tvpass.org/live/HistoryEast/sd
@@ -422,8 +424,9 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 http://tvmate.icu:8080/69NpyV/884735/11645
 
 
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/VNyKZNHJ/IMG-3062.png" group-title="Special sports",WWE
-http://filex.me:8080//live/MAS101A/MAS101AABB/316938.ts
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/VNyKZNHJ/IMG-3062.png" group-title="Special sports",🤼 WWE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://love.2befubnq2w.workers.dev/vx-origin/us-wwe_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="Special sports",Fighting TV Samurai (JPN)
 https://nl.utako.moe/fighting_tv/index.m3u8
