@@ -81,7 +81,9 @@ https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/
 https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/bdfd964c7fa447a8811f2a3c4ed3ef1c/playlist_ssaiM.m3u8
 
 #EXTINF:-1 tvg-id="Workpoint23.th" tvg-logo="https://i.postimg.cc/WzT9cJHK/IMG-2565.png" group-title="🇹🇭 THAILAND",Workpoint TV
-https://global-media.sooplive.com/live/workpoint/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/02_WORKPOINT_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NationTV.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png" group-title="🇹🇭 THAILAND",Nation TV
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
@@ -212,9 +214,13 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
 <==== การ์ตูน ====>
 
+
 #EXTINF:-1 group-title="Cartoon การ์ตูน",TOM & JERRY
 #EXTVLCOPT:network-caching=1000
 http://xxip9.top:8080/live/Jamesmcmillan%40att.net/Jamesmcmillan%402023/125635.ts
+
+#EXTINF:-1 group-title="Cartoon การ์ตูน",Boom
+https://lb-live-m.sky-cdn.com/mv/boomerang.m3u8?expires=1772684261&uta=e2FyOa3noRKLkmFpHmKUfQ
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/cn.jpg" group-title="Cartoon การ์ตูน",Cartoon Network 
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1052437
@@ -411,43 +417,3 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="MUSIC",Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
-
-
-
-
-
-=========================================================
-
-
-
-#EXTINF:-1,🦾🦾🤼‍♂️🤼‍♂️ Boxing/Wrestling ====
-http://tvmate.icu:8080/69NpyV/884735/11645
-
-
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/VNyKZNHJ/IMG-3062.png" group-title="Special sports",🤼 WWE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://love.2befubnq2w.workers.dev/vx-origin/us-wwe_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="Special sports",Fighting TV Samurai (JPN)
-https://nl.utako.moe/fighting_tv/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/yYhn4sBc/IMG-4381.png" group-title="Special sports",Top Fight
-http://49.0.64.96:8007/TOPFIGHT
-
-#EXTINF:-1 group-title="Special sports",Swerve Combat
-https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
-
-#EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://i.postimg.cc/X7yvj7SP/IMG-2153.webp" group-title="Special sports",UFC
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
-
-#EXTINF:-1 group-title="Special sports",HIFIGHT
-http://49.0.64.96:8007/HIFIGHT
-
-#EXTINF:-1 tvg-id="BareKnuckle.us" tvg-logo="https://i.postimg.cc/8kF13fSc/IMG-2577.png" group-title="Special sports",Bare Knuckle tv
-https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/486.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/onechampionship.png"tvg-id="OneChampionshipTv.id" ch-number="30" tvg-name="One Championship tv"group-title="Special sports",One Championship tv
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-
-#EXTINF:-1 group-title="Special sports",RMC SPORT 1
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/154
