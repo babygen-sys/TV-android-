@@ -460,7 +460,6 @@ http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/154
 
 
 
-
 #EXTINF:-1 ,⚽🏁🏈🎾🏌️‍♂️Special sports 1===>
 #EXTVLCOPT:network-caching=1000
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSE
@@ -1494,9 +1493,11 @@ http://my.bianet.es.vip.hk:80///dDs/741432
 http://my.bianet.es.vip.hk:80///dDs/741433
 
 
+
+
 #EXTINF:-1 tvg-id="HBO.th" tvg-name="HBO TH" tvg-logo="http://45.144.165.187:8080/images/02533372af53048a55cf973c53c4ce87.png" group-title="Entertainment บันเทิง",HBO HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/HBOHD/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
+http://45.144.165.223:8080/live/m7smarter/1234/154020.ts?token=SBVYVBUNE14TVFNUDwJTVAVbUVNXBwIBVg5bAlYAVwBSAAcGVlAHVlBET0FKR0JTB1U8WQUSWwNUAlMABx9HFEBSQmoPARNeE1dRWg4RHBQSUQ5VQwpQBVYEVQUDC1NUHxVAXAJHCwpECg9PG1ZIQgNKDVENbwVXF18AVxUJCxRfWxwXCQtuAFQLAg1dEQoUVxpPEghDERBbWBZeWx9HA1pDQlQSABNeXxMPDxURU1kTVhdCGBJbEDV+QR4VVh0VVllDXAkLE14TEhBBFRFZRTlKBkMVQgRTDFMREA0RVUMfFV1UHjpSC18IBgBNWl9YFRpZElAAURBNFA5dWVoRDkFoQFwCRwsKRAoPHg==
 
 #EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="Entertainment บันเทิง",CINEMAX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
@@ -1630,14 +1631,11 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png" group-title="Cartoon การ์ตูน",Cartoonumi
 http://49.0.64.96:8007/Cartoonumi
 
-
-
-
-
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Dreemworld
 
 #EXTINF:-1 tvg-id="CN.us" tvg-logo="https://i.postimg.cc/MZr3y7sp/IMG-2974.png" group-title="Cartoon การ์ตูน",Cartoon Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+#EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
+http://117.18.127.253:8080/live/m7smarter/1234/2772.ts?token=SBVYVBUNE14TVAdWXQZRAgQLUwcEUQNXBQZSUwZSV1BVAQYDUQZTUFJET0FKR0JTB1U8WQUSWwBWAVEeFUYWBEFoWVFEXxNVA19UQRURRF8LXUEKUAdWAFcBVgADA0lDQ15UF1wLRAhdSkEGQUdVRAhZD28FVRdbAlNBCFlGCQ0fFV9bOQFUCVAIB0EDEQEUShoKQxESW1wUWg8eFVEMFUFWRFBEX18RXQpPQVpcRVgSShoSWxI1ekMaQVdPRwAPQF5fW0RfExBCRE9BUEBvRANLF0IEUQxXExRZEAcRSUNeVkhqBQpfClQFFwpWXUMUXBpSAFESTRAMWQ1bQ1wXPkNeVBdcC0QIXRs=
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/0NMWJyk9/IMG-3451.webp" group-title="Cartoon การ์ตูน",Nick Jr.
 
