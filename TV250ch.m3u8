@@ -3,6 +3,10 @@
 #EXTVLCOPT:network-caching=1000
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
 
+#EXTINF:-1 ,เทส DRM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 
 #EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 THAILAND",CH3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -189,9 +193,14 @@ http://49.0.64.96:8007/SERIES
 #EXTINF:-1 tvg-id="Vipa.th" tvg-logo="https://i.postimg.cc/DZjt5L9v/IMG-2681.png" group-title="Entertainment บันเทิง",VIPA
 https://tinyurl.com/yktektyy
 
+#EXTINF:-1 group-title="Entertainment บันเทิง" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png",HBO
+http://1tv41.icu:8080/30796360/97446561/9264
+
+#EXTINF:-1 group-title="Entertainment บันเทิง" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png",HBO 2 
+http://1tv41.icu:8080/30796360/97446561/9816
+
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79f8g.png" group-title="Entertainment บันเทิง",HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/HBO_EN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79nwv.png" group-title="Entertainment บันเทิง",HBO Hits
 
@@ -417,6 +426,397 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="MUSIC",Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+
+
+
+
+
+=========================================================
+
+
+
+#EXTINF:-1,🦾🦾🤼‍♂️🤼‍♂️ Boxing/Wrestling ====
+http://tvmate.icu:8080/69NpyV/884735/11645
+
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/VNyKZNHJ/IMG-3062.png" group-title="Special sports",🤼 WWE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://love.2befubnq2w.workers.dev/vx-origin/us-wwe_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="Special sports",Fighting TV Samurai (JPN)
+https://nl.utako.moe/fighting_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/yYhn4sBc/IMG-4381.png" group-title="Special sports",Top Fight
+http://49.0.64.96:8007/TOPFIGHT
+
+#EXTINF:-1 group-title="Special sports",Swerve Combat
+https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
+
+#EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://i.postimg.cc/X7yvj7SP/IMG-2153.webp" group-title="Special sports",UFC
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
+#EXTINF:-1 group-title="Special sports",HIFIGHT
+http://49.0.64.96:8007/HIFIGHT
+
+#EXTINF:-1 tvg-id="BareKnuckle.us" tvg-logo="https://i.postimg.cc/8kF13fSc/IMG-2577.png" group-title="Special sports",Bare Knuckle tv
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/486.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/onechampionship.png"tvg-id="OneChampionshipTv.id" ch-number="30" tvg-name="One Championship tv"group-title="Special sports",One Championship tv
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 group-title="Special sports",RMC SPORT 1
+http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/154
+
+
+
+#EXTINF:-1 ,⚽🏁🏈🎾🏌️‍♂️Special sports 1===>
+#EXTVLCOPT:network-caching=1000
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSE
+
+
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png" group-title= group-title="Special sports",🏁 F1
+http://176.65.146.147:9981/stream/channelid/1156959236?profile=pass
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/StrongmanChampions.png" group-title="Special sports",Strongman Champions League
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="Moo.th" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png" group-title="Special sports",Hi Sport
+http://49.0.64.96:8007/HiSports
+
+
+#EXTINF:-1 group-title="Special sports",RACING MAG
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
+
+#EXTINF:-1 group-title="Special sports",RACING
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
+
+#EXTINF:-1 group-title="Special sports",SKY SPORTS RACING
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/1676
+
+#EXTINF:-1 group-title="Special sports",RACING.LIVE
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/25038
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DDilbWW.jpg" group-title="Special sports",Horse and Country TV
+#EXTVLCOPT:network-caching=1000
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPwZaN6.jpg" group-title="Special sports",HORSE TV
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FuY7wEZ.jpg" group-title="Special sports",BILLIYARD TV
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bbWhcdO.jpg" group-title="Special sports",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0hBl6C.jpg" group-title="Special sports",FISHING TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AVvISbb.jpg" group-title="Special sports",JUST FISHING
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b33085897b9d000702b72e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e2704-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=40e61b35-9683-4394-86ae-756247e07690
+
+
+#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA" group-title="Special sports",Golf Channel USA
+https://tvpass.org/live/GolfChannel/sd
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/GOLF.png" group-title="Special sports",FR: GOLF+
+http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/624
+
+#EXTINF:-1 tvg-id="nba-tv-usa"tvg-name="NBA TV USA"group-title="Special sports",🏀 NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://love.1yoeo8rt7b.workers.dev/vx-origin/us-nba_720/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" group-title="Special sports",NFL Network
+https://tvpass.org/live/NFLNetwork/sd
+
+#EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA" group-title="Special sports",NHL Network USA
+https://tvpass.org/live/NHLNetwork/sd
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/rsWxqwrs/IMG-3472.png" group-title="Special sports",TVRI Sport
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Special sports",SOCCER CHANEL 
+http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165923.ts
+
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/sports/sportstvtr.jpg" group-title="Special sports",SPORTS TV TURKEY
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/jS28DWnB/IMG-3332.png" group-title="Special sports",Eurosport 1 
+http://145.239.5.177/529/index.m3u8
+ 
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/zBrSF33z/IMG-3333.png" group-title="Special sports",Eurosport 2 
+http://145.239.5.177/530/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/ZR75p0QB/IMG-2907.png" group-title="Special sports",ESPN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/503
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/fRs20D30/IMG-3713.png" group-title="Special sports",ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://fl2.moveonjoy.com/ESPN_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/227dacbe84acf0df2b21279e1f75d2c2.png" group-title="Special sports",ESPN 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/505
+
+
+==========================================================
+
+#EXTINF:-1 group-title="Special sports",CANAL+ SPORT 360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/370
+
+#EXTINF:-1 group-title="Special sports",FOX sport 506
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://love.dewos65393.workers.dev/lx-origin/au-fox506_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.bananacake.org/images/png/my-spotv1.png" group-title="Special sports",SPOTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165867.ts
+#EXTINF:-1 tvg-logo="https://api.bananacake.org/images/png/my-spotv1.png" group-title="Special sports",SPOTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://love.baxen43035.workers.dev/lx-origin/my-spotv1_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.bananacake.org/images/png/my-spotv2.png" group-title="Special sports",SPOTV 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165868.ts
+#EXTINF:-1 tvg-logo="https://api.bananacake.org/images/png/my-spotv2.png" group-title="Special sports",SPOTV 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://love.baxen43035.workers.dev/lx-origin/my-spotv2_720/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Special sports",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://love.hamafola.workers.dev/lx-origin/uk-btsport1hd_720/chunks.m3u8
+#EXTINF:-1 group-title="Special sports",TNT Sport 1 สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="Special sports",TNT Sport 1 สำรอง
+https://ww.dooballfree.vip/live/btsport1/playlist.m3u8
+
+#EXTINF:-1 group-title="Special sports",TNT SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://love.hamafola.workers.dev/lx-origin/uk-btsport2hd_720/chunks.m3u8
+#EXTINF:-1 group-title="Special sports",TNT Sport 2 สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="Special sports",TNT Sport 2 สำรอง
+https://ww.dooballfree.vip/live/btsport2/playlist.m3u8
+
+#EXTINF:-1 group-title="Special sports",TNT SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://love.hamafola.workers.dev/lx-origin/uk-btsport3hd_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Special sports",TNT Sport สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://7pal.short.gy/tntspts3
+
+#EXTINF:-1 group-title="Special sports",TNT SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://7pal.short.gy/tntspts4
+
+#EXTINF:-1 group-title="Special sports",TNT Sport 4 สำรอง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="Special sports",Prima Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
+https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049" group-title="Special sports",Prima Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="Special sports",Prima Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_4_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050947" group-title="Special sports",Prima Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
+https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtY8Rc2n6SO5ac7An15amazpi-zbuVUz31g&s" group-title="Special sports",Prima Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
+https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
+
+
+#EXTINF:-1 group-title="Special sports",SPORT TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://144.217.181.165/1gy6y6yhfgf/index.m3u8
+#EXTINF:-1 group-title="Special sports",SPORT TV 2
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://144.217.181.165/2vg567yhf54y/index.m3u8
+#EXTINF:-1 group-title="Special sports",SPORT TV 3
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://144.217.181.165/3vgyy7te4/index.m3u8
+#EXTINF:-1 group-title="Special sports",SPORT TV 4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://144.217.181.165/4v64rfy76t/index.m3u8
+
+#EXTINF:-1 group-title="Special sports",SPORT TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://144.217.181.165/5rft56rhy7543/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/PfRN1hKX/IMG-3555.png" group-title="Special sports",4 Sports
+https://pepsi.abntv.live/hls/4spstream.m3u8
+
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/wMj6cfct/IMG-3777.png" group-title="Special sports",Hub Premier 1
+
+#EXTINF:-1  tvg-name="Hub Premier 2 FHD" tvg-id="Hub.Premier.2.sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-title="Special sports" radio="false",Hub Premier 2 
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/NfVgmxyM/IMG-3779.png" group-title="Special sports",Hub Premier 3
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/NGZ0djCv/IMG-4155.png" group-title="Special sports",Hub Premier 4
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/L43yTJ8f/IMG-4157.png" group-title="Special sports",Hub Premier 5
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="Special sports",J Sport 1 (JPN)
+https://nl.utako.moe/js1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="Special sports",J Sport 2 (JPN)
+https://nl.utako.moe/js2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="Special sports",J Sport 3 (JPN)
+https://nl.utako.moe/js3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="Special sports",J Sport 4 (JPN)
+https://nl.utako.moe/js4/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",Sony TEN 1 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98861
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",Sony TEN 2 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98862
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",Sony TEN 3 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98863
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",Sony TEN 5 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98870
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",STAR SPORTS 1
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98864
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",STAR SPORTS 
+https://starsportshindiii.pages.dev/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",STAR SPORTS 2 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98865
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports,STAR SPORTS 1 HINDI 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98866
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",STAR SPORTS SELECT 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98867
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Special sports",START SPORTS SELECT 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98868
+
+
+#EXTINF:-1 group-title="Special sports",Sky Sport Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+http://176.65.146.147:9981/stream/channelid/325835343?profile=pass
+
+#EXTINF:-1 group-title="Special sports",Setanta Sports 1 Georgia
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+
+
+#EXTINF:-1 group-title="Special sports",HUB Premier 1
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112231
+#EXTINF:-1 group-title="Special sports",HUB Premier 2
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112229
+#EXTINF:-1 group-title="Special sports",HUB Premier 3
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112228
+#EXTINF:-1 group-title="Special sports",HUB Premier 4
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112227
+#EXTINF:-1 group-title="Special sports",HUB Premier 5
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112226
+
+
+#EXTINF:-1  tvg-name="Now Sports PL 1 FHD" tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/now-sports-hk.png?raw=true" group-title="Special sports" radio="false",Now Sports PL 
+https://a1xs.vip/1100001
+
+#EXTINF:-1 group-title="Special sports",Now Sports 1 
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200
+#EXTINF:-1 group-title="Special sports",Now Sports 2
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112194
+#EXTINF:-1 group-title="Special sports",Now Sports 3
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112199
+#EXTINF:-1 group-title="Special sports",Now Sports 4
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112198
+#EXTINF:-1 group-title="Special sports",Now Sports 5
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112197
+#EXTINF:-1 group-title="Special sports",Now Sports 6
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112196
+
+
+#EXTINF:-1 group-title="Special sports",FR: CANAL+ FOOT
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/369
+#EXTINF:-1 group-title="Special sports",FR: CANAL+ SPORT 360
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/370
+#EXTINF:-1 group-title="Special sports",FR: CANAL+ SPORT
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/371
+#EXTINF:-1 group-title="Special sports",FR: CANAL+ LIVE 1
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/128997
+#EXTINF:-1 group-title="Special sports",FR: CANAL+ LIVE 2
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/128998
+#EXTINF:-1 group-title="Special sports",FR: CANAL+ LIVE 3
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/128999
+#EXTINF:-1 group-title="Special sports",FR: CANAL+ LIVE 4
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129000
+#EXTINF:-1 group-title="Special sports" ,FR: CANAL+ LIVE 5
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129001
+#EXTINF:-1 group-title="Special sports" ,FR: CANAL+ LIVE 6
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129002
+#EXTINF:-1 group-title="Special sports",FR: CANAL+ LIVE 7
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129003
+#EXTINF:-1group-title="Special sports" ,FR: CANAL+ LIVE 8
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129004
+#EXTINF:-1 group-title="Special sports",FR: CANAL+ LIVE 9
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129005
+#EXTINF:-1 group-title="Special sports",FR: CANAL+ LIVE 10
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129006
+#EXTINF:-1 group-title="Special sports",FR: CANAL+ LIVE 11
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129007
+#EXTINF:-1 group-title="Special sports",FR: CANAL+ LIVE 12
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129008
+#EXTINF:-1 group-title="Special sports",FR: CANAL+ LIVE 13
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129009
+#EXTINF:-1 group-title="Special sports",FR: CANAL+ LIVE 14
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129010
+#EXTINF:-1 group-title="Special sports",FR: CANAL+ LIVE 15
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129011
+#EXTINF:-1 group-title="Special sports",FR: CANAL+ LIVE 16
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129012
+#EXTINF:-1 group-title="Special sports",FR: CANAL+ LIVE 17
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129013
+#EXTINF:-1 group-title="Special sports",FR: CANAL+ LIVE 18
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129014
+#EXTINF:-1 group-title="Special sports",FR: CANAL+ LIVE 19
+http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/129015
 
 
 
