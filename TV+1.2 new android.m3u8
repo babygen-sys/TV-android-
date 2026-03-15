@@ -1555,32 +1555,61 @@ https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 http://flussictv.ddns.net:9091/True_Series/tracks-v1a1/mono.m3u8
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง", trueMOVIEHITS
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="Film HD " tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="Entertainment บันเทิง",True Film 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/True_Film_HD1/index.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+#https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truefilm1.m3u8
+https://love.pifipa2974.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TrueFilm2.th" tvg-name="True Film HD2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="Entertainment บันเทิง",True Film 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/True_Film_HD2/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+#https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truefilm2.m3u8
+https://love.pifipa2974.workers.dev/lx-origin/hd-tfilm2_480/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/05dWqkcm/IMG-4087.png" group-title="Entertainment บันเทิง",True Thai Film
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/True_Thai_Film/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/dQmt3Xjq/IMG-4243.png" group-title="Entertainment บันเทิง",True Asian More
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/True_Asian_More/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="Entertainment บันเทิง",True Film Asia
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/True_Film_Asia_HD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="CCM.cn" tvg-logo="https://i.postimg.cc/MGknscth/IMG-2909.png" group-title="Entertainment บันเทิง",Celestial Classic Movie
 
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/J4X8T3Sm/IMG-4177.png" group-title="Entertainment บันเทิง",True Movie Hits
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/movie-hits/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+#https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truemoviehits.m3u8
+https://love.pifipa2974.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8
+
 
 
 #EXTINF:-1 group-title="Entertainment บันเทิง",True Film Celebration
