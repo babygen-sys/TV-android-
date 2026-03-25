@@ -224,8 +224,9 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 #EXTVLCOPT:network-caching=1000
 http://xxip9.top:8080/live/Jamesmcmillan%40att.net/Jamesmcmillan%402023/125635.ts
 
-#EXTINF:-1 group-title="Cartoon การ์ตูน",Boom
-https://lb-live-m.sky-cdn.com/mv/boomerang.m3u8?expires=1772684261&uta=e2FyOa3noRKLkmFpHmKUfQ
+#EXTINF:-1 tvg-id="channel1" group-title="Cartoon การ์ตูน",Boom 
+#EXTVLCOPT:http-user-agent=IPtvDRM Player
+http://mooseven.ddns.net:8080/blive/blivetv/255834
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/cn.jpg" group-title="Cartoon การ์ตูน",Cartoon Network 
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1052437
@@ -1560,23 +1561,7 @@ http://flussictv.ddns.net:9091/True_Series/tracks-v1a1/mono.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง", trueMOVIEHITS
-
-
 
 
 
@@ -1588,9 +1573,9 @@ http://flussictv.ddns.net:9091/True_Series/tracks-v1a1/mono.m3u8
 https://love.pifipa2974.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TrueFilm2.th" tvg-name="True Film HD2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="Entertainment บันเทิง",True Film 2
-#EXTVLCOPT:http-referrer=https://github.com/
-#https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truefilm2.m3u8
-https://love.pifipa2974.workers.dev/lx-origin/hd-tfilm2_480/chunks.m3u8
+#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
+http://119.59.118.168/live/ch55/irannahee/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/05dWqkcm/IMG-4087.png" group-title="Entertainment บันเทิง",True Thai Film
