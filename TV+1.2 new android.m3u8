@@ -1764,17 +1764,16 @@ http://49.0.64.96:8007/H-Channel
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.doo-nang.com/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/the-red-line-2026--20482",เส้นตาย สายลวง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://statics-02.duckduckcdn.com/06cbf0c4-a6c9-5ab7-93a6-110e828e9453/videos/1080p.m3u8
+https://statics-02.duckduckcdn.com/06cbf0c4-a6c9-5ab7-93a6-110e828e9453/audio-default/audio.m3u8
+
 
 
 #EXTINF:-1 tvg-name="อนงค์ 2..สามสี่ชาติ" group-title="Movie" tvg-logo="https://statics-01.duckduckcdn.com/96faa690-5174-5903-8f73-c67672267596/poster.jpg",อนงค์ 2..สามสี่ชาติ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://statics-01.duckduckcdn.com/96faa690-5174-5903-8f73-c67672267596/videos/1080p.m3u8
+https://api.doo-nang.com/video/96faa690-5174-5903-8f73-c67672267596/playlist.m3u8
 
 
 
-
-#EXTM3U
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.imgx03.xyz/assets/movie_poster/7/74a7782a1d98ac85ccdb89d81c8de6d0.jpg", Exit 8 (2025) - ทางออกหมายเลข 8 ภาพมาสเตอร์ [ไทยโรง][ซับไทย]
 https://movie06.oneplayer.online:11231/api/video/Storage00%2FGXAYMiM%2FGXAYMiM_720.mp4
