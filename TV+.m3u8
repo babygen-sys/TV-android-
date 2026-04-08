@@ -49,12 +49,6 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/play
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
-#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="ช่องทีวีไทย",MONO29 (หนังพากย์ไทย)
-https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="ช่องทีวีไทย",MONO29 (หนัง Soundtrack บรรยายไทย)
-https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Amarin34HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Amarin_TV_HD_34_Logo.svg/2560px-Amarin_TV_HD_34_Logo.svg.png" group-title="ช่องทีวีไทย",Amarin TV
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 
@@ -171,3 +165,299 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 
 #EXTINF:-1 tvg-id="DLTV.th" tvg-logo="https://i.postimg.cc/MHfWy961/IMG-1930.png" group-title="ช่องทีวีไทย",DLTV 15
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+
+
+#EXTINF:-1 tvg-id="channel1" group-title="ช่องทีวีไทย",Boom 
+#EXTVLCOPT:http-user-agent=IPtvDRM Player
+http://mooseven.ddns.net:8080/blive/blivetv/255834
+
+#EXTINF:-1 tvg-id="Zee.th" group-title="ช่องทีวีไทย" tvg-logo="https://i.postimg.cc/BbcqTvHT/IMG-2990.png", Zee Nung
+https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CH8.th" group-title="ช่องทีวีไทย" tvg-logo="https://i.postimg.cc/RFVxDzJm/IMG-1839.png", Ch 8 Thailand 
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
+
+#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png" group-title="ช่องทีวีไทย",MOVIE 
+http://49.0.64.96:8007/IZAA
+
+#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/8C77gQvL/IMG-2955.png" group-title="ช่องทีวีไทย",Series
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/SERIES
+
+#EXTINF:-1 tvg-id="Vipa.th" tvg-logo="https://i.postimg.cc/DZjt5L9v/IMG-2681.png" group-title="ช่องทีวีไทย",VIPA
+https://tinyurl.com/yktektyy
+
+#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="ช่องทีวีไทย",MONO29 (หนังพากย์ไทย)
+https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="ช่องทีวีไทย",MONO29 (หนัง Soundtrack บรรยายไทย)
+https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
+
+
+
+
+
+<==== ช่องทีวีต่างประเทศ ====>
+
+
+==== บันเทิง ====
+
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/hvsjcMx3/IMG-3443.png" group-title="ช่องทีวีต่างประเทศ",Mr.Bean Classic
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+https://shorturl.asia/jAf5V
+
+#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/brt0yS2H/IMG-2953.png" group-title="ช่องทีวีต่างประเทศ",Amazing Show
+http://49.0.64.96:8007/AMAZING
+
+#EXTINF:-1 tvg-id="FW.th" tvg-logo="https://i.postimg.cc/XvhXpRSc/IMG-2613.png" group-title="ช่องทีวีต่างประเทศ",Gags
+https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png",HBO
+http://1tv41.icu:8080/30796360/97446561/9264
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png",HBO 2 
+http://1tv41.icu:8080/30796360/97446561/9816
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79f8g.png" group-title="ช่องทีวีต่างประเทศ",HBO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79nwv.png" group-title="ช่องทีวีต่างประเทศ",HBO Hits
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79otR.png" group-title="ช่องทีวีต่างประเทศ",HBO Family
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79IMN.png" group-title="ช่องทีวีต่างประเทศ",HBO Signature
+
+#EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png" group-title="ช่องทีวีต่างประเทศ",Cinemax
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
+http://flussictv.ddns.net:9091/Cinemax_EN/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DqdXzQZ.jpg" group-title="ช่องทีวีต่างประเทศ",WB FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew12.php
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+
+
+==== บันเทิง ====
+
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",TOM & JERRY
+#EXTVLCOPT:network-caching=1000
+http://xxip9.top:8080/live/Jamesmcmillan%40att.net/Jamesmcmillan%402023/125635.ts
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/cn.jpg" group-title="ช่องทีวีต่างประเทศ",Cartoon Network 
+http://www.alhaiba.com/6V1N24N/LE49Y1F/1052437
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/cartoonito.jpg" group-title="ช่องทีวีต่างประเทศ",CARTOONITO
+
+#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/0NMWJyk9/IMG-3451.webp" group-title="ช่องทีวีต่างประเทศ",Nick Jr.
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png" group-title="ช่องทีวีต่างประเทศ",Cartoon
+http://49.0.64.96:8007/Cartoonumi
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Zoomoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Baby Shark TV
+https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Shaun the Sheep & Friends
+https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
+
+#EXTINF:-1 tvg-id="Moonbug.us" tvg-logo="https://i.postimg.cc/qvTvttzq/IMG-2049.png" group-title="ช่องทีวีต่างประเทศ",Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+
+
+==== สารคดี ====
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="ช่องทีวีต่างประเทศ",XPLORE
+https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="ช่องทีวีต่างประเทศ",Pet Collective1
+https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="ช่องทีวีต่างประเทศ",PetClub TV2
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="ช่องทีวีต่างประเทศ",Discovery Channel 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/98872
+
+#EXTINF:-1  group-title="ช่องทีวีต่างประเทศ",ANIMAL PLANET 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, Gecko) Chrome/144.0.0.0 Safari/537.36
+http://179.63.6.15:8002/play/a02p
+
+#EXTINF:-1  group-title="ช่องทีวีต่างประเทศ",ANIMAL PLANET 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, Gecko) Chrome/144.0.0.0 Safari/537.36
+http://202.169.224.202:8800/udp/239.9.1.7:1234
+
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="ช่องทีวีต่างประเทศ",History Channel 
+https://tvpass.org/live/HistoryEast/sd
+
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" group-title="ช่องทีวีต่างประเทศ",National Geographic 
+https://tvpass.org/live/NationalGeographicEast/sd
+
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" group-title="ช่องทีวีต่างประเทศ",National Wild
+https://tvpass.org/live/NationalGeographicWildEast/sd
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",LOVE NATURE
+http://103.229.254.25:7001/play/a0eu/index.m3u8
+
+
+
+==== ข่าวต่างประเทศ ====
+
+
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Boomberg News
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Rusia Today
+https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",BFM Business
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",BBC news
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",CNN 
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",CNN indo
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w951390649_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Fox Weather
+https://247wlive.foxweather.com/stream/index_1280x720.m3u8
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Fox News
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Al Jazeera
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",ABC News
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Global News
+http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ",Bloomberg HT
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+
+
+
+==== เพลงต่างประเทศ ====
+
+
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png" group-title="ช่องทีวีต่างประเทศ",K-POP by CJ ENM
+https://jmp2.uk/stvp-US39000038W
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993046/400x225.jpg?type=channelTile" group-title="ช่องทีวีต่างประเทศ",Movie Music By Stingray
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png" group-title="ช่องทีวีต่างประเทศ",XITE 80s Flashback
+https://jmp2.uk/stvp-USBB320000647
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png" group-title="ช่องทีวีต่างประเทศ",XITE 90s Throwback
+https://jmp2.uk/stvp-USBB3200007AK
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20250121T101057SQUARE.png" group-title="ช่องทีวีต่างประเทศ",XITE Celebrates
+https://jmp2.uk/stvp-USBD350003932
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" group-title="ช่องทีวีต่างประเทศ",XITE Hits
+https://jmp2.uk/stvp-USBD3300004RH
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="ช่องทีวีต่างประเทศ",XITE Rock x Metal
+https://jmp2.uk/stvp-USBB2300004KV
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="ช่องทีวีต่างประเทศ",Vevo '70s & '80s
+https://jmp2.uk/stvp-GBBD1900009UD
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="ช่องทีวีต่างประเทศ",Vevo '90s & '00s
+https://jmp2.uk/stvp-GBBC2100002HP
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="ช่องทีวีต่างประเทศ",Vevo Hip Hop & R&B
+https://jmp2.uk/stvp-GBBD2300001C0
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" group-title="ช่องทีวีต่างประเทศ",Vevo Pop
+https://jmp2.uk/stvp-GBBC19000017V
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20250602T231528SQUARE.png" group-title="ช่องทีวีต่างประเทศ",Vevo Rock
+https://jmp2.uk/stvp-USBD3000145P
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="ช่องทีวีต่างประเทศ",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="ช่องทีวีต่างประเทศ",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="ช่องทีวีต่างประเทศ",Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20250121T101157SQUARE.png" group-title="ช่องทีวีต่างประเทศ",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="ช่องทีวีต่างประเทศ",Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="ช่องทีวีต่างประเทศ",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xVVKH8.png" group-title="ช่องทีวีต่างประเทศ",Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="ช่องทีวีต่างประเทศ",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title="ช่องทีวีต่างประเทศ",Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="ช่องทีวีต่างประเทศ",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="ช่องทีวีต่างประเทศ",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="ช่องทีวีต่างประเทศ",Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="ช่องทีวีต่างประเทศ",Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="ช่องทีวีต่างประเทศ",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20250121T101219SQUARE.png" group-title="ช่องทีวีต่างประเทศ",Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="ช่องทีวีต่างประเทศ",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="ช่องทีวีต่างประเทศ",Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ywAN923.png" group-title="ช่องทีวีต่างประเทศ",Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="ช่องทีวีต่างประเทศ",Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="ช่องทีวีต่างประเทศ",Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="ช่องทีวีต่างประเทศ",Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
