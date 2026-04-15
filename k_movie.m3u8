@@ -1,0 +1,975 @@
+#EXTINF:-1 tvg-logo="https://statics-02.duckduckcdn.com/06cbf0c4-a6c9-5ab7-93a6-110e828e9453/poster.jpg" group-title="Movie",เส้นตาย สายลวง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://statics-02.duckduckcdn.com/06cbf0c4-a6c9-5ab7-93a6-110e828e9453/audio-default/audio.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://statics-01.duckduckcdn.com/96faa690-5174-5903-8f73-c67672267596/poster.jpg",อนงค์ 2..สามสี่ชาติ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://api.doo-nang.com/video/96faa690-5174-5903-8f73-c67672267596/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.imgx04.xyz/assets/movie_poster/7/76654e6a7b4f418cfbfc04344cd0a7df.jpg", ธี่หยด 3
+https://statics-02.duckduckcdn.com/ae710ee8-0681-507f-ad90-877f85f9b3fb/videos/1080p.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2024/05/Deaw-Special-Super-Soft-Power-2024.jpg", Deaw Still Alive (2026) เดี่ยว สตีล อะไลฟ์
+https://main.24playerhd.com/m3u8/fb24105d68f2b4f428909236/fb24105d68f2b4f428909236438.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/12/1-5.jpg" ,นครสัตว์มหาสนุก 2 (Zootopia 2)
+https://main.24playerhd.com/m3u8/3e26cd0b1d958a8731828a80/3e26cd0b1d958a8731828a80438.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-12.jpg",Ha Gom The Darkness Of The Soul (2025) ห่าก้อม
+https://m3u8haha.com/movie/M15473.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-6-scaled.jpg",Oh Hi! (2025)
+https://m3u8haha.com/movie/M15471.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-9.jpg",All of You (2025)
+https://m3u8haha.com/movie/M15470.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-11.jpg",Mantis (2025)
+https://m3u8haha.com/movie/M15467.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-5.jpg",Opus (2025)
+https://m3u8haha.com/movie/M15469.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-8.jpg",The Bad Guys 2 (2025) วายร้ายพันธุ์ดี 2
+https://m3u8haha.com/movie/M15468.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-10.jpg",Primitive War (2025) สงครามโลกล้านปี
+https://m3u8haha.com/movie/M15466.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/4-3.jpg",Ruth & Boaz (2025) รูธและโบอาส
+https://m3u8haha.com/movie/M15472.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/themes/pxmovie/images/nothumb.png",Caught Stealing (2025) คนเดือดขวางทางโจร
+https://m3u8haha.com/movie/M15464.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-9.jpg",Afterburn (2025) ล่าขุมทรัพย์แดนแดดเดือด
+https://m3u8haha.com/movie/M15463.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-8.jpg",Prisoner of War (2025)
+https://m3u8haha.com/movie/M15462.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-4.jpg",Splitsville (2025)
+https://m3u8haha.com/movie/M15465.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/4-2.jpg",Kingdom (2025) ฝ่าภารกิจเดือด
+https://m3u8haha.com/movie/M15461.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-6.jpg",In Between (2025)
+https://m3u8haha.com/movie/M15459.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-7.jpg",ซ้ำวัน กับ Someone (2025)
+https://m3u8haha.com/movie/M15458.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-3.jpg",She Said Maybe (2025)
+https://m3u8haha.com/movie/M15460.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-2.jpg",Paripi Koumei The Movie (2025) ขงเบ้ง
+https://m3u8haha.com/movie/M15456.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-5.jpg",Nocturnal (2025) แค้นนี้เอาให้น็อก
+https://m3u8haha.com/movie/M15455.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-6-scaled.jpg",The Shadow s Edge (2025) ใหญ่ฟัดเดือด
+https://m3u8haha.com/movie/M15454.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/4-1.jpg",Baban Baban Ban Vampire (2025)
+https://m3u8haha.com/movie/M15457.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-5.jpg",The Wrong Paris (2025) ปารีสนี้ไม่มีหอไอเฟล
+https://m3u8haha.com/movie/M15452.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-3.jpg",Saiyaara (2025) สองเราจะสู้เพื่อฝัน
+https://m3u8haha.com/movie/M15453.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-4.jpg",Kontrabida Academy (2025)
+https://m3u8haha.com/movie/M15450.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-2.jpg",Tehran (2025) เตหะราน
+https://m3u8haha.com/movie/M15451.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-3.jpg",Fast Racing Jazz (2025) หลวงพี่แจ๊ส
+https://m3u8haha.com/movie/M15449.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-1-scaled.jpg",The Conjuring: Last Rites (2025)
+https://m3u8haha.com/movie/M15446.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-2.jpg",Highest 2 Lowest (2025)
+https://m3u8haha.com/movie/M15445.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-1.jpg",Inspector Zende (2025)
+https://m3u8haha.com/movie/M15447.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2.jpg",Tomb Watcher (2025) สุสานคนเป็น
+https://m3u8haha.com/movie/M15443.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/4.jpg",A Line of Fire (2025)
+https://m3u8haha.com/movie/M15441.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-scaled.jpg",Red Sonja (2025) บัลลังก์เลือด
+https://m3u8haha.com/movie/M15440.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/12/4-scaled.jpg",Oh. What. Fun. (2025) คริสต์มาสนี้ แม่ล่ะเพลีย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15575.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/12/3.jpg",My Secret Santa (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15574.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/12/2-scaled.jpg",Soul On Fire (2025) ปาฏิหาริย์ไฟชีวิต
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15573.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/12/1.jpg",Troll 2 (2025) โทรลล์ 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15572.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/12/5-scaled.jpg",The Merchants of Joy (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15576.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/5-4.jpg",Jingle Bell Heist (2025) โจรกรรมจิงเกิลเบล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15571.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/4-6-scaled.jpg",Words of War (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15570.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/3-11.jpg",Bugonia (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15569.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/2-13-scaled.jpg",Greek Mothers Never Die (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15568.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/1-13.jpg",Regretting You (2025) รอยรักปมร้าว
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15567.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/3-10.jpg",Two Worlds One Wish (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15565.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/2-12.jpg",Wormtown (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15564.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/1-12.jpg",Off the Record (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15563.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/4-5.jpg",Alma and the Wolf (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15566.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/4-4.jpg",Dude (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15560.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/3-9.jpg",Idly Kadai (2025) อิดลี่ หัวใจและความฝัน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15559.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/2-11.jpg",Akin ang gabi (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15555.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/1-11.jpg",Balahibong pusa (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15554.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/5-3.jpg",Bison Kaalamaadan (2025) ไบซัน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15561.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/4-3.jpg",Rootman (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15557.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/3-8.jpg",Diesel (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15556.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/2-10.jpg",Next Room Affair (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15553.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/5-2.jpg",Altered (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15558.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/2-9.jpg",Train Dreams (2025) ทางรถไฟสายฝัน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15551.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/1-10.jpg",The Family Plan 2 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15550.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/3-7.jpg",They Call Him OG (2025) โอจี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15552.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/2-8.jpg",The Follies (2025) วันหนักของคนหน่วง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15548.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/1-9.jpg",Flower Girl (2025) อลวนสาวกลีบหาย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15547.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/3-6.jpg",After The Hunt (2025) ร่องรอยหลังล่า
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15549.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/2-7.jpg",Champagne Problems (2025) แชมเปญรัก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15545.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/1-8-scaled.jpg",Playdate (2025) เพลย์เดท
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15544.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/3-5.jpg",The Son of a Thousand Men (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15546.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/3-4.jpg",Lefter: The Story of the Ordinarius (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15542.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/2-6.jpg",One Battle After Another (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15541.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/1-7.jpg",ตี๋ใหญ่ ฤกษ์ดาวโจร (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15540.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/4-2.jpg",French Lover (2025) พบรักซูเปอร์สตาร์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15543.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/1-6.jpg",Honey Dont! (2025) ฮันนี่…สวยสืบแส่
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15535.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/2-5.jpg",A Merry Little Ex-Mas (2025) คริสต์มาสป่วนรัก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15539.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/2-4.jpg",Bleeding Tiger: Conflict Begins (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15537.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/1-5.jpg",The Stranger in My Home (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15536.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/3-3.jpg",Predator Badlands (2025) พรีเดเตอร์ แดนเถื่อน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15538.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/4-1.jpg",Good Fortune (2025) เทวดาแบบใดห์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15533.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/3-2.jpg",Baramulla (2025) บารามุนลาอาถรรพ์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15532.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/2-3.jpg",Mango (2025) รักนี้เกิดที่สวนมะม่วง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15531.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/1-4.jpg",Frankenstein (2025) เฟรงเกนสไดน์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15530.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/5-1.jpg",Groom & Two Brides (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15534.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/2-2.jpg",Bambi The Reckoning (2025) แบมบี้
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15529.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/1-2.jpg",คายอ้อ ลบหลู่ ศรัทธา อาถรรพ์ (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15528.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/5.jpg",Tyler Perrys Finding Joy (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15527.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/3-1.jpg",Dhadak 2 (2025) ต่างจังหวะรัก 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15525.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/2-1.jpg",Black Phone 2 (2025) สายหลอน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15524.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/1-1.jpg",Kopitiam Days (2025) วิถีโกปี๊เตี่ยม
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15523.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/4.jpg",The Wedding Banquet (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15526.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/3.jpg",Baaghi 4 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15522.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/2.jpg",The Hand That Rocks the Cradle (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15521.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/11/1.jpg",Adulthood (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15520.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/4-6.jpg",The Rats: A Witcher Tale (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15518.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/3-8.jpg",Lasting Moments (2025) ช่วงเวลาที่ตราตรึง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15517.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/2-10-scaled.jpg",Hedda (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15516.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/1-12.jpg",Ballad of a Small Player (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15515.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/5-3.jpg",Gayong (2025) เจ้าตำนานมวยกาหยง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15519.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/2-9.jpg",Death Whisperer 3 (2025) ธี่หยด 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15513.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/1-11-scaled.jpg",Tron: Ares (2025) ทรอน แอรีส
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15509.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/3-7.jpg",Doraemon: Nobita’s Art World Tales
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15514.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/3-6.jpg",A House of Dynamite (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15511.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/2-8.jpg",London Calling (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15510.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/4-5.jpg",Param Sundari (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15512.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/5-2-scaled.jpg",The Long Walk (2025) เกมเดินมรณะ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15508.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/4-4.jpg",Attack (2025) 13วิญญาณเลขที่13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15507.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/3-5.jpg",The Roses (2025) กุ-หลาบ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15506.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/2-7.jpg",Telaga Suriram (2025) บ่อน้ำอาถรรพ์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15505.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/1-10.jpg",Host (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15504.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/1-9.jpg",Good News (2025) พลิกน่านฟ้าผ่าวิกฤติ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15503.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/3-4.jpg",Our Fault (2025) คำขอโทษ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15501.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/2-6.jpg",27 Nights (2025) 27 คืน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15500.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/1-8.jpg",She Walks in Darkness (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15499.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/4-3.jpg",The Time That Remains (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15502.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/6-1.jpg",Everybody Loves Me When I’m Dead
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15497.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/5-1.jpg",Inside Furioza (2025) อำมหิตครั้งใหม่
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15496.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/4-2.jpg",A Woman with No Filter (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15495.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/3-3.jpg",A Big Bold Beautiful Journey (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15494.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/1-7.jpg",Stigmatized Properties: Possession
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15498.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/2-5.jpg",Shadow Force (2025) ดับเบิลจารชน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15493.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2024/10/1-3.jpg",Whitney Houston: Dance with Somebody
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M14671.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/01/2-3.jpg",Black Money (2019)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M14962.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-5.jpg",Brick (2025) กำแพง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15379.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-7-scaled.jpg",The Phoenician Scheme (2025) แผนลับ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15384.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/4-4.jpg",Eddington (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15415.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/20-1.jpg",Sorry Baby (2025) ยิ้มไว้
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15422.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/4-6.jpg",One of Them Days (2025) เพื่อนรัก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15424.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-scaled.jpg",Star Trek: Section 31 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15442.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-1.jpg",You Are the Apple of My Eye (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15444.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/1-6.jpg",The Ghost Game (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15491.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/5.jpg",Martabat: Misi Berdarah (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15490.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/1-5.jpg",Materialists (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15486.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/2-4.jpg",The Woman in Cabin 10 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15487.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/3-2.jpg",Swim to Me (2025) พี่เลี้ยงแสนรัก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15488.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/4-1.jpg",My Father the BTK Killer (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15489.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/3-1.jpg",Caramelo (2025) คาราเมโล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15484.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/2-3.jpg",Out of Order (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15483.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/1-4.jpg",Him (2025) ตำนานคนจริง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15482.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/4.jpg",Maintenance Required (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15485.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/1-3.jpg",V/H/S/Halloween (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15481.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/1-2.jpg",Midnight Sun (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15479.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/2-2.jpg",Good Boy (2025) มะหมาเห็นผี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15480.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/2-1-scaled.jpg",The Astronaut (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15477.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/1-1-scaled.jpg",The Lost Bus (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15476.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/3.jpg",Steve (2025) สตีฟ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15478.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/2.jpg",Organ Child (2025) อวัยวะเถื่อน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15475.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/10/1.jpg",Play Dirty (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15474.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-12.jpg",Ha Gom: Darkness Of Soul (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15473.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-6-scaled.jpg",Oh, Hi! (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15471.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-9.jpg",All of You (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15470.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-11.jpg",Mantis (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15467.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-5.jpg",Opus (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15469.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-8.jpg",Bad Guys 2 (2025) วายร้ายพันธุ์ดี
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15468.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-10.jpg",Primitive War (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15466.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/4-3.jpg",Ruth & Boaz (2025) พลังรักเยียวยาใจ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15472.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/30.jpg",Caught Stealing (2025) คนเดือด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15464.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-9.jpg",Afterburn (2025) ล่าขุมทรัพย์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15463.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-8.jpg",Prisoner of War (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15462.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-4.jpg",Splitsville (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15465.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/4-2.jpg",Kingdom (2025) ฝ่าภารกิจเดือด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15461.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-6.jpg",In Between (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15459.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-7.jpg",ซ้ำวัน กับ Someone (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15458.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-3.jpg",She Said Maybe (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15460.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-2.jpg",Paripi Koumei The Movie (2025) ขงเบ้ง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15456.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-5.jpg",Nocturnal (2025) แค้นนี้เอาให้น็อก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15455.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-6-scaled.jpg",Shadow Edge (2025) ใหญ่ฟัดเดือด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15454.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/4-1.jpg",Baban Vampire (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15457.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-5.jpg",Wrong Paris (2025) ปารีสนี้ไม่มีหอไอเฟล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15452.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-3.jpg",Saiyaara (2025) สองเราจะสู้เพื่อฝัน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15453.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-4.jpg",Kontrabida Academy (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15450.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-2.jpg",Tehran (2025) เตหะราน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15451.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-3.jpg",Fast Racing Jazz (2025) หลวงพี่แจ๊ส
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15449.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2-1-scaled.jpg",Conjuring: Last Rites (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15446.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-2.jpg",Highest 2 Lowest (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15445.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-1.jpg",Inspector Zende (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15447.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/2.jpg",Tomb Watcher (2025) สุสานคนเป็น
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15443.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/4.jpg",A Line of Fire (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15441.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/3-scaled.jpg",Red Sonja (2025) บัลลังก์เลือด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15440.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/2-7.jpg",Planet Single Adventure (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15437.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-12.jpg",Fantasy Football (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15436.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/2-8.jpg",Thursday Murder Club (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15439.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-13.jpg",Love Untangled (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15438.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-11.jpg",Nobody 2 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15434.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/2-6.jpg",Finding Ramlee (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15435.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/2-5.jpg",Maareesan (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15432.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-10.jpg",Eenie Meanie (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15431.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/3-7.jpg",Abandoned Man (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15433.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/4-7.jpg",Gold Rush Gang (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15430.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/2-4.jpg",One Hit Wonder (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15428.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/3-6.jpg",Fall for Me (2025) ลวงรัก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15429.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-9.jpg",The Map Leads to You (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15427.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/2-3.jpg",Tha Rae: Exorcist (2025) ท่าแร่
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15426.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-8.jpg",Hallow Road (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15425.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/3-5.jpg",Omniscient Reader (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15423.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/3-4.jpg",Weapons (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15419.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/2-2.jpg",Sugar Mill (2025) โรงงานผีดุ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15418.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-5.jpg",Creation of Gods II (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15417.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-6.jpg",Under Ninja (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15421.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/4-5-scaled.jpg",Isolated (2025) ตัดขาด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15420.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/2-1.jpg",Last Goodbye (2025) คำลา
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15413.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-4.jpg",Together (2025) ดูดร่าง
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15412.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/3-3.jpg",Freakier Friday (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15414.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/6-scaled.jpg",Demon Slayer: Infinity Castle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15416.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/3-2-scaled.jpg",Blood Brothers (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15409.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-3.jpg",Halabala (2025) ฮาลาบาลา
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15408.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-2.jpg",Thammudu (2025) น้องรัก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15407.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/4-2-scaled.jpg",The Pickup (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15406.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/3-1-scaled.jpg",Thug Life (2025) ชีวิตอันธพาล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15405.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1-1.jpg",My Oxford Year (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15404.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/4.jpg",War of the Worlds (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15402.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/3.jpg",What You Did Last Summer
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15401.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/2.jpg",The Naked Gun (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15400.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/1.jpg",The Stone (2025) พระแท้
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15399.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/08/5.jpg",An Honest Life (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15403.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-11.jpg",28 Years Later (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15398.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-14.jpg",Untold (2025) ซ่อนเร้น
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15397.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-13.jpg",Osiris (2025) โอซิริส
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15396.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/3-5.jpg",Happy Gilmore 2 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15395.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-12.jpg",The Ritual (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15393.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-10.jpg",A Normal Woman (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15394.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-9.jpg",Alarum (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15392.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-11.jpg",Almost Family (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15391.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-10.jpg",Wall to Wall (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15390.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/3-4.jpg",Fantastic Four (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15389.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-9.jpg",Smurfs (2025) สเมิร์ฟส์
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15387.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-8.jpg",Lilim (2025) ซ่อนในเงามืด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15388.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-7.jpg",Zombies 4 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15386.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-8-scaled.jpg",Final Destination (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15385.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-6.jpg",Madeas Wedding (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15382.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-6.jpg",Almost Cops (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15381.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/3-3.jpg",Aap Jaisa Koi (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15383.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-5.jpg",Noisy Mansion (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15380.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/3-2.jpg",Superman (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15378.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-4-scaled.jpg",High Rollers (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15375.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-4.jpg",Ziam (2025) ปากกัด ตีนถีบ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15377.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-3.jpg",Uppu Kappurambu (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15374.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-3.jpg",Bring Her Back (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15376.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/3-1.jpg",Yadang: Snitch (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15372.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-2.jpg",Jurassic World: Rebirth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15367.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-2.jpg",Ice Road: Vengeance (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15371.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/4.jpg",Dora Search Sol Dorado
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15373.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/1-10-scaled.jpg",F1 The Movie (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15341.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/3.jpg",Old Guard 2 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15370.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2-1.jpg",Heads of State (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15369.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1-1.jpg",Un-ex You (2025) จับแฟนเก่า
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15368.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/2.jpg",Teachers Pet (2025) โรบิน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15366.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/07/1.jpg",Ligaw (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15365.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/1-6.jpg",Train Your Dragon (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15338.mp4/playlist.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/2-8.jpg",M3GAN 2.0 (2025) เมแกน 2.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15364.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/1-11.jpg",Clown Cornfield (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15362.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/06/1-9-scaled.jpg",Elio (2025) เอลิโอ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M15340.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2024/11/1-11.jpg",Return of the King Elvis Presley
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M14840.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2024/11/1-10-scaled.jpg",Speak No Evil (2024) เงียบซ่อนตาย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m3u8haha.com/movie/M14836.mp4/playlist.m3u8
