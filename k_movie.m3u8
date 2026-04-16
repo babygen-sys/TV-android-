@@ -1,19 +1,49 @@
+#EXTINF:-1 tvg-#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2026/04/2-4-scaled.jpg",Crime 101 (2026) เส้นทางปล้นโคตรระห่ำ พากย์ไทย
+https://m3u8haha.com/movie/M15750.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2026/03/1-4-scaled.jpg",Made in Korea (2026) พากย์ไทย
+https://m3u8haha.com/movie/M15724.mp4/chunk.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2026/04/2-2.jpg",Vadh 2 (2026) พากย์ไทย
+https://m3u8haha.com/movie/M15753.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2026/04/3-2.jpg",Humint (2026) เกมจารชนคนในเงา
+https://m3u8haha.com/movie/M15746.mp4/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hds.com/wp-content/uploads/2026/04/Legend-of-Ling-Jing-2026-%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%88%E0%B8%B4%E0%B8%87-187x269.png",Legend of Ling Jing (2026) ตำนานหลิงจิง
+https://main.24playerhd.com/newplaylist/cb50e2f515b5cb08964fb4d7/cb50e2f515b5cb08964fb4d7.m3u8
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hds.com/wp-content/uploads/2026/04/Thrash-2026-%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87-%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94-187x269.png",Thrash (2026) ฉลามคลั่ง ทะเลเดือด
+https://main.24playerhd.com/newplaylist/750560e421e54cfa647548ad/750560e421e54cfa647548ad.m3u8
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hds.com/wp-content/uploads/2026/04/Diva-La-Vie%E2%80%8B-2026-%E0%B8%94%E0%B8%B5%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B5-187x269.png",Diva La Vie​ (2026) ดีว่าราวี
+https://main.24playerhd.com/m3u8/592d4a282c7abd5cf4a7319a/592d4a282c7abd5cf4a7319a168.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://statics-02.duckduckcdn.com/06cbf0c4-a6c9-5ab7-93a6-110e828e9453/poster.jpg" group-title="Movie",เส้นตาย สายลวง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://statics-02.duckduckcdn.com/06cbf0c4-a6c9-5ab7-93a6-110e828e9453/audio-default/audio.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://statics-01.duckduckcdn.com/96faa690-5174-5903-8f73-c67672267596/poster.jpg",อนงค์ 2..สามสี่ชาติ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://api.doo-nang.com/video/96faa690-5174-5903-8f73-c67672267596/playlist.m3u8
+#EXTINF:-1 tvg-name="อนงค์ 2..สามสี่ชาติ" group-title="Movie" tvg-logo="https://statics-01.duckduckcdn.com/96faa690-5174-5903-8f73-c67672267596/poster.jpg",อนงค์ 2..สามสี่ชาติ
+https://m3u8haha.com/movie/M15721.mp4/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.imgx04.xyz/assets/movie_poster/7/76654e6a7b4f418cfbfc04344cd0a7df.jpg", ธี่หยด 3
-https://statics-02.duckduckcdn.com/ae710ee8-0681-507f-ad90-877f85f9b3fb/videos/1080p.m3u8
+https://m3u8haha.com/movie/M15513.mp4/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2024/05/Deaw-Special-Super-Soft-Power-2024.jpg", Deaw Still Alive (2026) เดี่ยว สตีล อะไลฟ์
 https://main.24playerhd.com/m3u8/fb24105d68f2b4f428909236/fb24105d68f2b4f428909236438.m3u8
 
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2024/05/Deaw-Special-Super-Soft-Power-2024.jpg", Deaw Still Alive (2026) เดี่ยว สตีล อะไลฟ์
+https://m3u8haha.com/movie/M14377.mp4/chunk.m3u8
+
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/12/1-5.jpg" ,นครสัตว์มหาสนุก 2 (Zootopia 2)
-https://main.24playerhd.com/m3u8/3e26cd0b1d958a8731828a80/3e26cd0b1d958a8731828a80438.m3u8
+https://m3u8haha.com/movie/M15589.mp4/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-12.jpg",Ha Gom The Darkness Of The Soul (2025) ห่าก้อม
 https://m3u8haha.com/movie/M15473.mp4/playlist.m3u8
