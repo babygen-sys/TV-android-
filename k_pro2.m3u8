@@ -1,8 +1,9 @@
 #EXTM3U
-
 ###<==== ช่องทีวีต่างประเทศ ====>###
 
+
 ==== บันเทิง ====
+
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/hvsjcMx3/IMG-3443.png" group-title="ช่องทีวีต่างประเทศ",Mr.Bean Classic
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
@@ -1024,7 +1025,7 @@ https://love.cikoyic696.workers.dev/lx-origin/hd-tsport4_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 [cite: 17]
 https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport5_720/playlist.m3u8
 
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 7
+#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 [cite: 18]
 https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport7_720/playlist.m3u8
 
@@ -1035,34 +1036,6 @@ https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
 
 
 ===== ช่องทีวีบันเทิง ====
-
-
-
-#EXTINF:-1,<👑👑👑 popcorn popcorn popcorn entertainment===>
-http://103.114.203.129:8080/ott168/ott168/81
-
-
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX",HB0 1
-http://my.bianet.es.vip.hk:80///dDs/741424
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX",HB0 2
-http://my.bianet.es.vip.hk:80///dDs/741425
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX",HB0 3
-http://my.bianet.es.vip.hk:80///dDs/741426
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX",HB0 4
-http://my.bianet.es.vip.hk:80///dDs/741427
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX",HB0 5
-http://my.bianet.es.vip.hk:80///dDs/741428
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX",HB0 6
-http://my.bianet.es.vip.hk:80///dDs/741429
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX",HB0 7
-http://my.bianet.es.vip.hk:80///dDs/741430
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX",HB0 8
-http://my.bianet.es.vip.hk:80///dDs/741431
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX",HB0 9
-http://my.bianet.es.vip.hk:80///dDs/741432
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/hbomax.png" group-title="🍿 | HBOMAX",HB0 10
-http://my.bianet.es.vip.hk:80///dDs/741433
-
 
 
 
@@ -1121,15 +1094,6 @@ http://flussictv.ddns.net:9091/True_Series/tracks-v1a1/mono.m3u8
 
 
 
-
-
-
-#EXTINF:-1 group-title="ช่องกีฬาทั่วไป" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง", trueMOVIEHITS
-
-
-
-
-
 #EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="Film HD " tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="Entertainment บันเทิง",True Film 1
 #EXTVLCOPT:http-referrer=https://github.com/
 #https://cdn.jsdelivr.net/gh/zaxacaasada/logotv@main/truefilm1.m3u8
@@ -1173,10 +1137,10 @@ http://49.0.64.96:8007/H-Channel
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/mZMkT7TS/IMG-4148.png" group-title="Entertainment บันเทิง",MONO29 Plus
 https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/index.m3u8
 
-#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="ช่องทีวีไทย",MONO29 (พากย์ไทย)
+#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="Entertainment บันเทิง",MONO29 (พากย์ไทย)
 https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="ช่องทีวีไทย",MONO29 (Soundtrack)
+#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="Entertainment บันเทิง",MONO29 (Soundtrack)
 https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment บันเทิง",Mono29MusicStation
