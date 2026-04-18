@@ -955,6 +955,10 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/ [cite: 12]
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8
 
+
+===================================
+
+
 #EXTINF:-1 tvg-id="Monomax1.th" tvg-name="Monomax 1" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax1.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/130731
@@ -963,6 +967,10 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/130731
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
 https://love.homema6859.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Monomax4.th" tvg-name="MONOMAX 2" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax4.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://ealivefotex.com/maxsport2/index.m3u8
 
 #EXTINF:-1 tvg-id="Monomax2.th" tvg-name="Monomax 2" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax2.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -975,16 +983,21 @@ https://love.homema6859.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Monomax3.th" tvg-name="MONOMAX 3" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax3.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://ealivefotex.com/monomax3ch/index.m3u8
+
+#EXTINF:-1 tvg-id="Monomax3.th" tvg-name="MONOMAX 4" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax3.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ealivefotex.com/maxsport4/index.m3u8
 
-#EXTINF:-1 tvg-id="Monomax4.th" tvg-name="MONOMAX 4" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax4.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 04
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://ealivefotex.com/maxsport2/index.m3u8
 
-#EXTINF:-1 tvg-id="Monomax8.th" tvg-name="Monomax 8" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax8.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 08
+#EXTINF:-1 tvg-id="Monomax8.th" tvg-name="Monomax 8" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax8.png" group-title="ช่องกีฬาถ่ายทอดสด", MONOMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
 https://love.homema6859.workers.dev/lx-origin/th-monomax08_720/chunks.m3u8
+
+
+====================================================
+
 
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 [cite: 16]
