@@ -999,6 +999,11 @@ https://love.homema6859.workers.dev/lx-origin/th-monomax08_720/chunks.m3u8
 ====================================================
 
 
+#EXTINF:-1 tvg-id="BGSports.th" tvg-name="BG Sports" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/bgsports.png" group-title="ช่องกีฬา",BG Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://ealivefotex.com/maxsport5/index.m3u8
+
+
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 [cite: 16]
 https://love.7c0h6daejz.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
