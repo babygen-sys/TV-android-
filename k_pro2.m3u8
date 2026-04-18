@@ -1146,24 +1146,6 @@ https://monomax-d1yqi0.cdn.byteark.com/fleetstream/ALURE/index.m3u8
 https://monomax-bl9d80.cdn.byteark.com/fleetstream/RUSH/index.m3u8
 
 
-### ฝาก--- หมวด: ช่องบันเทิง --- ###
-
-#EXTINF:-1 tvg-id="HBO.Signature.th" tvg-name="HBO Signature" tvg-logo="" group-title="ช่องบันเทิง",
-
-#EXTINF:-1 tvg-id="HBO.Hits.th" tvg-name="HBO Hits" tvg-logo="" group-title="ช่องบันเทิง",
-
-#EXTINF:-1 tvg-id="HBO.Family.th" tvg-name="HBO Family" tvg-logo="" group-title="ช่องบันเทิง",
-
-#EXTINF:-1 tvg-id="Cinemax.th" tvg-name="Cinemax" tvg-logo="" group-title="ช่องบันเทิง",Cinemax
-#EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
-#http://mooseven.ddns.net:8080/blive/blivetv/255844
-
-#EXTINF:-1 tvg-id="TrueFilm2.th" group-title="Entertainment",True Film 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
-#https://love.pifipa2974.workers.dev/lx-origin/hd-tfilm2_720/chunks.m3u8
-
-
 
 ==== การ์ตูน ====> 
 
