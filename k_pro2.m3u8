@@ -972,36 +972,32 @@ https://love.homema6859.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ealivefotex.com/maxsport2/index.m3u8
 
-#EXTINF:-1 tvg-id="Monomax2.th" tvg-name="Monomax 2" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax2.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 02
+#EXTINF:-1 tvg-id="Monomax2.th" tvg-name="Monomax 2" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax2.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 02 ( สำรอง )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/130724
-
-#EXTINF:-1 tvg-id="Monomax2.th" tvg-name="Monomax 2" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax2.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 02 (สำรอง)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
-https://love.homema6859.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Monomax3.th" tvg-name="MONOMAX 3" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax3.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ealivefotex.com/monomax3ch/index.m3u8
 
-#EXTINF:-1 tvg-id="Monomax3.th" tvg-name="MONOMAX 4" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax3.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 03
+#EXTINF:-1 tvg-id="Monomax3.th" tvg-name="MONOMAX 3" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax3.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 03 ( สำรอง )
+https://ealivefotex.com/monomax3ch/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-id="Monomax3.th" tvg-name="MONOMAX 4" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax3.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 03 ( สำรอง )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ealivefotex.com/maxsport4/index.m3u8
 
-
-#EXTINF:-1 tvg-id="Monomax8.th" tvg-name="Monomax 8" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax8.png" group-title="ช่องกีฬาถ่ายทอดสด", MONOMAX
+#EXTINF:-1 tvg-id="Monomax8.th" tvg-name="Monomax 8" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax8.png" group-title="ช่องกีฬาถ่ายทอดสด", MONOMAX 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
 https://love.homema6859.workers.dev/lx-origin/th-monomax08_720/chunks.m3u8
 
-
-====================================================
-
-
 #EXTINF:-1 tvg-id="BGSports.th" tvg-name="BG Sports" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/bgsports.png" group-title="ช่องกีฬา",BG Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ealivefotex.com/maxsport5/index.m3u8
+
+
+====================================================
 
 
 #EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 1
