@@ -1039,125 +1039,127 @@ https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-id="HBO.th" tvg-name="HBO TH" tvg-logo="http://45.144.165.187:8080/images/02533372af53048a55cf973c53c4ce87.png" group-title="Entertainment บันเทิง",HBO HD
-
-
-#EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="Entertainment บันเทิง",CINEMAX 
-http://49.0.64.96:8007/CINEMAX
-
-#EXTINF:-1 group-title="Entertainment บันเทิง",Fox FX
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-
-#EXTINF:-1 group-title="Entertainment บันเทิง",5 Star Max
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-
-
-#EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/RFGyFdqV/IMG-4186.png",HBO hits
-
-#EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1024px-HBO_Family_Asia_logo.svg.png",HBO family
-
-#EXTINF:-1 tvg-id="TNT.us" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/x85f9LV3/IMG-4185.png",HBO Signature 
-
-#EXTINF:-1 tvg-id="1205" tvg-name="AXN" tvg-logo="http://45.144.165.187:8080/images/8886b87cdfaacd2b90e4d37d25132840.png" group-title="Entertainment บันเทิง", AXN
-https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
-
-#EXTINF:-1 tvg-id="Fuck.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/k5KBRQVj/IMG-3102.png",Universal
-http://49.0.64.96:8007/H-Channel
-
-
-#EXTINF:-1 tvg-id="Fuck.th" group-title="Entertainment บันเทิง" tvg-logo="https://i.postimg.cc/8C77gQvL/IMG-2955.png", TV Series 
-http://49.0.64.96:8007/SERIES
-
-
-#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png" group-title="Entertainment บันเทิง",FuckIDMovie
-http://49.0.64.96:8007/PING
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment บันเทิง",Rock-action
-
-
-#EXTINF:-1 tvg-id="NBT.th" tvg-name="Rock Entertainment" tvg-logo="http://45.144.165.187:8080/images/db01895bfa444e1e1bfd521ef35d90d0.jpg" group-title="Entertainment บันเทิง",Rock-Entertainment
-
-
-#EXTINF:-1 tvg-id="IQIYI.cn" tvg-logo="https://i.postimg.cc/y89DdqFc/IMG-2926.png" group-title="Entertainment บันเทิง",IQIYI
-https://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
-
-#EXTINF:-1 tvg-id="Kdrama.uk" tvg-logo="https://i.postimg.cc/90crSQ0X/IMG-2655.png" group-title="Entertainment บันเทิง",RomCom K-Drama
-https://tinyurl.com/3h2e4rtz
-
-#EXTINF:-1 tvg-id="" tvg-name="AsianHit" tvg-logo="http://45.144.165.187:8080/images/fdfcb751d560b7211e90e0a87159dd29.png" group-title="Entertainment บันเทิง",Asian Hit
+#EXTINF:-1 tvg-id="AsianHit.th" tvg-name="Asian Hit" tvg-logo="http://45.144.165.187:8080/images/fdfcb751d560b7211e90e0a87159dd29.png" group-title="ช่องบันเทิง",Asian Hit
 https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment บันเทิง",True Series
+#EXTINF:-1 tvg-id="TrueThaiFilm.th" tvg-name="Thai Film" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/thaifilm.png" group-title="ช่องบันเทิง",True Thai Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
+https://love.pifipa2974.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="True Film 1" tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="ช่องบันเทิง",True Film 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.pifipa2974.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TrueFilm2.th" tvg-name="True Film HD2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="ช่องบันเทิง",True Film 2
+https://love.pifipa2974.workers.dev/lx-origin/hd-tfilm2_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TrueMovieHits.th" tvg-name="True Movie Hits" tvg-logo="https://i.postimg.cc/J4X8T3Sm/IMG-4177.png" group-title="ช่องบันเทิง",True Movie Hits
+#EXTVLCOPT:http-referrer=https://github.com/
+https://love.pifipa2974.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TrueSeries.th" tvg-name="True Series" tvg-logo="" group-title="ช่องบันเทิง",True Series
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 http://flussictv.ddns.net:9091/True_Series/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="TrueThaiFilm.th" tvg-name="True Thai Film" tvg-logo="https://i.postimg.cc/05dWqkcm/IMG-4087.png" group-title="ช่องบันเทิง",True Thai Film
 
+#EXTINF:-1 tvg-id="TrueAsianMore.th" tvg-name="True Asian More" tvg-logo="https://i.postimg.cc/dQmt3Xjq/IMG-4243.png" group-title="ช่องบันเทิง",True Asian More
 
-#EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="Film HD " tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="Entertainment บันเทิง",True Film 1
-#EXTVLCOPT:http-referrer=https://github.com/
-#https://cdn.jsdelivr.net/gh/zaxacaasada/logotv@main/truefilm1.m3u8
-https://love.pifipa2974.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8
+#EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-name="True Film Asia" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="ช่องบันเทิง",True Film Asia
 
-#EXTINF:-1 tvg-id="TrueFilm2.th" tvg-name="True Film HD2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="Entertainment บันเทิง",True Film 2
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://119.59.118.168/live/ch55/irannahee/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/05dWqkcm/IMG-4087.png" group-title="Entertainment บันเทิง",True Thai Film
-
-
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/dQmt3Xjq/IMG-4243.png" group-title="Entertainment บันเทิง",True Asian More
-
-
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="Entertainment บันเทิง",True Film Asia
-
-
-#EXTINF:-1 tvg-id="CCM.cn" tvg-logo="https://i.postimg.cc/MGknscth/IMG-2909.png" group-title="Entertainment บันเทิง",Celestial Classic Movie
-
-
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/J4X8T3Sm/IMG-4177.png" group-title="Entertainment บันเทิง",True Movie Hits
-#EXTVLCOPT:http-referrer=https://github.com/
-#https://cdn.jsdelivr.net/gh/zaxacaasada/logotv@main/truemoviehits.m3u8
-https://love.pifipa2974.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8
-
-
-
-#EXTINF:-1 group-title="Entertainment บันเทิง",True Film Celebration
+#EXTINF:-1 tvg-id="TrueFilmCelebration.th" tvg-name="True Film Celebration" tvg-logo="" group-title="ช่องบันเทิง",True Film Celebration
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 http://flussictv.ddns.net:9091/True-ccm/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", Family พากย์ไทย
-http://49.0.64.96:8007/Cartoonumi
+#EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="ช่องบันเทิง",CINEMAX 
+http://49.0.64.96:8007/CINEMAX
 
-#EXTINF:-1 group-title="Entertainment บันเทิง", หนังยอดเยี่ยม
+#EXTINF:-1 tvg-id="HBO.HD" tvg-name="HBO HD" group-title="ช่องบันเทิง",🎥 HBO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://54.37.19.157/hbohd/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Hits.th" tvg-name="HBO Hits" tvg-logo="https://i.postimg.cc/RFGyFdqV/IMG-4186.png" group-title="ช่องบันเทิง",HBO Hits
+#EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
+http://mooseven.ddns.net:8080/blive/blivetv/255842
+
+#EXTINF:-1 tvg-id="HBO.Family.th" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1024px-HBO_Family_Asia_logo.svg.png" group-title="ช่องบันเทิง",HBO Family
+#EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
+http://mooseven.ddns.net:8080/blive/blivetv/255843
+
+#EXTINF:-1 tvg-id="HBO.Signature.th" tvg-name="HBO Signature" tvg-logo="https://i.postimg.cc/x85f9LV3/IMG-4185.png" group-title="ช่องบันเทิง",HBO Signature
+#EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
+http://mooseven.ddns.net:8080/blive/blivetv/255841
+
+#EXTINF:-1 tvg-id="Rock.Action.th" tvg-name="Rock Action" tvg-logo="" group-title="ช่องบันเทิง",Rock Action
+#EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
+http://mooseven.ddns.net:8080/blive/blivetv/255845
+
+#EXTINF:-1 tvg-id="1205" tvg-name="AXN" tvg-logo="http://45.144.165.187:8080/images/8886b87cdfaacd2b90e4d37d25132840.png" group-title="ช่องบันเทิง", AXN
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+
+#EXTINF:-1 tvg-id="Universal.th" tvg-name="Universal" tvg-logo="https://i.postimg.cc/k5KBRQVj/IMG-3102.png" group-title="ช่องบันเทิง",Universal
 http://49.0.64.96:8007/H-Channel
 
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/mZMkT7TS/IMG-4148.png" group-title="Entertainment บันเทิง",MONO29 Plus
+#EXTINF:-1 tvg-id="TVSeries.th" tvg-name="TV Series" tvg-logo="https://i.postimg.cc/8C77gQvL/IMG-2955.png" group-title="ช่องบันเทิง", TV Series 
+http://49.0.64.96:8007/SERIES
+
+#EXTINF:-1 tvg-id="FuckIDMovie.th" tvg-name="FuckIDMovie" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png" group-title="ช่องบันเทิง",FuckIDMovie
+http://49.0.64.96:8007/PING
+
+#EXTINF:-1 tvg-id="IQIYI.cn" tvg-name="IQIYI" tvg-logo="https://i.postimg.cc/y89DdqFc/IMG-2926.png" group-title="ช่องบันเทิง",IQIYI
+https://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
+
+#EXTINF:-1 tvg-id="Kdrama.uk" tvg-name="RomCom K-Drama" tvg-logo="https://i.postimg.cc/90crSQ0X/IMG-2655.png" group-title="ช่องบันเทิง",RomCom K-Drama
+https://tinyurl.com/3h2e4rtz
+
+#EXTINF:-1 tvg-id="FamilyThai.th" tvg-name="Family พากย์ไทย" group-title="ช่องบันเทิง", Family พากย์ไทย
+http://49.0.64.96:8007/Cartoonumi
+
+#EXTINF:-1 tvg-id="BestMovie.th" tvg-name="หนังยอดเยี่ยม" group-title="ช่องบันเทิง", หนังยอดเยี่ยม
+http://49.0.64.96:8007/H-Channel
+
+#EXTINF:-1 tvg-id="MonoPlus.th" tvg-name="MONO29 Plus" tvg-logo="https://i.postimg.cc/mZMkT7TS/IMG-4148.png" group-title="ช่องบันเทิง",MONO29 Plus
 https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/index.m3u8
 
-#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="Entertainment บันเทิง",MONO29 (พากย์ไทย)
+#EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO29 พากย์ไทย" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="ช่องบันเทิง",MONO29 พากย์ไทย
 https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="Entertainment บันเทิง",MONO29 (Soundtrack)
+#EXTINF:-1 tvg-id="Mono29.th" tvg-name="MONO29 Soundtrack" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="ช่องบันเทิง",MONO29 Soundtrack
 https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment บันเทิง",Mono29MusicStation
+#EXTINF:-1 tvg-id="MonoMusic.th" tvg-name="Mono29MusicStation" group-title="ช่องบันเทิง",Mono29MusicStation
 https://monomax-ye61nx.cdn.byteark.com/fleetstream/Mono29MusicStation/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ALURE" tvg-logo="http://45.144.165.187:8080/images/274ad4786c3abca69fa097b85867d9a4.png" group-title="Entertainment บันเทิง",ALURE
+#EXTINF:-1 tvg-id="Alure.th" tvg-name="ALURE" tvg-logo="http://45.144.165.187:8080/images/274ad4786c3abca69fa097b85867d9a4.png" group-title="ช่องบันเทิง",ALURE
 https://monomax-d1yqi0.cdn.byteark.com/fleetstream/ALURE/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RUSH" tvg-logo="http://45.144.165.187:8080/images/77bec7bbca0fa9c7b1de9516085fb916.png" group-title="Entertainment บันเทิง",RUSH
+#EXTINF:-1 tvg-id="Rush.th" tvg-name="RUSH" tvg-logo="http://45.144.165.187:8080/images/77bec7bbca0fa9c7b1de9516085fb916.png" group-title="ช่องบันเทิง",RUSH
 https://monomax-bl9d80.cdn.byteark.com/fleetstream/RUSH/index.m3u8
 
 
+### ฝาก--- หมวด: ช่องบันเทิง --- ###
+
+#EXTINF:-1 tvg-id="HBO.Signature.th" tvg-name="HBO Signature" tvg-logo="" group-title="ช่องบันเทิง",
+
+#EXTINF:-1 tvg-id="HBO.Hits.th" tvg-name="HBO Hits" tvg-logo="" group-title="ช่องบันเทิง",
+
+#EXTINF:-1 tvg-id="HBO.Family.th" tvg-name="HBO Family" tvg-logo="" group-title="ช่องบันเทิง",
+
+#EXTINF:-1 tvg-id="Cinemax.th" tvg-name="Cinemax" tvg-logo="" group-title="ช่องบันเทิง",Cinemax
+#EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
+#http://mooseven.ddns.net:8080/blive/blivetv/255844
+
+#EXTINF:-1 tvg-id="TrueFilm2.th" group-title="Entertainment",True Film 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
+#https://love.pifipa2974.workers.dev/lx-origin/hd-tfilm2_720/chunks.m3u8
 
 
 
-#EXTINF:-1,🤓🤓🤓Premium การ์ตูน ====>
-http://49.0.64.96:8007/Cartoonumi
+==== การ์ตูน ====> 
+
+
 
 #EXTINF:-1 tvg-id="Bean.us" tvg-logo="https://i.postimg.cc/Ls6Z8Zhf/IMG-2441.png" group-title="Cartoon การ์ตูน",Mr.bean Cartoon
 https://amg00627-amg00627c23-samsung-th-5282.playouts.now.amagi.tv/playlist.m3u8
