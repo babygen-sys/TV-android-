@@ -1313,8 +1313,8 @@ https://love.pifipa2974.workers.dev/lx-origin/hd-dreamworks_720/chunks.m3u8
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
 
-####ทำถึงตรงนี้
---- หมวด: ช่องสารคดี ---   > 
+
+### --- หมวด: ช่องสารคดี --- ###
 
 
 
@@ -1334,71 +1334,26 @@ https://love.pifipa2974.workers.dev/lx-origin/sd-discovery_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
 http://mooseven.ddns.net:8080/blive/blivetv/256214
 
-#EXTINF:-1 tvg-id="TrueExploreSci.th" tvg-name="True Explore SCI (TH)" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="Documentary สารคดี",Explore SCI 
+#EXTINF:-1 tvg-id="TrueExploreSci.th" tvg-name="True Explore SCI (TH)" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="ช่องสารคดี",Explore SCI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
 https://love.homema6859.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8
-https://love.pifipa2974.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8
 
-#EXTINF:-1 group-title="Documentary สารคดี",Food Network EN
+#EXTINF:-1 group-title="ช่องสารคดี",Food Network EN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 http://flussictv.ddns.net:9091/FOOD_NETWORK_EN/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Documentary สารคดี",BBC Earth
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/BBC_earth/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="History.us" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="Documentary สารคดี",True Explore Life
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/explore_Life/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="History.us" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="Documentary สารคดี",True Explore Wild
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/explore_Wild/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="History.us" tvg-logo="https://i.postimg.cc/K8QDfbMP/IMG-2449.png" group-title="Documentary สารคดี",History
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/HISTORY_CHANNEL_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Discovery.es" tvg-logo="https://i.postimg.cc/28HvwfkJ/IMG-4560.png" group-title="Documentary สารคดี",Nat Geo Wild us
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/Natinal_Wild/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Discovery.es" tvg-logo="https://i.postimg.cc/xCtT2nFg/IMG-4562.png" group-title="Documentary สารคดี",National Geographic 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/National_Geographic/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/qBC8sLmT/IMG-4533.png" group-title="Documentary สารคดี",True X-Zyte
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/khongdeethailand_GoodTV/index.m3u8
-
-#EXTINF:-1 group-title="Documentary สารคดี",Thainess
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/Thainess_GoodTV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Documentary สารคดี",TLC Channel EN
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/TLC_Channel_EN/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.shopify.com/s/files/1/0065/8076/4727/files/logo.png?height=628&pad_color=fff&v=1613611598&width=1200" group-title="Documentary สารคดี",Wired2Fish
-https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="Documentary สารคดี",WildEarth
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="ช่องสารคดี",WildEarth
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png" group-title="Documentary สารคดี",SCIence
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png" group-title="ช่องสารคดี",SCIence
 http://49.0.64.96:8007/WSCI
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png" group-title="Documentary สารคดี",Animal
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png" group-title="ช่องสารคดี",Animal
 http://49.0.64.96:8007/Animal
 
-#EXTINF:-1 group-title="Documentary สารคดี",CGTN 
+#EXTINF:-1 group-title="ช่องสารคดี",CGTN 
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
-#EXTINF:-1 group-title="Documentary สารคดี",RT
+#EXTINF:-1 group-title="ช่องสารคดี",RT
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-
-#EXTINF:-1 group-title="Documentary สารคดี",LOVE NATURE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://vipketseyket.top:8080/VIP011031738993884331/7d75df509706/5470
