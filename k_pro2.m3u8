@@ -1,8 +1,8 @@
+#EXTM3U
+
 ###<==== ช่องทีวีต่างประเทศ ====>###
 
-
 ==== บันเทิง ====
-
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/hvsjcMx3/IMG-3443.png" group-title="ช่องทีวีต่างประเทศ",Mr.Bean Classic
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
@@ -43,13 +43,6 @@ https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/a
 
 #EXTINF:-1 tvg-id="CH8.th" group-title="ช่องทีวีต่างประเทศ" tvg-logo="https://i.postimg.cc/RFVxDzJm/IMG-1839.png",Ch 8 Thailand 
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
-
-#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png" group-title="ช่องทีวีต่างประเทศ",MOVIE 
-http://49.0.64.96:8007/IZAA
-
-#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/8C77gQvL/IMG-2955.png" group-title="ช่องทีวีต่างประเทศ",Series
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://49.0.64.96:8007/SERIES
 
 
 
@@ -910,8 +903,6 @@ https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8
 ⚽ --- ช่องกีฬาถ่ายทอดสด --- ⚽
 
 
-### --- หมวด: MONOMAX --- ###
-
 ### --- หมวด: AIS VIP SPORTS --- ###
 
 #EXTINF:-1 tvg-id="" tvg-name="AIS Live 7 TH VIP Sports" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/aisplay.png" group-title="ช่องกีฬาถ่ายทอดสด", AIS SPORTS 
@@ -1097,7 +1088,8 @@ https://raw.githubusercontent.com/babygen-sys/tvplus-playlist/main/Plus_1.mp4
 #http://143.14.9.202/monomax_sports10/index.m3u8
 https://raw.githubusercontent.com/babygen-sys/tvplus-playlist/main/Plus_1.mp4
 
---------------------------------------------------
+
+----------------------------------------------------
 
 
 #EXTINF:-1 tvg-id="BGSports.th" tvg-name="BG Sports" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/bgsports.png" group-title="ช่องกีฬาถ่ายทอดสด",BG Sports
@@ -1142,42 +1134,49 @@ https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-name="True Film Asia" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="ช่องบันเทิง",True Film Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
-https://d2jwvf4ws7l9th.cloudfront.net/v2/vx-origin/91/0Qk94QBjAtQ0ToybVk02xQ/d1093de1006302d4344e8c9b564d36c5/1776519508/sd-filmasia_720/chunks.m3u8
+https://love.homema6859.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8
+https://love.pifipa2974.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TrueAsianMore.th" tvg-name="True Asian More" tvg-logo="https://i.postimg.cc/dQmt3Xjq/IMG-4243.png" group-title="ช่องบันเทิง",True Asian More
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
+https://love.homema6859.workers.dev/lx-origin/hd-asianmore_720/chunks.m3u8
 https://love.pifipa2974.workers.dev/lx-origin/hd-asianmore_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="AsianHit.th" tvg-name="Asian Hit" tvg-logo="http://45.144.165.187:8080/images/fdfcb751d560b7211e90e0a87159dd29.png" group-title="ช่องบันเทิง",Asian Hit
-https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/index.m3u8
-
 #EXTINF:-1 tvg-id="TrueThaiFilm.th" tvg-name="Thai Film" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/thaifilm.png" group-title="ช่องบันเทิง",True Thai Film
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
+https://love.homema6859.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8
 https://love.pifipa2974.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TrueFilm1.th" tvg-name="True Film 1" tvg-logo="http://45.144.165.187:8080/images/5dcb7751888303115e55bf245b05a25f.png" group-title="ช่องบันเทิง",True Film 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
+https://love.homema6859.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8
 https://love.pifipa2974.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TrueFilm2.th" tvg-name="True Film HD2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="ช่องบันเทิง",True Film 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
+https://love.homema6859.workers.dev/lx-origin/hd-tfilm2_720/chunks.m3u8
 https://love.pifipa2974.workers.dev/lx-origin/hd-tfilm2_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TrueMovieHits.th" tvg-name="True Movie Hits" tvg-logo="https://i.postimg.cc/J4X8T3Sm/IMG-4177.png" group-title="ช่องบันเทิง",True Movie Hits
-#EXTVLCOPT:http-referrer=https://github.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
+https://love.homema6859.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8
 https://love.pifipa2974.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TrueSeries.th" tvg-name="True Series" tvg-logo="" group-title="ช่องบันเทิง",True Series
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/True_Series/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
+https://love.homema6859.workers.dev/lx-origin/sd-series_720/chunks.m3u8
+https://love.pifipa2974.workers.dev/lx-origin/sd-series_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="TrueThaiFilm.th" tvg-name="True Thai Film" tvg-logo="https://i.postimg.cc/05dWqkcm/IMG-4087.png" group-title="ช่องบันเทิง",True Thai Film
-
-#EXTINF:-1 tvg-id="TrueAsianMore.th" tvg-name="True Asian More" tvg-logo="https://i.postimg.cc/dQmt3Xjq/IMG-4243.png" group-title="ช่องบันเทิง",True Asian More
-
-#EXTINF:-1 tvg-id="TrueFilmAsia.th" tvg-name="True Film Asia" tvg-logo="https://i.postimg.cc/85W0QXCZ/IMG-3981.webp" group-title="ช่องบันเทิง",True Film Asia
+#EXTINF:-1 tvg-id="AsianHit.th" tvg-name="Asian Hit" tvg-logo="http://45.144.165.187:8080/images/fdfcb751d560b7211e90e0a87159dd29.png" group-title="ช่องบันเทิง",Asian Hit
+https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/index.m3u8
 
 #EXTINF:-1 tvg-id="TrueFilmCelebration.th" tvg-name="True Film Celebration" tvg-logo="" group-title="ช่องบันเทิง",True Film Celebration
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
@@ -1187,8 +1186,8 @@ http://flussictv.ddns.net:9091/True-ccm/index.m3u8
 http://49.0.64.96:8007/CINEMAX
 
 #EXTINF:-1 tvg-id="HBO.HD" tvg-name="HBO HD" group-title="ช่องบันเทิง",🎥 HBO HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://54.37.19.157/hbohd/index.m3u8
+#EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
+http://mooseven.ddns.net:8080/blive/blivetv/255840
 
 #EXTINF:-1 tvg-id="HBO.Hits.th" tvg-name="HBO Hits" tvg-logo="https://i.postimg.cc/RFGyFdqV/IMG-4186.png" group-title="ช่องบันเทิง",HBO Hits
 #EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
@@ -1212,11 +1211,11 @@ https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #EXTINF:-1 tvg-id="Universal.th" tvg-name="Universal" tvg-logo="https://i.postimg.cc/k5KBRQVj/IMG-3102.png" group-title="ช่องบันเทิง",Universal
 http://49.0.64.96:8007/H-Channel
 
-#EXTINF:-1 tvg-id="TVSeries.th" tvg-name="TV Series" tvg-logo="https://i.postimg.cc/8C77gQvL/IMG-2955.png" group-title="ช่องบันเทิง", TV Series 
-http://49.0.64.96:8007/SERIES
-
 #EXTINF:-1 tvg-id="FuckIDMovie.th" tvg-name="FuckIDMovie" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png" group-title="ช่องบันเทิง",FuckIDMovie
 http://49.0.64.96:8007/PING
+
+#EXTINF:-1 tvg-id="TVSeries.th" tvg-name="TV Series" tvg-logo="https://i.postimg.cc/8C77gQvL/IMG-2955.png" group-title="ช่องบันเทิง", TV Series 
+http://49.0.64.96:8007/SERIES
 
 #EXTINF:-1 tvg-id="IQIYI.cn" tvg-name="IQIYI" tvg-logo="https://i.postimg.cc/y89DdqFc/IMG-2926.png" group-title="ช่องบันเทิง",IQIYI
 https://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
@@ -1227,8 +1226,8 @@ https://tinyurl.com/3h2e4rtz
 #EXTINF:-1 tvg-id="FamilyThai.th" tvg-name="Family พากย์ไทย" group-title="ช่องบันเทิง", Family พากย์ไทย
 http://49.0.64.96:8007/Cartoonumi
 
-#EXTINF:-1 tvg-id="BestMovie.th" tvg-name="หนังยอดเยี่ยม" group-title="ช่องบันเทิง", หนังยอดเยี่ยม
-http://49.0.64.96:8007/H-Channel
+#EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png" group-title=ช่องบันเทิง",MOVIE 
+http://49.0.64.96:8007/IZAA
 
 #EXTINF:-1 tvg-id="MonoPlus.th" tvg-name="MONO29 Plus" tvg-logo="https://i.postimg.cc/mZMkT7TS/IMG-4148.png" group-title="ช่องบันเทิง",MONO29 Plus
 https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/index.m3u8
@@ -1251,7 +1250,7 @@ https://monomax-bl9d80.cdn.byteark.com/fleetstream/RUSH/index.m3u8
 
 
 
-==== การ์ตูน ====> ทำถึงตรงนี้
+==== การ์ตูน ====
 
 
 
@@ -1281,8 +1280,6 @@ http://49.0.64.96:8007/Cartoonumi
 #EXTINF:-1 group-title="Cartoon การ์ตูน",Catoonnito
 https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
 
-
-
 #EXTINF:-1 group-title="Cartoon การ์ตูน" tvg-id="tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
@@ -1303,11 +1300,11 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 #KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 
-
-#EXTINF:-1 group-title="Cartoon การ์ตูน",DreamWorks 
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://119.59.118.168/live/ch65/irannahee/index.m3u8
-
+#EXTINF:-1 tvg-id="DreamWorks.th" tvg-name="DreamWorks" tvg-logo="" group-title="Cartoon การ์ตูน",DreamWorks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
+https://love.homema6859.workers.dev/lx-origin/hd-dreamworks_720/chunks.m3u8
+https://love.pifipa2974.workers.dev/lx-origin/hd-dreamworks_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="3BB106" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/106.png" group-title="Cartoon การ์ตูน",HBO family
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1316,10 +1313,9 @@ http://119.59.118.168/live/ch65/irannahee/index.m3u8
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
 
+####ทำถึงตรงนี้
+--- หมวด: ช่องสารคดี ---   > 
 
-#EXTINF:-1,👑👑👑🌍🦒🦓<  Premium Daocumentary  > 
-
-### --- หมวด: ช่องสารคดี --- ###
 
 
 #EXTINF:-1 tvg-id="SamruatLok.th" tvg-name="สำรวจโลก" tvg-logo="" group-title="ช่องสารคดี",สำรวจโลก
@@ -1330,29 +1326,19 @@ http://mooseven.ddns.net:8080/blive/blivetv/256209
 #EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
 http://mooseven.ddns.net:8080/blive/blivetv/256210
 
-#EXTINF:-1 tvg-id="Discovery.th" tvg-name="Discovery Channel" tvg-logo="" group-title="ช่องสารคดี",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery1.th" tvg-name="Discovery 1" tvg-logo="" group-title="ช่องสารคดี",Discovery 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://love.pifipa2974.workers.dev/lx-origin/sd-discovery_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Discovery2.th" tvg-name="Discovery 2" tvg-logo="" group-title="ช่องสารคดี",Discovery 2 (สำรอง)
 #EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
 http://mooseven.ddns.net:8080/blive/blivetv/256214
 
-
-
-
-
-#EXTINF:-1 tvg-id="Discovery.es" tvg-logo="https://i.postimg.cc/NfSLw2KS/IMG-2162.png" group-title="Documentary สารคดี",Discovery Asia
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/Discovery_Asia/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Discovery.es" tvg-logo="https://i.postimg.cc/NfSLw2KS/IMG-2162.png" group-title="Documentary สารคดี",Discovery
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/Discovery_EN/index.m3u8
-
-#EXTINF:-1 ,Discovery ID
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/DISCOVERY_ID/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,Asian Food Network
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/Asian_Food_Network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TrueExploreSci.th" tvg-name="True Explore SCI (TH)" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="Documentary สารคดี",Explore SCI 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
+https://love.homema6859.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8
+https://love.pifipa2974.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Documentary สารคดี",Food Network EN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
@@ -1361,10 +1347,6 @@ http://flussictv.ddns.net:9091/FOOD_NETWORK_EN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Documentary สารคดี",BBC Earth
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 http://flussictv.ddns.net:9091/BBC_earth/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TrueExploreSci.th" tvg-name="True Explore SCI (TH)" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="Documentary สารคดี",Explore SCI (TH)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/explore_Sci/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="History.us" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="Documentary สารคดี",True Explore Life
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
