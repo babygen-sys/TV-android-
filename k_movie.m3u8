@@ -19,22 +19,16 @@ https://main.24playerhd.com/newplaylist/cb50e2f515b5cb08964fb4d7/cb50e2f515b5cb0
 https://main.24playerhd.com/newplaylist/750560e421e54cfa647548ad/750560e421e54cfa647548ad.m3u8
 
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://statics-02.duckduckcdn.com/735ef679-037c-5cfb-b337-33daa8b650ea/poster.jpg",ดีว่า..ราวี (DIVA LA VIE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.doo-nang.com/
-#EXTVLCOPT:http-origin=https://www.doo-nang.com
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hds.com/wp-content/uploads/2026/04/Diva-La-Vie%E2%80%8B-2026-%E0%B8%94%E0%B8%B5%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B5-187x269.png",DIVA LA VIE (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://api.doo-nang.com/video/735ef679-037c-5cfb-b337-33daa8b650ea/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hds.com/wp-content/uploads/2026/04/Diva-La-Vie%E2%80%8B-2026-%E0%B8%94%E0%B8%B5%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B5-187x269.png",DIVA LA VIE (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.24-hds.com/
-https://main.24playerhd.com/m3u8/592d4a282c7abd5cf4a7319a/592d4a282c7abd5cf4a7319a168.m3u8
-
+https://api.doo-nang.com/video/0d239742-1bf8-50d7-b91e-be0058a3ab90/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hds.com/wp-content/uploads/2026/04/Diva-La-Vie%E2%80%8B-2026-%E0%B8%94%E0%B8%B5%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B5-187x269.png",DIVA LA VIE (2026)
-https://main.24playerhd.com/m3u8/592d4a282c7abd5cf4a7319a/592d4a282c7abd5cf4a7319a168.m3u8|User-Agent=Mozilla/5.0&Referer=https://www.24-hds.com/
-
-
+https://api.doo-nang.com/video/0d239742-1bf8-50d7-b91e-be0058a3ab90/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://statics-02.duckduckcdn.com/06cbf0c4-a6c9-5ab7-93a6-110e828e9453/poster.jpg" group-title="Movie",เส้นตาย สายลวง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
