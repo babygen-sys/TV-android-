@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://shorturl.asia/zJ9ht",A Gorilla Story (2026) เล่าเรื่องกอริลลา โดยเดวิด แอทเทนเบอเรอห์
-https://main.24playerhd.com/m3u8/08f50929c64941879ad783f6/08f50929c64941879ad783f6438.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/04/Gezhi-Town-2025.webp",Gezhi Town (2025) เมืองนักสู้
+https://media.vdohls.com/AdnJ9B0_G-9hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/04/The-Cursed-Mask-2025.webp",The Cursed Mask (2025) ตาโขน
+https://media.vdohls.com/HASC-DM_oSu8h/playlist.m3u8
 
 #EXTINF:-1 tvg-#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2026/04/2-4-scaled.jpg",Crime 101 (2026) เส้นทางปล้นโคตรระห่ำ พากย์ไทย
 https://m3u8haha.com/movie/M15750.mp4/playlist.m3u8
@@ -26,14 +29,8 @@ https://main.24playerhd.com/newplaylist/750560e421e54cfa647548ad/750560e421e54cf
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hds.com/wp-content/uploads/2026/04/Diva-La-Vie%E2%80%8B-2026-%E0%B8%94%E0%B8%B5%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B5-187x269.png",DIVA LA VIE (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://api.doo-nang.com/video/735ef679-037c-5cfb-b337-33daa8b650ea/playlist.m3u8
+https://media.vdohls.com/DLy-PFuetP_XB/playlist.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hds.com/wp-content/uploads/2026/04/Diva-La-Vie%E2%80%8B-2026-%E0%B8%94%E0%B8%B5%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B5-187x269.png",DIVA LA VIE (2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://api.doo-nang.com/video/0d239742-1bf8-50d7-b91e-be0058a3ab90/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24-hds.com/wp-content/uploads/2026/04/Diva-La-Vie%E2%80%8B-2026-%E0%B8%94%E0%B8%B5%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B5-187x269.png",DIVA LA VIE (2026)
-https://api.doo-nang.com/video/0d239742-1bf8-50d7-b91e-be0058a3ab90/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://statics-02.duckduckcdn.com/06cbf0c4-a6c9-5ab7-93a6-110e828e9453/poster.jpg" group-title="Movie",เส้นตาย สายลวง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
