@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/03/Hoppers-2026.webp",Hoppers (2026) เด้งโดด เปลี่ยนโหมดเป็นบีเวอร์
+https://media.vdohls.com/PPATr_Gf-czXC/playlist.m3u8
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2025/12/The-Delivery-Rider-2025.webp",The Delivery Rider (2025) ไรเดอร์อันตราย
 https://media.vdohls.com/mi6olzghqi/playlist.m3u8
 
