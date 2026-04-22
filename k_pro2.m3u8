@@ -902,51 +902,50 @@ https://www.livedoomovies.com:4431/02_epl3_720p/playlist.m3u8
 
 ⚽ --- ช่องกีฬาถ่ายทอดสด --- ⚽
 
-
 ### --- หมวด: AIS VIP SPORTS --- ###
 
 #EXTINF:-1 tvg-id="" tvg-name="AIS Live 7 TH VIP Sports" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/aisplay.png" group-title="ช่องกีฬาถ่ายทอดสด", AIS SPORTS 
-#http://fastopen.live:8080/MLS003/qZj4zbPNDn/130749
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130749
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AIS Live 8 TH VIP Sports" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/aisplay.png" group-title="ช่องกีฬาถ่ายทอดสด", AIS SPORTS 
-#http://fastopen.live:8080/MLS003/qZj4zbPNDn/130747
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130747
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AIS Live 1 TH VIP Sports" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/aisplay.png" group-title="ช่องกีฬาถ่ายทอดสด", AIS Football 1
-#http://fastopen.live:8080/MLS003/qZj4zbPNDn/130743
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130743
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AIS Live 2 HD TH VIP Sports" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/aisplay.png" group-title="ช่องกีฬาถ่ายทอดสด",AIS Football 2
-#http://fastopen.live:8080/MLS003/qZj4zbPNDn/130758
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130758
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AIS Live 3 HD TH VIP Sports" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/aisplay.png" group-title="ช่องกีฬาถ่ายทอดสด",AIS Football 3 (Server 2)
-#http://fastopen.live:8080/MLS003/qZj4zbPNDn/130756
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130756
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AIS Live 4 HD TH VIP Sports" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/aisplay.png" group-title="ช่องกีฬาถ่ายทอดสด",AIS Football 4
-#http://fastopen.live:8080/MLS003/qZj4zbPNDn/130754
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130754
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AIS Live 5 HD TH VIP Sports" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/aisplay.png" group-title="ช่องกีฬาถ่ายทอดสด",AIS Football 5
-#http://fastopen.live:8080/MLS003/qZj4zbPNDn/130753
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130753
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AIS Live 6 HD TH VIP Sports" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/aisplay.png" group-title="ช่องกีฬาถ่ายทอดสด",AIS Football 6
-#http://fastopen.live:8080/MLS003/qZj4zbPNDn/130752
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130752
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AIS Live 7 HD TH VIP Sports" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/aisplay.png" group-title="ช่องกีฬาถ่ายทอดสด",AIS Football 7
-#http://fastopen.live:8080/MLS003/qZj4zbPNDn/130750
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130750
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AIS Live 8 HD TH VIP Sports" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/aisplay.png" group-title="ช่องกีฬาถ่ายทอดสด",AIS Football 8
-#http://fastopen.live:8080/MLS003/qZj4zbPNDn/130748
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130748
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AIS Live 9 HD TH VIP Sports" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/aisplay.png" group-title="ช่องกีฬาถ่ายทอดสด",AIS Football 9
-#http://fastopen.live:8080/MLS003/qZj4zbPNDn/130746
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130746
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 
@@ -954,42 +953,42 @@ https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1
 
 #EXTINF:-1 tvg-id="" tvg-name="PLAY sports 1" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/aisplay.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 1 (TVPlus)
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PLAY sports 2" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/aisplay.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 2 (TVPlus)
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PLAY sports 3" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/aisplay.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 3 (TVPlus)
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
-#https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PLAY sports 4" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/aisplay.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 4 (TVPlus)
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
-#https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PLAY sports 5" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/aisplay.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 5 (TVPlus)
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
-#https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005.m3u8
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PLAY sports 6" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/aisplay.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 6 (TVPlus)
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
-#https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PLAY sports 7" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/aisplay.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 7 (TVPlus)
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com
-#https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PLAY sports 8" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/aisplay.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 8 (TVPlus)
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 
@@ -1002,13 +1001,13 @@ https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1
 
 #EXTINF:-1 tvg-id="Monomax1.th" tvg-name="Monomax 1" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax1.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 1 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, Gecko) Chrome/120.0.0.0 Safari/537.36
-#http://fastopen.live:8080/MLS003/qZj4zbPNDn/130731
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130731
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="Monomax1.th" tvg-name="Monomax 1" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax1.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 1 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
-#https://love.homema6859.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+https://love.homema6859.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="Monomax2.th" tvg-name="MONOMAX 2" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax2.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ MONOMAX 02
@@ -1018,12 +1017,12 @@ https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1
 
 #EXTINF:-1 tvg-id="Monomax2.th" tvg-name="Monomax 2" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax2.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 02 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, Gecko) Chrome/120.0.0.0 Safari/537.36
-#http://fastopen.live:8080/MLS003/qZj4zbPNDn/130724
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/130724
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="Monomax4.th" tvg-name="MONOMAX 2" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax4.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 02 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, Gecko) Chrome/120.0.0.0 Safari/537.36
-#https://ealivefotex.com/maxsport2/index.m3u8
+https://ealivefotex.com/maxsport2/index.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="Monomax3.th" tvg-name="MONOMAX 3" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax3.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ MONOMAX 03
@@ -1033,7 +1032,7 @@ https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1
 
 #EXTINF:-1 tvg-id="Monomax3.th" tvg-name="MONOMAX 3" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax3.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 03 สำรอง 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, Gecko) Chrome/120.0.0.0 Safari/537.36
-#https://ealivefotex.com/monomax3ch/index.m3u8
+https://ealivefotex.com/monomax3ch/index.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="Monomax4.th" tvg-name="MONOMAX 4" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax4.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ MONOMAX 04
@@ -1043,7 +1042,7 @@ https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1
 
 #EXTINF:-1 tvg-id="Monomax3.th" tvg-name="MONOMAX 4" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax3.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 04 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, Gecko) Chrome/120.0.0.0 Safari/537.36
-#https://ealivefotex.com/maxsport4/index.m3u8
+https://ealivefotex.com/maxsport4/index.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="Monomax5.th" tvg-name="MONOMAX 5" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax5.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ MONOMAX 05
@@ -1059,7 +1058,7 @@ https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1
 #EXTINF:-1 tvg-id="Monomax6.th" tvg-name="MONOMAX 6" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax6.png" group-title="ช่องกีฬาถ่ายทอดสด",🏐⚽ MONOMAX 06 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
-#https://love.homema6859.workers.dev/lx-origin/th-monomax06_720/chunks.m3u8
+https://love.homema6859.workers.dev/lx-origin/th-monomax06_720/chunks.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="Monomax7.th" tvg-name="MONOMAX 7" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax7.png" group-title="ช่องกีฬาถ่ายทอดสด",🏐⚽ MONOMAX 07
@@ -1070,7 +1069,7 @@ https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1
 #EXTINF:-1 tvg-id="Monomax8.th" tvg-name="Monomax 8" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax8.png" group-title="ช่องกีฬาถ่ายทอดสด",🏐⚽ MONOMAX 08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
-#https://love.homema6859.workers.dev/lx-origin/th-monomax08_720/chunks.m3u8
+https://love.homema6859.workers.dev/lx-origin/th-monomax08_720/chunks.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="Monomax8.th" tvg-name="MONOMAX 8" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/monomax8.png" group-title="ช่องกีฬาถ่ายทอดสด",🏐⚽ MONOMAX 08
@@ -1101,33 +1100,60 @@ https://ealivefotex.com/maxsport5/index.m3u8
 
 
 
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 [cite: 16]
+#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 1" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport1.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.7c0h6daejz.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
 
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 [cite: 16]
+#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 1" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport1.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 1 (สำรอง)
+#EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts1/index.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 2" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport2.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.7c0h6daejz.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
 
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 [cite: 17]
+#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 2" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport2.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 2 (สำรอง)
+#EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 3" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport3.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.7c0h6daejz.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
 
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 [cite: 17]
+#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 3" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport3.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 3 (สำรอง)
+#EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts3/index.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 4" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport4.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.cikoyic696.workers.dev/lx-origin/hd-tsport4_720/chunks.m3u8
 
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 [cite: 17]
+#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 4" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport4.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 4 (สำรอง)
+#EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts4/index.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 5" tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-tsport5.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport5_720/playlist.m3u8
 
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 [cite: 18]
+#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 5" tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-tsport5.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 5 (สำรอง)
+#EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts5/index.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 7" tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-tsport7.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport7_720/playlist.m3u8
 
-#EXTINF:-1 group-title="ช่องกีฬาถ่ายทอดสด", True Premier Football 3 (Server 1)
+#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 7" tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-tsport7.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 7 (สำรอง)
+#EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
+
+#EXTINF:-1 tvg-id="TPF.th" tvg-name="True Premier Football 3" tvg-logo="https://dookeela2.live/uploads/1664499681.png" group-title="ช่องกีฬาถ่ายทอดสด", True Premier Football 3 (Server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
+
+
+
 
 
 ===== ช่องทีวีบันเทิง ====
