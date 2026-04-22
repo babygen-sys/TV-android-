@@ -1204,9 +1204,9 @@ https://love.pifipa2974.workers.dev/lx-origin/sd-series_720/chunks.m3u8
 #EXTINF:-1 tvg-id="AsianHit.th" tvg-name="Asian Hit" tvg-logo="http://45.144.165.187:8080/images/fdfcb751d560b7211e90e0a87159dd29.png" group-title="ช่องบันเทิง",Asian Hit
 https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/index.m3u8
 
-#EXTINF:-1 tvg-id="TrueFilmCelebration.th" tvg-name="True Film Celebration" tvg-logo="" group-title="ช่องบันเทิง",True Film Celebration
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://flussictv.ddns.net:9091/True-ccm/index.m3u8
+#EXTINF:-1 tvg-id="TrueFilmCelebration.th" tvg-name="True Film Celebration" tvg-logo="" group-title="ช่องบันเทิง",True Film CCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://love.uh6wzyncw9.workers.dev/lx-origin/sd-celestial_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.th" tvg-name="CINEMAX" tvg-logo="http://45.144.165.187:8080/images/a99dbd6f7d8ba192cbbedd0e4d3ed67f.png" group-title="ช่องบันเทิง",CINEMAX 
 http://49.0.64.96:8007/CINEMAX
