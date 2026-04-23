@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTM3U
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/03/Hoppers-2026.webp",Hoppers (2026) เด้งโดด เปลี่ยนโหมดเป็นบีเวอร์
 https://media.vdohls.com/PPATr_Gf-czXC/playlist.m3u8
 
@@ -15,10 +17,10 @@ https://media.vdohls.com/HASC-DM_oSu8h/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2026/04/2-4-scaled.jpg",Crime 101 (2026) เส้นทางปล้นโคตรระห่ำ พากย์ไทย
 https://m3u8haha.com/movie/M15750.mp4/playlist.m3u8
 
-#EXTINF:-1 group-title="https://www.24hd.net/wp-content/uploads/2026/04/A-Gorilla-Story-Told-by-David-Attenborough-2026.webpg",A Gorilla Story Told by David Attenborough (2026) เล่าเรื่องกอริลลา โดยเดวิด แอทเทนเบอเรอห์
+#EXTINF:-1 tvg-id="" tvg-name="Attenborough (2026)" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/04/A-Gorilla-Story-Told-by-David-Attenborough-2026.webp" group-title="Movie", Attenborough (2026) เล่าเรื่องกอริลลา
 https://media.vdohls.com/0Ix-XO_Ksmx3m/playlist.m3u8
 
-#EXTINF:-1 group-title="https://www.24hd.net/wp-content/uploads/2026/03/BTS-The-Return-2026.webp",BTS The Return (2026) BTS กลับมาแล้ว
+#EXTINF:-1 tvg-id="" tvg-name="BTS The Return (2026)" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/03/BTS-The-Return-2026.webp" group-title="Movie",BTS The Return (2026) BTS กลับมาแล้ว
 https://media.vdohls.com/X_pcy-XWzdWJS/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2026/03/1-4-scaled.jpg",Made in Korea (2026) พากย์ไทย
@@ -30,16 +32,20 @@ https://m3u8haha.com/movie/M15753.mp4/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2026/04/3-2.jpg",Humint (2026) เกมจารชนคนในเงา
 https://m3u8haha.com/movie/M15746.mp4/playlist.m3u8
 
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/04/Legend-of-Ling-Jing-2026-e1775704231275.webp",Legend of Ling Jing (2026) ตำนานหลิงจิง
 https://media.vdohls.com/3oo-K_Vbo05v6/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/04/Thrash-2026.webp",Thrash (2026) ฉลามคลั่ง ทะเลเดือด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://media.vdohls.com/H_NIDT-g8pJMi/playlist.m3u8
 
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/04/Diva-La-Vie-2025.webp",DIVA LA VIE (2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://media.vdohls.com/DLy-PFuetP_XB/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://statics-02.duckduckcdn.com/06cbf0c4-a6c9-5ab7-93a6-110e828e9453/poster.jpg" group-title="Movie",เส้นตาย สายลวง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -48,8 +54,10 @@ https://statics-02.duckduckcdn.com/06cbf0c4-a6c9-5ab7-93a6-110e828e9453/audio-de
 #EXTINF:-1 tvg-name="อนงค์ 2..สามสี่ชาติ" group-title="Movie" tvg-logo="https://statics-01.duckduckcdn.com/96faa690-5174-5903-8f73-c67672267596/poster.jpg",อนงค์ 2..สามสี่ชาติ
 https://m3u8haha.com/movie/M15721.mp4/playlist.m3u8
 
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.imgx04.xyz/assets/movie_poster/7/76654e6a7b4f418cfbfc04344cd0a7df.jpg", ธี่หยด 3
 https://m3u8haha.com/movie/M15513.mp4/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2024/05/Deaw-Special-Super-Soft-Power-2024.jpg", Deaw Still Alive (2026) เดี่ยว สตีล อะไลฟ์
 https://media.vdohls.com/nvdy5hj8hm/playlist.m3u8
@@ -57,7 +65,6 @@ https://media.vdohls.com/nvdy5hj8hm/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/12/1-5.jpg" ,นครสัตว์มหาสนุก 2 (Zootopia 2)
 https://m3u8haha.com/movie/M15589.mp4/playlist.m3u8
-
 #EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2025/09/1-12.jpg",Ha Gom The Darkness Of The Soul (2025) ห่าก้อม
 https://m3u8haha.com/movie/M15473.mp4/playlist.m3u8
 
