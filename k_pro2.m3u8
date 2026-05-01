@@ -1,6 +1,7 @@
 #EXTM3U
 
 ###<==== ช่องทีวีต่างประเทศ ====>###
+
 ==== บันเทิง ====
 
 
@@ -1094,19 +1095,9 @@ http://143.14.9.202/monomax_sports10/index.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 
+
 ----------------------------------------------------
-
-
-#EXTINF:-1 tvg-id="BGSports.th" tvg-name="BG Sports" tvg-logo="https://media.komchadluek.net/uploads/images/contents/w1024/2024/08/7zENdppyWierzDJNnWd7.webp?x-image-process=style/lg-webp" group-title="ช่องกีฬาถ่ายทอดสด",BG Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://ealivefotex.com/maxsport5/index.m3u8
-
-#EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://dookeela4.live/uploads/1664529575.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.88-hd.com/
-https://www.livedoomovies.com:4431/SPOTV02_720p/playlist.m3u8
-
-====================================================
+### TRUE Sport ###
 
 
 #EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 1" tvg-logo="https://dookeela4.live/uploads/1664802455.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 1
@@ -1162,7 +1153,21 @@ http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
 https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
 
 
+-----------------------------------------------------
 
+
+#EXTINF:-1 tvg-id="BGSports.th" tvg-name="BG Sports" tvg-logo="https://media.komchadluek.net/uploads/images/contents/w1024/2024/08/7zENdppyWierzDJNnWd7.webp?x-image-process=style/lg-webp" group-title="ช่องกีฬาถ่ายทอดสด",BG Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://ealivefotex.com/maxsport5/index.m3u8
+
+#EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://dookeela4.live/uploads/1664529575.png" group-title="ช่องกีฬาถ่ายทอดสด",SPOTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.88-hd.com/
+https://www.livedoomovies.com:4431/SPOTV02_720p/playlist.m3u8
+
+
+
+====================================================
 ===== ช่องทีวีบันเทิง ====
 
 
@@ -1341,9 +1346,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
 ### --- หมวด: ช่องสารคดี --- ###
 
-#EXTINF:-1 tvg logo="https://dookeela4.live/uploads/1717696078.png" group-title="ช่องสารคดี",Asian Food Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://love.pifipa2974.workers.dev/lx-origin/sd-asianfood_720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Discovery1.th" tvg-name="Discovery 1" tvg-logo="https://dookeela4.live/uploads/1706112738.png" group-title="ช่องสารคดี",Discovery 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -1357,6 +1359,10 @@ http://mooseven.ddns.net:8080/blive/blivetv/256214
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
 https://love.homema6859.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://dookeela4.live/uploads/1717696078.png" group-title="ช่องสารคดี",Asian Food Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.pifipa2974.workers.dev/lx-origin/sd-asianfood_720/playlist.m3u8
 
 #EXTINF:-1 group-title="ช่องสารคดี",Food Network EN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
@@ -1383,6 +1389,6 @@ http://mooseven.ddns.net:8080/blive/blivetv/256209
 
 #EXTINF:-1 tvg-id="Thainess.th" tvg-name="Thainess" tvg-logo="" group-title="ช่องสารคดี",Thainess
 #EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
-http://mooseven.ddns.net:8080/blive/blivetv/256210
+http://mooseven.ddns.net:8080/256210
 
 
