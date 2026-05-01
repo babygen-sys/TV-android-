@@ -1,14 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/03/war-machine.jpg.webp"
-War Machine (2026) สงครามจักรกลถล่มโลก
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2025/10/Our-House-2025.webp",Our House (2025) ข้างบ้าน
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://media.vdohls.com/Y-B_I8yAXPUCv/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://moviesdoofree.com/wp-content/uploads/2026/04/1-11.jpg",Apex (2026) ห่วงโซ่สังหาร
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://m3u8haha.com/movie/M15773.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/03/war-machine.jpg.webp",War Machine (2026) สงครามจักรกลถล่มโลก
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://media.vdohls.com/axCYYDs_n-62N/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2025/10/The-Last-Shot-2025.webp",The Last Shot (2025) มือปืน
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://media.vdohls.com/A_BUy7n-TkOPS/playlist.m3u8
-
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/03/Hoppers-2026.webp",Hoppers (2026) เด้งโดด เปลี่ยนโหมดเป็นบีเวอร์
 https://media.vdohls.com/PPATr_Gf-czXC/playlist.m3u8
 
