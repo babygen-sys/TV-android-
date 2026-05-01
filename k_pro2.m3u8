@@ -4,7 +4,6 @@
 
 ==== บันเทิง ====
 
-
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/hvsjcMx3/IMG-3443.png" group-title="ช่องทีวีต่างประเทศ",Mr.Bean Classic
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
@@ -1165,6 +1164,102 @@ https://ealivefotex.com/maxsport5/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 https://www.livedoomovies.com:4431/SPOTV02_720p/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/my-astro-sportsplus_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/my-bein1_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/my-bein2_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/my-bein3_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn01_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn02_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn03_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn04_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn05_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn06_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn07_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn08_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn09_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn10_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn11_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn12_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn13_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn14_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn15_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn16_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn17_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn18_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn19_720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/logo_live_4.webp" group-title="ช่องกีฬาถ่ายทอดสด",Live Sport 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://love.homema6859.workers.dev/lx-origin/th-dazn20_720/playlist.m3u8
 
 
 ====================================================
