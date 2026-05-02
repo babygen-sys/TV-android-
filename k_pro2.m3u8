@@ -2,9 +2,7 @@
 
 ###<==== ช่องทีวีต่างประเทศ ====>###
 
-
 ==== บันเทิง ====
-
 
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/hvsjcMx3/IMG-3443.png" group-title="ช่องทีวีต่างประเทศ",Mr.Bean Classic
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
@@ -1148,53 +1146,55 @@ https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1
 ### TRUE Sport ###
 
 
-#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 1" tvg-logo="https://dookeela4.live/uploads/1664802455.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 1
+#EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts1.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.7c0h6daejz.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 1" tvg-logo="https://dookeela4.live/uploads/1664802455.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 1 (สำรอง)
+#EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts1.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 1 (สำรอง)
 #EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts1/index.m3u8
 
-#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 2" tvg-logo="https://dookeela4.live/uploads/1664499966.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 2
+#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts2.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.7c0h6daejz.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 2" tvg-logo="https://dookeela4.live/uploads/1664499966.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 2 (สำรอง)
+#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts2.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 2 (สำรอง)
 #EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8
 
-#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 3" tvg-logo="https://dookeela4.live/uploads/1664802480.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 3
+#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts3.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.7c0h6daejz.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 3" tvg-logo="https://dookeela4.live/uploads/1664802480.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 3 (สำรอง)
+#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts3.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 3 (สำรอง)
 #EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts3/index.m3u8
 
-#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 4" tvg-logo="https://dookeela4.live/uploads/1717396131.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 4
+#EXTINF:-1 tvg-id="TrueSport4.th" tvg-name="TRUE Sport 4" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts4.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.cikoyic696.workers.dev/lx-origin/hd-tsport4_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 4" tvg-logo="https://dookeela4.live/uploads/1717396131.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 4 (สำรอง)
+#EXTINF:-1 tvg-id="TrueSport4.th" tvg-name="TRUE Sport 4" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts4.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 4 (สำรอง)
 #EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts4/index.m3u8
 
-#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 5" tvg-logo="https://dookeela4.live/uploads/1664847910.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 5
+#EXTINF:-1 tvg-id="TrueSport5.th" tvg-name="TRUE Sport 5" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts5.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport5_720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 5" tvg-logo="https://dookeela4.live/uploads/1664847910.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 5 (สำรอง)
+#EXTINF:-1 tvg-id="TrueSport5.th" tvg-name="TRUE Sport 5" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts5.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 5 (สำรอง)
 #EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts5/index.m3u8
 
-#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 7" tvg-logo="https://dookeela4.live/uploads/1664847921.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 7
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts7.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport7_720/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TrueSport.th" tvg-name="TRUE Sport 7" tvg-logo="https://dookeela4.live/uploads/1664847921.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 7 (สำรอง)
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts7.png" group-title="ช่องกีฬาถ่ายทอดสด",TRUE Sport 7 (สำรอง)
 #EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
+
+---------------------------------------------------------
 
 #EXTINF:-1 tvg-id="TPF.th" tvg-name="True Premier Football 3" tvg-logo="https://dookeela4.live/uploads/1664499681.png" group-title="ช่องกีฬาถ่ายทอดสด", True Premier Football 3 (Server 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
