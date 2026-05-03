@@ -4,6 +4,7 @@
 
 ==== บันเทิง ====
 
+
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/hvsjcMx3/IMG-3443.png" group-title="ช่องทีวีต่างประเทศ",Mr.Bean Classic
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
@@ -998,31 +999,6 @@ https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1
 ### --- หมวด: MONOMAX --- ###
 
 
-
-
-
-
-
-
-#EXTINF:24,sport3
-
-#EXTINF:24,sport4
-#EXTVLCOPT:network-caching=1000
-http://54.37.19.157/ais_sport4/tracks-v1a1/mono.m3u8
-#EXTINF:24,sport5
-
-#EXTINF:0,mono.m3u8
-#EXTVLCOPT:network-caching=1000
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Monomax1.th" tvg-name="Monomax 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, Gecko) Chrome/120.0.0.0 Safari/537.36
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/130731
@@ -1030,10 +1006,6 @@ https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1
 
 #EXTINF:-1 tvg-id="Monomax1.th" tvg-name="Monomax 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 1 สำรอง
 http://macete.xyz:8080/play/live.php?mac=00:1A:79:AB:ED:5A&stream=813033&extension=ts
-
-#EXTINF:-1 tvg-id="Monomax1.th" tvg-name="MONOMAX 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ MONOMAX 1 สำรอง
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://143.14.9.202/monomax_sports1/index.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="Monomax1.th" tvg-name="Monomax 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 1 สำรอง
@@ -1042,7 +1014,6 @@ https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1
 https://love.homema6859.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
-
 #EXTINF:-1 tvg-id="Monomax2.th" tvg-name="Monomax 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 02 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, Gecko) Chrome/120.0.0.0 Safari/537.36
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/130724
@@ -1050,10 +1021,6 @@ https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1
 
 #EXTINF:-1 tvg-id="Monomax2.th" tvg-name="Monomax 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 02 สำรอง
 http://macete.xyz:8080/play/live.php?mac=00:1A:79:AB:ED:5A&stream=813034&extension=ts
-
-#EXTINF:-1 tvg-id="Monomax2.th" tvg-name="MONOMAX 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ MONOMAX 02 สำรอง
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://143.14.9.202/monomax_sports2/index.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="Monomax4.th" tvg-name="MONOMAX 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 02 สำรอง
@@ -1061,51 +1028,31 @@ https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1
 https://ealivefotex.com/maxsport2/index.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
-
 #EXTINF:-1 tvg-id="Monomax3.th" tvg-name="MONOMAX 3" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ MONOMAX 03 
 #EXTVLCOPT:network-caching=1000
 http://54.37.19.157/ais_sport3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Monomax3.th" tvg-name="MONOMAX 3" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ MONOMAX 03 สำรอง
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://143.14.9.202/monomax_sports3/index.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="Monomax3.th" tvg-name="MONOMAX 3" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 03 สำรอง 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ealivefotex.com/monomax3ch/index.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="Monomax4.th" tvg-name="MONOMAX 4" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ MONOMAX 04
 #EXTVLCOPT:network-caching=1000
 http://54.37.19.157/ais_sport4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Monomax4.th" tvg-name="MONOMAX 4" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ MONOMAX 04 สำรอง
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://143.14.9.202/monomax_sports4/index.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
-#EXTINF:-1 tvg-id="Monomax3.th" tvg-name="MONOMAX 4" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 04 สำรอง
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Monomax4.th" tvg-name="MONOMAX 4" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 04 สำรอง
 https://ealivefotex.com/maxsport4/index.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="Monomax5.th" tvg-name="MONOMAX 5" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ MONOMAX 05
 #EXTVLCOPT:network-caching=1000
 http://54.37.19.157/ais_sport5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Monomax5.th" tvg-name="MONOMAX 5" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ MONOMAX 05 สำรอง
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://143.14.9.202/monomax_sports5/index.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="Monomax6.th" tvg-name="MONOMAX 6" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",🏐⚽ MONOMAX 06
 http://54.37.19.157/ais_sport6/tracks-v1a1/mono.m3u8
-#EXTINF:0,mono.m3u8
-
-#EXTINF:-1 tvg-id="Monomax6.th" tvg-name="MONOMAX 6" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",🏐⚽ MONOMAX 06 สำรอง
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
-http://143.14.9.202/monomax_sports6/index.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="Monomax6.th" tvg-name="MONOMAX 6" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",🏐⚽ MONOMAX 06 สำรอง
