@@ -2,6 +2,7 @@
 
 ###<==== ช่องทีวีต่างประเทศ ====>###
 
+
 ==== บันเทิง ====
 
 
@@ -1000,42 +1001,65 @@ https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1
 
 
 #EXTINF:-1 tvg-id="Monomax1.th" tvg-name="Monomax 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, Gecko) Chrome/120.0.0.0 Safari/537.36
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/130731
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽MONOMAX1 (สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bajikag863.workers.dev/lx-origin/th-monomax01bkp_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽MONOMAX1 (สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Monomax1.th" tvg-name="Monomax 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 1 สำรอง
 http://macete.xyz:8080/play/live.php?mac=00:1A:79:AB:ED:5A&stream=813033&extension=ts
-https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="Monomax1.th" tvg-name="Monomax 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 1 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
 https://love.homema6859.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
-https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="Monomax2.th" tvg-name="Monomax 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 02 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, Gecko) Chrome/120.0.0.0 Safari/537.36
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/130724
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
-#EXTINF:-1 tvg-id="Monomax2.th" tvg-name="Monomax 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 02 สำรอง
-http://macete.xyz:8080/play/live.php?mac=00:1A:79:AB:ED:5A&stream=813034&extension=ts
-https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
-
 #EXTINF:-1 tvg-id="Monomax4.th" tvg-name="MONOMAX 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 02 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ealivefotex.com/maxsport2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽MONOMAX2 (สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽MONOMAX2 (สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bajikag863.workers.dev/lx-origin/th-monomax02bkp_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Monomax2.th" tvg-name="Monomax 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 02 สำรอง
+http://macete.xyz:8080/play/live.php?mac=00:1A:79:AB:ED:5A&stream=813034&extension=ts
+
+#EXTINF:-1 tvg-id="Monomax3.th" tvg-name="MONOMAX 3" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 03 
+https://ealivefotex.com/monomax3ch/index.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
-#EXTINF:-1 tvg-id="Monomax3.th" tvg-name="MONOMAX 3" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ MONOMAX 03 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬาถ่ายทอดสด",MONOMAX3 (สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bajikag863.workers.dev/lx-origin/th-monomax03bkp_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Monomax3.th" tvg-name="MONOMAX 3" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ MONOMAX 03 สำรอง
 #EXTVLCOPT:network-caching=1000
 http://54.37.19.157/ais_sport3/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
-#EXTINF:-1 tvg-id="Monomax3.th" tvg-name="MONOMAX 3" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ Monomax 03 สำรอง 
-https://ealivefotex.com/monomax3ch/index.m3u8
-https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬาถ่ายทอดสด",MONOMAX3 (สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://www.livedoomovies.com:4431/Monomax_PL_3HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Monomax4.th" tvg-name="MONOMAX 4" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ MONOMAX 04
 #EXTVLCOPT:network-caching=1000
@@ -1046,10 +1070,26 @@ https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1
 https://ealivefotex.com/maxsport4/index.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬาถ่ายทอดสด",MONOMAX4 (สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bajikag863.workers.dev/lx-origin/th-monomax04bkp_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬาถ่ายทอดสด",MONOMAX4 (สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://www.livedoomovies.com:4431/Monomax_PL_4HD/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Monomax5.th" tvg-name="MONOMAX 5" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽ MONOMAX 05
 #EXTVLCOPT:network-caching=1000
 http://54.37.19.157/ais_sport5/tracks-v1a1/mono.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬาถ่ายทอดสด",MONOMAX5 (สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bajikag863.workers.dev/lx-origin/th-monomax05bkp_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬาถ่ายทอดสด",MONOMAX5 (สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://www.livedoomovies.com:4431/Monomax_PL_5HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Monomax6.th" tvg-name="MONOMAX 6" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",🏐⚽ MONOMAX 06
 http://54.37.19.157/ais_sport6/tracks-v1a1/mono.m3u8
@@ -1061,10 +1101,19 @@ https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1
 https://love.homema6859.workers.dev/lx-origin/th-monomax06_720/chunks.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬาถ่ายทอดสด",MONOMAX6 (สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bajikag863.workers.dev/lx-origin/th-monomax06bkp_720/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Monomax7.th" tvg-name="MONOMAX 7" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",🏐⚽ MONOMAX 07
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 http://143.14.9.202/monomax_sports7/index.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬาถ่ายทอดสด",MONOMAX7 (สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bajikag863.workers.dev/lx-origin/th-monomax07bkp_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Monomax8.th" tvg-name="Monomax 8" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",🏐⚽ MONOMAX 08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -1076,6 +1125,10 @@ https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
 http://143.14.9.202/monomax_sports8/index.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬาถ่ายทอดสด",MONOMAX8 (สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bajikag863.workers.dev/lx-origin/th-monomax08bkp_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Monomax9.th" tvg-name="MONOMAX 9" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",🏐⚽ MONOMAX 09
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10)
