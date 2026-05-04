@@ -94,6 +94,29 @@ https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/a
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
 
 
+
+
+
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ", WOWOW Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ", WOWOW Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ", Channel Ginga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+
+
 ==== กาตูน ====
 
 ### --- หมวด: KIDS --- ###
@@ -102,6 +125,14 @@ https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
 https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ", Animax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ", Disney Channel Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 
 #EXTINF:-1 tvg-id="channel1" group-title="ช่องทีวีต่างประเทศ",Boom
 #EXTVLCOPT:http-user-agent=IPtvDRM Player
@@ -497,29 +528,25 @@ https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/1080p
 #EXTINF:-1 tvg-id="Sports.Channel" tvg-logo="https://i.postimg.cc/mD3vVfKz/Sports-Icon.png" group-title="ช่องทีวีต่างประเทศ",NFL network
 http://45.139.122.199:2095/play/live.php?mac=00:1A:79:46:E4:1E&stream=2131378&extension=ts
 
-#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://i.postimg.cc/44YfS7hH/ESPN1.png" group-title="ช่องทีวีต่างประเทศ",ESPN 1
-#EXTVLCOPT:network-caching=1000
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22002.ts
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ", WOWOW Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-logo="https://i.postimg.cc/j5G0B8q2/ESPN2.png" group-title="ช่องทีวีต่างประเทศ",ESPN 2
-#EXTVLCOPT:network-caching=1000
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22005.ts
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ", J Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 
-#EXTINF:-1 tvg-id="ESPN3.br" tvg-logo="https://i.postimg.cc/B6fB8q3n/ESPN3.png" group-title="ช่องทีวีต่างประเทศ",ESPN 3
-#EXTVLCOPT:network-caching=1000
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22008.ts
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ", J Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 
-#EXTINF:-1 tvg-id="ESPN4.br" tvg-logo="https://i.postimg.cc/vH8b8q4n/ESPN4.png" group-title="ช่องทีวีต่างประเทศ",ESPN 4
-#EXTVLCOPT:network-caching=1000
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ", J Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 
-#EXTINF:-1 tvg-id="ESPN5.br" tvg-logo="https://i.postimg.cc/7Z8b8q5n/ESPN5.png" group-title="ช่องทีวีต่างประเทศ",ESPN 5
-#EXTVLCOPT:network-caching=1000
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
-
-#EXTINF:-1 tvg-id="ESPN6.br" tvg-logo="https://i.postimg.cc/m28b8q6n/ESPN6.png" group-title="ช่องทีวีต่างประเทศ",ESPN 6
-#EXTVLCOPT:network-caching=1000
-http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22016.ts
+#EXTINF:-1 group-title="ช่องทีวีต่างประเทศ", J Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1200px-TVRI_Sport_2022.svg.png" group-title="ช่องทีวีต่างประเทศ",TVRI Sport
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/TVRISport.m3u8
@@ -1579,5 +1606,6 @@ http://mooseven.ddns.net:8080/blive/blivetv/256209
 #EXTINF:-1 tvg-id="Thainess.th" tvg-name="Thainess" tvg-logo="" group-title="ช่องสารคดี",Thainess
 #EXTVLCOPT:http-user-agent=Moo7 Smarters | TW9vNyBTbWFydGVycw==
 http://mooseven.ddns.net:8080/256210
+
 
 
