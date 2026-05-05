@@ -120,9 +120,11 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 
-#EXTINF:-1 tvg-id="channel1" group-title="ช่องทีวีต่างประเทศ",Boom
-#EXTVLCOPT:http-user-agent=IPtvDRM Player
-http://mooseven.ddns.net:8080/blive/blivetv/255834
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/BoomThailand2025.png" group-title="ช่องทีวีต่างประเทศ",Boom 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dij0k9i5q0gvn.cloudfront.net/boomerang/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png" group-title="ช่องทีวีต่างประเทศ",Cartoon
 http://49.0.64.96:8007/Cartoonumi
@@ -716,7 +718,10 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/112196
 
 
 #EXTINF:-1 tvg-id="Liverpool.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="ช่อง SPORTS - 2",LFCTV
-
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dij0k9i5q0gvn.cloudfront.net/lfctv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="ช่อง SPORTS - 2",MUTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
@@ -911,6 +916,21 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 48 (TVPlus)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/TL103.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 49 (TVPlus)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL104/HLS/TL104.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/playsport.png" group-title="ช่องกีฬาถ่ายทอดสด",PLAY sports 50 (TVPlus)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/TL105.m3u8
+
 ------monomax------
 
 ### monomax ###
@@ -928,7 +948,7 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/130731
 
 #EXTINF:-1 tvg-name="Monomax 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",Monomax 1 สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://love.bajikag863.workers.dev/lx-origin/th-monomax01bkp_720/playlist.m3u8
+https://love.bajikag863.workers.dev/lx-origin/th-monomax02bkp_720/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/mono_logo.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽MONOMAX 2
@@ -972,7 +992,7 @@ https://love.homema6859.workers.dev/lx-origin/th-monomax04_720/chunks.m3u8
 https://raw.githubusercontent.com/babygen-sys/yut/refs/heads/main/Presentation_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬาถ่ายทอดสด",Monomax 05 สำรอง
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://love.homema6859.workers.dev/lx-origin/th-monomax05_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬาถ่ายทอดสด",⚽MONOMAX 6
@@ -1222,6 +1242,11 @@ https://love.pifipa2974.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8
 https://love.homema6859.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8
 https://love.pifipa2974.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8
 
+#EXTINF:-1 tvg-id="truefilm2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a0/True_Film_2_logo.png/revision/latest?cb=20240416043007&path-prefix=vi" group-title="ช่องบันเทิง",True Film 2 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dij0k9i5q0gvn.cloudfront.net/truefilm2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TrueMovieHits.th" tvg-name="True Movie Hits" tvg-logo="https://i.postimg.cc/J4X8T3Sm/IMG-4177.png" group-title="ช่องบันเทิง",True Movie Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -1263,7 +1288,6 @@ https://github.com/cattv976/movies/raw/refs/heads/main/hbosignature1.m3u8
 https://love.homema6859.workers.dev/vx-origin/hd-axn_720/chunks.m3u8
 https://love.pifipa2974.workers.dev/vx-origin/hd-axn_720/chunks.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ช่องบันเทิง",ROCKAction
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattv976/movies/raw/refs/heads/main/rockaction1.m3u8
@@ -1281,7 +1305,7 @@ http://49.0.64.96:8007/H-Channel
 #EXTINF:-1 tvg-id="FuckIDMovie.th" tvg-name="FuckIDMovie" tvg-logo="https://i.ibb.co/nqWvLRYF/logo-fuckmovie.png" group-title="ช่องบันเทิง",FuckIDMovie
 http://49.0.64.96:8007/PING
 
-#EXTINF:-1 tvg-id="TVSeries.th" tvg-name="TV Series" tvg-logo="https://i.postimg.cc/8C77gQvL/IMG-2955.png" group-title="ช่องบันเทิง", TV Series 
+#EXTINF:-1 tvg-id="TVSeries.th" tvg-name="TV Series" tvg-logo="https://i.postimg.cc/8C77gQvL/IMG-2955.png" group-title="ช่องบันเทิง",TV Series 
 http://49.0.64.96:8007/SERIES
 
 #EXTINF:-1 tvg-id="IQIYI.cn" tvg-name="IQIYI" tvg-logo="https://i.postimg.cc/y89DdqFc/IMG-2926.png" group-title="ช่องบันเทิง",IQIYI
@@ -1365,9 +1389,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
 
-
-==== หมวด: ช่องสารคดี ====
-
 ### --- หมวด: ช่องสารคดี --- ###
 
 
@@ -1380,7 +1401,7 @@ https://love.pifipa2974.workers.dev/lx-origin/sd-discovery_720/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://embed-xs.bananamuffin.org/
 https://love.homema6859.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี",trueEXPLOREWILD
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="ช่องสารคดี",True Explore Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattv976/documentary/raw/refs/heads/main/trueexplorewild1.m3u8
@@ -1396,11 +1417,23 @@ http://flussictv.ddns.net:9091/FOOD_NETWORK_EN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="ช่องสารคดี",WildEarth
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png" group-title="ช่องสารคดี",SCIence
-http://49.0.64.96:8007/WSCI
+#EXTINF:-1 group-title="สารคดี",Animal Show
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dij0k9i5q0gvn.cloudfront.net/animalshow/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png" group-title="ช่องสารคดี",Animal
 http://49.0.64.96:8007/Animal
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png" group-title="ช่องสารคดี",SCIence
+http://49.0.64.96:8007/WSCI
+
+#EXTINF:-1 group-title="สารคดี",DMAX (CloudFront)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dij0k9i5q0gvn.cloudfront.net/dmax/playlist.m3u8
 
 #EXTINF:-1 group-title="ช่องสารคดี",CGTN 
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
