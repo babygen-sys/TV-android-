@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2026/04/Swapped-2026.webp",Swapped (2026) สลับร่างผจญภัย
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://media.vdohls.com/iz2Gh1J6-o_Fy/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2025/09/Kongaloak-The-Ghasty-Village-2025-e1756724748431.webp",(2025) หมู่บ้านโคกะโหลก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://media.vdohls.com/LYJv_0gTw-jYN/playlist.m3u8
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.24hd.net/wp-content/uploads/2025/10/Our-House-2025.webp",Our House (2025) ข้างบ้าน
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://media.vdohls.com/Y-B_I8yAXPUCv/playlist.m3u8
