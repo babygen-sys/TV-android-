@@ -123,8 +123,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 http://103.245.166.221/play.php?key=1234&ch=boomerang
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/Boomerang_2025.png" group-title="ช่องทีวีต่างประเทศ",Boom Test
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-http://103.245.166.221/play.php?key=1234&ch=boomerang&format=.m3u8
+http://103.245.166.221/play.php?key=1234&ch=boomerang&test=yes
 
 
 #EXTINF:-1 tvg-id="Fuck.th" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png" group-title="ช่องทีวีต่างประเทศ",Cartoon
