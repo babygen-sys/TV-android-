@@ -2,7 +2,6 @@
 ###<==== ช่องทีวีต่างประเทศ ====>###
 #==== บันเทิง ====
 
-
 #EXTINF:-1 tvg-id="TN.us" tvg-logo="https://i.postimg.cc/hvsjcMx3/IMG-3443.png" group-title="ช่องทีวีต่างประเทศ",Mr.Bean Classic
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
@@ -171,10 +170,8 @@ https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Moonbug.us" tvg-logo="https://i.postimg.cc/qvTvttzq/IMG-2049.png" group-title="ช่องทีวีต่างประเทศ",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-
 ### --- หมวด: DOCUMENTARY --- ###
 #==== สารคดี ====
-
 
 #EXTINF:-1 tvg-id="Xplore.th" tvg-name="XPLORE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw2TdCKimXLlQ_532l-qa4xf6cJxUeS-Urg&usqp=CAU" group-title="ช่องทีวีต่างประเทศ",XPLORE
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
@@ -222,11 +219,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #EXTINF:-1 tvg-id="WildEarth" tvg-logo="https://i.postimg.cc/6pX5X9m7/Wild-Earth.png" group-title="ช่องทีวีต่างประเทศ",WildEarth
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 
-
-
 ### --- NEWS --- ###
 #==== ข่าว ====
-
 
 #EXTINF:-1 tvg-id="TNN.th" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png" group-title="ข่าว",TNN 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -303,12 +297,8 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 
-
-
 #==== Music & Radio ====
 #---เพลง-----
-
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241125T235002SQUARE.png" group-title="Music&Radio",K-POP by CJ ENM
 https://jmp2.uk/stvp-US39000038W
 
@@ -577,147 +567,3 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0hBl6C.jpg" group-title="ช่องทีวีต่างประเทศ",FISHING TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
-
-
-###===== SPORTS 1 ======###
-
-
-#EXTINF:-1 tvg-id="FreeLiveSports.uk" tvg-logo="https://i.postimg.cc/D0Y6Ym8m/Free-Live-Sports.png" group-title="ช่อง SPORTS - 1",TNA
-https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/1080p-cc/index.m3u8
-
-#EXTINF:-1 tvg-id="WWE.us" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/main/wwe.png" group-title="ช่อง SPORTS - 1",WWE Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="ช่อง SPORTS - 1",Fighting TV Samurai (JPN)
-#https://nl.utako.moe/fighting_tv/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/yYhn4sBc/IMG-4381.png" group-title="ช่อง SPORTS - 1",Top Fight
-http://49.0.64.96:8007/TOPFIGHT
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 1",Swerve Combat
-https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
-
-#EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://i.postimg.cc/X7yvj7SP/IMG-2153.webp" group-title="ช่อง SPORTS - 1",UFC
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 1",HIFIGHT
-http://49.0.64.96:8007/HIFIGHT
-
-#EXTINF:-1 tvg-id="BareKnuckle.us" tvg-logo="https://i.postimg.cc/8kF13fSc/IMG-2577.png" group-title="ช่อง SPORTS - 1",Bare Knuckle tv
-https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/486.m3u8
-
-#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png" group-title="ช่อง SPORTS - 1",🏁 F1
-#EXTVLCOPT:http-user-agent=AipiTV /35.5 (Android 9)
-http://znty.dyndns.org:5010/hls/eleven5.m3u8
-
-#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA" group-title="ช่อง SPORTS - 1",Golf Channel USA
-https://tvpass.org/live/GolfChannel/sd
-
-#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA" group-title="ช่อง SPORTS - 1",🏀 NBA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://love.1yoeo8rt7b.workers.dev/vx-origin/us-nba_720/chunks.m3u8
-
-#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" group-title="ช่อง SPORTS - 1",NFL Network
-https://tvpass.org/live/NFLNetwork/sd
-
-#EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA" group-title="ช่อง SPORTS - 1",NHL Network USA
-https://tvpass.org/live/NHLNetwork/sd
-
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/jS28DWnB/IMG-3332.png" group-title="ช่อง SPORTS - 1",Eurosport 1
-http://145.239.5.177/529/index.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://i.postimg.cc/zBrSF33z/IMG-3333.png"group-title="ช่อง SPORTS - 1",Eurosport 2 
-http://145.239.5.177/530/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/ZR75p0QB/IMG-2907.png" group-title="ช่อง SPORTS - 1",ESPN 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://41.205.93.154/ESPN/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://i.postimg.cc/fRs20D30/IMG-3713.png" group-title="ช่อง SPORTS - 1",ESPN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/4022
-
-#EXTINF:-1 tvg-logo="http://hellosky.live:8080/images/227dacbe84acf0df2b21279e1f75d2c2.png" group-title="ช่อง SPORTS - 1",ESPN 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 1",FOX sport 506
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://love.dewos65393.workers.dev/lx-origin/au-fox506_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://api.bananacake.org/images/png/my-spotv1.png" group-title="ช่อง SPORTS - 1",SPOTV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://love.baxen43035.workers.dev/lx-origin/my-spotv1_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://api.bananacake.org/images/png/my-spotv2.png" group-title="ช่อง SPORTS - 1",SPOTV 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://love.baxen43035.workers.dev/lx-origin/my-spotv2_720/chunks.m3u8
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 1",TNT SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://love.hamafola.workers.dev/lx-origin/uk-btsport1hd_720/chunks.m3u8
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 1",TNT SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://love.hamafola.workers.dev/lx-origin/uk-btsport2hd_720/chunks.m3u8
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 1",TNT SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://love.hamafola.workers.dev/lx-origin/uk-btsport3hd_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeh83SinE7EU9kd4zaZ5e3GkKC2_VDlQPTA&s" group-title="ช่อง SPORTS - 1",Prima Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
-https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049" group-title="ช่อง SPORTS - 1",Prima Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="ช่อง SPORTS - 1",Prima Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 1",HUB Premier 1
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112231
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 1",HUB Premier 2
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112229
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 1",HUB Premier 3
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112228
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 1",HUB Premier 4
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112227
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 1",HUB Premier 5
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112226
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 1",Now Sports 1 
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 1",Now Sports 2
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112194
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 1",Now Sports 3
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112199
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 1",Now Sports 4
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112198
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 1",Now Sports 5
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112197
-
-#EXTINF:-1 group-title="ช่อง SPORTS - 1",Now Sports 6
-#EXTVLCOPT:http-user-agent=NontonTV/35 (Android 9)
-http://fastopen.live:8080/MLS003/qZj4zbPNDn/112196
